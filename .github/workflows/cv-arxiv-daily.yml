@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: liutaocode
-  GITHUB_USER_EMAIL: liutaw@sjtu.edu.cn
+  GITHUB_USER_NAME: licurry30
+  GITHUB_USER_EMAIL: 2889425285@qq.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new ct-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update TTS Arxiv Papers"
-          files: README.md docs/tts-arxiv-daily.json docs/tts-arxiv-daily-web.json docs/index.md docs/tts-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update CT Arxiv Papers"
+          files: README.md docs/ct-arxiv-daily.json docs/ct-arxiv-daily-web.json docs/index.md docs/ct-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
