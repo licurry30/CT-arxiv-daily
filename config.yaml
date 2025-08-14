@@ -23,6 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LDCT":
-        filters: ["CT", "Computed Tomography", "Low Dose", "LDCT", "Denoise", "Denoising", "x-ray CT"]
+        filters: ["Low-Dose CT", "Computed Tomography", "Low Dose", "LDCT", "CT Denoising", "X-ray CT"]
+
+    "SVCT":
+        filters: ["Sparse-view CT","Compressed Sensing","Ultra Sparse-view CT","CT Reconstruction"]
+
+    "GAN in CT":
+        filters: [ "GAN","Generative Adversarial Networks","GAN for CT Reconstruction","GAN-based Denoising for CT"]
+
+    "Diffusion in CT":
+        filters: [ "Diffusion Models for CT Reconstruction","DDPM in CT","Diffusion Models for Sparse-view CT Reconstruction"]
 
 
