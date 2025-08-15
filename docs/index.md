@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.08.14
+## Updated on 2025.08.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Beam Hardening Correction in Clinical X-ray Dark-Field Chest Radiography using Deep Learning-Based Bone Segmentation**|Lennard Kaster et.al.|[2508.10625](https://arxiv.org/abs/2508.10625)|null|
+|**2025-08-14**|**FIND-Net -- Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction**|Farid Tasharofi et.al.|[2508.10617](https://arxiv.org/abs/2508.10617)|null|
+|**2025-08-14**|**AR Surgical Navigation With Surface Tracing: Comparing In-SitVisualization with Tool-Tracking Guidance for Neurosurgical Applications**|Marc J. Fischer et.al.|[2508.10554](https://arxiv.org/abs/2508.10554)|null|
+|**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-08-13**|**Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks**|Nishan Rai et.al.|[2508.10196](https://arxiv.org/abs/2508.10196)|null|
 |**2025-08-13**|**AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models**|Tomás de la Sotta et.al.|[2508.09943](https://arxiv.org/abs/2508.09943)|null|
 |**2025-08-13**|**ARI3D: A Software for Interactive Quantification of Regions in X-Ray CT 3D Images**|Jan Phillipp Albrecht et.al.|[2508.09849](https://arxiv.org/abs/2508.09849)|null|
 |**2025-08-13**|**Time-Domain Reconstruction of the Speed of Sound in Ring-Array Ultrasound Computed Tomography with Randomized Super-Shots**|Luca A. Forte et.al.|[2508.09675](https://arxiv.org/abs/2508.09675)|null|
@@ -34,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-08-14**|**Output-Sparse Matrix Multiplication Using Compressed Sensing**|Huck Bennett et.al.|[2508.10250](https://arxiv.org/abs/2508.10250)|null|
 |**2025-08-13**|**AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models**|Tomás de la Sotta et.al.|[2508.09943](https://arxiv.org/abs/2508.09943)|null|
 |**2025-08-13**|**Physics-guided Deep Unfolding Network for Enhanced Kronecker Compressive sensing**|Gang Qu et.al.|[2508.09528](https://arxiv.org/abs/2508.09528)|null|
 |**2025-08-08**|**Zero-shot self-supervised learning of single breath-hold magnetic resonance cholangiopancreatography (MRCP) reconstruction**|Jinho Kim et.al.|[2508.09200](https://arxiv.org/abs/2508.09200)|null|
@@ -59,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation**|Feiran Li et.al.|[2508.10672](https://arxiv.org/abs/2508.10672)|null|
+|**2025-08-14**|**GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation**|Xinrui Li et.al.|[2508.10471](https://arxiv.org/abs/2508.10471)|null|
 |**2025-08-13**|**Deep and diverse population synthesis for multi-person households using generative models**|Hai Yang et.al.|[2508.09964](https://arxiv.org/abs/2508.09964)|null|
 |**2025-08-13**|**On the Generalization Limits of Quantum Generative Adversarial Networks with Pure State Generators**|Jasmin Frkatovic et.al.|[2508.09844](https://arxiv.org/abs/2508.09844)|null|
 |**2025-08-13**|**Feature Impact Analysis on Top Long-Jump Performances with Quantile Random Forest and Explainable AI Techniques**|Qi Gan et.al.|[2508.09810](https://arxiv.org/abs/2508.09810)|null|
