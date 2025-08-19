@@ -2,20 +2,24 @@
 layout: default
 ---
 
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-18**|**Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation**|Dominic LaBella et.al.|[2508.12962](https://arxiv.org/abs/2508.12962)|null|
+|**2025-08-17**|**Optimization-based phase retrieval for material decomposition with multi-energy computed tomography**|Giavanna Jadick et.al.|[2508.12509](https://arxiv.org/abs/2508.12509)|null|
+|**2025-08-17**|**Accuracy of propagation-based phase-contrast CT under the projection approximation**|Giavanna Jadick et.al.|[2508.12505](https://arxiv.org/abs/2508.12505)|null|
+|**2025-08-17**|**In vivo 3D ultrasound computed tomography of musculoskeletal tissues with generative neural physics**|Zhijun Zeng et.al.|[2508.12226](https://arxiv.org/abs/2508.12226)|null|
 |**2025-08-15**|**Subcortical Masks Generation in CT Images via Ensemble-Based Cross-Domain Label Transfer**|Augustine X. W. Lee et.al.|[2508.11450](https://arxiv.org/abs/2508.11450)|null|
 |**2025-08-15**|**Efficient Image-to-Image Schrödinger Bridge for CT Field of View Extension**|Zhenhao Li et.al.|[2508.11211](https://arxiv.org/abs/2508.11211)|null|
 |**2025-08-14**|**Full-Wave Modeling of Transcranial Ultrasound using Volume-Surface Integral Equations and CT-Derived Heterogeneous Skull Data**|Alberto Almuna-Morales et.al.|[2508.11100](https://arxiv.org/abs/2508.11100)|null|
 |**2025-08-13**|**Analysis of the Compaction Behavior of Textile Reinforcements in Low-Resolution In-Situ CT Scans via Machine-Learning and Descriptor-Based Methods**|Christian Düreth et.al.|[2508.10943](https://arxiv.org/abs/2508.10943)|null|
 |**2025-08-14**|**Beam Hardening Correction in Clinical X-ray Dark-Field Chest Radiography using Deep Learning-Based Bone Segmentation**|Lennard Kaster et.al.|[2508.10625](https://arxiv.org/abs/2508.10625)|null|
 |**2025-08-14**|**FIND-Net -- Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction**|Farid Tasharofi et.al.|[2508.10617](https://arxiv.org/abs/2508.10617)|null|
-|**2025-08-14**|**AR Surgical Navigation With Surface Tracing: Comparing In-SitVisualization with Tool-Tracking Guidance for Neurosurgical Applications**|Marc J. Fischer et.al.|[2508.10554](https://arxiv.org/abs/2508.10554)|null|
+|**2025-08-17**|**AR Surgical Navigation with Surface Tracing: Comparing In-Situ Visualization with Tool-Tracking Guidance for Neurosurgical Applications**|Marc J. Fischer et.al.|[2508.10554](https://arxiv.org/abs/2508.10554)|null|
 |**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
 |**2025-08-13**|**Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks**|Nishan Rai et.al.|[2508.10196](https://arxiv.org/abs/2508.10196)|null|
 |**2025-08-13**|**AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models**|Tomás de la Sotta et.al.|[2508.09943](https://arxiv.org/abs/2508.09943)|null|
@@ -71,10 +75,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](https://arxiv.org/abs/2508.12987)|null|
+|**2025-08-18**|**Effects of Defects on Thermal Transport across Solid/Solid Heterogeneous Interfaces**|Ershuai Yin et.al.|[2508.12744](https://arxiv.org/abs/2508.12744)|null|
+|**2025-08-18**|**WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art**|Abhijay Ghildyal et.al.|[2508.12668](https://arxiv.org/abs/2508.12668)|null|
+|**2025-08-17**|**Geometry-Aware Video Inpainting for Joint Headset Occlusion Removal and Face Reconstruction in Social XR**|Fatemeh Ghorbani Lohesara et.al.|[2508.12336](https://arxiv.org/abs/2508.12336)|null|
+|**2025-08-17**|**Distribution Matching via Generalized Consistency Models**|Sagar Shrestha et.al.|[2508.12222](https://arxiv.org/abs/2508.12222)|null|
+|**2025-08-16**|**Assessment of Using Synthetic Data in Brain Tumor Segmentation**|Aditi Jahagirdar et.al.|[2508.11922](https://arxiv.org/abs/2508.11922)|null|
+|**2025-08-15**|**FairTabGen: Unifying Counterfactual and Causal Fairness in Synthetic Tabular Data Generation**|Nitish Nagesh et.al.|[2508.11810](https://arxiv.org/abs/2508.11810)|null|
 |**2025-08-15**|**DPI-SPR: A Differentiable Physical Inversion for Shadow Profile Reconstruction Framework in Forward Scatter Radar**|ShuQi Lei et.al.|[2508.11470](https://arxiv.org/abs/2508.11470)|null|
 |**2025-08-15**|**AnatoMaskGAN: GNN-Driven Slice Feature Fusion and Noise Augmentation for Medical Semantic Image Synthesis**|Zonglin Wu et.al.|[2508.11375](https://arxiv.org/abs/2508.11375)|null|
 |**2025-08-15**|**GANDiff FR: Hybrid GAN Diffusion Synthesis for Causal Bias Attribution in Face Recognition**|Md Asgor Hossain Reaj et.al.|[2508.11334](https://arxiv.org/abs/2508.11334)|null|
-|**2025-08-14**|**Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation**|Feiran Li et.al.|[2508.10672](https://arxiv.org/abs/2508.10672)|null|
+|**2025-08-18**|**Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation**|Feiran Li et.al.|[2508.10672](https://arxiv.org/abs/2508.10672)|null|
 |**2025-08-14**|**GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation**|Xinrui Li et.al.|[2508.10471](https://arxiv.org/abs/2508.10471)|null|
 |**2025-08-13**|**Deep and diverse population synthesis for multi-person households using generative models**|Hai Yang et.al.|[2508.09964](https://arxiv.org/abs/2508.09964)|null|
 |**2025-08-13**|**On the Generalization Limits of Quantum Generative Adversarial Networks with Pure State Generators**|Jasmin Frkatovic et.al.|[2508.09844](https://arxiv.org/abs/2508.09844)|null|
