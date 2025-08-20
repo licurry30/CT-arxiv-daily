@@ -1,4 +1,4 @@
-## Updated on 2025.08.19
+## Updated on 2025.08.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols**|Yiqun Lin et.al.|[2508.13947](https://arxiv.org/abs/2508.13947)|null|
+|**2025-08-19**|**Airborne acoustic emission enables sub-scanline keyhole porosity quantification and effective process characterization for metallic laser powder bed fusion**|Haolin Liu et.al.|[2508.13492](https://arxiv.org/abs/2508.13492)|null|
 |**2025-08-18**|**Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation**|Dominic LaBella et.al.|[2508.12962](https://arxiv.org/abs/2508.12962)|null|
 |**2025-08-17**|**Optimization-based phase retrieval for material decomposition with multi-energy computed tomography**|Giavanna Jadick et.al.|[2508.12509](https://arxiv.org/abs/2508.12509)|null|
 |**2025-08-17**|**Accuracy of propagation-based phase-contrast CT under the projection approximation**|Giavanna Jadick et.al.|[2508.12505](https://arxiv.org/abs/2508.12505)|null|
@@ -49,7 +51,7 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
 
 ## SVCT
 
@@ -79,18 +81,25 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Learning to See Through Flare**|Xiaopeng Peng et.al.|[2508.13907](https://arxiv.org/abs/2508.13907)|null|
+|**2025-08-19**|**Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer**|Rathnam Vidushika Rasanji et.al.|[2508.13877](https://arxiv.org/abs/2508.13877)|null|
+|**2025-08-19**|**COCO: Cognitive Operating System with Continuous Oversight for Multi-Agent Workflow Reliability**|Churong Liang et.al.|[2508.13815](https://arxiv.org/abs/2508.13815)|null|
+|**2025-08-19**|**V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task**|Jikai Chen et.al.|[2508.13634](https://arxiv.org/abs/2508.13634)|null|
+|**2025-08-19**|**Bridging Clear and Adverse Driving Conditions**|Yoel Shapiro et.al.|[2508.13592](https://arxiv.org/abs/2508.13592)|null|
+|**2025-08-19**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
+|**2025-08-19**|**A Monte Carlo simulation on the scattering coefficients of solar radio wave propagation**|Jiazhen Gan et.al.|[2508.13494](https://arxiv.org/abs/2508.13494)|null|
 |**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](https://arxiv.org/abs/2508.12987)|null|
 |**2025-08-18**|**Effects of Defects on Thermal Transport across Solid/Solid Heterogeneous Interfaces**|Ershuai Yin et.al.|[2508.12744](https://arxiv.org/abs/2508.12744)|null|
 |**2025-08-18**|**WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art**|Abhijay Ghildyal et.al.|[2508.12668](https://arxiv.org/abs/2508.12668)|null|
 |**2025-08-17**|**Geometry-Aware Video Inpainting for Joint Headset Occlusion Removal and Face Reconstruction in Social XR**|Fatemeh Ghorbani Lohesara et.al.|[2508.12336](https://arxiv.org/abs/2508.12336)|null|
 |**2025-08-17**|**Distribution Matching via Generalized Consistency Models**|Sagar Shrestha et.al.|[2508.12222](https://arxiv.org/abs/2508.12222)|null|
-|**2025-08-16**|**Assessment of Using Synthetic Data in Brain Tumor Segmentation**|Aditi Jahagirdar et.al.|[2508.11922](https://arxiv.org/abs/2508.11922)|null|
+|**2025-08-19**|**Assessment of Using Synthetic Data in Brain Tumor Segmentation**|Aditi Jahagirdar et.al.|[2508.11922](https://arxiv.org/abs/2508.11922)|null|
 |**2025-08-15**|**FairTabGen: Unifying Counterfactual and Causal Fairness in Synthetic Tabular Data Generation**|Nitish Nagesh et.al.|[2508.11810](https://arxiv.org/abs/2508.11810)|null|
 |**2025-08-15**|**DPI-SPR: A Differentiable Physical Inversion for Shadow Profile Reconstruction Framework in Forward Scatter Radar**|ShuQi Lei et.al.|[2508.11470](https://arxiv.org/abs/2508.11470)|null|
 |**2025-08-15**|**AnatoMaskGAN: GNN-Driven Slice Feature Fusion and Noise Augmentation for Medical Semantic Image Synthesis**|Zonglin Wu et.al.|[2508.11375](https://arxiv.org/abs/2508.11375)|null|
@@ -118,7 +127,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -126,5 +135,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
 
