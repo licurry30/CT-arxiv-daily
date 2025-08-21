@@ -1,4 +1,4 @@
-## Updated on 2025.08.20
+## Updated on 2025.08.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-20**|**Topology-Aware Volume Fusion for Spectral Computed Tomography via Histograms and Extremum Graph**|Mohit Sharma et.al.|[2508.14719](https://arxiv.org/abs/2508.14719)|null|
 |**2025-08-19**|**Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols**|Yiqun Lin et.al.|[2508.13947](https://arxiv.org/abs/2508.13947)|null|
 |**2025-08-19**|**Airborne acoustic emission enables sub-scanline keyhole porosity quantification and effective process characterization for metallic laser powder bed fusion**|Haolin Liu et.al.|[2508.13492](https://arxiv.org/abs/2508.13492)|null|
 |**2025-08-18**|**Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation**|Dominic LaBella et.al.|[2508.12962](https://arxiv.org/abs/2508.12962)|null|
@@ -51,7 +52,7 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
 
 ## SVCT
 
@@ -81,18 +82,25 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-20**|**Virtual Community: An Open World for Humans, Robots, and Society**|Qinhong Zhou et.al.|[2508.14893](https://arxiv.org/abs/2508.14893)|null|
+|**2025-08-20**|**Minimizing Task-Oriented Age of Information for Remote Monitoring with Pre-Identification**|Shuying Gan et.al.|[2508.14575](https://arxiv.org/abs/2508.14575)|null|
+|**2025-08-20**|**EffiFusion-GAN: Efficient Fusion Generative Adversarial Network for Speech Enhancement**|Bin Wen et.al.|[2508.14525](https://arxiv.org/abs/2508.14525)|null|
+|**2025-08-20**|**SATURN: Autoregressive Image Generation Guided by Scene Graphs**|Thanh-Nhan Vo et.al.|[2508.14502](https://arxiv.org/abs/2508.14502)|null|
+|**2025-08-20**|**Early Evolution of the Cavity and Core of a Coronal Mass Ejection in the Inner Corona**|Shuting Li et.al.|[2508.14455](https://arxiv.org/abs/2508.14455)|null|
+|**2025-08-19**|**A well-balanced gas-kinetic scheme with adaptive mesh refinement for shallow water equations**|Gaocheng Liu et.al.|[2508.14216](https://arxiv.org/abs/2508.14216)|null|
+|**2025-08-16**|**Domain Translation of a Soft Robotic Arm using Conditional Cycle Generative Adversarial Network**|Nilay Kushawaha et.al.|[2508.14100](https://arxiv.org/abs/2508.14100)|null|
 |**2025-08-19**|**Learning to See Through Flare**|Xiaopeng Peng et.al.|[2508.13907](https://arxiv.org/abs/2508.13907)|null|
 |**2025-08-19**|**Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer**|Rathnam Vidushika Rasanji et.al.|[2508.13877](https://arxiv.org/abs/2508.13877)|null|
 |**2025-08-19**|**COCO: Cognitive Operating System with Continuous Oversight for Multi-Agent Workflow Reliability**|Churong Liang et.al.|[2508.13815](https://arxiv.org/abs/2508.13815)|null|
 |**2025-08-19**|**V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task**|Jikai Chen et.al.|[2508.13634](https://arxiv.org/abs/2508.13634)|null|
 |**2025-08-19**|**Bridging Clear and Adverse Driving Conditions**|Yoel Shapiro et.al.|[2508.13592](https://arxiv.org/abs/2508.13592)|null|
-|**2025-08-19**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
+|**2025-08-20**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
 |**2025-08-19**|**A Monte Carlo simulation on the scattering coefficients of solar radio wave propagation**|Jiazhen Gan et.al.|[2508.13494](https://arxiv.org/abs/2508.13494)|null|
 |**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](https://arxiv.org/abs/2508.12987)|null|
 |**2025-08-18**|**Effects of Defects on Thermal Transport across Solid/Solid Heterogeneous Interfaces**|Ershuai Yin et.al.|[2508.12744](https://arxiv.org/abs/2508.12744)|null|
@@ -127,7 +135,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -135,5 +143,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
 

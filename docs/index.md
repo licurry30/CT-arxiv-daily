@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.08.20
+## Updated on 2025.08.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**Topology-Aware Volume Fusion for Spectral Computed Tomography via Histograms and Extremum Graph**|Mohit Sharma et.al.|[2508.14719](https://arxiv.org/abs/2508.14719)|null|
 |**2025-08-19**|**Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols**|Yiqun Lin et.al.|[2508.13947](https://arxiv.org/abs/2508.13947)|null|
 |**2025-08-19**|**Airborne acoustic emission enables sub-scanline keyhole porosity quantification and effective process characterization for metallic laser powder bed fusion**|Haolin Liu et.al.|[2508.13492](https://arxiv.org/abs/2508.13492)|null|
 |**2025-08-18**|**Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation**|Dominic LaBella et.al.|[2508.12962](https://arxiv.org/abs/2508.12962)|null|
@@ -77,12 +78,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**Virtual Community: An Open World for Humans, Robots, and Society**|Qinhong Zhou et.al.|[2508.14893](https://arxiv.org/abs/2508.14893)|null|
+|**2025-08-20**|**Minimizing Task-Oriented Age of Information for Remote Monitoring with Pre-Identification**|Shuying Gan et.al.|[2508.14575](https://arxiv.org/abs/2508.14575)|null|
+|**2025-08-20**|**EffiFusion-GAN: Efficient Fusion Generative Adversarial Network for Speech Enhancement**|Bin Wen et.al.|[2508.14525](https://arxiv.org/abs/2508.14525)|null|
+|**2025-08-20**|**SATURN: Autoregressive Image Generation Guided by Scene Graphs**|Thanh-Nhan Vo et.al.|[2508.14502](https://arxiv.org/abs/2508.14502)|null|
+|**2025-08-20**|**Early Evolution of the Cavity and Core of a Coronal Mass Ejection in the Inner Corona**|Shuting Li et.al.|[2508.14455](https://arxiv.org/abs/2508.14455)|null|
+|**2025-08-19**|**A well-balanced gas-kinetic scheme with adaptive mesh refinement for shallow water equations**|Gaocheng Liu et.al.|[2508.14216](https://arxiv.org/abs/2508.14216)|null|
+|**2025-08-16**|**Domain Translation of a Soft Robotic Arm using Conditional Cycle Generative Adversarial Network**|Nilay Kushawaha et.al.|[2508.14100](https://arxiv.org/abs/2508.14100)|null|
 |**2025-08-19**|**Learning to See Through Flare**|Xiaopeng Peng et.al.|[2508.13907](https://arxiv.org/abs/2508.13907)|null|
 |**2025-08-19**|**Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer**|Rathnam Vidushika Rasanji et.al.|[2508.13877](https://arxiv.org/abs/2508.13877)|null|
 |**2025-08-19**|**COCO: Cognitive Operating System with Continuous Oversight for Multi-Agent Workflow Reliability**|Churong Liang et.al.|[2508.13815](https://arxiv.org/abs/2508.13815)|null|
 |**2025-08-19**|**V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task**|Jikai Chen et.al.|[2508.13634](https://arxiv.org/abs/2508.13634)|null|
 |**2025-08-19**|**Bridging Clear and Adverse Driving Conditions**|Yoel Shapiro et.al.|[2508.13592](https://arxiv.org/abs/2508.13592)|null|
-|**2025-08-19**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
+|**2025-08-20**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
 |**2025-08-19**|**A Monte Carlo simulation on the scattering coefficients of solar radio wave propagation**|Jiazhen Gan et.al.|[2508.13494](https://arxiv.org/abs/2508.13494)|null|
 |**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](https://arxiv.org/abs/2508.12987)|null|
 |**2025-08-18**|**Effects of Defects on Thermal Transport across Solid/Solid Heterogeneous Interfaces**|Ershuai Yin et.al.|[2508.12744](https://arxiv.org/abs/2508.12744)|null|
