@@ -1,4 +1,4 @@
-## Updated on 2025.08.21
+## Updated on 2025.08.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**Pseudo-spectral model of elastic-wave propagation through toothed-whale head anatomy, and implications for biosonar**|Fawad Ali et.al.|[2508.15739](https://arxiv.org/abs/2508.15739)|null|
+|**2025-08-21**|**Technical Note: Low-Dose Simulation for Grating-Based X-Ray Dark-Field Radiography Using a Virtually Decreased Irradiation Area**|Henriette Bast et.al.|[2508.15328](https://arxiv.org/abs/2508.15328)|null|
+|**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
+|**2025-08-20**|**Systematic Evaluation of Wavelet-Based Denoising for MRI Brain Images: Optimal Configurations and Performance Benchmarks**|Asadullah Bin Rahman et.al.|[2508.15011](https://arxiv.org/abs/2508.15011)|null|
 |**2025-08-20**|**Topology-Aware Volume Fusion for Spectral Computed Tomography via Histograms and Extremum Graph**|Mohit Sharma et.al.|[2508.14719](https://arxiv.org/abs/2508.14719)|null|
 |**2025-08-19**|**Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols**|Yiqun Lin et.al.|[2508.13947](https://arxiv.org/abs/2508.13947)|null|
 |**2025-08-19**|**Airborne acoustic emission enables sub-scanline keyhole porosity quantification and effective process characterization for metallic laser powder bed fusion**|Haolin Liu et.al.|[2508.13492](https://arxiv.org/abs/2508.13492)|null|
@@ -52,12 +56,14 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
+|**2025-08-20**|**SPIRiT Regularization: Parallel MRI with a Combination of Sensitivity Encoding and Linear Predictability**|Nicholas Dwork et.al.|[2508.15132](https://arxiv.org/abs/2508.15132)|null|
 |**2025-08-15**|**A Convergent Generalized Krylov Subspace Method for Compressed Sensing MRI Reconstruction with Gradient-Driven Denoisers**|Tao Hong et.al.|[2508.11219](https://arxiv.org/abs/2508.11219)|null|
 |**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
 |**2025-08-14**|**Output-Sparse Matrix Multiplication Using Compressed Sensing**|Huck Bennett et.al.|[2508.10250](https://arxiv.org/abs/2508.10250)|null|
@@ -82,12 +88,17 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**Self-supervised physics-informed generative networks for phase retrieval from a single X-ray hologram**|Xiaogang Yang et.al.|[2508.15530](https://arxiv.org/abs/2508.15530)|null|
+|**2025-08-21**|**Performance Analysis of RIS-Aided High-Mobility Wireless Systems**|Hanwen Hu et.al.|[2508.15375](https://arxiv.org/abs/2508.15375)|null|
+|**2025-08-21**|**Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing**|Ruilin Zhou et.al.|[2508.15267](https://arxiv.org/abs/2508.15267)|null|
+|**2025-08-20**|**Aura-CAPTCHA: A Reinforcement Learning and GAN-Enhanced Multi-Modal CAPTCHA System**|Joydeep Chandra et.al.|[2508.14976](https://arxiv.org/abs/2508.14976)|null|
+|**2025-08-20**|**Potential and challenges of generative adversarial networks for super-resolution in 4D Flow MRI**|Oliver Welin Odeback et.al.|[2508.14950](https://arxiv.org/abs/2508.14950)|null|
 |**2025-08-20**|**Virtual Community: An Open World for Humans, Robots, and Society**|Qinhong Zhou et.al.|[2508.14893](https://arxiv.org/abs/2508.14893)|null|
 |**2025-08-20**|**Minimizing Task-Oriented Age of Information for Remote Monitoring with Pre-Identification**|Shuying Gan et.al.|[2508.14575](https://arxiv.org/abs/2508.14575)|null|
 |**2025-08-20**|**EffiFusion-GAN: Efficient Fusion Generative Adversarial Network for Speech Enhancement**|Bin Wen et.al.|[2508.14525](https://arxiv.org/abs/2508.14525)|null|
@@ -135,7 +146,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -143,5 +154,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
