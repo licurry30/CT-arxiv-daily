@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**4D Virtual Imaging Platform for Dynamic Joint Assessment via Uni-Plane X-ray and 2D-3D Registration**|Hao Tang et.al.|[2508.16138](https://arxiv.org/abs/2508.16138)|null|
+|**2025-08-21**|**Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings**|Juampablo E. Heras Rivera et.al.|[2508.16004](https://arxiv.org/abs/2508.16004)|null|
 |**2025-08-21**|**Pseudo-spectral model of elastic-wave propagation through toothed-whale head anatomy, and implications for biosonar**|Fawad Ali et.al.|[2508.15739](https://arxiv.org/abs/2508.15739)|null|
 |**2025-08-21**|**Technical Note: Low-Dose Simulation for Grating-Based X-Ray Dark-Field Radiography Using a Virtually Decreased Irradiation Area**|Henriette Bast et.al.|[2508.15328](https://arxiv.org/abs/2508.15328)|null|
 |**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
@@ -94,6 +96,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Energy-Information Trade-Off in Self-Directed Channel Memristors**|Waleed El-Geresy et.al.|[2508.16236](https://arxiv.org/abs/2508.16236)|null|
+|**2025-08-22**|**Two-flow Feedback Multi-scale Progressive Generative Adversarial Network**|Sun Weikai et.al.|[2508.16089](https://arxiv.org/abs/2508.16089)|null|
 |**2025-08-21**|**Self-supervised physics-informed generative networks for phase retrieval from a single X-ray hologram**|Xiaogang Yang et.al.|[2508.15530](https://arxiv.org/abs/2508.15530)|null|
 |**2025-08-21**|**Performance Analysis of RIS-Aided High-Mobility Wireless Systems**|Hanwen Hu et.al.|[2508.15375](https://arxiv.org/abs/2508.15375)|null|
 |**2025-08-21**|**Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing**|Ruilin Zhou et.al.|[2508.15267](https://arxiv.org/abs/2508.15267)|null|
@@ -112,7 +116,7 @@
 |**2025-08-19**|**V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task**|Jikai Chen et.al.|[2508.13634](https://arxiv.org/abs/2508.13634)|null|
 |**2025-08-19**|**Bridging Clear and Adverse Driving Conditions**|Yoel Shapiro et.al.|[2508.13592](https://arxiv.org/abs/2508.13592)|null|
 |**2025-08-20**|**2D Gaussians Meet Visual Tokenizer**|Yiang Shi et.al.|[2508.13515](https://arxiv.org/abs/2508.13515)|null|
-|**2025-08-19**|**A Monte Carlo simulation on the scattering coefficients of solar radio wave propagation**|Jiazhen Gan et.al.|[2508.13494](https://arxiv.org/abs/2508.13494)|null|
+|**2025-08-22**|**A Monte Carlo simulation on the scattering coefficients of solar radio wave propagation**|Jiazhen Gan et.al.|[2508.13494](https://arxiv.org/abs/2508.13494)|null|
 |**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](https://arxiv.org/abs/2508.12987)|null|
 |**2025-08-18**|**Effects of Defects on Thermal Transport across Solid/Solid Heterogeneous Interfaces**|Ershuai Yin et.al.|[2508.12744](https://arxiv.org/abs/2508.12744)|null|
 |**2025-08-18**|**WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art**|Abhijay Ghildyal et.al.|[2508.12668](https://arxiv.org/abs/2508.12668)|null|
