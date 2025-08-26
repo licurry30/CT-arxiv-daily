@@ -1,4 +1,4 @@
-## Updated on 2025.08.25
+## Updated on 2025.08.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Introduction to Regularization and Learning Methods for Inverse Problems**|Danielle Bednarski et.al.|[2508.18178](https://arxiv.org/abs/2508.18178)|null|
+|**2025-08-24**|**FoundDiff: Foundational Diffusion Model for Generalizable Low-Dose CT Denoising**|Zhihao Chen et.al.|[2508.17299](https://arxiv.org/abs/2508.17299)|null|
+|**2025-08-24**|**Deep Learning-Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging**|Manish Bhardwaj et.al.|[2508.17275](https://arxiv.org/abs/2508.17275)|null|
+|**2025-08-23**|**Generating Synthetic Contrast-Enhanced Chest CT Images from Non-Contrast Scans Using Slice-Consistent Brownian Bridge Diffusion Network**|Pouya Shiri et.al.|[2508.16897](https://arxiv.org/abs/2508.16897)|null|
+|**2025-08-23**|**Individualized Treatment Effects in Advanced Prostate Cancer: A Causal-Survival Modeling Approach to Risk-Guided Therapy**|J. T. Korley et.al.|[2508.16894](https://arxiv.org/abs/2508.16894)|null|
+|**2025-08-21**|**COVID19 Prediction Based On CT Scans Of Lungs Using DenseNet Architecture**|Deborup Sanyal et.al.|[2508.16670](https://arxiv.org/abs/2508.16670)|null|
 |**2025-08-22**|**4D Virtual Imaging Platform for Dynamic Joint Assessment via Uni-Plane X-ray and 2D-3D Registration**|Hao Tang et.al.|[2508.16138](https://arxiv.org/abs/2508.16138)|null|
 |**2025-08-21**|**Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings**|Juampablo E. Heras Rivera et.al.|[2508.16004](https://arxiv.org/abs/2508.16004)|null|
 |**2025-08-21**|**Pseudo-spectral model of elastic-wave propagation through toothed-whale head anatomy, and implications for biosonar**|Fawad Ali et.al.|[2508.15739](https://arxiv.org/abs/2508.15739)|null|
@@ -58,12 +64,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems**|Dianhao Jia et.al.|[2508.17710](https://arxiv.org/abs/2508.17710)|null|
 |**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
 |**2025-08-20**|**SPIRiT Regularization: Parallel MRI with a Combination of Sensitivity Encoding and Linear Predictability**|Nicholas Dwork et.al.|[2508.15132](https://arxiv.org/abs/2508.15132)|null|
 |**2025-08-15**|**A Convergent Generalized Krylov Subspace Method for Compressed Sensing MRI Reconstruction with Gradient-Driven Denoisers**|Tao Hong et.al.|[2508.11219](https://arxiv.org/abs/2508.11219)|null|
@@ -90,12 +97,18 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation**|Haijian Ma et.al.|[2508.18148](https://arxiv.org/abs/2508.18148)|null|
+|**2025-08-25**|**CATformer: Contrastive Adversarial Transformer for Image Super-Resolution**|Qinyi Tian et.al.|[2508.17708](https://arxiv.org/abs/2508.17708)|null|
+|**2025-08-25**|**Steering When Necessary: Flexible Steering Large Language Models with Backtracking**|Jinwei Gan et.al.|[2508.17621](https://arxiv.org/abs/2508.17621)|null|
+|**2025-08-23**|**SyncGuard: Robust Audio Watermarking Capable of Countering Desynchronization Attacks**|Zhenliang Gan et.al.|[2508.17121](https://arxiv.org/abs/2508.17121)|null|
+|**2025-08-23**|**REGEN: Real-Time Photorealism Enhancement in Games via a Dual-Stage Generative Network Framework**|Stefanos Pasios et.al.|[2508.17061](https://arxiv.org/abs/2508.17061)|null|
+|**2025-08-23**|**A Novel Local Focusing Mechanism for Deepfake Detection Generalization**|Mingliang Li et.al.|[2508.17029](https://arxiv.org/abs/2508.17029)|null|
 |**2025-08-22**|**Energy-Information Trade-Off in Self-Directed Channel Memristors**|Waleed El-Geresy et.al.|[2508.16236](https://arxiv.org/abs/2508.16236)|null|
 |**2025-08-22**|**Two-flow Feedback Multi-scale Progressive Generative Adversarial Network**|Sun Weikai et.al.|[2508.16089](https://arxiv.org/abs/2508.16089)|null|
 |**2025-08-21**|**Self-supervised physics-informed generative networks for phase retrieval from a single X-ray hologram**|Xiaogang Yang et.al.|[2508.15530](https://arxiv.org/abs/2508.15530)|null|
@@ -150,7 +163,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -158,5 +171,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
