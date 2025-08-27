@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Random forest-based out-of-distribution detection for robust lung cancer segmentation**|Aneesh Rangnekar et.al.|[2508.19112](https://arxiv.org/abs/2508.19112)|null|
 |**2025-08-25**|**Introduction to Regularization and Learning Methods for Inverse Problems**|Danielle Bednarski et.al.|[2508.18178](https://arxiv.org/abs/2508.18178)|null|
 |**2025-08-24**|**FoundDiff: Foundational Diffusion Model for Generalizable Low-Dose CT Denoising**|Zhihao Chen et.al.|[2508.17299](https://arxiv.org/abs/2508.17299)|null|
 |**2025-08-24**|**Deep Learning-Assisted Detection of Sarcopenia in Cross-Sectional Computed Tomography Imaging**|Manish Bhardwaj et.al.|[2508.17275](https://arxiv.org/abs/2508.17275)|null|
@@ -93,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**VQualA 2025 Challenge on Face Image Quality Assessment: Methods and Results**|Sizhuo Ma et.al.|[2508.18445](https://arxiv.org/abs/2508.18445)|null|
 |**2025-08-25**|**Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation**|Haijian Ma et.al.|[2508.18148](https://arxiv.org/abs/2508.18148)|null|
 |**2025-08-25**|**CATformer: Contrastive Adversarial Transformer for Image Super-Resolution**|Qinyi Tian et.al.|[2508.17708](https://arxiv.org/abs/2508.17708)|null|
 |**2025-08-25**|**Steering When Necessary: Flexible Steering Large Language Models with Backtracking**|Jinwei Gan et.al.|[2508.17621](https://arxiv.org/abs/2508.17621)|null|
