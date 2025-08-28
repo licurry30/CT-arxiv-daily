@@ -1,4 +1,4 @@
-## Updated on 2025.08.27
+## Updated on 2025.08.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Testing a Computed Tomography Imaging Spectrometer for Earth Observations on the HEIMDAL Stratospheric Balloon Mission**|Mads Juul Ahlebæk et.al.|[2508.19693](https://arxiv.org/abs/2508.19693)|null|
 |**2025-08-26**|**Random forest-based out-of-distribution detection for robust lung cancer segmentation**|Aneesh Rangnekar et.al.|[2508.19112](https://arxiv.org/abs/2508.19112)|null|
 |**2025-08-25**|**Introduction to Regularization and Learning Methods for Inverse Problems**|Danielle Bednarski et.al.|[2508.18178](https://arxiv.org/abs/2508.18178)|null|
 |**2025-08-24**|**FoundDiff: Foundational Diffusion Model for Generalizable Low-Dose CT Denoising**|Zhihao Chen et.al.|[2508.17299](https://arxiv.org/abs/2508.17299)|null|
@@ -65,7 +66,7 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
 
 ## SVCT
 
@@ -98,12 +99,19 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Multimodal Conditional MeshGAN for Personalized Aneurysm Growth Prediction**|Long Chen et.al.|[2508.19862](https://arxiv.org/abs/2508.19862)|null|
+|**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](https://arxiv.org/abs/2508.19857)|null|
+|**2025-08-27**|**Synthetic Image Detection via Spectral Gaps of QC-RBIM Nishimori Bethe-Hessian Operators**|V. S. Usatyuk et.al.|[2508.19698](https://arxiv.org/abs/2508.19698)|null|
+|**2025-08-27**|**Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era**|Dawei Li et.al.|[2508.19570](https://arxiv.org/abs/2508.19570)|null|
+|**2025-08-27**|**Towards 6G Intelligence: The Role of Generative AI in Future Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2508.19495](https://arxiv.org/abs/2508.19495)|null|
+|**2025-08-26**|**MRExtrap: Longitudinal Aging of Brain MRIs using Linear Modeling in Latent Space**|Jaivardhan Kapoor et.al.|[2508.19482](https://arxiv.org/abs/2508.19482)|null|
+|**2025-08-26**|**Efficiently Generating Multidimensional Calorimeter Data with Tensor Decomposition Parameterization**|Paimon Goulart et.al.|[2508.19443](https://arxiv.org/abs/2508.19443)|null|
 |**2025-08-25**|**VQualA 2025 Challenge on Face Image Quality Assessment: Methods and Results**|Sizhuo Ma et.al.|[2508.18445](https://arxiv.org/abs/2508.18445)|null|
 |**2025-08-25**|**Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation**|Haijian Ma et.al.|[2508.18148](https://arxiv.org/abs/2508.18148)|null|
 |**2025-08-25**|**CATformer: Contrastive Adversarial Transformer for Image Super-Resolution**|Qinyi Tian et.al.|[2508.17708](https://arxiv.org/abs/2508.17708)|null|
@@ -165,7 +173,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -173,5 +181,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
 
