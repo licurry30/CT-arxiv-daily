@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-29**|**Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer**|Daniël Boeke et.al.|[2508.21581](https://arxiv.org/abs/2508.21581)|null|
+|**2025-08-29**|**Project-Based Learning in Introductory Quantum Computing Courses: A Case Study on Quantum Algorithms for Medical Imaging**|Nischal Binod Gautam et.al.|[2508.21321](https://arxiv.org/abs/2508.21321)|null|
+|**2025-08-28**|**RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration**|Ao Shen et.al.|[2508.21154](https://arxiv.org/abs/2508.21154)|null|
 |**2025-08-28**|**Self-Composing Neural Operators with Depth and Accuracy Scaling via Adaptive Train-and-Unroll Approach**|Juncai He et.al.|[2508.20650](https://arxiv.org/abs/2508.20650)|null|
 |**2025-08-28**|**Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction**|Karl-Philippe Beaudet et.al.|[2508.20605](https://arxiv.org/abs/2508.20605)|null|
 |**2025-08-28**|**Matrixed-Spectrum Decomposition Accelerated Linear Boltzmann Transport Equation Solver for Fast Scatter Correction in Multi-Spectral CT**|Guoxi Zhu et.al.|[2508.20524](https://arxiv.org/abs/2508.20524)|null|
@@ -113,6 +116,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-29**|**Molecular Beam Epitaxy of 2H-TaS $_2$  few-layers on GaN(0001)**|Constantin Hilbrunner et.al.|[2508.21537](https://arxiv.org/abs/2508.21537)|null|
+|**2025-08-29**|**Adaptive generative moment matching networks for improved learning of dependence structures**|Marius Hofert et.al.|[2508.21531](https://arxiv.org/abs/2508.21531)|null|
+|**2025-08-29**|**Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing**|Rajiv Kailasanathan et.al.|[2508.21438](https://arxiv.org/abs/2508.21438)|null|
+|**2025-08-29**|**Print2Volume: Generating Synthetic OCT-based 3D Fingerprint Volume from 2D Fingerprint Image**|Qingran Miao et.al.|[2508.21371](https://arxiv.org/abs/2508.21371)|null|
+|**2025-08-29**|**QUAV: Quantum-Assisted Path Planning and Optimization for UAV Navigation with Obstacle Avoidance**|Nouhaila Innan et.al.|[2508.21361](https://arxiv.org/abs/2508.21361)|null|
+|**2025-08-29**|**DLGAN : Time Series Synthesis Based on Dual-Layer Generative Adversarial Networks**|Xuan Hou et.al.|[2508.21340](https://arxiv.org/abs/2508.21340)|null|
+|**2025-08-28**|**Weighted Support Points from Random Measures: An Interpretable Alternative for Generative Modeling**|Peiqi Zhao et.al.|[2508.21255](https://arxiv.org/abs/2508.21255)|null|
+|**2025-08-28**|**Uncertainty-Aware Ankle Exoskeleton Control**|Fatima Mumtaza Tourk et.al.|[2508.21221](https://arxiv.org/abs/2508.21221)|null|
+|**2025-08-28**|**TrInk: Ink Generation with Transformer Network**|Zezhong Jin et.al.|[2508.21098](https://arxiv.org/abs/2508.21098)|null|
 |**2025-08-28**|**FW-GAN: Frequency-Driven Handwriting Synthesis with Wave-Modulated MLP Generator**|Huynh Tong Dang Khoa et.al.|[2508.21040](https://arxiv.org/abs/2508.21040)|null|
 |**2025-08-28**|**RANGAN: GAN-empowered Anomaly Detection in 5G Cloud RAN**|Douglas Liao et.al.|[2508.20985](https://arxiv.org/abs/2508.20985)|null|
 |**2025-08-28**|**Leveraging Discriminative Latent Representations for Conditioning GAN-Based Speech Enhancement**|Shrishti Saha Shetu et.al.|[2508.20859](https://arxiv.org/abs/2508.20859)|null|
