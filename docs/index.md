@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -123,7 +123,7 @@ layout: default
 |**2025-08-28**|**GENRE-CMR: Generalizable Deep Learning for Diverse Multi-Domain Cardiac MRI Reconstruction**|Kian Anvari Hamedani et.al.|[2508.20600](https://arxiv.org/abs/2508.20600)|null|
 |**2025-08-28**|**Disruptive Attacks on Face Swapping via Low-Frequency Perceptual Perturbations**|Mengxiao Huang et.al.|[2508.20595](https://arxiv.org/abs/2508.20595)|null|
 |**2025-08-28**|**SimShear: Sim-to-Real Shear-based Tactile Servoing**|Kipp McAdam Freud et.al.|[2508.20561](https://arxiv.org/abs/2508.20561)|null|
-|**2025-08-28**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](https://arxiv.org/abs/2508.20404)|null|
+|**2025-09-01**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](https://arxiv.org/abs/2508.20404)|null|
 |**2025-08-27**|**InfinityHuman: Towards Long-Term Audio-Driven Human**|Xiaodi Li et.al.|[2508.20210](https://arxiv.org/abs/2508.20210)|null|
 |**2025-08-27**|**Multimodal Conditional MeshGAN for Personalized Aneurysm Growth Prediction**|Long Chen et.al.|[2508.19862](https://arxiv.org/abs/2508.19862)|null|
 |**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](https://arxiv.org/abs/2508.19857)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -76,7 +76,7 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## SVCT
 
@@ -110,7 +110,7 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## GAN in CT
 
@@ -133,7 +133,7 @@
 |**2025-08-28**|**GENRE-CMR: Generalizable Deep Learning for Diverse Multi-Domain Cardiac MRI Reconstruction**|Kian Anvari Hamedani et.al.|[2508.20600](https://arxiv.org/abs/2508.20600)|null|
 |**2025-08-28**|**Disruptive Attacks on Face Swapping via Low-Frequency Perceptual Perturbations**|Mengxiao Huang et.al.|[2508.20595](https://arxiv.org/abs/2508.20595)|null|
 |**2025-08-28**|**SimShear: Sim-to-Real Shear-based Tactile Servoing**|Kipp McAdam Freud et.al.|[2508.20561](https://arxiv.org/abs/2508.20561)|null|
-|**2025-08-28**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](https://arxiv.org/abs/2508.20404)|null|
+|**2025-09-01**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](https://arxiv.org/abs/2508.20404)|null|
 |**2025-08-27**|**InfinityHuman: Towards Long-Term Audio-Driven Human**|Xiaodi Li et.al.|[2508.20210](https://arxiv.org/abs/2508.20210)|null|
 |**2025-08-27**|**Multimodal Conditional MeshGAN for Personalized Aneurysm Growth Prediction**|Long Chen et.al.|[2508.19862](https://arxiv.org/abs/2508.19862)|null|
 |**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](https://arxiv.org/abs/2508.19857)|null|
@@ -203,7 +203,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -211,5 +211,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
