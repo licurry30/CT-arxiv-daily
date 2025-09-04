@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.09.03
+## Updated on 2025.09.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images**|Hania Ghouse et.al.|[2509.03188](https://arxiv.org/abs/2509.03188)|null|
+|**2025-09-03**|**PPORLD-EDNetLDCT: A Proximal Policy Optimization-Based Reinforcement Learning Framework for Adaptive Low-Dose CT Denoising**|Debopom Sutradhar et.al.|[2509.03185](https://arxiv.org/abs/2509.03185)|null|
+|**2025-09-01**|**Clinical Metadata Guided Limited-Angle CT Image Reconstruction**|Yu Shi et.al.|[2509.01752](https://arxiv.org/abs/2509.01752)|null|
+|**2025-09-01**|**Unified Supervision For Vision-Language Modeling in 3D Computed Tomography**|Hao-Chih Lee et.al.|[2509.01554](https://arxiv.org/abs/2509.01554)|null|
+|**2025-08-30**|**Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction**|Mengxiao Geng et.al.|[2509.00395](https://arxiv.org/abs/2509.00395)|null|
+|**2025-09-03**|**A Multimodal and Multi-centric Head and Neck Cancer Dataset for Tumor Segmentation and Outcome Prediction**|Numan Saeed et.al.|[2509.00367](https://arxiv.org/abs/2509.00367)|null|
+|**2025-08-30**|**Reporte de visita médica sobre la aplicación de braquiterapia de baja tasa con Cs-137 en una paciente con cáncer de cuello uterino, estadio IIB**|Miguel Angel Mencomo Cedeño et.al.|[2509.00306](https://arxiv.org/abs/2509.00306)|null|
+|**2025-08-30**|**AI-Guided PET Image Reconstruction and Multi-Tracer Imaging: Novel Methods, Challenges, and Opportunities**|Movindu Dassanayake et.al.|[2509.00304](https://arxiv.org/abs/2509.00304)|null|
 |**2025-08-29**|**Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer**|Daniël Boeke et.al.|[2508.21581](https://arxiv.org/abs/2508.21581)|null|
 |**2025-08-29**|**Project-Based Learning in Introductory Quantum Computing Courses: A Case Study on Quantum Algorithms for Medical Imaging**|Nischal Binod Gautam et.al.|[2508.21321](https://arxiv.org/abs/2508.21321)|null|
 |**2025-08-28**|**RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration**|Ao Shen et.al.|[2508.21154](https://arxiv.org/abs/2508.21154)|null|
@@ -74,6 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-01**|**REFRAG: Rethinking RAG based Decoding**|Xiaoqiang Lin et.al.|[2509.01092](https://arxiv.org/abs/2509.01092)|null|
 |**2025-08-28**|**Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.|[2508.20566](https://arxiv.org/abs/2508.20566)|null|
 |**2025-08-25**|**Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems**|Dianhao Jia et.al.|[2508.17710](https://arxiv.org/abs/2508.17710)|null|
 |**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
@@ -106,6 +115,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**ANNIE: Be Careful of Your Robots**|Yiyang Huang et.al.|[2509.03383](https://arxiv.org/abs/2509.03383)|null|
+|**2025-09-03**|**On the MIA Vulnerability Gap Between Private GANs and Diffusion Models**|Ilana Sebag et.al.|[2509.03341](https://arxiv.org/abs/2509.03341)|null|
+|**2025-09-03**|**RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**|Sashuai Zhou et.al.|[2509.03131](https://arxiv.org/abs/2509.03131)|null|
+|**2025-09-03**|**High Cursive Complex Character Recognition using GAN External Classifier**|S M Rafiuddin et.al.|[2509.03062](https://arxiv.org/abs/2509.03062)|null|
+|**2025-09-03**|**Enhancing Robustness in Post-Processing Watermarking: An Ensemble Attack Network Using CNNs and Transformers**|Tzuhsuan Huang et.al.|[2509.03006](https://arxiv.org/abs/2509.03006)|null|
+|**2025-09-03**|**The Role of Far-side Magnetic Structures in Modeling 2024 Solar Eclipse**|Guanglu Shi et.al.|[2509.02911](https://arxiv.org/abs/2509.02911)|null|
+|**2025-08-30**|**Towards Digital Twins for Optimal Radioembolization**|Nisanth Kumar Panneerselvam et.al.|[2509.02607](https://arxiv.org/abs/2509.02607)|null|
+|**2025-09-02**|**Spectrogram Patch Codec: A 2D Block-Quantized VQ-VAE and HiFi-GAN for Neural Speech Coding**|Luis Felipe Chary et.al.|[2509.02244](https://arxiv.org/abs/2509.02244)|null|
+|**2025-09-02**|**Amputation-imputation based generation of synthetic tabular data for ratemaking**|Yevhen Havrylenko et.al.|[2509.02171](https://arxiv.org/abs/2509.02171)|null|
+|**2025-09-02**|**Enhanced Raman scattering by fast GaN phonon-polaritons**|Mayssoune Mina et.al.|[2509.02057](https://arxiv.org/abs/2509.02057)|null|
+|**2025-09-01**|**Prediction, Generation of WWTPs microbiome community structures and Clustering of WWTPs various feature attributes using DE-BP model, SiTime-GAN model and DPNG-EPMC ensemble clustering algorithm with modulation of microbial ecosystem health**|Mingzhi Dai et.al.|[2509.01526](https://arxiv.org/abs/2509.01526)|null|
+|**2025-09-01**|**Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal**|Zhangyue Shi et.al.|[2509.01512](https://arxiv.org/abs/2509.01512)|null|
+|**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](https://arxiv.org/abs/2509.01322)|null|
+|**2025-09-01**|**Is Noisy Data a Blessing in Disguise? A Distributionally Robust Optimization Perspective**|Chung-Han Hsieh et.al.|[2509.01076](https://arxiv.org/abs/2509.01076)|null|
+|**2025-08-31**|**Semi-Supervised Bayesian GANs with Log-Signatures for Uncertainty-Aware Credit Card Fraud Detection**|David Hirnschall et.al.|[2509.00931](https://arxiv.org/abs/2509.00931)|null|
+|**2025-08-31**|**Missing Data Imputation using Neural Cellular Automata**|Tin Luu et.al.|[2509.00651](https://arxiv.org/abs/2509.00651)|null|
+|**2025-08-30**|**Josephson Dynamics in 2D Ring-shaped Condensates**|Koon Siang Gan et.al.|[2509.00533](https://arxiv.org/abs/2509.00533)|null|
+|**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](https://arxiv.org/abs/2509.00442)|null|
+|**2025-08-30**|**SaD: A Scenario-Aware Discriminator for Speech Enhancement**|Xihao Yuan et.al.|[2509.00405](https://arxiv.org/abs/2509.00405)|null|
+|**2025-08-29**|**Generative AI for Industrial Contour Detection: A Language-Guided Vision System**|Liang Gong et.al.|[2509.00284](https://arxiv.org/abs/2509.00284)|null|
 |**2025-08-29**|**Molecular Beam Epitaxy of 2H-TaS $_2$  few-layers on GaN(0001)**|Constantin Hilbrunner et.al.|[2508.21537](https://arxiv.org/abs/2508.21537)|null|
 |**2025-08-29**|**Adaptive generative moment matching networks for improved learning of dependence structures**|Marius Hofert et.al.|[2508.21531](https://arxiv.org/abs/2508.21531)|null|
 |**2025-08-29**|**Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing**|Rajiv Kailasanathan et.al.|[2508.21438](https://arxiv.org/abs/2508.21438)|null|
