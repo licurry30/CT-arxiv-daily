@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.04
+## Updated on 2025.09.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
+|**2025-09-03**|**Advancing Positron Emission Tomography Image Quantification: Artificial Intelligence-Driven Methods, Clinical Challenges, and Emerging Opportunities in Long-Axial Field-of-View Positron Emission Tomography/Computed Tomography Imaging**|Fereshteh Yousefirizi et.al.|[2509.03751](https://arxiv.org/abs/2509.03751)|null|
 |**2025-09-03**|**Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images**|Hania Ghouse et.al.|[2509.03188](https://arxiv.org/abs/2509.03188)|null|
 |**2025-09-03**|**PPORLD-EDNetLDCT: A Proximal Policy Optimization-Based Reinforcement Learning Framework for Adaptive Low-Dose CT Denoising**|Debopom Sutradhar et.al.|[2509.03185](https://arxiv.org/abs/2509.03185)|null|
 |**2025-09-01**|**Clinical Metadata Guided Limited-Angle CT Image Reconstruction**|Yu Shi et.al.|[2509.01752](https://arxiv.org/abs/2509.01752)|null|
@@ -16,7 +18,7 @@ layout: default
 |**2025-08-30**|**Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction**|Mengxiao Geng et.al.|[2509.00395](https://arxiv.org/abs/2509.00395)|null|
 |**2025-09-03**|**A Multimodal and Multi-centric Head and Neck Cancer Dataset for Tumor Segmentation and Outcome Prediction**|Numan Saeed et.al.|[2509.00367](https://arxiv.org/abs/2509.00367)|null|
 |**2025-08-30**|**Reporte de visita médica sobre la aplicación de braquiterapia de baja tasa con Cs-137 en una paciente con cáncer de cuello uterino, estadio IIB**|Miguel Angel Mencomo Cedeño et.al.|[2509.00306](https://arxiv.org/abs/2509.00306)|null|
-|**2025-08-30**|**AI-Guided PET Image Reconstruction and Multi-Tracer Imaging: Novel Methods, Challenges, and Opportunities**|Movindu Dassanayake et.al.|[2509.00304](https://arxiv.org/abs/2509.00304)|null|
+|**2025-09-03**|**Artificial Intelligence-Guided PET Image Reconstruction and Multi-Tracer Imaging: Novel Methods, Challenges, And Opportunities**|Movindu Dassanayake et.al.|[2509.00304](https://arxiv.org/abs/2509.00304)|null|
 |**2025-08-29**|**Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer**|Daniël Boeke et.al.|[2508.21581](https://arxiv.org/abs/2508.21581)|null|
 |**2025-08-29**|**Project-Based Learning in Introductory Quantum Computing Courses: A Case Study on Quantum Algorithms for Medical Imaging**|Nischal Binod Gautam et.al.|[2508.21321](https://arxiv.org/abs/2508.21321)|null|
 |**2025-08-28**|**RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration**|Ao Shen et.al.|[2508.21154](https://arxiv.org/abs/2508.21154)|null|
@@ -82,6 +84,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](https://arxiv.org/abs/2509.03898)|null|
+|**2025-09-03**|**Learning functions through Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2509.03758](https://arxiv.org/abs/2509.03758)|null|
 |**2025-09-01**|**REFRAG: Rethinking RAG based Decoding**|Xiaoqiang Lin et.al.|[2509.01092](https://arxiv.org/abs/2509.01092)|null|
 |**2025-08-28**|**Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.|[2508.20566](https://arxiv.org/abs/2508.20566)|null|
 |**2025-08-25**|**Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems**|Dianhao Jia et.al.|[2508.17710](https://arxiv.org/abs/2508.17710)|null|
@@ -115,6 +119,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**On Riordan groups involving formal semi-Laurent series and their Lie group structure**|Dariusz Bugajewski et.al.|[2509.04160](https://arxiv.org/abs/2509.04160)|null|
+|**2025-09-04**|**CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning**|Zeyu Gan et.al.|[2509.04027](https://arxiv.org/abs/2509.04027)|null|
+|**2025-09-04**|**NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models**|Chuhan Zhang et.al.|[2509.03985](https://arxiv.org/abs/2509.03985)|null|
+|**2025-09-04**|**SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution**|Jiajun Yuan et.al.|[2509.03913](https://arxiv.org/abs/2509.03913)|null|
+|**2025-09-04**|**A high-lying isomer in ^{92}Zr with lifetime modulated by the atomic charge states: a proposed approach for a nuclear gamma-ray laser**|C. X. Jia et.al.|[2509.03797](https://arxiv.org/abs/2509.03797)|null|
 |**2025-09-03**|**ANNIE: Be Careful of Your Robots**|Yiyang Huang et.al.|[2509.03383](https://arxiv.org/abs/2509.03383)|null|
 |**2025-09-03**|**On the MIA Vulnerability Gap Between Private GANs and Diffusion Models**|Ilana Sebag et.al.|[2509.03341](https://arxiv.org/abs/2509.03341)|null|
 |**2025-09-03**|**RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**|Sashuai Zhou et.al.|[2509.03131](https://arxiv.org/abs/2509.03131)|null|
