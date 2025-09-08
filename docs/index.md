@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
 |**2025-09-03**|**Advancing Positron Emission Tomography Image Quantification: Artificial Intelligence-Driven Methods, Clinical Challenges, and Emerging Opportunities in Long-Axial Field-of-View Positron Emission Tomography/Computed Tomography Imaging**|Fereshteh Yousefirizi et.al.|[2509.03751](https://arxiv.org/abs/2509.03751)|null|
 |**2025-09-03**|**Prompt-Guided Patch UNet-VAE with Adversarial Supervision for Adrenal Gland Segmentation in Computed Tomography Medical Images**|Hania Ghouse et.al.|[2509.03188](https://arxiv.org/abs/2509.03188)|null|
@@ -84,6 +85,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
+|**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](https://arxiv.org/abs/2509.04805)|null|
 |**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](https://arxiv.org/abs/2509.03898)|null|
 |**2025-09-03**|**Learning functions through Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2509.03758](https://arxiv.org/abs/2509.03758)|null|
 |**2025-09-01**|**REFRAG: Rethinking RAG based Decoding**|Xiaoqiang Lin et.al.|[2509.01092](https://arxiv.org/abs/2509.01092)|null|
@@ -119,6 +122,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](https://arxiv.org/abs/2509.05080)|null|
+|**2025-09-05**|**QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning**|Aaron Mark Thomas et.al.|[2509.05051](https://arxiv.org/abs/2509.05051)|null|
+|**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](https://arxiv.org/abs/2509.04667)|null|
+|**2025-09-04**|**Technical Developments of DA on  $\mathbb{T}^3$ **|Hangyue Zhang et.al.|[2509.04634](https://arxiv.org/abs/2509.04634)|null|
 |**2025-09-04**|**On Riordan groups involving formal semi-Laurent series and their Lie group structure**|Dariusz Bugajewski et.al.|[2509.04160](https://arxiv.org/abs/2509.04160)|null|
 |**2025-09-04**|**CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning**|Zeyu Gan et.al.|[2509.04027](https://arxiv.org/abs/2509.04027)|null|
 |**2025-09-04**|**NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models**|Chuhan Zhang et.al.|[2509.03985](https://arxiv.org/abs/2509.03985)|null|
