@@ -1,4 +1,4 @@
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-08**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
 |**2025-09-03**|**Advancing Positron Emission Tomography Image Quantification: Artificial Intelligence-Driven Methods, Clinical Challenges, and Emerging Opportunities in Long-Axial Field-of-View Positron Emission Tomography/Computed Tomography Imaging**|Fereshteh Yousefirizi et.al.|[2509.03751](https://arxiv.org/abs/2509.03751)|null|
@@ -87,12 +89,14 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](https://arxiv.org/abs/2509.06383)|null|
+|**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
 |**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
 |**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](https://arxiv.org/abs/2509.04805)|null|
 |**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](https://arxiv.org/abs/2509.03898)|null|
@@ -126,12 +130,18 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-08**|**A New Hybrid Model of Generative Adversarial Network and You Only Look Once Algorithm for Automatic License-Plate Recognition**|Behnoud Shafiezadeh et.al.|[2509.06868](https://arxiv.org/abs/2509.06868)|null|
+|**2025-09-08**|**Interlayer Coupling and Exciton Dynamics in 2D Hybrid Structures based on an InGaN Quantum Well coupled to a MoSe2 Monolayer**|D. Chen et.al.|[2509.06547](https://arxiv.org/abs/2509.06547)|null|
+|**2025-09-08**|**On optimal solutions of classical and sliced Wasserstein GANs with non-Gaussian data**|Yu-Jui Huang et.al.|[2509.06505](https://arxiv.org/abs/2509.06505)|null|
+|**2025-09-08**|**VQualA 2025 Challenge on Image Super-Resolution Generated Content Quality Assessment: Methods and Results**|Yixiao Li et.al.|[2509.06413](https://arxiv.org/abs/2509.06413)|null|
+|**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](https://arxiv.org/abs/2509.06120)|null|
+|**2025-09-05**|**Newton to Einstein: Axiom-Based Discovery via Game Design**|Pingchuan Ma et.al.|[2509.05448](https://arxiv.org/abs/2509.05448)|null|
 |**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](https://arxiv.org/abs/2509.05080)|null|
 |**2025-09-05**|**QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning**|Aaron Mark Thomas et.al.|[2509.05051](https://arxiv.org/abs/2509.05051)|null|
 |**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](https://arxiv.org/abs/2509.04667)|null|
@@ -248,7 +258,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -256,5 +266,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 

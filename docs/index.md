@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
 |**2025-09-03**|**Advancing Positron Emission Tomography Image Quantification: Artificial Intelligence-Driven Methods, Clinical Challenges, and Emerging Opportunities in Long-Axial Field-of-View Positron Emission Tomography/Computed Tomography Imaging**|Fereshteh Yousefirizi et.al.|[2509.03751](https://arxiv.org/abs/2509.03751)|null|
@@ -85,6 +87,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](https://arxiv.org/abs/2509.06383)|null|
+|**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
 |**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
 |**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](https://arxiv.org/abs/2509.04805)|null|
 |**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](https://arxiv.org/abs/2509.03898)|null|
@@ -122,6 +126,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**A New Hybrid Model of Generative Adversarial Network and You Only Look Once Algorithm for Automatic License-Plate Recognition**|Behnoud Shafiezadeh et.al.|[2509.06868](https://arxiv.org/abs/2509.06868)|null|
+|**2025-09-08**|**Interlayer Coupling and Exciton Dynamics in 2D Hybrid Structures based on an InGaN Quantum Well coupled to a MoSe2 Monolayer**|D. Chen et.al.|[2509.06547](https://arxiv.org/abs/2509.06547)|null|
+|**2025-09-08**|**On optimal solutions of classical and sliced Wasserstein GANs with non-Gaussian data**|Yu-Jui Huang et.al.|[2509.06505](https://arxiv.org/abs/2509.06505)|null|
+|**2025-09-08**|**VQualA 2025 Challenge on Image Super-Resolution Generated Content Quality Assessment: Methods and Results**|Yixiao Li et.al.|[2509.06413](https://arxiv.org/abs/2509.06413)|null|
+|**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](https://arxiv.org/abs/2509.06120)|null|
+|**2025-09-05**|**Newton to Einstein: Axiom-Based Discovery via Game Design**|Pingchuan Ma et.al.|[2509.05448](https://arxiv.org/abs/2509.05448)|null|
 |**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](https://arxiv.org/abs/2509.05080)|null|
 |**2025-09-05**|**QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning**|Aaron Mark Thomas et.al.|[2509.05051](https://arxiv.org/abs/2509.05051)|null|
 |**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](https://arxiv.org/abs/2509.04667)|null|
