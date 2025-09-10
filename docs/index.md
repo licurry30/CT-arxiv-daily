@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-08**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-09**|**Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation**|Moo Hyun Son et.al.|[2509.07923](https://arxiv.org/abs/2509.07923)|null|
+|**2025-09-09**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
 |**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
@@ -87,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**First-order SDSOS-convex semi-algebraic optimization and exact SOCP relaxations**|Chengmiao Yang et.al.|[2509.07418](https://arxiv.org/abs/2509.07418)|null|
 |**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](https://arxiv.org/abs/2509.06383)|null|
 |**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
 |**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
@@ -126,6 +128,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach**|João Paulo Nogueira et.al.|[2509.07820](https://arxiv.org/abs/2509.07820)|null|
+|**2025-09-09**|**PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image**|Peng Li et.al.|[2509.07552](https://arxiv.org/abs/2509.07552)|null|
+|**2025-09-09**|**DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis**|Sven Kirchner et.al.|[2509.07463](https://arxiv.org/abs/2509.07463)|null|
+|**2025-09-09**|**Data-knowledge fusion driven frequency security assessment: A robust framework for renewable-dominated power grids**|Yurun Zhang et.al.|[2509.07320](https://arxiv.org/abs/2509.07320)|null|
+|**2025-09-08**|**Realism to Deception: Investigating Deepfake Detectors Against Face Enhancement**|Muhammad Saad Saeed et.al.|[2509.07178](https://arxiv.org/abs/2509.07178)|null|
+|**2025-09-08**|**Ultrathin oxide freestanding membranes with large-scale continuity and structural perfection**|Yuhao Hong et.al.|[2509.07176](https://arxiv.org/abs/2509.07176)|null|
+|**2025-09-07**|**The Impact of Artificial Intelligence on Traditional Art Forms: A Disruption or Enhancement**|Viswa Chaitanya Marella et.al.|[2509.07029](https://arxiv.org/abs/2509.07029)|null|
 |**2025-09-08**|**A New Hybrid Model of Generative Adversarial Network and You Only Look Once Algorithm for Automatic License-Plate Recognition**|Behnoud Shafiezadeh et.al.|[2509.06868](https://arxiv.org/abs/2509.06868)|null|
 |**2025-09-08**|**Interlayer Coupling and Exciton Dynamics in 2D Hybrid Structures based on an InGaN Quantum Well coupled to a MoSe2 Monolayer**|D. Chen et.al.|[2509.06547](https://arxiv.org/abs/2509.06547)|null|
 |**2025-09-08**|**On optimal solutions of classical and sliced Wasserstein GANs with non-Gaussian data**|Yu-Jui Huang et.al.|[2509.06505](https://arxiv.org/abs/2509.06505)|null|

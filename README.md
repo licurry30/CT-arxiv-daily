@@ -1,4 +1,4 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,7 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-08**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-09**|**Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation**|Moo Hyun Son et.al.|[2509.07923](https://arxiv.org/abs/2509.07923)|null|
+|**2025-09-09**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
 |**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
@@ -89,12 +90,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**First-order SDSOS-convex semi-algebraic optimization and exact SOCP relaxations**|Chengmiao Yang et.al.|[2509.07418](https://arxiv.org/abs/2509.07418)|null|
 |**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](https://arxiv.org/abs/2509.06383)|null|
 |**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
 |**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
@@ -130,12 +132,19 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach**|João Paulo Nogueira et.al.|[2509.07820](https://arxiv.org/abs/2509.07820)|null|
+|**2025-09-09**|**PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image**|Peng Li et.al.|[2509.07552](https://arxiv.org/abs/2509.07552)|null|
+|**2025-09-09**|**DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis**|Sven Kirchner et.al.|[2509.07463](https://arxiv.org/abs/2509.07463)|null|
+|**2025-09-09**|**Data-knowledge fusion driven frequency security assessment: A robust framework for renewable-dominated power grids**|Yurun Zhang et.al.|[2509.07320](https://arxiv.org/abs/2509.07320)|null|
+|**2025-09-08**|**Realism to Deception: Investigating Deepfake Detectors Against Face Enhancement**|Muhammad Saad Saeed et.al.|[2509.07178](https://arxiv.org/abs/2509.07178)|null|
+|**2025-09-08**|**Ultrathin oxide freestanding membranes with large-scale continuity and structural perfection**|Yuhao Hong et.al.|[2509.07176](https://arxiv.org/abs/2509.07176)|null|
+|**2025-09-07**|**The Impact of Artificial Intelligence on Traditional Art Forms: A Disruption or Enhancement**|Viswa Chaitanya Marella et.al.|[2509.07029](https://arxiv.org/abs/2509.07029)|null|
 |**2025-09-08**|**A New Hybrid Model of Generative Adversarial Network and You Only Look Once Algorithm for Automatic License-Plate Recognition**|Behnoud Shafiezadeh et.al.|[2509.06868](https://arxiv.org/abs/2509.06868)|null|
 |**2025-09-08**|**Interlayer Coupling and Exciton Dynamics in 2D Hybrid Structures based on an InGaN Quantum Well coupled to a MoSe2 Monolayer**|D. Chen et.al.|[2509.06547](https://arxiv.org/abs/2509.06547)|null|
 |**2025-09-08**|**On optimal solutions of classical and sliced Wasserstein GANs with non-Gaussian data**|Yu-Jui Huang et.al.|[2509.06505](https://arxiv.org/abs/2509.06505)|null|
@@ -258,7 +267,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -266,5 +275,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
