@@ -2,15 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.09.10
+## Updated on 2025.09.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**A parallel algorithm for generating Pareto-optimal radiosurgery treatment plans**|Joakim da Silva et.al.|[2509.08602](https://arxiv.org/abs/2509.08602)|null|
+|**2025-09-10**|**Implicit Shape-Prior for Few-Shot Assisted 3D Segmentation**|Mathilde Monvoisin et.al.|[2509.08580](https://arxiv.org/abs/2509.08580)|null|
+|**2025-09-10**|**Real-time CBCT reconstructions using Krylov solvers in repeated scanning procedures**|Fred Vickers Hastings et.al.|[2509.08574](https://arxiv.org/abs/2509.08574)|null|
+|**2025-09-10**|**Multispectral CT Denoising via Simulation-Trained Deep Learning: Experimental Results at the ESRF BM18**|Peter Gänz et.al.|[2509.08528](https://arxiv.org/abs/2509.08528)|null|
+|**2025-09-10**|**SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training**|Rongsheng Wang et.al.|[2509.08311](https://arxiv.org/abs/2509.08311)|null|
+|**2025-09-09**|**Molecular-Size Control of Properties of Therapeutic Nano-Paper Allows for Selective Drug Storage in Small Doses**|Elisabeth Erbes et.al.|[2509.08019](https://arxiv.org/abs/2509.08019)|null|
+|**2025-09-09**|**Enhancing Privacy Preservation and Reducing Analysis Time with Federated Transfer Learning in Digital Twins-based Computed Tomography Scan Analysis**|Avais Jan et.al.|[2509.08018](https://arxiv.org/abs/2509.08018)|null|
 |**2025-09-09**|**Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation**|Moo Hyun Son et.al.|[2509.07923](https://arxiv.org/abs/2509.07923)|null|
-|**2025-09-09**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-10**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
 |**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
@@ -88,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Real-time CBCT reconstructions using Krylov solvers in repeated scanning procedures**|Fred Vickers Hastings et.al.|[2509.08574](https://arxiv.org/abs/2509.08574)|null|
+|**2025-09-10**|**Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing**|Miao Cao et.al.|[2509.08228](https://arxiv.org/abs/2509.08228)|null|
 |**2025-09-09**|**First-order SDSOS-convex semi-algebraic optimization and exact SOCP relaxations**|Chengmiao Yang et.al.|[2509.07418](https://arxiv.org/abs/2509.07418)|null|
 |**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](https://arxiv.org/abs/2509.06383)|null|
 |**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
@@ -128,6 +137,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**PEHRT: A Common Pipeline for Harmonizing Electronic Health Record data for Translational Research**|Jessica Gronsbell et.al.|[2509.08553](https://arxiv.org/abs/2509.08553)|null|
+|**2025-09-10**|**Audio Deepfake Verification**|Li Wang et.al.|[2509.08476](https://arxiv.org/abs/2509.08476)|null|
+|**2025-09-10**|**VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring**|Cuong Nguyen et.al.|[2509.08392](https://arxiv.org/abs/2509.08392)|null|
+|**2025-09-10**|**Controlling GaN nucleation via O $_2$ -plasma-perforated graphene masks on c-plane sapphire**|Su Young An et.al.|[2509.08275](https://arxiv.org/abs/2509.08275)|null|
+|**2025-09-08**|**Validation of a CT-brain analysis tool for measuring global cortical atrophy in older patient cohorts**|Sukhdeep Bal et.al.|[2509.08012](https://arxiv.org/abs/2509.08012)|null|
 |**2025-09-09**|**Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach**|João Paulo Nogueira et.al.|[2509.07820](https://arxiv.org/abs/2509.07820)|null|
 |**2025-09-09**|**PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image**|Peng Li et.al.|[2509.07552](https://arxiv.org/abs/2509.07552)|null|
 |**2025-09-09**|**DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis**|Sven Kirchner et.al.|[2509.07463](https://arxiv.org/abs/2509.07463)|null|
@@ -141,7 +155,7 @@ layout: default
 |**2025-09-08**|**VQualA 2025 Challenge on Image Super-Resolution Generated Content Quality Assessment: Methods and Results**|Yixiao Li et.al.|[2509.06413](https://arxiv.org/abs/2509.06413)|null|
 |**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](https://arxiv.org/abs/2509.06120)|null|
 |**2025-09-05**|**Newton to Einstein: Axiom-Based Discovery via Game Design**|Pingchuan Ma et.al.|[2509.05448](https://arxiv.org/abs/2509.05448)|null|
-|**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](https://arxiv.org/abs/2509.05080)|null|
+|**2025-09-10**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|Yang Chen et.al.|[2509.05080](https://arxiv.org/abs/2509.05080)|null|
 |**2025-09-05**|**QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning**|Aaron Mark Thomas et.al.|[2509.05051](https://arxiv.org/abs/2509.05051)|null|
 |**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](https://arxiv.org/abs/2509.04667)|null|
 |**2025-09-04**|**Technical Developments of DA on  $\mathbb{T}^3$ **|Hangyue Zhang et.al.|[2509.04634](https://arxiv.org/abs/2509.04634)|null|
