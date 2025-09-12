@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
+|**2025-09-11**|**ALL-PET: A Low-resource and Low-shot PET Foundation Model in the Projection Domain**|Bin Huang et.al.|[2509.09130](https://arxiv.org/abs/2509.09130)|null|
+|**2025-09-10**|**Ultrafast Deep Learning-Based Scatter Estimation in Cone-Beam Computed Tomography**|Harshit Agrawal et.al.|[2509.08973](https://arxiv.org/abs/2509.08973)|null|
 |**2025-09-10**|**A parallel algorithm for generating Pareto-optimal radiosurgery treatment plans**|Joakim da Silva et.al.|[2509.08602](https://arxiv.org/abs/2509.08602)|null|
 |**2025-09-10**|**Implicit Shape-Prior for Few-Shot Assisted 3D Segmentation**|Mathilde Monvoisin et.al.|[2509.08580](https://arxiv.org/abs/2509.08580)|null|
 |**2025-09-10**|**Real-time CBCT reconstructions using Krylov solvers in repeated scanning procedures**|Fred Vickers Hastings et.al.|[2509.08574](https://arxiv.org/abs/2509.08574)|null|
@@ -95,6 +98,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
+|**2025-09-11**|**Plug-and-play Diffusion Models for Image Compressive Sensing with Data Consistency Projection**|Xiaodong Wang et.al.|[2509.09365](https://arxiv.org/abs/2509.09365)|null|
 |**2025-09-10**|**Real-time CBCT reconstructions using Krylov solvers in repeated scanning procedures**|Fred Vickers Hastings et.al.|[2509.08574](https://arxiv.org/abs/2509.08574)|null|
 |**2025-09-10**|**Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing**|Miao Cao et.al.|[2509.08228](https://arxiv.org/abs/2509.08228)|null|
 |**2025-09-09**|**First-order SDSOS-convex semi-algebraic optimization and exact SOCP relaxations**|Chengmiao Yang et.al.|[2509.07418](https://arxiv.org/abs/2509.07418)|null|
@@ -103,7 +108,7 @@ layout: default
 |**2025-09-05**|**INR meets Multi-Contrast MRI Reconstruction**|Natascha Niessen et.al.|[2509.04888](https://arxiv.org/abs/2509.04888)|null|
 |**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](https://arxiv.org/abs/2509.04805)|null|
 |**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](https://arxiv.org/abs/2509.03898)|null|
-|**2025-09-03**|**Learning functions through Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2509.03758](https://arxiv.org/abs/2509.03758)|null|
+|**2025-09-11**|**Learning functions through Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2509.03758](https://arxiv.org/abs/2509.03758)|null|
 |**2025-09-01**|**REFRAG: Rethinking RAG based Decoding**|Xiaoqiang Lin et.al.|[2509.01092](https://arxiv.org/abs/2509.01092)|null|
 |**2025-08-28**|**Physics-informed neural network enhanced multispectral single-pixel imaging with a chip spectral sensor**|Muchen Zhu et.al.|[2508.20566](https://arxiv.org/abs/2508.20566)|null|
 |**2025-08-25**|**Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems**|Dianhao Jia et.al.|[2508.17710](https://arxiv.org/abs/2508.17710)|null|
@@ -137,9 +142,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
+|**2025-09-11**|**Euler-type methods for Levy-driven McKean-Vlasov SDEs with super-linear coefficients: mean-square error analysis**|Jingtao Zhu et.al.|[2509.09302](https://arxiv.org/abs/2509.09302)|null|
+|**2025-09-11**|**Long time strong convergence analysis of one-step methods for McKean-Vlasov SDEs with superlinear growth coefficients**|Taiyuan Liu et.al.|[2509.09274](https://arxiv.org/abs/2509.09274)|null|
 |**2025-09-10**|**PEHRT: A Common Pipeline for Harmonizing Electronic Health Record data for Translational Research**|Jessica Gronsbell et.al.|[2509.08553](https://arxiv.org/abs/2509.08553)|null|
 |**2025-09-10**|**Audio Deepfake Verification**|Li Wang et.al.|[2509.08476](https://arxiv.org/abs/2509.08476)|null|
-|**2025-09-10**|**VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring**|Cuong Nguyen et.al.|[2509.08392](https://arxiv.org/abs/2509.08392)|null|
+|**2025-09-11**|**VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring**|Cuong Nguyen et.al.|[2509.08392](https://arxiv.org/abs/2509.08392)|null|
 |**2025-09-10**|**Controlling GaN nucleation via O $_2$ -plasma-perforated graphene masks on c-plane sapphire**|Su Young An et.al.|[2509.08275](https://arxiv.org/abs/2509.08275)|null|
 |**2025-09-08**|**Validation of a CT-brain analysis tool for measuring global cortical atrophy in older patient cohorts**|Sukhdeep Bal et.al.|[2509.08012](https://arxiv.org/abs/2509.08012)|null|
 |**2025-09-09**|**Certainty-Guided Reasoning in Large Language Models: A Dynamic Thinking Budget Approach**|João Paulo Nogueira et.al.|[2509.07820](https://arxiv.org/abs/2509.07820)|null|
