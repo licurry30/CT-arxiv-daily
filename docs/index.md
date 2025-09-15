@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Accelerating 3D Photoacoustic Computed Tomography with End-to-End Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2509.09894](https://arxiv.org/abs/2509.09894)|null|
 |**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
 |**2025-09-11**|**ALL-PET: A Low-resource and Low-shot PET Foundation Model in the Projection Domain**|Bin Huang et.al.|[2509.09130](https://arxiv.org/abs/2509.09130)|null|
 |**2025-09-10**|**Ultrafast Deep Learning-Based Scatter Estimation in Cone-Beam Computed Tomography**|Harshit Agrawal et.al.|[2509.08973](https://arxiv.org/abs/2509.08973)|null|
@@ -20,7 +21,7 @@ layout: default
 |**2025-09-09**|**Molecular-Size Control of Properties of Therapeutic Nano-Paper Allows for Selective Drug Storage in Small Doses**|Elisabeth Erbes et.al.|[2509.08019](https://arxiv.org/abs/2509.08019)|null|
 |**2025-09-09**|**Enhancing Privacy Preservation and Reducing Analysis Time with Federated Transfer Learning in Digital Twins-based Computed Tomography Scan Analysis**|Avais Jan et.al.|[2509.08018](https://arxiv.org/abs/2509.08018)|null|
 |**2025-09-09**|**Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation**|Moo Hyun Son et.al.|[2509.07923](https://arxiv.org/abs/2509.07923)|null|
-|**2025-09-10**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
+|**2025-09-12**|**Hybrid Swin Attention Networks for Simultaneously Low-Dose PET and CT Denoising**|Yichao Liu et.al.|[2509.06591](https://arxiv.org/abs/2509.06591)|null|
 |**2025-09-01**|**Wetting Interactions Between Porous Carbon Hosts and Liquid Sodium-Potassium Alloys Toward Their Use in Negative Electrodes of Alkali-Metal Batteries**|Johannes Baller et.al.|[2509.05336](https://arxiv.org/abs/2509.05336)|null|
 |**2025-09-05**|**Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem**|Henri Hänninen et.al.|[2509.05005](https://arxiv.org/abs/2509.05005)|null|
 |**2025-09-04**|**Learning neural representations for X-ray ptychography reconstruction with unknown probes**|Tingyou Li et.al.|[2509.04402](https://arxiv.org/abs/2509.04402)|null|
@@ -98,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Automated Tuning for Diffusion Inverse Problem Solvers without Generative Prior Retraining**|Yaşar Utku Alçalar et.al.|[2509.09880](https://arxiv.org/abs/2509.09880)|null|
 |**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
 |**2025-09-11**|**Plug-and-play Diffusion Models for Image Compressive Sensing with Data Consistency Projection**|Xiaodong Wang et.al.|[2509.09365](https://arxiv.org/abs/2509.09365)|null|
 |**2025-09-10**|**Real-time CBCT reconstructions using Krylov solvers in repeated scanning procedures**|Fred Vickers Hastings et.al.|[2509.08574](https://arxiv.org/abs/2509.08574)|null|
@@ -142,6 +144,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Approximate Graph Propagation Revisited: Dynamic Parameterized Queries, Tighter Bounds and Dynamic Updates**|Zhuowei Zhao et.al.|[2509.10036](https://arxiv.org/abs/2509.10036)|null|
+|**2025-09-12**|**Limited Reference, Reliable Generation: A Two-Component Framework for Tabular Data Generation in Low-Data Regimes**|Mingxuan Jiang et.al.|[2509.09960](https://arxiv.org/abs/2509.09960)|null|
+|**2025-09-12**|**Acoustic Scene Classification Using CNN-GRU Model Without Knowledge Distillation**|Ee-Leng Tan et.al.|[2509.09931](https://arxiv.org/abs/2509.09931)|null|
 |**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
 |**2025-09-11**|**Euler-type methods for Levy-driven McKean-Vlasov SDEs with super-linear coefficients: mean-square error analysis**|Jingtao Zhu et.al.|[2509.09302](https://arxiv.org/abs/2509.09302)|null|
 |**2025-09-11**|**Long time strong convergence analysis of one-step methods for McKean-Vlasov SDEs with superlinear growth coefficients**|Taiyuan Liu et.al.|[2509.09274](https://arxiv.org/abs/2509.09274)|null|
