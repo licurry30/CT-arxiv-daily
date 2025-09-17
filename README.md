@@ -1,4 +1,4 @@
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**AREPAS: Anomaly Detection in Fine-Grained Anatomy with Reconstruction-Based Semantic Patch-Scoring**|Branko Mitic et.al.|[2509.12905](https://arxiv.org/abs/2509.12905)|null|
+|**2025-09-16**|**CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT**|Zhifang Gong et.al.|[2509.12777](https://arxiv.org/abs/2509.12777)|null|
+|**2025-09-16**|**A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis**|Jiasong Chen et.al.|[2509.12596](https://arxiv.org/abs/2509.12596)|null|
+|**2025-09-16**|**Impact of Geometric Uncertainty on the Computation of Abdominal Aortic Aneurysm Wall Strain**|Saeideh Sekhavat et.al.|[2509.12550](https://arxiv.org/abs/2509.12550)|null|
 |**2025-09-15**|**LoRA-fine-tuned Large Vision Models for Automated Assessment of Post-SBRT Lung Injury**|M. Bolhassani et.al.|[2509.12155](https://arxiv.org/abs/2509.12155)|null|
 |**2025-09-15**|**U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT**|Zhi Qin Tan et.al.|[2509.12069](https://arxiv.org/abs/2509.12069)|null|
 |**2025-09-15**|**EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images**|Hafza Eman et.al.|[2509.11714](https://arxiv.org/abs/2509.11714)|null|
@@ -23,7 +27,7 @@
 |**2025-09-12**|**Programmable Beam Control for Electron Energy-Loss Spectroscopy and Ptychography**|Mariana Palos et.al.|[2509.10726](https://arxiv.org/abs/2509.10726)|null|
 |**2025-09-11**|**Accelerating 3D Photoacoustic Computed Tomography with End-to-End Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2509.09894](https://arxiv.org/abs/2509.09894)|null|
 |**2025-09-11**|**Mapping of discrete range modulated proton radiograph to water-equivalent path length using machine learning**|Atiq Ur Rahman et.al.|[2509.09514](https://arxiv.org/abs/2509.09514)|null|
-|**2025-09-11**|**ALL-PET: A Low-resource and Low-shot PET Foundation Model in the Projection Domain**|Bin Huang et.al.|[2509.09130](https://arxiv.org/abs/2509.09130)|null|
+|**2025-09-16**|**ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain**|Bin Huang et.al.|[2509.09130](https://arxiv.org/abs/2509.09130)|null|
 |**2025-09-10**|**Ultrafast Deep Learning-Based Scatter Estimation in Cone-Beam Computed Tomography**|Harshit Agrawal et.al.|[2509.08973](https://arxiv.org/abs/2509.08973)|null|
 |**2025-09-10**|**A parallel algorithm for generating Pareto-optimal radiosurgery treatment plans**|Joakim da Silva et.al.|[2509.08602](https://arxiv.org/abs/2509.08602)|null|
 |**2025-09-10**|**Implicit Shape-Prior for Few-Shot Assisted 3D Segmentation**|Mathilde Monvoisin et.al.|[2509.08580](https://arxiv.org/abs/2509.08580)|null|
@@ -107,7 +111,7 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## SVCT
 
@@ -157,12 +161,19 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**Enhancing Video Large Language Models with Structured Multi-Video Collaborative Reasoning (early version)**|Zhihao He et.al.|[2509.13161](https://arxiv.org/abs/2509.13161)|null|
+|**2025-09-16**|**Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees**|Wenyi Yan et.al.|[2509.12971](https://arxiv.org/abs/2509.12971)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](https://arxiv.org/abs/2509.12831)|null|
+|**2025-09-16**|**A-TDOM: Active TDOM via On-the-Fly 3DGS**|Yiwei Xu et.al.|[2509.12759](https://arxiv.org/abs/2509.12759)|null|
+|**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Heng Zhang et.al.|[2509.12715](https://arxiv.org/abs/2509.12715)|null|
+|**2025-09-16**|**Thermal Transport of GaN/Substrate Heterostructures under Non-Uniform Heat Source**|Ershuai Yin et.al.|[2509.12548](https://arxiv.org/abs/2509.12548)|null|
+|**2025-09-14**|**Prediction of Stocks Index Price using Quantum GANs**|Sangram Deshpande et.al.|[2509.12286](https://arxiv.org/abs/2509.12286)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](https://arxiv.org/abs/2509.12052)|null|
 |**2025-09-15**|**Sphere-GAN: a GAN-based Approach for Saliency Estimation in 360° Videos**|Mahmoud Z. A. Wahba et.al.|[2509.11948](https://arxiv.org/abs/2509.11948)|null|
 |**2025-09-15**|**Oscillating Heat Transfer Prediction in Porous Structures Using Generative AI-Assisted Explainable Machine Learning**|Lichang Zhu et.al.|[2509.11863](https://arxiv.org/abs/2509.11863)|null|
@@ -316,7 +327,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -324,5 +335,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
