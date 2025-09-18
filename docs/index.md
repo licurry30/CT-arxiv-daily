@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**LamiGauss: Pitching Radiative Gaussian for Sparse-View X-ray Laminography Reconstruction**|Chu Chen et.al.|[2509.13863](https://arxiv.org/abs/2509.13863)|null|
 |**2025-09-16**|**AREPAS: Anomaly Detection in Fine-Grained Anatomy with Reconstruction-Based Semantic Patch-Scoring**|Branko Mitic et.al.|[2509.12905](https://arxiv.org/abs/2509.12905)|null|
 |**2025-09-16**|**CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT**|Zhifang Gong et.al.|[2509.12777](https://arxiv.org/abs/2509.12777)|null|
 |**2025-09-16**|**A Computational Pipeline for Patient-Specific Modeling of Thoracic Aortic Aneurysm: From Medical Image to Finite Element Analysis**|Jiasong Chen et.al.|[2509.12596](https://arxiv.org/abs/2509.12596)|null|
