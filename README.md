@@ -1,4 +1,4 @@
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-18**|**Quantitative Stain Mapping in X-ray Virtual Histology**|Dominik John et.al.|[2509.14768](https://arxiv.org/abs/2509.14768)|null|
+|**2025-09-18**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
 |**2025-09-17**|**LamiGauss: Pitching Radiative Gaussian for Sparse-View X-ray Laminography Reconstruction**|Chu Chen et.al.|[2509.13863](https://arxiv.org/abs/2509.13863)|null|
 |**2025-09-16**|**AREPAS: Anomaly Detection in Fine-Grained Anatomy with Reconstruction-Based Semantic Patch-Scoring**|Branko Mitic et.al.|[2509.12905](https://arxiv.org/abs/2509.12905)|null|
 |**2025-09-16**|**CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT**|Zhifang Gong et.al.|[2509.12777](https://arxiv.org/abs/2509.12777)|null|
@@ -112,12 +114,16 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-18**|**To CLEAN or not to CLEAN: Data Processing in the ngVLA era**|Hendrik Müller et.al.|[2509.15176](https://arxiv.org/abs/2509.15176)|null|
+|**2025-09-18**|**Probabilistic and nonlinear compressive sensing**|Lukas Silvester Barth et.al.|[2509.15060](https://arxiv.org/abs/2509.15060)|null|
+|**2025-09-18**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
+|**2025-09-17**|**UTOPY: Unrolling Algorithm Learning via Fidelity Homotopy for Inverse Problems**|Roman Jacome et.al.|[2509.14394](https://arxiv.org/abs/2509.14394)|null|
 |**2025-09-15**|**Compressed Sensing: Mathematical Foundations, Implementation, and Advanced Optimization Techniques**|Shane Stevenson et.al.|[2509.11550](https://arxiv.org/abs/2509.11550)|null|
 |**2025-09-14**|**Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images**|Yuedi Zhang et.al.|[2509.11034](https://arxiv.org/abs/2509.11034)|null|
 |**2025-09-13**|**Total Variation Subgradient Guided Image Fusion for Dual-Camera CASSI System**|Weiqiang Zhao et.al.|[2509.10897](https://arxiv.org/abs/2509.10897)|null|
@@ -162,16 +168,21 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-18**|**A Race Bias Free Face Aging Model for Reliable Kinship Verification**|Ali Nazari et.al.|[2509.15177](https://arxiv.org/abs/2509.15177)|null|
+|**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](https://arxiv.org/abs/2509.15085)|null|
+|**2025-09-18**|**Dataset Distillation for Super-Resolution without Class Labels and Pre-trained Models**|Sunwoo Cho et.al.|[2509.14777](https://arxiv.org/abs/2509.14777)|null|
+|**2025-09-18**|**Enhancing Situational Awareness in Wearable Audio Devices Using a Lightweight Sound Event Localization and Detection System**|Jun-Wei Yeow et.al.|[2509.14650](https://arxiv.org/abs/2509.14650)|null|
+|**2025-09-17**|**Keywords are not always the key: A metadata field analysis for natural language search on open data portals**|Lisa-Yao Gan et.al.|[2509.14457](https://arxiv.org/abs/2509.14457)|null|
 |**2025-09-16**|**Enhancing Video Large Language Models with Structured Multi-Video Collaborative Reasoning (early version)**|Zhihao He et.al.|[2509.13161](https://arxiv.org/abs/2509.13161)|null|
 |**2025-09-16**|**Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees**|Wenyi Yan et.al.|[2509.12971](https://arxiv.org/abs/2509.12971)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](https://arxiv.org/abs/2509.12831)|null|
-|**2025-09-16**|**A-TDOM: Active TDOM via On-the-Fly 3DGS**|Yiwei Xu et.al.|[2509.12759](https://arxiv.org/abs/2509.12759)|null|
+|**2025-09-18**|**A-TDOM: Active TDOM via On-the-Fly 3DGS**|Yiwei Xu et.al.|[2509.12759](https://arxiv.org/abs/2509.12759)|null|
 |**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Heng Zhang et.al.|[2509.12715](https://arxiv.org/abs/2509.12715)|null|
 |**2025-09-16**|**Thermal Transport of GaN/Substrate Heterostructures under Non-Uniform Heat Source**|Ershuai Yin et.al.|[2509.12548](https://arxiv.org/abs/2509.12548)|null|
 |**2025-09-14**|**Prediction of Stocks Index Price using Quantum GANs**|Sangram Deshpande et.al.|[2509.12286](https://arxiv.org/abs/2509.12286)|null|
@@ -328,7 +339,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -336,5 +347,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
