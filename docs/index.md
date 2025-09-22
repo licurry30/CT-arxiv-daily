@@ -112,6 +112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Adversarial generalization of unfolding (model-based) networks**|Vicky Kouni et.al.|[2509.15370](https://arxiv.org/abs/2509.15370)|null|
 |**2025-09-18**|**To CLEAN or not to CLEAN: Data Processing in the ngVLA era**|Hendrik Müller et.al.|[2509.15176](https://arxiv.org/abs/2509.15176)|null|
 |**2025-09-18**|**Probabilistic and nonlinear compressive sensing**|Lukas Silvester Barth et.al.|[2509.15060](https://arxiv.org/abs/2509.15060)|null|
 |**2025-09-18**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
@@ -164,6 +165,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**|Yanghao Li et.al.|[2509.16197](https://arxiv.org/abs/2509.16197)|null|
+|**2025-09-19**|**Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation**|Naipunnya Raj et.al.|[2509.16186](https://arxiv.org/abs/2509.16186)|null|
+|**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](https://arxiv.org/abs/2509.16017)|null|
+|**2025-09-19**|**QWD-GAN: Quality-aware Wavelet-driven GAN for Unsupervised Medical Microscopy Images Denoising**|Qijun Yang et.al.|[2509.15814](https://arxiv.org/abs/2509.15814)|null|
+|**2025-09-19**|**Learning to Optimize Capacity Planning in Semiconductor Manufacturing**|Philipp Andelfinger et.al.|[2509.15767](https://arxiv.org/abs/2509.15767)|null|
+|**2025-09-19**|**Utility-based Privacy Preserving Data Mining**|Qingfeng Zhou et.al.|[2509.15755](https://arxiv.org/abs/2509.15755)|null|
+|**2025-09-19**|**Discovering Top-k Periodic and High-Utility Patterns**|Qingfeng Zhou et.al.|[2509.15732](https://arxiv.org/abs/2509.15732)|null|
+|**2025-09-19**|**MAGENTA: Magnitude and Geometry-ENhanced Training Approach for Robust Long-Tailed Sound Event Localization and Detection**|Jun-Wei Yeow et.al.|[2509.15599](https://arxiv.org/abs/2509.15599)|null|
+|**2025-09-18**|**Causal Fingerprints of AI Generative Models**|Hui Xu et.al.|[2509.15406](https://arxiv.org/abs/2509.15406)|null|
+|**2025-09-18**|**RaceGAN: A Framework for Preserving Individuality while Converting Racial Information for Image-to-Image Translation**|Mst Tasnim Pervin et.al.|[2509.15391](https://arxiv.org/abs/2509.15391)|null|
+|**2025-09-18**|**Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model**|Zheng Yang et.al.|[2509.15258](https://arxiv.org/abs/2509.15258)|null|
 |**2025-09-18**|**A Race Bias Free Face Aging Model for Reliable Kinship Verification**|Ali Nazari et.al.|[2509.15177](https://arxiv.org/abs/2509.15177)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](https://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**Dataset Distillation for Super-Resolution without Class Labels and Pre-trained Models**|Sunwoo Cho et.al.|[2509.14777](https://arxiv.org/abs/2509.14777)|null|
