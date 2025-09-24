@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Neural Network-Driven Direct CBCT-Based Dose Calculation for Head-and-Neck Proton Treatment Planning**|Muheng Li et.al.|[2509.18378](https://arxiv.org/abs/2509.18378)|null|
 |**2025-09-22**|**Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2509.17790](https://arxiv.org/abs/2509.17790)|null|
 |**2025-09-20**|**MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging**|Kacper Marzol et.al.|[2509.16806](https://arxiv.org/abs/2509.16806)|null|
 |**2025-09-19**|**Accurate Thyroid Cancer Classification using a Novel Binary Pattern Driven Local Discrete Cosine Transform Descriptor**|Saurabh Saini et.al.|[2509.16382](https://arxiv.org/abs/2509.16382)|null|
@@ -115,6 +116,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**A Two-Dimensional Super-Resolution Method for Reconfigurable Intelligent Surface-Assisted Near-Field Localization**|Feng Xi et.al.|[2509.18774](https://arxiv.org/abs/2509.18774)|null|
+|**2025-09-22**|**Measurement Score-Based MRI Reconstruction with Automatic Coil Sensitivity Estimation**|Tingjun Liu et.al.|[2509.18402](https://arxiv.org/abs/2509.18402)|null|
 |**2025-09-22**|**Joint Pilot Allocation and Sequence Design for MIMO-OFDM Systems With Channel Sparsity**|Kabuto Arai et.al.|[2509.17916](https://arxiv.org/abs/2509.17916)|null|
 |**2025-09-22**|**SSNet: Flexible and robust channel extrapolation for fluid antenna systems enabled by an self-supervised learning framework**|Yuan Gao et.al.|[2509.17797](https://arxiv.org/abs/2509.17797)|null|
 |**2025-09-20**|**Miniaturized Computational Dispersion-Engineered Silicon Photonic Vernier Caliper Spectrometer**|Hao Deng et.al.|[2509.16644](https://arxiv.org/abs/2509.16644)|null|
@@ -171,6 +174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Adversarially-Refined VQ-GAN with Dense Motion Tokenization for Spatio-Temporal Heatmaps**|Gabriel Maldonado et.al.|[2509.19252](https://arxiv.org/abs/2509.19252)|null|
+|**2025-09-23**|**Enabling Plant Phenotyping in Weedy Environments using Multi-Modal Imagery via Synthetic and Generated Training Data**|Earl Ranario et.al.|[2509.19208](https://arxiv.org/abs/2509.19208)|null|
+|**2025-09-23**|**Improving Credit Card Fraud Detection through Transformer-Enhanced GAN Oversampling**|Kashaf Ul Emaan et.al.|[2509.19032](https://arxiv.org/abs/2509.19032)|null|
+|**2025-09-23**|**Generative data augmentation for biliary tract detection on intraoperative images**|Cristina Iacono et.al.|[2509.18958](https://arxiv.org/abs/2509.18958)|null|
+|**2025-09-23**|**1-bit RIS-aided Index Modulation with Quantum Annealing**|Ioannis Krikidis et.al.|[2509.18932](https://arxiv.org/abs/2509.18932)|null|
+|**2025-09-23**|**FlowCrypt: Flow-Based Lightweight Encryption with Near-Lossless Recovery for Cloud Photo Privacy**|Xiaohui Yang et.al.|[2509.18696](https://arxiv.org/abs/2509.18696)|null|
+|**2025-09-23**|**Advances in Large Language Models for Medicine**|Zhiyu Kan et.al.|[2509.18690](https://arxiv.org/abs/2509.18690)|null|
+|**2025-09-23**|**SSCM: A Spatial-Semantic Consistent Model for Multi-Contrast MRI Super-Resolution**|Xiaoman Wu et.al.|[2509.18593](https://arxiv.org/abs/2509.18593)|null|
+|**2025-09-23**|**Kernel Variational Inference Flow for Nonlinear Filtering Problem**|Weiye Gan et.al.|[2509.18589](https://arxiv.org/abs/2509.18589)|null|
+|**2025-09-22**|**Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It's Created?**|Ayan Sar et.al.|[2509.18461](https://arxiv.org/abs/2509.18461)|null|
 |**2025-09-22**|**Introduction to the relative Langlands program**|Raphaël Beuzart-Plessis et.al.|[2509.18062](https://arxiv.org/abs/2509.18062)|null|
 |**2025-09-22**|**GAN-Based Multi-Microphone Spatial Target Speaker Extraction**|Shrishti Saha Shetu et.al.|[2509.17741](https://arxiv.org/abs/2509.17741)|null|
 |**2025-09-22**|**VideoArtGS: Building Digital Twins of Articulated Objects from Monocular Video**|Yu Liu et.al.|[2509.17647](https://arxiv.org/abs/2509.17647)|null|
