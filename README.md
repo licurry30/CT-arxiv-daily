@@ -1,4 +1,4 @@
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent**|Xingjian Kang et.al.|[2509.20270](https://arxiv.org/abs/2509.20270)|null|
+|**2025-09-24**|**An Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation**|Kwang-Hyun Uhm et.al.|[2509.20242](https://arxiv.org/abs/2509.20242)|null|
+|**2025-09-24**|**U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT**|Zhi Qin Tan et.al.|[2509.20154](https://arxiv.org/abs/2509.20154)|null|
 |**2025-09-22**|**Neural Network-Driven Direct CBCT-Based Dose Calculation for Head-and-Neck Proton Treatment Planning**|Muheng Li et.al.|[2509.18378](https://arxiv.org/abs/2509.18378)|null|
 |**2025-09-22**|**Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2509.17790](https://arxiv.org/abs/2509.17790)|null|
 |**2025-09-20**|**MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging**|Kacper Marzol et.al.|[2509.16806](https://arxiv.org/abs/2509.16806)|null|
@@ -118,12 +121,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**Joint Channel Estimation and Computation Offloading in Fluid Antenna-assisted MEC Networks**|Ying Ju et.al.|[2509.19340](https://arxiv.org/abs/2509.19340)|null|
 |**2025-09-23**|**A Two-Dimensional Super-Resolution Method for Reconfigurable Intelligent Surface-Assisted Near-Field Localization**|Feng Xi et.al.|[2509.18774](https://arxiv.org/abs/2509.18774)|null|
 |**2025-09-22**|**Measurement Score-Based MRI Reconstruction with Automatic Coil Sensitivity Estimation**|Tingjun Liu et.al.|[2509.18402](https://arxiv.org/abs/2509.18402)|null|
 |**2025-09-22**|**Joint Pilot Allocation and Sequence Design for MIMO-OFDM Systems With Channel Sparsity**|Kabuto Arai et.al.|[2509.17916](https://arxiv.org/abs/2509.17916)|null|
@@ -178,15 +182,24 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](https://arxiv.org/abs/2509.20196)|null|
+|**2025-09-24**|**Generative Model Inversion Through the Lens of the Manifold Hypothesis**|Xiong Peng et.al.|[2509.20177](https://arxiv.org/abs/2509.20177)|null|
+|**2025-09-24**|**Constrained Higher-Order Binary Optimization for Wireless Communications Systems Using Ising Machines**|Gan Zheng et.al.|[2509.20092](https://arxiv.org/abs/2509.20092)|null|
+|**2025-09-24**|**Development of a time calibration system for the KLM upgrade in the Belle II experiment**|Ziyu Liu et.al.|[2509.20029](https://arxiv.org/abs/2509.20029)|null|
+|**2025-09-24**|**Generative Adversarial Networks Applied for Privacy Preservation in Biometric-Based Authentication and Identification**|Lubos Mjachky et.al.|[2509.20024](https://arxiv.org/abs/2509.20024)|null|
+|**2025-09-24**|**GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes**|Guo Chen et.al.|[2509.19937](https://arxiv.org/abs/2509.19937)|null|
+|**2025-09-24**|**An Efficient Conditional Score-based Filter for High Dimensional Nonlinear Filtering Problems**|Zhijun Zeng et.al.|[2509.19816](https://arxiv.org/abs/2509.19816)|null|
+|**2025-09-24**|**StrCGAN: A Generative Framework for Stellar Image Restoration**|Shantanusinh Parmar et.al.|[2509.19805](https://arxiv.org/abs/2509.19805)|null|
+|**2025-09-24**|**Long-Range Dependence in Financial Markets: Empirical Evidence and Generative Modeling Challenges**|Yifan He et.al.|[2509.19663](https://arxiv.org/abs/2509.19663)|null|
 |**2025-09-23**|**Adversarially-Refined VQ-GAN with Dense Motion Tokenization for Spatio-Temporal Heatmaps**|Gabriel Maldonado et.al.|[2509.19252](https://arxiv.org/abs/2509.19252)|null|
 |**2025-09-23**|**Enabling Plant Phenotyping in Weedy Environments using Multi-Modal Imagery via Synthetic and Generated Training Data**|Earl Ranario et.al.|[2509.19208](https://arxiv.org/abs/2509.19208)|null|
-|**2025-09-23**|**Improving Credit Card Fraud Detection through Transformer-Enhanced GAN Oversampling**|Kashaf Ul Emaan et.al.|[2509.19032](https://arxiv.org/abs/2509.19032)|null|
+|**2025-09-24**|**Improving Credit Card Fraud Detection through Transformer-Enhanced GAN Oversampling**|Kashaf Ul Emaan et.al.|[2509.19032](https://arxiv.org/abs/2509.19032)|null|
 |**2025-09-23**|**Generative data augmentation for biliary tract detection on intraoperative images**|Cristina Iacono et.al.|[2509.18958](https://arxiv.org/abs/2509.18958)|null|
 |**2025-09-23**|**1-bit RIS-aided Index Modulation with Quantum Annealing**|Ioannis Krikidis et.al.|[2509.18932](https://arxiv.org/abs/2509.18932)|null|
 |**2025-09-23**|**FlowCrypt: Flow-Based Lightweight Encryption with Near-Lossless Recovery for Cloud Photo Privacy**|Xiaohui Yang et.al.|[2509.18696](https://arxiv.org/abs/2509.18696)|null|
@@ -383,7 +396,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -391,5 +404,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
