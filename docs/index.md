@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Dynamic Heterogeneity and Facilitation in Sheared Granular Materials: Insights from 3D Triaxial Testing**|Kwangmin Lee et.al.|[2509.21156](https://arxiv.org/abs/2509.21156)|null|
 |**2025-09-24**|**Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent**|Xingjian Kang et.al.|[2509.20270](https://arxiv.org/abs/2509.20270)|null|
 |**2025-09-24**|**An Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation**|Kwang-Hyun Uhm et.al.|[2509.20242](https://arxiv.org/abs/2509.20242)|null|
 |**2025-09-24**|**U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT**|Zhi Qin Tan et.al.|[2509.20154](https://arxiv.org/abs/2509.20154)|null|
@@ -119,13 +120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Towards Atoms of Large Language Models**|Chenhui Hu et.al.|[2509.20784](https://arxiv.org/abs/2509.20784)|null|
 |**2025-09-16**|**Joint Channel Estimation and Computation Offloading in Fluid Antenna-assisted MEC Networks**|Ying Ju et.al.|[2509.19340](https://arxiv.org/abs/2509.19340)|null|
 |**2025-09-23**|**A Two-Dimensional Super-Resolution Method for Reconfigurable Intelligent Surface-Assisted Near-Field Localization**|Feng Xi et.al.|[2509.18774](https://arxiv.org/abs/2509.18774)|null|
 |**2025-09-22**|**Measurement Score-Based MRI Reconstruction with Automatic Coil Sensitivity Estimation**|Tingjun Liu et.al.|[2509.18402](https://arxiv.org/abs/2509.18402)|null|
 |**2025-09-22**|**Joint Pilot Allocation and Sequence Design for MIMO-OFDM Systems With Channel Sparsity**|Kabuto Arai et.al.|[2509.17916](https://arxiv.org/abs/2509.17916)|null|
 |**2025-09-22**|**SSNet: Flexible and robust channel extrapolation for fluid antenna systems enabled by an self-supervised learning framework**|Yuan Gao et.al.|[2509.17797](https://arxiv.org/abs/2509.17797)|null|
 |**2025-09-20**|**Miniaturized Computational Dispersion-Engineered Silicon Photonic Vernier Caliper Spectrometer**|Hao Deng et.al.|[2509.16644](https://arxiv.org/abs/2509.16644)|null|
-|**2025-09-18**|**Adversarial generalization of unfolding (model-based) networks**|Vicky Kouni et.al.|[2509.15370](https://arxiv.org/abs/2509.15370)|null|
+|**2025-09-25**|**Adversarial generalization of unfolding (model-based) networks**|Vicky Kouni et.al.|[2509.15370](https://arxiv.org/abs/2509.15370)|null|
 |**2025-09-18**|**To CLEAN or not to CLEAN: Data Processing in the ngVLA era**|Hendrik Müller et.al.|[2509.15176](https://arxiv.org/abs/2509.15176)|null|
 |**2025-09-18**|**Probabilistic and nonlinear compressive sensing**|Lukas Silvester Barth et.al.|[2509.15060](https://arxiv.org/abs/2509.15060)|null|
 |**2025-09-18**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
@@ -178,6 +180,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies**|Shuqiao Liang et.al.|[2509.20890](https://arxiv.org/abs/2509.20890)|null|
+|**2025-09-25**|**Integrating Object Interaction Self-Attention and GAN-Based Debiasing for Visual Question Answering**|Zhifei Li et.al.|[2509.20884](https://arxiv.org/abs/2509.20884)|null|
+|**2025-09-25**|**Measuring LLM Sensitivity in Transformer-based Tabular Data Synthesis**|Maria F. Davila R et.al.|[2509.20768](https://arxiv.org/abs/2509.20768)|null|
+|**2025-09-24**|**Adversarial Defense in Cybersecurity: A Systematic Review of GANs for Threat Detection and Mitigation**|Tharcisse Ndayipfukamiye et.al.|[2509.20411](https://arxiv.org/abs/2509.20411)|null|
 |**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](https://arxiv.org/abs/2509.20196)|null|
 |**2025-09-24**|**Generative Model Inversion Through the Lens of the Manifold Hypothesis**|Xiong Peng et.al.|[2509.20177](https://arxiv.org/abs/2509.20177)|null|
 |**2025-09-24**|**Constrained Higher-Order Binary Optimization for Wireless Communications Systems Using Ising Machines**|Gan Zheng et.al.|[2509.20092](https://arxiv.org/abs/2509.20092)|null|
@@ -185,7 +191,7 @@ layout: default
 |**2025-09-24**|**Generative Adversarial Networks Applied for Privacy Preservation in Biometric-Based Authentication and Identification**|Lubos Mjachky et.al.|[2509.20024](https://arxiv.org/abs/2509.20024)|null|
 |**2025-09-24**|**GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes**|Guo Chen et.al.|[2509.19937](https://arxiv.org/abs/2509.19937)|null|
 |**2025-09-24**|**An Efficient Conditional Score-based Filter for High Dimensional Nonlinear Filtering Problems**|Zhijun Zeng et.al.|[2509.19816](https://arxiv.org/abs/2509.19816)|null|
-|**2025-09-24**|**StrCGAN: A Generative Framework for Stellar Image Restoration**|Shantanusinh Parmar et.al.|[2509.19805](https://arxiv.org/abs/2509.19805)|null|
+|**2025-09-25**|**StrCGAN: A Generative Framework for Stellar Image Restoration**|Shantanusinh Parmar et.al.|[2509.19805](https://arxiv.org/abs/2509.19805)|null|
 |**2025-09-24**|**Long-Range Dependence in Financial Markets: Empirical Evidence and Generative Modeling Challenges**|Yifan He et.al.|[2509.19663](https://arxiv.org/abs/2509.19663)|null|
 |**2025-09-23**|**Adversarially-Refined VQ-GAN with Dense Motion Tokenization for Spatio-Temporal Heatmaps**|Gabriel Maldonado et.al.|[2509.19252](https://arxiv.org/abs/2509.19252)|null|
 |**2025-09-23**|**Enabling Plant Phenotyping in Weedy Environments using Multi-Modal Imagery via Synthetic and Generated Training Data**|Earl Ranario et.al.|[2509.19208](https://arxiv.org/abs/2509.19208)|null|
