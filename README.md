@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Organ dose optimization for a point-of-care forearm X-ray photon-counting CT**|Pierre-Antoine Rodesch et.al.|[2509.22488](https://arxiv.org/abs/2509.22488)|null|
+|**2025-09-26**|**Comparative Analysis of GAN and Diffusion for MRI-to-CT translation**|Emily Honey et.al.|[2509.22049](https://arxiv.org/abs/2509.22049)|null|
+|**2025-09-26**|**EqDiff-CT: Equivariant Conditional Diffusion model for CT Image Synthesis from CBCT**|Alzahra Altalib et.al.|[2509.21913](https://arxiv.org/abs/2509.21913)|null|
+|**2025-09-25**|**Automated and Interpretable Survival Analysis from Multimodal Data**|Mafalda Malafaia et.al.|[2509.21600](https://arxiv.org/abs/2509.21600)|null|
 |**2025-09-25**|**Dynamic Heterogeneity and Facilitation in Sheared Granular Materials: Insights from 3D Triaxial Testing**|Kwangmin Lee et.al.|[2509.21156](https://arxiv.org/abs/2509.21156)|null|
 |**2025-09-24**|**Scan-do Attitude: Towards Autonomous CT Protocol Management using a Large Language Model Agent**|Xingjian Kang et.al.|[2509.20270](https://arxiv.org/abs/2509.20270)|null|
 |**2025-09-24**|**An Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation**|Kwang-Hyun Uhm et.al.|[2509.20242](https://arxiv.org/abs/2509.20242)|null|
@@ -190,6 +194,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Bézier Meets Diffusion: Robust Generation Across Domains for Medical Image Segmentation**|Chen Li et.al.|[2509.22476](https://arxiv.org/abs/2509.22476)|null|
+|**2025-09-26**|**Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)**|Nikita Kornilov et.al.|[2509.22459](https://arxiv.org/abs/2509.22459)|null|
+|**2025-09-26**|**DragGANSpace: Latent Space Exploration and Control for GANs**|Kirsten Odendaal et.al.|[2509.22169](https://arxiv.org/abs/2509.22169)|null|
+|**2025-09-26**|**SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection**|Inzamamul Alam et.al.|[2509.22070](https://arxiv.org/abs/2509.22070)|null|
+|**2025-09-26**|**Comparative Analysis of GAN and Diffusion for MRI-to-CT translation**|Emily Honey et.al.|[2509.22049](https://arxiv.org/abs/2509.22049)|null|
+|**2025-09-26**|**Latent Diffusion : Multi-Dimension Stable Diffusion Latent Space Explorer**|Zhihua Zhong et.al.|[2509.22038](https://arxiv.org/abs/2509.22038)|null|
+|**2025-09-26**|**Electric-field effect on spin diffusion length in solids: An \textit{ab initio} study beyond the drift-diffusion model**|Junqing Xu et.al.|[2509.21962](https://arxiv.org/abs/2509.21962)|null|
+|**2025-09-25**|**A comprehensive equivalent circuit model for high overtone bulk acoustic resonators (HBARs)**|Vikrant J. Gokhale et.al.|[2509.21640](https://arxiv.org/abs/2509.21640)|null|
+|**2025-09-25**|**Score-based Idempotent Distillation of Diffusion Models**|Shehtab Zaman et.al.|[2509.21470](https://arxiv.org/abs/2509.21470)|null|
 |**2025-09-25**|**FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies**|Shuqiao Liang et.al.|[2509.20890](https://arxiv.org/abs/2509.20890)|null|
 |**2025-09-25**|**Integrating Object Interaction Self-Attention and GAN-Based Debiasing for Visual Question Answering**|Zhifei Li et.al.|[2509.20884](https://arxiv.org/abs/2509.20884)|null|
 |**2025-09-25**|**Measuring LLM Sensitivity in Transformer-based Tabular Data Synthesis**|Maria F. Davila R et.al.|[2509.20768](https://arxiv.org/abs/2509.20768)|null|
