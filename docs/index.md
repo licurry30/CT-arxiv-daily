@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Tumor Synthesis conditioned on Radiomics**|Jonghun Kim et.al.|[2509.24182](https://arxiv.org/abs/2509.24182)|null|
+|**2025-09-28**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
+|**2025-09-28**|**MAN: Latent Diffusion Enhanced Multistage Anti-Noise Network for Efficient and High-Quality Low-Dose CT Image Denoising**|Tangtangfang Fang et.al.|[2509.23603](https://arxiv.org/abs/2509.23603)|null|
+|**2025-09-27**|**Imaging-Based Mortality Prediction in Patients with Systemic Sclerosis**|Alec K. Peltekian et.al.|[2509.23530](https://arxiv.org/abs/2509.23530)|null|
+|**2025-09-27**|**Benchmarking DINOv3 for Multi-Task Stroke Analysis on Non-Contrast CT**|Donghao Zhang et.al.|[2509.23132](https://arxiv.org/abs/2509.23132)|null|
+|**2025-09-27**|**Correlative 3D Mapping of Structure, Composition, and Valence State Dynamics in Battery Cathodes via Simultaneous ADF-EDS-EELS Tomography**|Jaewhan Oh et.al.|[2509.23034](https://arxiv.org/abs/2509.23034)|null|
+|**2025-09-27**|**Perceptual Influence: Improving the Perceptual Loss Design for Low-Dose CT Enhancement**|Gabriel A. Viana et.al.|[2509.23025](https://arxiv.org/abs/2509.23025)|null|
+|**2025-09-26**|**Hemorica: A Comprehensive CT Scan Dataset for Automated Brain Hemorrhage Classification, Segmentation, and Detection**|Kasra Davoodi et.al.|[2509.22993](https://arxiv.org/abs/2509.22993)|null|
 |**2025-09-26**|**Organ dose optimization for a point-of-care forearm X-ray photon-counting CT**|Pierre-Antoine Rodesch et.al.|[2509.22488](https://arxiv.org/abs/2509.22488)|null|
 |**2025-09-26**|**Comparative Analysis of GAN and Diffusion for MRI-to-CT translation**|Emily Honey et.al.|[2509.22049](https://arxiv.org/abs/2509.22049)|null|
 |**2025-09-26**|**EqDiff-CT: Equivariant Conditional Diffusion model for CT Image Synthesis from CBCT**|Alzahra Altalib et.al.|[2509.21913](https://arxiv.org/abs/2509.21913)|null|
@@ -124,6 +132,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime**|Leonardo Defilippis et.al.|[2509.24882](https://arxiv.org/abs/2509.24882)|null|
+|**2025-09-29**|**A Review of Light-Field Imaging in Biomedical Sciences**|Ruixuan Zhao et.al.|[2509.24191](https://arxiv.org/abs/2509.24191)|null|
+|**2025-09-28**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
 |**2025-09-25**|**Towards Atoms of Large Language Models**|Chenhui Hu et.al.|[2509.20784](https://arxiv.org/abs/2509.20784)|null|
 |**2025-09-16**|**Joint Channel Estimation and Computation Offloading in Fluid Antenna-assisted MEC Networks**|Ying Ju et.al.|[2509.19340](https://arxiv.org/abs/2509.19340)|null|
 |**2025-09-23**|**A Two-Dimensional Super-Resolution Method for Reconfigurable Intelligent Surface-Assisted Near-Field Localization**|Feng Xi et.al.|[2509.18774](https://arxiv.org/abs/2509.18774)|null|
@@ -184,6 +195,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Scaling Synthetic Task Generation for Agents via Exploration**|Ram Ramrakhya et.al.|[2509.25047](https://arxiv.org/abs/2509.25047)|null|
+|**2025-09-29**|**On-the-Fly Data Augmentation for Brain Tumor Segmentation**|Ishika Jain et.al.|[2509.24973](https://arxiv.org/abs/2509.24973)|null|
+|**2025-09-29**|**VIVALDy: A Hybrid Generative Reduced-Order Model for Turbulent Flows, Applied to Vortex-Induced Vibrations**|Niccolò Tonioni et.al.|[2509.24965](https://arxiv.org/abs/2509.24965)|null|
+|**2025-09-29**|**Scalable GANs with Transformers**|Sangeek Hyun et.al.|[2509.24935](https://arxiv.org/abs/2509.24935)|null|
+|**2025-09-29**|**Precision calculation of  $^3$ He $(α,γ)^7$ Be for solar physics**|Ratna Khadka et.al.|[2509.24931](https://arxiv.org/abs/2509.24931)|null|
+|**2025-09-29**|**VAGUEGAN: Stealthy Poisoning and Backdoor Attacks on Image Generative Pipelines**|Mostafa Mohaimen Akand Faisal et.al.|[2509.24891](https://arxiv.org/abs/2509.24891)|null|
+|**2025-09-29**|**MMRQA: Signal-Enhanced Multimodal Large Language Models for MRI Quality Assessment**|Fankai Jia et.al.|[2509.24888](https://arxiv.org/abs/2509.24888)|null|
+|**2025-09-29**|**ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation**|Jiuhong Xiao et.al.|[2509.24878](https://arxiv.org/abs/2509.24878)|null|
+|**2025-09-29**|**Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning**|Kunyu Wu et.al.|[2509.24819](https://arxiv.org/abs/2509.24819)|null|
+|**2025-09-29**|**Fabrication of hydrogen-bonded metal inorganic-organic complex glasses by ligand-tuning approach**|Tianzhao Xu et.al.|[2509.24755](https://arxiv.org/abs/2509.24755)|null|
+|**2025-09-29**|**U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation**|Linzhi Wu et.al.|[2509.24579](https://arxiv.org/abs/2509.24579)|null|
+|**2025-09-29**|**An Agent-Based Framework for Automated Higher-Voice Harmony Generation**|Nia D'Souza Ganapathy et.al.|[2509.24463](https://arxiv.org/abs/2509.24463)|null|
+|**2025-09-29**|**Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning**|Xin Qiu et.al.|[2509.24372](https://arxiv.org/abs/2509.24372)|null|
+|**2025-09-29**|**From Satellite to Street: A Hybrid Framework Integrating Stable Diffusion and PanoGAN for Consistent Cross-View Synthesis**|Khawlah Bajbaa et.al.|[2509.24369](https://arxiv.org/abs/2509.24369)|null|
+|**2025-09-29**|**Wavelet-Assisted Mamba for Satellite-Derived Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2509.24334](https://arxiv.org/abs/2509.24334)|null|
+|**2025-09-29**|**High-Precision Temperature Estimation Based on Magnetic Nanoparticles Dominated by Brownian Relaxation under Combined AC and DC Magnetic Fields**|Zhongzhou Du et.al.|[2509.24301](https://arxiv.org/abs/2509.24301)|null|
+|**2025-09-29**|**The role of the solid-melt interface in accelerating the self-catalyzed growth kinetics of III-V semiconductors**|Zhucong Xi et.al.|[2509.24206](https://arxiv.org/abs/2509.24206)|null|
+|**2025-09-29**|**Tumor Synthesis conditioned on Radiomics**|Jonghun Kim et.al.|[2509.24182](https://arxiv.org/abs/2509.24182)|null|
+|**2025-09-29**|**LatXGen: Towards Radiation-Free and Accurate Quantitative Analysis of Sagittal Spinal Alignment Via Cross-Modal Radiographic View Synthesis**|Moxin Zhao et.al.|[2509.24165](https://arxiv.org/abs/2509.24165)|null|
+|**2025-09-28**|**GANji: A Framework for Introductory AI Image Generation**|Chandon Hamel et.al.|[2509.24128](https://arxiv.org/abs/2509.24128)|null|
 |**2025-09-26**|**Bézier Meets Diffusion: Robust Generation Across Domains for Medical Image Segmentation**|Chen Li et.al.|[2509.22476](https://arxiv.org/abs/2509.22476)|null|
 |**2025-09-26**|**Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)**|Nikita Kornilov et.al.|[2509.22459](https://arxiv.org/abs/2509.22459)|null|
 |**2025-09-26**|**DragGANSpace: Latent Space Exploration and Control for GANs**|Kirsten Odendaal et.al.|[2509.22169](https://arxiv.org/abs/2509.22169)|null|
