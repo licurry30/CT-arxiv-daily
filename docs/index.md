@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -200,7 +200,7 @@ layout: default
 |**2025-09-30**|**Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**|Yuansen Liu et.al.|[2509.26165](https://arxiv.org/abs/2509.26165)|null|
 |**2025-09-30**|**Reevaluating Convolutional Neural Networks for Spectral Analysis: A Focus on Raman Spectroscopy**|Deniz Soysal et.al.|[2509.25964](https://arxiv.org/abs/2509.25964)|null|
 |**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](https://arxiv.org/abs/2509.25896)|null|
-|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](https://arxiv.org/abs/2509.25889)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](https://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al.|[2509.25792](https://arxiv.org/abs/2509.25792)|null|
 |**2025-09-30**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al.|[2509.25612](https://arxiv.org/abs/2509.25612)|null|
 |**2025-09-29**|**Scaling Synthetic Task Generation for Agents via Exploration**|Ram Ramrakhya et.al.|[2509.25047](https://arxiv.org/abs/2509.25047)|null|
@@ -214,7 +214,7 @@ layout: default
 |**2025-09-29**|**Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning**|Kunyu Wu et.al.|[2509.24819](https://arxiv.org/abs/2509.24819)|null|
 |**2025-09-29**|**Fabrication of hydrogen-bonded metal inorganic-organic complex glasses by ligand-tuning approach**|Tianzhao Xu et.al.|[2509.24755](https://arxiv.org/abs/2509.24755)|null|
 |**2025-09-29**|**U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation**|Linzhi Wu et.al.|[2509.24579](https://arxiv.org/abs/2509.24579)|null|
-|**2025-09-29**|**An Agent-Based Framework for Automated Higher-Voice Harmony Generation**|Nia D'Souza Ganapathy et.al.|[2509.24463](https://arxiv.org/abs/2509.24463)|null|
+|**2025-10-01**|**An Agent-Based Framework for Automated Higher-Voice Harmony Generation**|Nia D'Souza Ganapathy et.al.|[2509.24463](https://arxiv.org/abs/2509.24463)|null|
 |**2025-09-29**|**Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning**|Xin Qiu et.al.|[2509.24372](https://arxiv.org/abs/2509.24372)|null|
 |**2025-09-29**|**From Satellite to Street: A Hybrid Framework Integrating Stable Diffusion and PanoGAN for Consistent Cross-View Synthesis**|Khawlah Bajbaa et.al.|[2509.24369](https://arxiv.org/abs/2509.24369)|null|
 |**2025-09-29**|**Wavelet-Assisted Mamba for Satellite-Derived Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2509.24334](https://arxiv.org/abs/2509.24334)|null|
