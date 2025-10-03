@@ -1,4 +1,4 @@
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](https://arxiv.org/abs/2510.01608)|null|
+|**2025-10-01**|**Using Aberrations to Improve Dose-Efficient Tilt-corrected 4D-STEM Imaging**|Desheng Ma et.al.|[2510.01493](https://arxiv.org/abs/2510.01493)|null|
+|**2025-10-01**|**Full-Field Brillouin Microscopy with a Scanning Fabry-Perot Interferometer**|Mikolaj Pochylski et.al.|[2510.00700](https://arxiv.org/abs/2510.00700)|null|
+|**2025-10-02**|**Improving Virtual Contrast Enhancement using Longitudinal Data**|Pierre Fayolle et.al.|[2510.00418](https://arxiv.org/abs/2510.00418)|null|
+|**2025-09-29**|**Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging**|Abdul Rahman et.al.|[2510.00061](https://arxiv.org/abs/2510.00061)|null|
 |**2025-09-29**|**Tumor Synthesis conditioned on Radiomics**|Jonghun Kim et.al.|[2509.24182](https://arxiv.org/abs/2509.24182)|null|
 |**2025-09-28**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
 |**2025-09-28**|**MAN: Latent Diffusion Enhanced Multistage Anti-Noise Network for Efficient and High-Quality Low-Dose CT Image Denoising**|Tangtangfang Fang et.al.|[2509.23603](https://arxiv.org/abs/2509.23603)|null|
@@ -134,12 +139,15 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](https://arxiv.org/abs/2510.01912)|null|
+|**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](https://arxiv.org/abs/2510.01608)|null|
+|**2025-10-02**|**Equivariant Splitting: Self-supervised learning from incomplete data**|Victor Sechaud et.al.|[2510.00929](https://arxiv.org/abs/2510.00929)|null|
 |**2025-09-29**|**Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime**|Leonardo Defilippis et.al.|[2509.24882](https://arxiv.org/abs/2509.24882)|null|
 |**2025-09-29**|**A Review of Light-Field Imaging in Biomedical Sciences**|Ruixuan Zhao et.al.|[2509.24191](https://arxiv.org/abs/2509.24191)|null|
 |**2025-09-28**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
@@ -199,17 +207,32 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Zhaoyi Li et.al.|[2510.02081](https://arxiv.org/abs/2510.02081)|null|
+|**2025-10-02**|**ZK-WAGON: Imperceptible Watermark for Image Generation Models using ZK-SNARKs**|Aadarsh Anantha Ramakrishnan et.al.|[2510.01967](https://arxiv.org/abs/2510.01967)|null|
+|**2025-10-02**|**NGGAN: Noise Generation GAN Based on the Practical Measurement Dataset for Narrowband Powerline Communications**|Ying-Ren Chien et.al.|[2510.01850](https://arxiv.org/abs/2510.01850)|null|
+|**2025-10-02**|**Edge GPU Aware Multiple AI Model Pipeline for Accelerated MRI Reconstruction and Analysis**|Ashiyana Abdul Majeed et.al.|[2510.01730](https://arxiv.org/abs/2510.01730)|null|
+|**2025-10-02**|**Securing generative artificial intelligence with parallel magnetic tunnel junction true randomness**|Youwei Bao et.al.|[2510.01598](https://arxiv.org/abs/2510.01598)|null|
+|**2025-10-01**|**Multi-Marginal Flow Matching with Adversarially Learnt Interpolants**|Oskar Kviman et.al.|[2510.01159](https://arxiv.org/abs/2510.01159)|null|
+|**2025-10-01**|**A Robust Proactive Communication Strategy for Distributed Active Noise Control Systems**|Junwei Ji et.al.|[2510.00934](https://arxiv.org/abs/2510.00934)|null|
+|**2025-10-01**|**Target Population Synthesis using CT-GAN**|Tanay Rastogi et.al.|[2510.00871](https://arxiv.org/abs/2510.00871)|null|
+|**2025-10-01**|**Population Synthesis using Incomplete Information**|Tanay Rastogi et.al.|[2510.00859](https://arxiv.org/abs/2510.00859)|null|
+|**2025-10-01**|**Enhancement of the WS $_2$  A $_{1\text{g}}$  Raman Mode in MoS $_2$ /WS $_2$  Heterostructures**|Annika Bergmann-Iwe et.al.|[2510.00785](https://arxiv.org/abs/2510.00785)|null|
+|**2025-10-01**|**Color2Struct: efficient and accurate deep-learning inverse design of structural color with controllable inference**|Sichao Shan et.al.|[2510.00767](https://arxiv.org/abs/2510.00767)|null|
+|**2025-10-01**|**UCD: Unconditional Discriminator Promotes Nash Equilibrium in GANs**|Mengfei Xia et.al.|[2510.00624](https://arxiv.org/abs/2510.00624)|null|
+|**2025-10-01**|**Sentry: Authenticating Machine Learning Artifacts on the Fly**|Andrew Gan et.al.|[2510.00554](https://arxiv.org/abs/2510.00554)|null|
+|**2025-10-01**|**On-the-Fly Data Augmentation via Gradient-Guided and Sample-Aware Influence Estimation**|Suorong Yang et.al.|[2510.00434](https://arxiv.org/abs/2510.00434)|null|
+|**2025-09-30**|**Exotic PeVatrons as sources of ultra-high-energy gamma rays**|Andrea Addazi et.al.|[2510.00254](https://arxiv.org/abs/2510.00254)|null|
 |**2025-09-30**|**Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents**|Zhen Yang et.al.|[2509.26539](https://arxiv.org/abs/2509.26539)|null|
 |**2025-09-30**|**Stab-QRAM: An All-Clifford Quantum Random Access Memory for Special Data**|Guangyi Li et.al.|[2509.26494](https://arxiv.org/abs/2509.26494)|null|
 |**2025-09-30**|**Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**|Yuansen Liu et.al.|[2509.26165](https://arxiv.org/abs/2509.26165)|null|
 |**2025-09-30**|**Reevaluating Convolutional Neural Networks for Spectral Analysis: A Focus on Raman Spectroscopy**|Deniz Soysal et.al.|[2509.25964](https://arxiv.org/abs/2509.25964)|null|
-|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](https://arxiv.org/abs/2509.25896)|null|
+|**2025-10-01**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](https://arxiv.org/abs/2509.25896)|null|
 |**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](https://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al.|[2509.25792](https://arxiv.org/abs/2509.25792)|null|
 |**2025-09-30**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al.|[2509.25612](https://arxiv.org/abs/2509.25612)|null|
@@ -454,7 +477,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -462,5 +485,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
