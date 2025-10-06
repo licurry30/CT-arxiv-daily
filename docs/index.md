@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus**|Ming Zhao et.al.|[2510.03160](https://arxiv.org/abs/2510.03160)|null|
 |**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](https://arxiv.org/abs/2510.01608)|null|
 |**2025-10-01**|**Using Aberrations to Improve Dose-Efficient Tilt-corrected 4D-STEM Imaging**|Desheng Ma et.al.|[2510.01493](https://arxiv.org/abs/2510.01493)|null|
 |**2025-10-01**|**Full-Field Brillouin Microscopy with a Scanning Fabry-Perot Interferometer**|Mikolaj Pochylski et.al.|[2510.00700](https://arxiv.org/abs/2510.00700)|null|
@@ -137,9 +138,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Compressed Multiband Sensing in FR3 Using Alternating Direction Method of Multipliers**|Dexin Wang et.al.|[2510.03055](https://arxiv.org/abs/2510.03055)|null|
+|**2025-10-03**|**Integrated Sensing, Communication, and Positioning in Cellular Vehicular Networks**|Xin Tong et.al.|[2510.02939](https://arxiv.org/abs/2510.02939)|null|
+|**2025-10-03**|**A Statistical Method for Attack-Agnostic Adversarial Attack Detection with Compressive Sensing Comparison**|Chinthana Wimalasuriya et.al.|[2510.02707](https://arxiv.org/abs/2510.02707)|null|
 |**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](https://arxiv.org/abs/2510.01912)|null|
 |**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](https://arxiv.org/abs/2510.01608)|null|
-|**2025-10-02**|**Equivariant Splitting: Self-supervised learning from incomplete data**|Victor Sechaud et.al.|[2510.00929](https://arxiv.org/abs/2510.00929)|null|
+|**2025-10-03**|**Equivariant Splitting: Self-supervised learning from incomplete data**|Victor Sechaud et.al.|[2510.00929](https://arxiv.org/abs/2510.00929)|null|
 |**2025-09-29**|**Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime**|Leonardo Defilippis et.al.|[2509.24882](https://arxiv.org/abs/2509.24882)|null|
 |**2025-09-29**|**A Review of Light-Field Imaging in Biomedical Sciences**|Ruixuan Zhao et.al.|[2509.24191](https://arxiv.org/abs/2509.24191)|null|
 |**2025-09-28**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
@@ -203,6 +207,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Physics-Constrained Inc-GAN for Tunnel Propagation Modeling from Sparse Line Measurements**|Yang Zhou et.al.|[2510.03019](https://arxiv.org/abs/2510.03019)|null|
+|**2025-10-03**|**PGMEL: Policy Gradient-based Generative Adversarial Network for Multimodal Entity Linking**|KM Pooja et.al.|[2510.02726](https://arxiv.org/abs/2510.02726)|null|
+|**2025-10-03**|**TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer**|Jacob Feitelberg et.al.|[2510.02625](https://arxiv.org/abs/2510.02625)|null|
+|**2025-10-02**|**Extreme value forecasting using relevance-based data augmentation with deep learning models**|Junru Hua et.al.|[2510.02407](https://arxiv.org/abs/2510.02407)|null|
 |**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Zhaoyi Li et.al.|[2510.02081](https://arxiv.org/abs/2510.02081)|null|
 |**2025-10-02**|**ZK-WAGON: Imperceptible Watermark for Image Generation Models using ZK-SNARKs**|Aadarsh Anantha Ramakrishnan et.al.|[2510.01967](https://arxiv.org/abs/2510.01967)|null|
 |**2025-10-02**|**NGGAN: Noise Generation GAN Based on the Practical Measurement Dataset for Narrowband Powerline Communications**|Ying-Ren Chien et.al.|[2510.01850](https://arxiv.org/abs/2510.01850)|null|
