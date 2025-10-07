@@ -1,4 +1,4 @@
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
+|**2025-10-03**|**Immersive Mixed Reality Simulator for CT Scan Preparation: Enhancing Patient Emotional and Physical Readiness**|Alex Smith et.al.|[2510.03526](https://arxiv.org/abs/2510.03526)|null|
+|**2025-10-03**|**Application of a Virtual Imaging Framework for Investigating a Deep Learning-Based Reconstruction Method for 3D Quantitative Photoacoustic Computed Tomography**|Refik Mert Cam et.al.|[2510.03431](https://arxiv.org/abs/2510.03431)|null|
 |**2025-10-03**|**SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus**|Ming Zhao et.al.|[2510.03160](https://arxiv.org/abs/2510.03160)|null|
 |**2025-10-02**|**NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems**|Roman Jacome et.al.|[2510.01608](https://arxiv.org/abs/2510.01608)|null|
 |**2025-10-01**|**Using Aberrations to Improve Dose-Efficient Tilt-corrected 4D-STEM Imaging**|Desheng Ma et.al.|[2510.01493](https://arxiv.org/abs/2510.01493)|null|
@@ -140,12 +143,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
 |**2025-10-03**|**Compressed Multiband Sensing in FR3 Using Alternating Direction Method of Multipliers**|Dexin Wang et.al.|[2510.03055](https://arxiv.org/abs/2510.03055)|null|
 |**2025-10-03**|**Integrated Sensing, Communication, and Positioning in Cellular Vehicular Networks**|Xin Tong et.al.|[2510.02939](https://arxiv.org/abs/2510.02939)|null|
 |**2025-10-03**|**A Statistical Method for Attack-Agnostic Adversarial Attack Detection with Compressive Sensing Comparison**|Chinthana Wimalasuriya et.al.|[2510.02707](https://arxiv.org/abs/2510.02707)|null|
@@ -211,12 +215,27 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](https://arxiv.org/abs/2510.04999)|null|
+|**2025-10-06**|**SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization**|Théophane Vallaeys et.al.|[2510.04961](https://arxiv.org/abs/2510.04961)|null|
+|**2025-10-06**|**SONA: Learning Conditional, Unconditional, and Mismatching-Aware Discriminator**|Yuhta Takida et.al.|[2510.04576](https://arxiv.org/abs/2510.04576)|null|
+|**2025-10-05**|**On the Origin of Carrier Loss in Mg-Doped N-Polar GaN**|Masahiro Kamiyama et.al.|[2510.04381](https://arxiv.org/abs/2510.04381)|null|
+|**2025-10-05**|**The best performance in the CARE 2025 -- Liver Task (LiSeg-Contrast): Contrast-Aware Semi-Supervised Segmentation with Domain Generalization and Test-Time Adaptation**|Jincan Lou et.al.|[2510.04243](https://arxiv.org/abs/2510.04243)|null|
+|**2025-10-05**|**Relief of EGFR/FOS-downregulated miR-103a by loganin alleviates NF-kappaB-triggered inflammation and gut barrier disruption in colitis**|Yan Li et.al.|[2510.04176](https://arxiv.org/abs/2510.04176)|null|
+|**2025-10-05**|**Dual Pruning and Sorting-Free Overestimation for Average-Utility Sequential Pattern Mining**|Kai Cao et.al.|[2510.04014](https://arxiv.org/abs/2510.04014)|null|
+|**2025-10-04**|**Super-resolution image projection over an extended depth of field using a diffractive decoder**|Hanlong Chen et.al.|[2510.03938](https://arxiv.org/abs/2510.03938)|null|
+|**2025-10-04**|**Adversarial Agent Collaboration for C to Rust Translation**|Tianyu Li et.al.|[2510.03879](https://arxiv.org/abs/2510.03879)|null|
+|**2025-10-04**|**SDAKD: Student Discriminator Assisted Knowledge Distillation for Super-Resolution Generative Adversarial Networks**|Nikolaos Kaparinos et.al.|[2510.03870](https://arxiv.org/abs/2510.03870)|null|
+|**2025-10-04**|**XG-Attention-WGAN PIC: Utilizing XGboost-Attention-WGAN for Photonics Integrated Circuit Design**|Mahmood Hasani et.al.|[2510.03651](https://arxiv.org/abs/2510.03651)|null|
+|**2025-10-04**|**Towards Unsupervised Speech Recognition at the Syllable-Level**|Liming Wang et.al.|[2510.03639](https://arxiv.org/abs/2510.03639)|null|
+|**2025-10-03**|**Is it Bigger than a Breadbox: Efficient Cardinality Estimation for Real World Workloads**|Zixuan Yi et.al.|[2510.03386](https://arxiv.org/abs/2510.03386)|null|
+|**2025-10-03**|**Conditional Pseudo-Supervised Contrast for Data-Free Knowledge Distillation**|Renrong Shao et.al.|[2510.03375](https://arxiv.org/abs/2510.03375)|null|
+|**2025-10-03**|**Diffusion-Based, Data-Assimilation-Enabled Super-Resolution of Hub-height Winds**|Xiaolong Ma et.al.|[2510.03364](https://arxiv.org/abs/2510.03364)|null|
 |**2025-10-03**|**Physics-Constrained Inc-GAN for Tunnel Propagation Modeling from Sparse Line Measurements**|Yang Zhou et.al.|[2510.03019](https://arxiv.org/abs/2510.03019)|null|
 |**2025-10-03**|**PGMEL: Policy Gradient-based Generative Adversarial Network for Multimodal Entity Linking**|KM Pooja et.al.|[2510.02726](https://arxiv.org/abs/2510.02726)|null|
 |**2025-10-03**|**TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer**|Jacob Feitelberg et.al.|[2510.02625](https://arxiv.org/abs/2510.02625)|null|
@@ -485,7 +504,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -493,5 +512,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
