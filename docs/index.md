@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**A public cardiac CT dataset featuring the left atrial appendage**|Bjoern Hansen et.al.|[2510.06090](https://arxiv.org/abs/2510.06090)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
 |**2025-10-03**|**Immersive Mixed Reality Simulator for CT Scan Preparation: Enhancing Patient Emotional and Physical Readiness**|Alex Smith et.al.|[2510.03526](https://arxiv.org/abs/2510.03526)|null|
 |**2025-10-03**|**Application of a Virtual Imaging Framework for Investigating a Deep Learning-Based Reconstruction Method for 3D Quantitative Photoacoustic Computed Tomography**|Refik Mert Cam et.al.|[2510.03431](https://arxiv.org/abs/2510.03431)|null|
@@ -211,6 +212,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Diffusion Models for Low-Light Image Enhancement: A Multi-Perspective Taxonomy and Performance Analysis**|Eashan Adhikarla et.al.|[2510.05976](https://arxiv.org/abs/2510.05976)|null|
+|**2025-10-07**|** $\bf{D^3}$ QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection**|Yanran Zhang et.al.|[2510.05891](https://arxiv.org/abs/2510.05891)|null|
+|**2025-10-07**|**RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**|Lang Qin et.al.|[2510.05764](https://arxiv.org/abs/2510.05764)|null|
+|**2025-10-07**|**DiffSDA: Unsupervised Diffusion Sequential Disentanglement Across Modalities**|Hedi Zisling et.al.|[2510.05717](https://arxiv.org/abs/2510.05717)|null|
 |**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](https://arxiv.org/abs/2510.04999)|null|
 |**2025-10-06**|**SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization**|Théophane Vallaeys et.al.|[2510.04961](https://arxiv.org/abs/2510.04961)|null|
 |**2025-10-06**|**SONA: Learning Conditional, Unconditional, and Mismatching-Aware Discriminator**|Yuhta Takida et.al.|[2510.04576](https://arxiv.org/abs/2510.04576)|null|
