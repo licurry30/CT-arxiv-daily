@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-01**|**Neu-RadBERT for Enhanced Diagnosis of Brain Injuries and Conditions**|Manpreet Singh et.al.|[2510.06232](https://arxiv.org/abs/2510.06232)|null|
 |**2025-10-07**|**A public cardiac CT dataset featuring the left atrial appendage**|Bjoern Hansen et.al.|[2510.06090](https://arxiv.org/abs/2510.06090)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
 |**2025-10-03**|**Immersive Mixed Reality Simulator for CT Scan Preparation: Enhancing Patient Emotional and Physical Readiness**|Alex Smith et.al.|[2510.03526](https://arxiv.org/abs/2510.03526)|null|
@@ -212,6 +213,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**|Jiaben Chen et.al.|[2510.07249](https://arxiv.org/abs/2510.07249)|null|
+|**2025-10-07**|**RGBD Gaze Tracking Using Transformer for Feature Fusion**|Tobias J. Bauer et.al.|[2510.06298](https://arxiv.org/abs/2510.06298)|null|
+|**2025-10-06**|**Improving the Spatial Resolution of GONG Solar Images to GST Quality Using Deep Learning**|Chenyang Li et.al.|[2510.06281](https://arxiv.org/abs/2510.06281)|null|
+|**2025-10-06**|**RareGraph-Synth: Knowledge-Guided Diffusion Models for Generating Privacy-Preserving Synthetic Patient Trajectories in Ultra-Rare Diseases**|Khartik Uppalapati et.al.|[2510.06267](https://arxiv.org/abs/2510.06267)|null|
 |**2025-10-07**|**Diffusion Models for Low-Light Image Enhancement: A Multi-Perspective Taxonomy and Performance Analysis**|Eashan Adhikarla et.al.|[2510.05976](https://arxiv.org/abs/2510.05976)|null|
 |**2025-10-07**|** $\bf{D^3}$ QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection**|Yanran Zhang et.al.|[2510.05891](https://arxiv.org/abs/2510.05891)|null|
 |**2025-10-07**|**RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**|Lang Qin et.al.|[2510.05764](https://arxiv.org/abs/2510.05764)|null|
