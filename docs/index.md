@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Random Window Augmentations for Deep Learning Robustness in CT and Liver Tumor Segmentation**|Eirik A. Østmo et.al.|[2510.08116](https://arxiv.org/abs/2510.08116)|null|
+|**2025-10-08**|**A Denoising Framework for Real-World Ultra-Low Dose Lung CT Images Based on an Image Purification Strategy**|Guoliang Gong et.al.|[2510.07492](https://arxiv.org/abs/2510.07492)|null|
+|**2025-10-07**|**Learning from Limited Multi-Phase CT: Dual-Branch Prototype-Guided Framework for Early Recurrence Prediction in HCC**|Hsin-Pei Yu et.al.|[2510.07347](https://arxiv.org/abs/2510.07347)|null|
 |**2025-10-01**|**Neu-RadBERT for Enhanced Diagnosis of Brain Injuries and Conditions**|Manpreet Singh et.al.|[2510.06232](https://arxiv.org/abs/2510.06232)|null|
 |**2025-10-07**|**A public cardiac CT dataset featuring the left atrial appendage**|Bjoern Hansen et.al.|[2510.06090](https://arxiv.org/abs/2510.06090)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
@@ -213,6 +216,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency**|Kaiwen Zheng et.al.|[2510.08431](https://arxiv.org/abs/2510.08431)|null|
+|**2025-10-09**|**Multi-Agent Analysis of Off-Exchange Public Information for Cryptocurrency Market Trend Prediction**|Kairan Hong et.al.|[2510.08268](https://arxiv.org/abs/2510.08268)|null|
+|**2025-10-09**|**Prepared mind, fast response: A temporal decoupling framework for adaptive knowledge orchestration in open-domain dialogue**|Jinling Gan et.al.|[2510.08175](https://arxiv.org/abs/2510.08175)|null|
+|**2025-10-09**|**Adaptive Optimizable Gaussian Process Regression Linear Least Squares Regression Filtering Method for SEM Images**|D. Chee Yong Ong et.al.|[2510.07895](https://arxiv.org/abs/2510.07895)|null|
+|**2025-10-09**|**Signal-to-Noise Ratio in Scanning Electron Microscopy: A Comprehensive Review**|K. S. Sim et.al.|[2510.07886](https://arxiv.org/abs/2510.07886)|null|
+|**2025-10-08**|**Flexible Intelligent Metasurface for Reconfiguring Radio Environments**|Hanwen Hu et.al.|[2510.07466](https://arxiv.org/abs/2510.07466)|null|
 |**2025-10-08**|**TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**|Jiaben Chen et.al.|[2510.07249](https://arxiv.org/abs/2510.07249)|null|
 |**2025-10-07**|**RGBD Gaze Tracking Using Transformer for Feature Fusion**|Tobias J. Bauer et.al.|[2510.06298](https://arxiv.org/abs/2510.06298)|null|
 |**2025-10-06**|**Improving the Spatial Resolution of GONG Solar Images to GST Quality Using Deep Learning**|Chenyang Li et.al.|[2510.06281](https://arxiv.org/abs/2510.06281)|null|
