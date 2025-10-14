@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Benchmarking Deep Learning Models for Laryngeal Cancer Staging Using the LaryngealCT Dataset**|Nivea Roy et.al.|[2510.11047](https://arxiv.org/abs/2510.11047)|null|
+|**2025-10-12**|**Influence of coronary plaque morphology on local mechanical states and associated in-stent restenosis**|Janina C. Datz et.al.|[2510.10763](https://arxiv.org/abs/2510.10763)|null|
+|**2025-10-10**|**Stochastic numerical head phantoms to enable virtual imaging studies of transcranial photoacoustic computed tomography**|Hsuan-Kai Huang et.al.|[2510.09758](https://arxiv.org/abs/2510.09758)|null|
+|**2025-10-10**|**Statistical Shape Modelling of the Nasosinusal Anatomy**|Michele Bertolini et.al.|[2510.09713](https://arxiv.org/abs/2510.09713)|null|
+|**2025-10-10**|**Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy**|Patrick Wienholt et.al.|[2510.09256](https://arxiv.org/abs/2510.09256)|null|
+|**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
+|**2025-10-09**|**Interlaced dynamic XCT reconstruction with spatio-temporal implicit neural representations**|Mathias Boulanger et.al.|[2510.08641](https://arxiv.org/abs/2510.08641)|null|
 |**2025-10-09**|**Random Window Augmentations for Deep Learning Robustness in CT and Liver Tumor Segmentation**|Eirik A. Østmo et.al.|[2510.08116](https://arxiv.org/abs/2510.08116)|null|
 |**2025-10-08**|**A Denoising Framework for Real-World Ultra-Low Dose Lung CT Images Based on an Image Purification Strategy**|Guoliang Gong et.al.|[2510.07492](https://arxiv.org/abs/2510.07492)|null|
 |**2025-10-07**|**Learning from Limited Multi-Phase CT: Dual-Branch Prototype-Guided Framework for Early Recurrence Prediction in HCC**|Hsin-Pei Yu et.al.|[2510.07347](https://arxiv.org/abs/2510.07347)|null|
@@ -146,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](https://arxiv.org/abs/2510.10229)|null|
+|**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
 |**2025-10-03**|**Compressed Multiband Sensing in FR3 Using Alternating Direction Method of Multipliers**|Dexin Wang et.al.|[2510.03055](https://arxiv.org/abs/2510.03055)|null|
 |**2025-10-03**|**Integrated Sensing, Communication, and Positioning in Cellular Vehicular Networks**|Xin Tong et.al.|[2510.02939](https://arxiv.org/abs/2510.02939)|null|
@@ -216,6 +225,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**TOI-3288 b and TOI-4666 b: two gas giants transiting low-mass stars characterised by NIRPS**|Yolanda G. C. Frensch et.al.|[2510.11703](https://arxiv.org/abs/2510.11703)|null|
+|**2025-10-13**|**Massive Activations are the Key to Local Detail Synthesis in Diffusion Transformers**|Chaofan Gan et.al.|[2510.11538](https://arxiv.org/abs/2510.11538)|null|
+|**2025-10-13**|**The evolution of CH in Planck Galactic Cold Clumps**|Gan Luo et.al.|[2510.11146](https://arxiv.org/abs/2510.11146)|null|
+|**2025-10-13**|**DreamMakeup: Face Makeup Customization using Latent Diffusion Models**|Geon Yeong Park et.al.|[2510.10918](https://arxiv.org/abs/2510.10918)|null|
+|**2025-10-12**|**DISC-GAN: Disentangling Style and Content for Cluster-Specific Synthetic Underwater Image Generation**|Sneha Varur et.al.|[2510.10782](https://arxiv.org/abs/2510.10782)|null|
+|**2025-10-12**|**Encoder Decoder Generative Adversarial Network Model for Stock Market Prediction**|Bahadur Yadav et.al.|[2510.10617](https://arxiv.org/abs/2510.10617)|null|
+|**2025-10-12**|**HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication**|Heng Zhang et.al.|[2510.10611](https://arxiv.org/abs/2510.10611)|null|
+|**2025-10-12**|**D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems**|Heng Zhang et.al.|[2510.10585](https://arxiv.org/abs/2510.10585)|null|
+|**2025-10-12**|**GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search**|Heng Zhang et.al.|[2510.10581](https://arxiv.org/abs/2510.10581)|null|
+|**2025-10-12**|**VOLTAGE: A Versatile Contrastive Learning based OCR Methodology for ultra low-resource scripts through Auto Glyph Feature Extraction**|Prawaal Sharma et.al.|[2510.10490](https://arxiv.org/abs/2510.10490)|null|
+|**2025-10-12**|**Towards Dynamic Quadrupedal Gaits: A Symmetry-Guided RL Hierarchy Enables Free Gait Transitions at Varying Speeds**|Jiayu Ding et.al.|[2510.10455](https://arxiv.org/abs/2510.10455)|null|
+|**2025-10-11**|**Efficient Mining of Low-Utility Sequential Patterns**|Jian Zhu et.al.|[2510.10243](https://arxiv.org/abs/2510.10243)|null|
+|**2025-10-11**|**Don't Just Fine-tune the Agent, Tune the Environment**|Siyuan Lu et.al.|[2510.10197](https://arxiv.org/abs/2510.10197)|null|
+|**2025-10-11**|**DeepFusionNet: Autoencoder-Based Low-Light Image Enhancement and Super-Resolution**|Halil Hüseyin Çalışkan et.al.|[2510.10122](https://arxiv.org/abs/2510.10122)|null|
+|**2025-10-11**|**Targeted Sequential Pattern Mining with High Average Utility**|Kai Cao et.al.|[2510.10115](https://arxiv.org/abs/2510.10115)|null|
+|**2025-10-11**|**SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents**|Zonghao Ying et.al.|[2510.10073](https://arxiv.org/abs/2510.10073)|null|
+|**2025-10-11**|**Photo- $z$  Estimation with Normalizing Flow**|Yiming Ren et.al.|[2510.10032](https://arxiv.org/abs/2510.10032)|null|
+|**2025-10-10**|**Conditional Flow Matching for Bayesian Posterior Inference**|So Won Jeong et.al.|[2510.09534](https://arxiv.org/abs/2510.09534)|null|
+|**2025-10-10**|**Enhanced Breakdown and RF Performance in Field-Plated AlGaN/GaN HEMT for High-Power Applications**|Tanjim Rahman et.al.|[2510.09154](https://arxiv.org/abs/2510.09154)|null|
+|**2025-10-10**|**Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval**|Yingyi Zhang et.al.|[2510.08935](https://arxiv.org/abs/2510.08935)|null|
 |**2025-10-09**|**Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency**|Kaiwen Zheng et.al.|[2510.08431](https://arxiv.org/abs/2510.08431)|null|
 |**2025-10-09**|**Multi-Agent Analysis of Off-Exchange Public Information for Cryptocurrency Market Trend Prediction**|Kairan Hong et.al.|[2510.08268](https://arxiv.org/abs/2510.08268)|null|
 |**2025-10-09**|**Prepared mind, fast response: A temporal decoupling framework for adaptive knowledge orchestration in open-domain dialogue**|Jinling Gan et.al.|[2510.08175](https://arxiv.org/abs/2510.08175)|null|
