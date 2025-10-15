@@ -1,4 +1,4 @@
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -155,12 +155,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**Approximate Proximal Operators for Analog Compressed Sensing Using PN-junction Diode**|Soma Furusawa et.al.|[2510.12065](https://arxiv.org/abs/2510.12065)|null|
 |**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](https://arxiv.org/abs/2510.10229)|null|
 |**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
@@ -229,14 +230,24 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search**|Kartik Narayan et.al.|[2510.12801](https://arxiv.org/abs/2510.12801)|null|
+|**2025-10-14**|**Unconditional Human Motion and Shape Generation via Balanced Score-Based Diffusion**|David Björkstrand et.al.|[2510.12537](https://arxiv.org/abs/2510.12537)|null|
+|**2025-10-14**|**MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science**|Junkai Zhang et.al.|[2510.12171](https://arxiv.org/abs/2510.12171)|null|
+|**2025-10-14**|**Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration**|Wenjie Li et.al.|[2510.12114](https://arxiv.org/abs/2510.12114)|null|
+|**2025-10-14**|**New Classes of Non-monotone Variational Inequality Problems Solvable via Proximal Gradient on Smooth Gap Functions**|Lei Zhao et.al.|[2510.12105](https://arxiv.org/abs/2510.12105)|null|
+|**2025-10-14**|**H4G: Unlocking Faithful Inference for Zero-Shot Graph Learning in Hyperbolic Space**|Heng Zhang et.al.|[2510.12094](https://arxiv.org/abs/2510.12094)|null|
+|**2025-10-14**|**A Review on Domain Adaption and Generative Adversarial Networks(GANs)**|Aashish Dhawan et.al.|[2510.12075](https://arxiv.org/abs/2510.12075)|null|
+|**2025-10-14**|**Metalorganic Chemical Vapor Deposition of AlScN Thin Films and AlScN/AlN/GaN Heterostructures**|Vijay Gopal Thirupakuzi Vangipuram et.al.|[2510.12074](https://arxiv.org/abs/2510.12074)|null|
+|**2025-10-13**|**Thermal transport in GaN/AlN HEMTs on 4H-SiC: Role of layer thickness and hetero-interfaces**|Dat Q. Tran et.al.|[2510.11936](https://arxiv.org/abs/2510.11936)|null|
+|**2025-10-13**|**A Closed-form Expression of the Gaussian Noise Model Supporting O-Band Transmission**|Zelin Gan et.al.|[2510.11867](https://arxiv.org/abs/2510.11867)|null|
 |**2025-10-13**|**TOI-3288 b and TOI-4666 b: two gas giants transiting low-mass stars characterised by NIRPS**|Yolanda G. C. Frensch et.al.|[2510.11703](https://arxiv.org/abs/2510.11703)|null|
-|**2025-10-13**|**Massive Activations are the Key to Local Detail Synthesis in Diffusion Transformers**|Chaofan Gan et.al.|[2510.11538](https://arxiv.org/abs/2510.11538)|null|
+|**2025-10-14**|**Massive Activations are the Key to Local Detail Synthesis in Diffusion Transformers**|Chaofan Gan et.al.|[2510.11538](https://arxiv.org/abs/2510.11538)|null|
 |**2025-10-13**|**The evolution of CH in Planck Galactic Cold Clumps**|Gan Luo et.al.|[2510.11146](https://arxiv.org/abs/2510.11146)|null|
 |**2025-10-13**|**DreamMakeup: Face Makeup Customization using Latent Diffusion Models**|Geon Yeong Park et.al.|[2510.10918](https://arxiv.org/abs/2510.10918)|null|
 |**2025-10-12**|**DISC-GAN: Disentangling Style and Content for Cluster-Specific Synthetic Underwater Image Generation**|Sneha Varur et.al.|[2510.10782](https://arxiv.org/abs/2510.10782)|null|
@@ -552,7 +563,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -560,5 +571,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
