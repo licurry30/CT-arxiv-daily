@@ -1,4 +1,4 @@
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review**|Chun Wai Chin et.al.|[2510.13638](https://arxiv.org/abs/2510.13638)|null|
+|**2025-10-15**|**An efficient approach with theoretical guarantees to simultaneously reconstruct activity and attenuation sinogram for TOF-PET**|Liyang Hu et.al.|[2510.13562](https://arxiv.org/abs/2510.13562)|null|
 |**2025-10-13**|**Benchmarking Deep Learning Models for Laryngeal Cancer Staging Using the LaryngealCT Dataset**|Nivea Roy et.al.|[2510.11047](https://arxiv.org/abs/2510.11047)|null|
 |**2025-10-12**|**Influence of coronary plaque morphology on local mechanical states and associated in-stent restenosis**|Janina C. Datz et.al.|[2510.10763](https://arxiv.org/abs/2510.10763)|null|
 |**2025-10-10**|**Stochastic numerical head phantoms to enable virtual imaging studies of transcranial photoacoustic computed tomography**|Hsuan-Kai Huang et.al.|[2510.09758](https://arxiv.org/abs/2510.09758)|null|
@@ -155,12 +157,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**A Dimension-Keeping Semi-Tensor Product Framework for Compressed Sensing**|Qi Qi et.al.|[2510.13180](https://arxiv.org/abs/2510.13180)|null|
 |**2025-10-14**|**Approximate Proximal Operators for Analog Compressed Sensing Using PN-junction Diode**|Soma Furusawa et.al.|[2510.12065](https://arxiv.org/abs/2510.12065)|null|
 |**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](https://arxiv.org/abs/2510.10229)|null|
 |**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
@@ -230,12 +233,15 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems**|Xuxin Cheng et.al.|[2510.13291](https://arxiv.org/abs/2510.13291)|null|
+|**2025-10-14**|**One Dimensional CNN ECG Mamba for Multilabel Abnormality Classification in 12 Lead ECG**|Huawei Jiang et.al.|[2510.13046](https://arxiv.org/abs/2510.13046)|null|
+|**2025-10-14**|**VCTR: A Transformer-Based Model for Non-parallel Voice Conversion**|Maharnab Saikia et.al.|[2510.12964](https://arxiv.org/abs/2510.12964)|null|
 |**2025-10-14**|**DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search**|Kartik Narayan et.al.|[2510.12801](https://arxiv.org/abs/2510.12801)|null|
 |**2025-10-14**|**Unconditional Human Motion and Shape Generation via Balanced Score-Based Diffusion**|David Björkstrand et.al.|[2510.12537](https://arxiv.org/abs/2510.12537)|null|
 |**2025-10-14**|**MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science**|Junkai Zhang et.al.|[2510.12171](https://arxiv.org/abs/2510.12171)|null|
@@ -563,7 +569,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -571,5 +577,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 

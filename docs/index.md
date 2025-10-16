@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review**|Chun Wai Chin et.al.|[2510.13638](https://arxiv.org/abs/2510.13638)|null|
+|**2025-10-15**|**An efficient approach with theoretical guarantees to simultaneously reconstruct activity and attenuation sinogram for TOF-PET**|Liyang Hu et.al.|[2510.13562](https://arxiv.org/abs/2510.13562)|null|
 |**2025-10-13**|**Benchmarking Deep Learning Models for Laryngeal Cancer Staging Using the LaryngealCT Dataset**|Nivea Roy et.al.|[2510.11047](https://arxiv.org/abs/2510.11047)|null|
 |**2025-10-12**|**Influence of coronary plaque morphology on local mechanical states and associated in-stent restenosis**|Janina C. Datz et.al.|[2510.10763](https://arxiv.org/abs/2510.10763)|null|
 |**2025-10-10**|**Stochastic numerical head phantoms to enable virtual imaging studies of transcranial photoacoustic computed tomography**|Hsuan-Kai Huang et.al.|[2510.09758](https://arxiv.org/abs/2510.09758)|null|
@@ -153,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**A Dimension-Keeping Semi-Tensor Product Framework for Compressed Sensing**|Qi Qi et.al.|[2510.13180](https://arxiv.org/abs/2510.13180)|null|
 |**2025-10-14**|**Approximate Proximal Operators for Analog Compressed Sensing Using PN-junction Diode**|Soma Furusawa et.al.|[2510.12065](https://arxiv.org/abs/2510.12065)|null|
 |**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](https://arxiv.org/abs/2510.10229)|null|
 |**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
@@ -226,6 +229,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems**|Xuxin Cheng et.al.|[2510.13291](https://arxiv.org/abs/2510.13291)|null|
+|**2025-10-14**|**One Dimensional CNN ECG Mamba for Multilabel Abnormality Classification in 12 Lead ECG**|Huawei Jiang et.al.|[2510.13046](https://arxiv.org/abs/2510.13046)|null|
+|**2025-10-14**|**VCTR: A Transformer-Based Model for Non-parallel Voice Conversion**|Maharnab Saikia et.al.|[2510.12964](https://arxiv.org/abs/2510.12964)|null|
 |**2025-10-14**|**DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search**|Kartik Narayan et.al.|[2510.12801](https://arxiv.org/abs/2510.12801)|null|
 |**2025-10-14**|**Unconditional Human Motion and Shape Generation via Balanced Score-Based Diffusion**|David Björkstrand et.al.|[2510.12537](https://arxiv.org/abs/2510.12537)|null|
 |**2025-10-14**|**MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science**|Junkai Zhang et.al.|[2510.12171](https://arxiv.org/abs/2510.12171)|null|
