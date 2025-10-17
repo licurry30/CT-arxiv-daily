@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Scaling Artificial Intelligence for Multi-Tumor Early Detection with More Reports, Fewer Masks**|Pedro R. A. S. Bassi et.al.|[2510.14803](https://arxiv.org/abs/2510.14803)|null|
 |**2025-10-15**|**Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review**|Chun Wai Chin et.al.|[2510.13638](https://arxiv.org/abs/2510.13638)|null|
 |**2025-10-15**|**An efficient approach with theoretical guarantees to simultaneously reconstruct activity and attenuation sinogram for TOF-PET**|Liyang Hu et.al.|[2510.13562](https://arxiv.org/abs/2510.13562)|null|
 |**2025-10-13**|**Benchmarking Deep Learning Models for Laryngeal Cancer Staging Using the LaryngealCT Dataset**|Nivea Roy et.al.|[2510.11047](https://arxiv.org/abs/2510.11047)|null|
@@ -19,7 +20,7 @@ layout: default
 |**2025-10-09**|**Reinforcement Learning-Based Optimization of CT Acquisition and Reconstruction Parameters Through Virtual Imaging Trials**|David Fenwick et.al.|[2510.08763](https://arxiv.org/abs/2510.08763)|null|
 |**2025-10-09**|**Interlaced dynamic XCT reconstruction with spatio-temporal implicit neural representations**|Mathias Boulanger et.al.|[2510.08641](https://arxiv.org/abs/2510.08641)|null|
 |**2025-10-09**|**Random Window Augmentations for Deep Learning Robustness in CT and Liver Tumor Segmentation**|Eirik A. Østmo et.al.|[2510.08116](https://arxiv.org/abs/2510.08116)|null|
-|**2025-10-08**|**A Denoising Framework for Real-World Ultra-Low Dose Lung CT Images Based on an Image Purification Strategy**|Guoliang Gong et.al.|[2510.07492](https://arxiv.org/abs/2510.07492)|null|
+|**2025-10-16**|**A Denoising Framework for Real-World Ultra-Low Dose Lung CT Images Based on an Image Purification Strategy**|Guoliang Gong et.al.|[2510.07492](https://arxiv.org/abs/2510.07492)|null|
 |**2025-10-07**|**Learning from Limited Multi-Phase CT: Dual-Branch Prototype-Guided Framework for Early Recurrence Prediction in HCC**|Hsin-Pei Yu et.al.|[2510.07347](https://arxiv.org/abs/2510.07347)|null|
 |**2025-10-01**|**Neu-RadBERT for Enhanced Diagnosis of Brain Injuries and Conditions**|Manpreet Singh et.al.|[2510.06232](https://arxiv.org/abs/2510.06232)|null|
 |**2025-10-07**|**A public cardiac CT dataset featuring the left atrial appendage**|Bjoern Hansen et.al.|[2510.06090](https://arxiv.org/abs/2510.06090)|null|
@@ -155,6 +156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Forecasting Quantum Observables: A Compressed Sensing Approach with Performance Guarantees**|Víctor Valls et.al.|[2510.14897](https://arxiv.org/abs/2510.14897)|null|
+|**2025-10-16**|**Spectral subspace extraction via incoherent quantum phase estimation**|Stefano Scali et.al.|[2510.14744](https://arxiv.org/abs/2510.14744)|null|
 |**2025-10-15**|**A Dimension-Keeping Semi-Tensor Product Framework for Compressed Sensing**|Qi Qi et.al.|[2510.13180](https://arxiv.org/abs/2510.13180)|null|
 |**2025-10-14**|**Approximate Proximal Operators for Analog Compressed Sensing Using PN-junction Diode**|Soma Furusawa et.al.|[2510.12065](https://arxiv.org/abs/2510.12065)|null|
 |**2025-10-11**|**Average Kernel Sizes -- Computable Sharp Accuracy Bounds for Inverse Problems**|Nina M. Gottschling et.al.|[2510.10229](https://arxiv.org/abs/2510.10229)|null|
@@ -229,6 +232,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents**|Guoqing Wang et.al.|[2510.14967](https://arxiv.org/abs/2510.14967)|null|
+|**2025-10-16**|**A Well-Balanced Space-Time ALE Compact Gas-Kinetic Scheme for the Shallow Water Equations on Unstructured Meshes**|Fengxiang Zhao et.al.|[2510.14673](https://arxiv.org/abs/2510.14673)|null|
+|**2025-10-16**|**From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**|Sujai Hiremath et.al.|[2510.14488](https://arxiv.org/abs/2510.14488)|null|
+|**2025-10-16**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al.|[2510.14462](https://arxiv.org/abs/2510.14462)|null|
+|**2025-10-16**|**Cryogenic temperature dependence and hysteresis of surface-trap-induced gate leakage in GaN high-electron-mobility transistors**|Ching-Yang Pan et.al.|[2510.14456](https://arxiv.org/abs/2510.14456)|null|
+|**2025-10-16**|**Towards geological inference with process-based and deep generative modeling, part 1: training on fluvial deposits**|Guillaume Rongier et.al.|[2510.14445](https://arxiv.org/abs/2510.14445)|null|
+|**2025-10-16**|**A Multi-domain Image Translative Diffusion StyleGAN for Iris Presentation Attack Detection**|Shivangi Yadav et.al.|[2510.14314](https://arxiv.org/abs/2510.14314)|null|
+|**2025-10-16**|**PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**|Soumyya Kanti Datta et.al.|[2510.14241](https://arxiv.org/abs/2510.14241)|null|
+|**2025-10-16**|**LOTA: Bit-Planes Guided AI-Generated Image Detection**|Hongsong Wang et.al.|[2510.14230](https://arxiv.org/abs/2510.14230)|null|
+|**2025-10-15**|**Quantum Damping of Cosmological Shear: A New Prediction from Loop Quantum Cosmologies**|Wen-Cong Gan et.al.|[2510.14021](https://arxiv.org/abs/2510.14021)|null|
+|**2025-10-15**|**Probing Quadratically Coupled Ultralight Dark Matter with Pulsar Timing Arrays**|Xucheng Gan et.al.|[2510.13945](https://arxiv.org/abs/2510.13945)|null|
 |**2025-10-15**|**Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems**|Xuxin Cheng et.al.|[2510.13291](https://arxiv.org/abs/2510.13291)|null|
 |**2025-10-14**|**One Dimensional CNN ECG Mamba for Multilabel Abnormality Classification in 12 Lead ECG**|Huawei Jiang et.al.|[2510.13046](https://arxiv.org/abs/2510.13046)|null|
 |**2025-10-14**|**VCTR: A Transformer-Based Model for Non-parallel Voice Conversion**|Maharnab Saikia et.al.|[2510.12964](https://arxiv.org/abs/2510.12964)|null|
