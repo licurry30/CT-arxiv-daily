@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.10.19
+## Updated on 2025.10.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-20**|**StrengthLawExtractor: A Fiji plugin for 3D morphological feature extraction from X-ray micro-CT data**|Qinyi Tian et.al.|[2510.17279](https://arxiv.org/abs/2510.17279)|null|
+|**2025-10-18**|**A Deep Learning Framework for Real-Time Image Processing in Medical Diagnostics: Enhancing Accuracy and Speed in Clinical Applications**|Melika Filvantorkaman et.al.|[2510.16611](https://arxiv.org/abs/2510.16611)|null|
+|**2025-10-18**|**Lung Cancer Classification from CT Images Using ResNet**|Olajumoke O. Adekunle et.al.|[2510.16310](https://arxiv.org/abs/2510.16310)|null|
+|**2025-10-17**|**Multiscale X-ray computed tomography of standard optical fibers**|Maria Caterina Crocco et.al.|[2510.15597](https://arxiv.org/abs/2510.15597)|null|
+|**2025-10-17**|**Sparing of DNA irradiated with Ultra-High Dose-Rates under Physiological Oxygen and Salt conditions**|Marc Benjamin Hahn et.al.|[2510.15478](https://arxiv.org/abs/2510.15478)|null|
+|**2025-10-17**|**Mechanics-guided parametric modeling of intranasal spray devices and formulations for targeted drug delivery to the nasopharynx**|Md Tariqul Hossain et.al.|[2510.15279](https://arxiv.org/abs/2510.15279)|null|
 |**2025-10-16**|**Scaling Artificial Intelligence for Multi-Tumor Early Detection with More Reports, Fewer Masks**|Pedro R. A. S. Bassi et.al.|[2510.14803](https://arxiv.org/abs/2510.14803)|null|
 |**2025-10-15**|**Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review**|Chun Wai Chin et.al.|[2510.13638](https://arxiv.org/abs/2510.13638)|null|
 |**2025-10-15**|**An efficient approach with theoretical guarantees to simultaneously reconstruct activity and attenuation sinogram for TOF-PET**|Liyang Hu et.al.|[2510.13562](https://arxiv.org/abs/2510.13562)|null|
@@ -156,6 +162,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-19**|**A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization**|Junren Chen et.al.|[2510.16965](https://arxiv.org/abs/2510.16965)|null|
+|**2025-10-17**|**Pseudo-Random TDM-MIMO FMCW Based Millimeter-Wave Sensing and Communication Integration for UAV Swarm**|Yi Tao et.al.|[2510.15575](https://arxiv.org/abs/2510.15575)|null|
+|**2025-10-17**|**Near-Field Imaging by Exploiting Frequency Correlation in Wireless Communication Networks**|Tianyu Yang et.al.|[2510.15459](https://arxiv.org/abs/2510.15459)|null|
+|**2025-10-17**|**Bilinear Compressive Security**|Axel Flinth et.al.|[2510.15380](https://arxiv.org/abs/2510.15380)|null|
 |**2025-10-16**|**Forecasting Quantum Observables: A Compressed Sensing Approach with Performance Guarantees**|Víctor Valls et.al.|[2510.14897](https://arxiv.org/abs/2510.14897)|null|
 |**2025-10-16**|**Spectral subspace extraction via incoherent quantum phase estimation**|Stefano Scali et.al.|[2510.14744](https://arxiv.org/abs/2510.14744)|null|
 |**2025-10-15**|**A Dimension-Keeping Semi-Tensor Product Framework for Compressed Sensing**|Qi Qi et.al.|[2510.13180](https://arxiv.org/abs/2510.13180)|null|
@@ -232,6 +242,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-20**|**UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action**|Yuhao Yang et.al.|[2510.17790](https://arxiv.org/abs/2510.17790)|null|
+|**2025-10-20**|**MT-Video-Bench: A Holistic Video Understanding Benchmark for Evaluating Multimodal LLMs in Multi-Turn Dialogues**|Yaning Pan et.al.|[2510.17722](https://arxiv.org/abs/2510.17722)|null|
+|**2025-10-20**|**Quantum Synthetic Data Generation for Industrial Bioprocess Monitoring**|Shawn M. Gibford et.al.|[2510.17688](https://arxiv.org/abs/2510.17688)|null|
+|**2025-10-20**|**Handling Extreme Class Imbalance: Using GANs in Data Augmentation for Suicide Prediction**|Vaishnavi Visweswaraiah et.al.|[2510.17661](https://arxiv.org/abs/2510.17661)|null|
+|**2025-10-20**|**Starspots as the origin of ultrafast drifting radio bursts from an active M dwarf**|Jiale Zhang et.al.|[2510.17547](https://arxiv.org/abs/2510.17547)|null|
+|**2025-10-20**|**Towards geological inference with process-based and deep generative modeling, part 2: inversion of fluvial deposits and latent-space disentanglement**|Guillaume Rongier et.al.|[2510.17478](https://arxiv.org/abs/2510.17478)|null|
+|**2025-10-20**|**Latent Spaces Beyond Synthesis: From GANs to Diffusion Models**|Ludovica Schaerf et.al.|[2510.17383](https://arxiv.org/abs/2510.17383)|null|
+|**2025-10-20**|**Do LLMs Recognize Your Latent Preferences? A Benchmark for Latent Information Discovery in Personalized Interaction**|Ioannis Tsaknakis et.al.|[2510.17132](https://arxiv.org/abs/2510.17132)|null|
+|**2025-10-20**|**GSPlane: Concise and Accurate Planar Reconstruction via Structured Representation**|Ruitong Gan et.al.|[2510.17095](https://arxiv.org/abs/2510.17095)|null|
+|**2025-10-19**|**Addressing data scarcity in structural health monitoring through generative augmentation**|Sasan Farhadi et.al.|[2510.16889](https://arxiv.org/abs/2510.16889)|null|
+|**2025-10-19**|**Strong error analysis and first-order convergence of Milstein-type schemes for McKean-Vlasov SDEs with superlinear coefficients**|Jingtao Zhu et.al.|[2510.16801](https://arxiv.org/abs/2510.16801)|null|
+|**2025-10-18**|**Fit for Purpose? Deepfake Detection in the Real World**|Guangyu Lin et.al.|[2510.16556](https://arxiv.org/abs/2510.16556)|null|
+|**2025-10-18**|**High-order temporal parametric finite element methods for simulating solid-state dewetting**|Xiaowen Gan et.al.|[2510.16493](https://arxiv.org/abs/2510.16493)|null|
+|**2025-10-18**|**Single-Step Digital Backpropagation for O-band Coherent Transmission Systems**|Romulo Aparecido et.al.|[2510.16482](https://arxiv.org/abs/2510.16482)|null|
+|**2025-10-18**|**Multiwavelength spectroscopic observations of a quiescent prominence**|Jianchao Xue et.al.|[2510.16288](https://arxiv.org/abs/2510.16288)|null|
+|**2025-10-17**|**Lightweight CycleGAN Models for Cross-Modality Image Transformation and Experimental Quality Assessment in Fluorescence Microscopy**|Mohammad Soltaninezhad et.al.|[2510.15579](https://arxiv.org/abs/2510.15579)|null|
+|**2025-10-16**|**HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks**|Chance Jiajie Li et.al.|[2510.15144](https://arxiv.org/abs/2510.15144)|null|
 |**2025-10-16**|**Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents**|Guoqing Wang et.al.|[2510.14967](https://arxiv.org/abs/2510.14967)|null|
 |**2025-10-16**|**A Well-Balanced Space-Time ALE Compact Gas-Kinetic Scheme for the Shallow Water Equations on Unstructured Meshes**|Fengxiang Zhao et.al.|[2510.14673](https://arxiv.org/abs/2510.14673)|null|
 |**2025-10-16**|**From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?**|Sujai Hiremath et.al.|[2510.14488](https://arxiv.org/abs/2510.14488)|null|
