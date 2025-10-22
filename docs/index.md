@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**New flexible and inexact Golub-Kahan algorithms for inverse problems**|Malena Sabaté Landman et.al.|[2510.18865](https://arxiv.org/abs/2510.18865)|null|
 |**2025-10-20**|**StrengthLawExtractor: A Fiji plugin for 3D morphological feature extraction from X-ray micro-CT data**|Qinyi Tian et.al.|[2510.17279](https://arxiv.org/abs/2510.17279)|null|
 |**2025-10-18**|**A Deep Learning Framework for Real-Time Image Processing in Medical Diagnostics: Enhancing Accuracy and Speed in Clinical Applications**|Melika Filvantorkaman et.al.|[2510.16611](https://arxiv.org/abs/2510.16611)|null|
 |**2025-10-18**|**Lung Cancer Classification from CT Images Using ResNet**|Olajumoke O. Adekunle et.al.|[2510.16310](https://arxiv.org/abs/2510.16310)|null|
@@ -162,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**mSQUID: Model-Based Leanred Modulo Recovery at Low Sampling Rates**|Yhonatan Kvich et.al.|[2510.18729](https://arxiv.org/abs/2510.18729)|null|
+|**2025-10-20**|**Majority Vote Compressed Sensing**|Henrik Hellström et.al.|[2510.18008](https://arxiv.org/abs/2510.18008)|null|
 |**2025-10-19**|**A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization**|Junren Chen et.al.|[2510.16965](https://arxiv.org/abs/2510.16965)|null|
 |**2025-10-17**|**Pseudo-Random TDM-MIMO FMCW Based Millimeter-Wave Sensing and Communication Integration for UAV Swarm**|Yi Tao et.al.|[2510.15575](https://arxiv.org/abs/2510.15575)|null|
 |**2025-10-17**|**Near-Field Imaging by Exploiting Frequency Correlation in Wireless Communication Networks**|Tianyu Yang et.al.|[2510.15459](https://arxiv.org/abs/2510.15459)|null|
@@ -242,6 +245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**GaN-based Resonant Cavity LEDs Fabricated by Photo-Electrochemical Etching and Micro-Transfer Printing**|Huanqing Chen et.al.|[2510.18507](https://arxiv.org/abs/2510.18507)|null|
+|**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al.|[2510.18328](https://arxiv.org/abs/2510.18328)|null|
+|**2025-10-21**|**Efficient Few-shot Identity Preserving Attribute Editing for 3D-aware Deep Generative Models**|Vishal Vinod et.al.|[2510.18287](https://arxiv.org/abs/2510.18287)|null|
+|**2025-10-21**|**From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation**|Ziwei Huang et.al.|[2510.18263](https://arxiv.org/abs/2510.18263)|null|
 |**2025-10-20**|**UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action**|Yuhao Yang et.al.|[2510.17790](https://arxiv.org/abs/2510.17790)|null|
 |**2025-10-20**|**MT-Video-Bench: A Holistic Video Understanding Benchmark for Evaluating Multimodal LLMs in Multi-Turn Dialogues**|Yaning Pan et.al.|[2510.17722](https://arxiv.org/abs/2510.17722)|null|
 |**2025-10-20**|**Quantum Synthetic Data Generation for Industrial Bioprocess Monitoring**|Shawn M. Gibford et.al.|[2510.17688](https://arxiv.org/abs/2510.17688)|null|
