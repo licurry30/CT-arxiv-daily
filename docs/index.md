@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -163,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**CommonSense: Efficient Set Intersection (SetX) Protocol Based on Compressed Sensing**|Jingfan Meng et.al.|[2510.19725](https://arxiv.org/abs/2510.19725)|null|
+|**2025-10-22**|**Square root Cox's survival analysis by the fittest linear and neural networks model**|Maxime van Cutsem et.al.|[2510.19374](https://arxiv.org/abs/2510.19374)|null|
 |**2025-10-21**|**mSQUID: Model-Based Leanred Modulo Recovery at Low Sampling Rates**|Yhonatan Kvich et.al.|[2510.18729](https://arxiv.org/abs/2510.18729)|null|
 |**2025-10-20**|**Majority Vote Compressed Sensing**|Henrik Hellström et.al.|[2510.18008](https://arxiv.org/abs/2510.18008)|null|
 |**2025-10-19**|**A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization**|Junren Chen et.al.|[2510.16965](https://arxiv.org/abs/2510.16965)|null|
@@ -245,6 +247,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](https://arxiv.org/abs/2510.19808)|null|
+|**2025-10-22**|**High Uniformity GaN Micro-pyramids and Platelets by Selective Area Growth**|Changhao Li et.al.|[2510.19697](https://arxiv.org/abs/2510.19697)|null|
+|**2025-10-22**|**Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models**|Jin Han et.al.|[2510.19623](https://arxiv.org/abs/2510.19623)|null|
+|**2025-10-22**|**PCP-GAN: Property-Constrained Pore-scale image reconstruction via conditional Generative Adversarial Networks**|Ali Sadeghkhani et.al.|[2510.19465](https://arxiv.org/abs/2510.19465)|null|
+|**2025-10-21**|**Prior-informed optimization of treatment recommendation via bandit algorithms trained on large language model-processed historical records**|Saman Nessari et.al.|[2510.19014](https://arxiv.org/abs/2510.19014)|null|
 |**2025-10-21**|**GaN-based Resonant Cavity LEDs Fabricated by Photo-Electrochemical Etching and Micro-Transfer Printing**|Huanqing Chen et.al.|[2510.18507](https://arxiv.org/abs/2510.18507)|null|
 |**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al.|[2510.18328](https://arxiv.org/abs/2510.18328)|null|
 |**2025-10-21**|**Efficient Few-shot Identity Preserving Attribute Editing for 3D-aware Deep Generative Models**|Vishal Vinod et.al.|[2510.18287](https://arxiv.org/abs/2510.18287)|null|
