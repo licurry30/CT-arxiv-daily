@@ -1,4 +1,4 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2510.20639](https://arxiv.org/abs/2510.20639)|null|
+|**2025-10-23**|**Contrast-enhanced X-ray imaging of articular cartilage: reliability of a cationic contrast agent in combination with high-resolution peripheral quantitative computed tomography system**|S. Fantoni et.al.|[2510.20391](https://arxiv.org/abs/2510.20391)|null|
+|**2025-10-23**|**Anderson-type acceleration method for Deep Neural Network optimization**|Kazufumi Ito et.al.|[2510.20254](https://arxiv.org/abs/2510.20254)|null|
+|**2025-10-22**|**FairGRPO: Fair Reinforcement Learning for Equitable Clinical Reasoning**|Shiqi Dai et.al.|[2510.19893](https://arxiv.org/abs/2510.19893)|null|
 |**2025-10-21**|**New flexible and inexact Golub-Kahan algorithms for inverse problems**|Malena Sabaté Landman et.al.|[2510.18865](https://arxiv.org/abs/2510.18865)|null|
 |**2025-10-20**|**StrengthLawExtractor: A Fiji plugin for 3D morphological feature extraction from X-ray micro-CT data**|Qinyi Tian et.al.|[2510.17279](https://arxiv.org/abs/2510.17279)|null|
 |**2025-10-18**|**A Deep Learning Framework for Real-Time Image Processing in Medical Diagnostics: Enhancing Accuracy and Speed in Clinical Applications**|Melika Filvantorkaman et.al.|[2510.16611](https://arxiv.org/abs/2510.16611)|null|
@@ -165,12 +169,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Near-Field 3D Localization and MIMO Channel Estimation with Sub-Connected Planar Arrays**|Kangda Zhi et.al.|[2510.20274](https://arxiv.org/abs/2510.20274)|null|
 |**2025-10-22**|**CommonSense: Efficient Set Intersection (SetX) Protocol Based on Compressed Sensing**|Jingfan Meng et.al.|[2510.19725](https://arxiv.org/abs/2510.19725)|null|
 |**2025-10-22**|**Square root Cox's survival analysis by the fittest linear and neural networks model**|Maxime van Cutsem et.al.|[2510.19374](https://arxiv.org/abs/2510.19374)|null|
 |**2025-10-21**|**mSQUID: Model-Based Leanred Modulo Recovery at Low Sampling Rates**|Yhonatan Kvich et.al.|[2510.18729](https://arxiv.org/abs/2510.18729)|null|
@@ -251,12 +256,15 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Generative Reasoning Recommendation via LLMs**|Minjie Hong et.al.|[2510.20815](https://arxiv.org/abs/2510.20815)|null|
+|**2025-10-23**|**IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks**|Insu Jeon et.al.|[2510.20165](https://arxiv.org/abs/2510.20165)|null|
+|**2025-10-22**|**Transforming Multi-Omics Integration with GANs: Applications in Alzheimer's and Cancer**|Md Selim Reza et.al.|[2510.19870](https://arxiv.org/abs/2510.19870)|null|
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](https://arxiv.org/abs/2510.19808)|null|
 |**2025-10-22**|**High Uniformity GaN Micro-pyramids and Platelets by Selective Area Growth**|Changhao Li et.al.|[2510.19697](https://arxiv.org/abs/2510.19697)|null|
 |**2025-10-22**|**Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models**|Jin Han et.al.|[2510.19623](https://arxiv.org/abs/2510.19623)|null|
@@ -624,7 +632,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -632,5 +640,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
