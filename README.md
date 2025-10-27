@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**Digital Contrast CT Pulmonary Angiography Synthesis from Non-contrast CT for Pulmonary Vascular Disease**|Ying Ming et.al.|[2510.21140](https://arxiv.org/abs/2510.21140)|null|
+|**2025-10-22**|**Lightweight Classifier for Detecting Intracranial Hemorrhage in Ultrasound Data**|Phat Tran et.al.|[2510.20857](https://arxiv.org/abs/2510.20857)|null|
 |**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2510.20639](https://arxiv.org/abs/2510.20639)|null|
 |**2025-10-23**|**Contrast-enhanced X-ray imaging of articular cartilage: reliability of a cationic contrast agent in combination with high-resolution peripheral quantitative computed tomography system**|S. Fantoni et.al.|[2510.20391](https://arxiv.org/abs/2510.20391)|null|
 |**2025-10-23**|**Anderson-type acceleration method for Deep Neural Network optimization**|Kazufumi Ito et.al.|[2510.20254](https://arxiv.org/abs/2510.20254)|null|
@@ -262,6 +264,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**Smule Renaissance Small: Efficient General-Purpose Vocal Restoration**|Yongyi Zang et.al.|[2510.21659](https://arxiv.org/abs/2510.21659)|null|
+|**2025-10-24**|**MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization**|Chenglong Wang et.al.|[2510.21473](https://arxiv.org/abs/2510.21473)|null|
+|**2025-10-24**|**Universal Thickness-Dependent Absorption in Solids at the Nanoscale**|Bhumika Chauhan et.al.|[2510.21354](https://arxiv.org/abs/2510.21354)|null|
+|**2025-10-24**|**Combining metal dewetting and lateral etching for the scalable top-down fabrication of GaN nanowire arrays with independently tunable diameter and spacing**|Jingxuan Kang et.al.|[2510.21305](https://arxiv.org/abs/2510.21305)|null|
+|**2025-10-24**|**Generative Federated Learning for Smart Prediction and Recommendation Applications**|Anwesha Mukherjee et.al.|[2510.21183](https://arxiv.org/abs/2510.21183)|null|
+|**2025-10-24**|**Triality and Functoriality**|Gaëtan Chenevier et.al.|[2510.21169](https://arxiv.org/abs/2510.21169)|null|
+|**2025-10-24**|**Multistability of interstitial magnesium and its carrier recombined migration in gallium nitride**|Yuansheng Zhao et.al.|[2510.21145](https://arxiv.org/abs/2510.21145)|null|
+|**2025-10-24**|**Digital Contrast CT Pulmonary Angiography Synthesis from Non-contrast CT for Pulmonary Vascular Disease**|Ying Ming et.al.|[2510.21140](https://arxiv.org/abs/2510.21140)|null|
+|**2025-10-24**|**Navigating Through Turbulence: Blueprint for the Next Generation of Weather-Climate Scientists**|Gan Zhang et.al.|[2510.21123](https://arxiv.org/abs/2510.21123)|null|
+|**2025-10-23**|**Information Theoretic Learning for Diffusion Models with Warm Start**|Yirong Shen et.al.|[2510.20903](https://arxiv.org/abs/2510.20903)|null|
 |**2025-10-23**|**Generative Reasoning Recommendation via LLMs**|Minjie Hong et.al.|[2510.20815](https://arxiv.org/abs/2510.20815)|null|
 |**2025-10-23**|**IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks**|Insu Jeon et.al.|[2510.20165](https://arxiv.org/abs/2510.20165)|null|
 |**2025-10-22**|**Transforming Multi-Omics Integration with GANs: Applications in Alzheimer's and Cancer**|Md Selim Reza et.al.|[2510.19870](https://arxiv.org/abs/2510.19870)|null|
