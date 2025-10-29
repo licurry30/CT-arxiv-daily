@@ -1,4 +1,4 @@
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,8 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Toward Photon-Induced Near-Field Electron Tomography**|Tamir Shpiro et.al.|[2510.24648](https://arxiv.org/abs/2510.24648)|null|
+|**2025-10-28**|**Energy evolution in nanocrystalline iron driven by collision cascades**|Ivan Tolkachev et.al.|[2510.24324](https://arxiv.org/abs/2510.24324)|null|
+|**2025-10-28**|**Towards the Automatic Segmentation, Modeling and Meshing of the Aortic Vessel Tree from Multicenter Acquisitions: An Overview of the SEG.A. 2023 Segmentation of the Aorta Challenge**|Yuan Jin et.al.|[2510.24009](https://arxiv.org/abs/2510.24009)|null|
+|**2025-10-27**|**Low-Dose CT Imaging Using a Regularization-Enhanced Efficient Diffusion Probabilistic Model**|Qiang Li et.al.|[2510.23859](https://arxiv.org/abs/2510.23859)|null|
 |**2025-10-27**|**Equivariance2Inverse: A Practical Self-Supervised CT Reconstruction Method Benchmarked on Real, Limited-Angle, and Blurred Data**|Dirk Elias Schut et.al.|[2510.23317](https://arxiv.org/abs/2510.23317)|null|
-|**2025-10-27**|**Radiation enhanced diffusion in cartilages as a physical mechanism underlying radiation treatments of osteoarthritis and related disorders**|Diana Shvydka et.al.|[2510.22903](https://arxiv.org/abs/2510.22903)|null|
+|**2025-10-28**|**Radiation enhanced diffusion in cartilages as a physical mechanism underlying radiation treatments of osteoarthritis and related disorders**|Diana Shvydka et.al.|[2510.22903](https://arxiv.org/abs/2510.22903)|null|
 |**2025-10-23**|**Poisson Flow Consistency Training**|Anthony Zhang et.al.|[2510.21857](https://arxiv.org/abs/2510.21857)|null|
 |**2025-10-24**|**Digital Contrast CT Pulmonary Angiography Synthesis from Non-contrast CT for Pulmonary Vascular Disease**|Ying Ming et.al.|[2510.21140](https://arxiv.org/abs/2510.21140)|null|
 |**2025-10-22**|**Lightweight Classifier for Detecting Intracranial Hemorrhage in Ultrasound Data**|Phat Tran et.al.|[2510.20857](https://arxiv.org/abs/2510.20857)|null|
@@ -174,12 +178,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**On quantum large sieve inequalities and operator recovery from incomplete information**|Luís Daniel Abreu et.al.|[2510.23676](https://arxiv.org/abs/2510.23676)|null|
 |**2025-10-27**|**Equivariance2Inverse: A Practical Self-Supervised CT Reconstruction Method Benchmarked on Real, Limited-Angle, and Blurred Data**|Dirk Elias Schut et.al.|[2510.23317](https://arxiv.org/abs/2510.23317)|null|
 |**2025-10-26**|**Projection Embedded Diffusion Bridge for CT Reconstruction from Incomplete Data**|Yuang Wang et.al.|[2510.22605](https://arxiv.org/abs/2510.22605)|null|
 |**2025-10-26**|**Instance optimality in phase retrieval**|Yu Xia et.al.|[2510.22578](https://arxiv.org/abs/2510.22578)|null|
@@ -264,19 +269,26 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-27**|**PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection**|Yusu Qian et.al.|[2510.23594](https://arxiv.org/abs/2510.23594)|null|
+|**2025-10-28**|**FunReason-MT Technical Report: Overcoming the Complexity Barrier in Multi-Turn Function Calling**|Zengzhuang Xu et.al.|[2510.24645](https://arxiv.org/abs/2510.24645)|null|
+|**2025-10-28**|**A Novel XAI-Enhanced Quantum Adversarial Networks for Velocity Dispersion Modeling in MaNGA Galaxies**|Sathwik Narkedimilli et.al.|[2510.24598](https://arxiv.org/abs/2510.24598)|null|
+|**2025-10-28**|**Multifunctional Wideband Digital Metasurface for Secure Electromagnetic Manipulation in S-Band**|Longpan Wang et.al.|[2510.24597](https://arxiv.org/abs/2510.24597)|null|
+|**2025-10-28**|**A Comprehensive Evaluation Framework for Synthetic Trip Data Generation in Public Transport**|Yuanyuan Wu et.al.|[2510.24375](https://arxiv.org/abs/2510.24375)|null|
+|**2025-10-28**|**A Domain Adaptive Position Reconstruction Method for Time Projection Chamber based on Deep Neural Network**|Xiaoran Guo et.al.|[2510.24329](https://arxiv.org/abs/2510.24329)|null|
+|**2025-10-28**|**Causal-Aware Generative Adversarial Networks with Reinforcement Learning**|Tu Anh Hoang Nguyen et.al.|[2510.24046](https://arxiv.org/abs/2510.24046)|null|
+|**2025-10-27**|**Galactic Alchemy: Deep Learning Map-to-Map Translation in Hydrodynamical Simulations**|Philipp Denzel et.al.|[2510.23768](https://arxiv.org/abs/2510.23768)|null|
+|**2025-10-28**|**PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection**|Yusu Qian et.al.|[2510.23594](https://arxiv.org/abs/2510.23594)|null|
 |**2025-10-27**|**Elastic modeling and total energy calculations of the structural characteristics of "free-standing",periodic, pseudomorphic GaN/AlN superlattices**|Th. Karakostas et.al.|[2510.23344](https://arxiv.org/abs/2510.23344)|null|
 |**2025-10-27**|**Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy**|Weixuan Chen et.al.|[2510.23274](https://arxiv.org/abs/2510.23274)|null|
 |**2025-10-27**|**Evaluation of Vision-LLMs in Surveillance Video**|Pascal Benschop et.al.|[2510.23190](https://arxiv.org/abs/2510.23190)|null|
 |**2025-10-26**|**Clustering by Denoising: Latent plug-and-play diffusion for single-cell data**|Dominik Meier et.al.|[2510.22835](https://arxiv.org/abs/2510.22835)|null|
 |**2025-10-26**|**Logical GANs: Adversarial Learning through Ehrenfeucht Fraisse Games**|Mirco A. Mannucci et.al.|[2510.22824](https://arxiv.org/abs/2510.22824)|null|
-|**2025-10-26**|**Cross-view Localization and Synthesis - Datasets, Challenges and Opportunities**|Ningli Xu et.al.|[2510.22736](https://arxiv.org/abs/2510.22736)|null|
+|**2025-10-26**|**Cross-view Localization and Synthesis -- Datasets, Challenges and Opportunities**|Ningli Xu et.al.|[2510.22736](https://arxiv.org/abs/2510.22736)|null|
 |**2025-10-23**|**Generative AI in Depth: A Survey of Recent Advances, Model Variants, and Real-World Applications**|Shamim Yazdani et.al.|[2510.21887](https://arxiv.org/abs/2510.21887)|null|
 |**2025-10-24**|**Smule Renaissance Small: Efficient General-Purpose Vocal Restoration**|Yongyi Zang et.al.|[2510.21659](https://arxiv.org/abs/2510.21659)|null|
 |**2025-10-24**|**MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization**|Chenglong Wang et.al.|[2510.21473](https://arxiv.org/abs/2510.21473)|null|
@@ -658,7 +670,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -666,5 +678,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
