@@ -1,4 +1,4 @@
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,12 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[2510.25522](https://arxiv.org/abs/2510.25522)|null|
+|**2025-10-29**|**3D CT-Based Coronary Calcium Assessment: A Feature-Driven Machine Learning Framework**|Ayman Abaid et.al.|[2510.25347](https://arxiv.org/abs/2510.25347)|null|
+|**2025-10-28**|**CT-Less Attenuation Correction Using Multiview Ensemble Conditional Diffusion Model on High-Resolution Uncorrected PET Images**|Alexandre St-Georges et.al.|[2510.24805](https://arxiv.org/abs/2510.24805)|null|
 |**2025-10-28**|**Toward Photon-Induced Near-Field Electron Tomography**|Tamir Shpiro et.al.|[2510.24648](https://arxiv.org/abs/2510.24648)|null|
 |**2025-10-28**|**Energy evolution in nanocrystalline iron driven by collision cascades**|Ivan Tolkachev et.al.|[2510.24324](https://arxiv.org/abs/2510.24324)|null|
 |**2025-10-28**|**Towards the Automatic Segmentation, Modeling and Meshing of the Aortic Vessel Tree from Multicenter Acquisitions: An Overview of the SEG.A. 2023 Segmentation of the Aorta Challenge**|Yuan Jin et.al.|[2510.24009](https://arxiv.org/abs/2510.24009)|null|
 |**2025-10-27**|**Low-Dose CT Imaging Using a Regularization-Enhanced Efficient Diffusion Probabilistic Model**|Qiang Li et.al.|[2510.23859](https://arxiv.org/abs/2510.23859)|null|
 |**2025-10-27**|**Equivariance2Inverse: A Practical Self-Supervised CT Reconstruction Method Benchmarked on Real, Limited-Angle, and Blurred Data**|Dirk Elias Schut et.al.|[2510.23317](https://arxiv.org/abs/2510.23317)|null|
-|**2025-10-28**|**Radiation enhanced diffusion in cartilages as a physical mechanism underlying radiation treatments of osteoarthritis and related disorders**|Diana Shvydka et.al.|[2510.22903](https://arxiv.org/abs/2510.22903)|null|
+|**2025-10-29**|**Radiation enhanced diffusion in cartilages as a physical mechanism underlying radiation treatments of osteoarthritis and related disorders**|Diana Shvydka et.al.|[2510.22903](https://arxiv.org/abs/2510.22903)|null|
 |**2025-10-23**|**Poisson Flow Consistency Training**|Anthony Zhang et.al.|[2510.21857](https://arxiv.org/abs/2510.21857)|null|
 |**2025-10-24**|**Digital Contrast CT Pulmonary Angiography Synthesis from Non-contrast CT for Pulmonary Vascular Disease**|Ying Ming et.al.|[2510.21140](https://arxiv.org/abs/2510.21140)|null|
 |**2025-10-22**|**Lightweight Classifier for Detecting Intracranial Hemorrhage in Ultrasound Data**|Phat Tran et.al.|[2510.20857](https://arxiv.org/abs/2510.20857)|null|
@@ -178,12 +181,13 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-20**|**A Compressive Sensing Inspired Monte-Carlo Method for Combinatorial Optimization**|Baptiste Chevalier et.al.|[2510.24755](https://arxiv.org/abs/2510.24755)|null|
 |**2025-10-27**|**On quantum large sieve inequalities and operator recovery from incomplete information**|Luís Daniel Abreu et.al.|[2510.23676](https://arxiv.org/abs/2510.23676)|null|
 |**2025-10-27**|**Equivariance2Inverse: A Practical Self-Supervised CT Reconstruction Method Benchmarked on Real, Limited-Angle, and Blurred Data**|Dirk Elias Schut et.al.|[2510.23317](https://arxiv.org/abs/2510.23317)|null|
 |**2025-10-26**|**Projection Embedded Diffusion Bridge for CT Reconstruction from Incomplete Data**|Yuang Wang et.al.|[2510.22605](https://arxiv.org/abs/2510.22605)|null|
@@ -269,12 +273,16 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**BOLT-GAN: Bayes-Optimal Loss for Stable GAN Training**|Mohammadreza Tavasoli Naeini et.al.|[2510.25609](https://arxiv.org/abs/2510.25609)|null|
+|**2025-10-29**|**Learning Fair Graph Representations with Multi-view Information Bottleneck**|Chuxun Liu et.al.|[2510.25096](https://arxiv.org/abs/2510.25096)|null|
+|**2025-10-29**|**Training Across Reservoirs: Using Numerical Differentiation To Couple Trainable Networks With Black-Box Reservoirs**|Andrew Clark et.al.|[2510.25074](https://arxiv.org/abs/2510.25074)|null|
+|**2025-10-28**|**Preliminary Demonstration of Diamond-GaN pn Diodes via Grafting**|Jie Zhou et.al.|[2510.25028](https://arxiv.org/abs/2510.25028)|null|
 |**2025-10-28**|**FunReason-MT Technical Report: Overcoming the Complexity Barrier in Multi-Turn Function Calling**|Zengzhuang Xu et.al.|[2510.24645](https://arxiv.org/abs/2510.24645)|null|
 |**2025-10-28**|**A Novel XAI-Enhanced Quantum Adversarial Networks for Velocity Dispersion Modeling in MaNGA Galaxies**|Sathwik Narkedimilli et.al.|[2510.24598](https://arxiv.org/abs/2510.24598)|null|
 |**2025-10-28**|**Multifunctional Wideband Digital Metasurface for Secure Electromagnetic Manipulation in S-Band**|Longpan Wang et.al.|[2510.24597](https://arxiv.org/abs/2510.24597)|null|
@@ -670,7 +678,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -678,5 +686,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
