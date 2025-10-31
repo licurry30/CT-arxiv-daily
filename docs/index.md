@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -179,6 +179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**MORE: Multi-Organ Medical Image REconstruction Dataset**|Shaokai Wu et.al.|[2510.26759](https://arxiv.org/abs/2510.26759)|null|
 |**2025-10-20**|**A Compressive Sensing Inspired Monte-Carlo Method for Combinatorial Optimization**|Baptiste Chevalier et.al.|[2510.24755](https://arxiv.org/abs/2510.24755)|null|
 |**2025-10-27**|**On quantum large sieve inequalities and operator recovery from incomplete information**|Luís Daniel Abreu et.al.|[2510.23676](https://arxiv.org/abs/2510.23676)|null|
 |**2025-10-27**|**Equivariance2Inverse: A Practical Self-Supervised CT Reconstruction Method Benchmarked on Real, Limited-Angle, and Blurred Data**|Dirk Elias Schut et.al.|[2510.23317](https://arxiv.org/abs/2510.23317)|null|
@@ -269,6 +270,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection**|Wajdi Hammami et.al.|[2510.26487](https://arxiv.org/abs/2510.26487)|null|
+|**2025-10-30**|**GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?**|Mingyu Sung et.al.|[2510.26339](https://arxiv.org/abs/2510.26339)|null|
+|**2025-10-30**|**Generative Artificial Intelligence for Air Shower Simulation**|C. Bozza et.al.|[2510.26316](https://arxiv.org/abs/2510.26316)|null|
+|**2025-10-30**|**Impact of AlN buffer thickness on electrical and thermal characteristics of AlGaN/GaN/AlN HEMTs**|Minho Kim et.al.|[2510.26244](https://arxiv.org/abs/2510.26244)|null|
+|**2025-10-30**|**Learning to Manage Investment Portfolios beyond Simple Utility Functions**|Maarten P. Scholl et.al.|[2510.26165](https://arxiv.org/abs/2510.26165)|null|
+|**2025-10-30**|**New Money: A Systematic Review of Synthetic Data Generation for Finance**|James Meldrum et.al.|[2510.26076](https://arxiv.org/abs/2510.26076)|null|
+|**2025-10-29**|**Conformal Prediction Beyond the Horizon: Distribution-Free Inference for Policy Evaluation**|Feichen Gan et.al.|[2510.26026](https://arxiv.org/abs/2510.26026)|null|
+|**2025-10-29**|**Evaluation of Structural Properties and Defect Energetics in Al $_x$ Ga $_{1-x}$ N Alloys**|Farshid Reza et.al.|[2510.25912](https://arxiv.org/abs/2510.25912)|null|
 |**2025-10-29**|**BOLT-GAN: Bayes-Optimal Loss for Stable GAN Training**|Mohammadreza Tavasoli Naeini et.al.|[2510.25609](https://arxiv.org/abs/2510.25609)|null|
 |**2025-10-29**|**Learning Fair Graph Representations with Multi-view Information Bottleneck**|Chuxun Liu et.al.|[2510.25096](https://arxiv.org/abs/2510.25096)|null|
 |**2025-10-29**|**Training Across Reservoirs: Using Numerical Differentiation To Couple Trainable Networks With Black-Box Reservoirs**|Andrew Clark et.al.|[2510.25074](https://arxiv.org/abs/2510.25074)|null|
