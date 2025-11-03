@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[2510.27680](https://arxiv.org/abs/2510.27680)|null|
+|**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[2510.27679](https://arxiv.org/abs/2510.27679)|null|
+|**2025-10-31**|**Privacy-Aware Continual Self-Supervised Learning on Multi-Window Chest Computed Tomography for Domain-Shift Robustness**|Ren Tasai et.al.|[2510.27213](https://arxiv.org/abs/2510.27213)|null|
+|**2025-10-31**|**Nonasymptotic Convergence Rates for Plug-and-Play Methods With MMSE Denoisers**|Henry Pritchard et.al.|[2510.27211](https://arxiv.org/abs/2510.27211)|null|
+|**2025-10-30**|**PF-DAformer: Proximal Femur Segmentation via Domain Adaptive Transformer for Dual-Center QCT**|Rochak Dhakal et.al.|[2510.26903](https://arxiv.org/abs/2510.26903)|null|
 |**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[2510.25522](https://arxiv.org/abs/2510.25522)|null|
 |**2025-10-29**|**3D CT-Based Coronary Calcium Assessment: A Feature-Driven Machine Learning Framework**|Ayman Abaid et.al.|[2510.25347](https://arxiv.org/abs/2510.25347)|null|
 |**2025-10-28**|**CT-Less Attenuation Correction Using Multiview Ensemble Conditional Diffusion Model on High-Resolution Uncorrected PET Images**|Alexandre St-Georges et.al.|[2510.24805](https://arxiv.org/abs/2510.24805)|null|
@@ -270,6 +275,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Kinematical and dynamical contrast of dislocations in thick GaN substrates observed by synchrotron-radiation X-ray topography under six-beam diffraction conditions**|Yongzhao Yao et.al.|[2510.27597](https://arxiv.org/abs/2510.27597)|null|
+|**2025-10-31**|**A Hybrid Deep Learning and Forensic Approach for Robust Deepfake Detection**|Sales Aribe Jr et.al.|[2510.27392](https://arxiv.org/abs/2510.27392)|null|
+|**2025-10-31**|**Dual-Scale Antenna Deployment for Pinching Antenna Systems**|Xu Gan et.al.|[2510.27185](https://arxiv.org/abs/2510.27185)|null|
+|**2025-10-31**|**A Hierarchical Deep Learning Model for Predicting Pedestrian-Level Urban Winds**|Reda Snaiki et.al.|[2510.27101](https://arxiv.org/abs/2510.27101)|null|
+|**2025-10-30**|**Limited Memory LRSGA Optimizer to competitive optimization**|Katherine Rossella Foglia et.al.|[2510.26983](https://arxiv.org/abs/2510.26983)|null|
+|**2025-10-30**|**BI-DCGAN: A Theoretically Grounded Bayesian Framework for Efficient and Diverse GANs**|Mahsa Valizadeh et.al.|[2510.26892](https://arxiv.org/abs/2510.26892)|null|
+|**2025-10-30**|**Baryon anti-Baryon Photoproduction Cross Sections off the Proton**|F. Afzal et.al.|[2510.26890](https://arxiv.org/abs/2510.26890)|null|
+|**2025-10-29**|**R3GAN-based Optimal Strategy for Augmenting Small Medical Dataset**|Tsung-Wei Pan et.al.|[2510.26828](https://arxiv.org/abs/2510.26828)|null|
 |**2025-10-30**|**Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection**|Wajdi Hammami et.al.|[2510.26487](https://arxiv.org/abs/2510.26487)|null|
 |**2025-10-30**|**GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?**|Mingyu Sung et.al.|[2510.26339](https://arxiv.org/abs/2510.26339)|null|
 |**2025-10-30**|**Generative Artificial Intelligence for Air Shower Simulation**|C. Bozza et.al.|[2510.26316](https://arxiv.org/abs/2510.26316)|null|
