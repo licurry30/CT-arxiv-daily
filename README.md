@@ -1,4 +1,4 @@
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,10 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Radon random sampling and reconstruction in local shift-invariant signal space**|Zhanpeng Deng et.al.|[2511.02261](https://arxiv.org/abs/2511.02261)|null|
+|**2025-11-04**|**CT density estimation and beam hardening correction for single material objects using reference scans - a simulation and experimental study**|Nikhil Deshmukh et.al.|[2511.02259](https://arxiv.org/abs/2511.02259)|null|
+|**2025-11-04**|**From Instance Segmentation to 3D Growth Trajectory Reconstruction in Planktonic Foraminifera**|Huahua Lin et.al.|[2511.02142](https://arxiv.org/abs/2511.02142)|null|
+|**2025-11-03**|**Markerless Augmented Reality Registration for Surgical Guidance: A Multi-Anatomy Clinical Accuracy Study**|Yue Yang et.al.|[2511.02086](https://arxiv.org/abs/2511.02086)|null|
+|**2025-11-03**|**Lite ENSAM: a lightweight cancer segmentation model for 3D Computed Tomography**|Agnar Martin Bjørnstad et.al.|[2511.01600](https://arxiv.org/abs/2511.01600)|null|
+|**2025-11-01**|**Toward Better Optimization of Low-Dose CT Enhancement: A Critical Analysis of Loss Functions and Image Quality Assessment Metrics**|Taifour Yousra et.al.|[2511.00698](https://arxiv.org/abs/2511.00698)|null|
+|**2025-10-31**|**Quantifying the Full Damage Profile of Focused Ion Beams via 4D-STEM Precession Electron Diffraction and PSNR Metrics**|M. G. Masteghin et.al.|[2511.00320](https://arxiv.org/abs/2511.00320)|null|
+|**2025-10-30**|**SpinalSAM-R1: A Vision-Language Multimodal Interactive System for Spine CT Segmentation**|Jiaming Liu et.al.|[2511.00095](https://arxiv.org/abs/2511.00095)|null|
 |**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[2510.27680](https://arxiv.org/abs/2510.27680)|null|
 |**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[2510.27679](https://arxiv.org/abs/2510.27679)|null|
 |**2025-10-31**|**Privacy-Aware Continual Self-Supervised Learning on Multi-Window Chest Computed Tomography for Domain-Shift Robustness**|Ren Tasai et.al.|[2510.27213](https://arxiv.org/abs/2510.27213)|null|
-|**2025-10-31**|**Nonasymptotic Convergence Rates for Plug-and-Play Methods With MMSE Denoisers**|Henry Pritchard et.al.|[2510.27211](https://arxiv.org/abs/2510.27211)|null|
+|**2025-11-04**|**Nonasymptotic Convergence Rates for Plug-and-Play Methods With MMSE Denoisers**|Henry Pritchard et.al.|[2510.27211](https://arxiv.org/abs/2510.27211)|null|
 |**2025-10-30**|**PF-DAformer: Proximal Femur Segmentation via Domain Adaptive Transformer for Dual-Center QCT**|Rochak Dhakal et.al.|[2510.26903](https://arxiv.org/abs/2510.26903)|null|
 |**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[2510.25522](https://arxiv.org/abs/2510.25522)|null|
 |**2025-10-29**|**3D CT-Based Coronary Calcium Assessment: A Feature-Driven Machine Learning Framework**|Ayman Abaid et.al.|[2510.25347](https://arxiv.org/abs/2510.25347)|null|
@@ -186,12 +194,17 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**DiffPace: Diffusion-based Plug-and-play Augmented Channel Estimation in mmWave and Terahertz Ultra-Massive MIMO Systems**|Zhengdong Hu et.al.|[2511.01867](https://arxiv.org/abs/2511.01867)|null|
+|**2025-11-03**|**An unsupervised posterior sampling framework for multi-purpose seismic data recovery**|Chuangji Meng et.al.|[2511.01536](https://arxiv.org/abs/2511.01536)|null|
+|**2025-11-04**|**Optimizing Energy and Latency in 6G Smart Cities with Edge CyberTwins**|Amine Abouaomar et.al.|[2511.00955](https://arxiv.org/abs/2511.00955)|null|
+|**2025-11-01**|**From Generality to Specificity: Prior-Driven Optimal Sparse Transformation in Compressed Sensing**|Zhihan Zhu et.al.|[2511.00611](https://arxiv.org/abs/2511.00611)|null|
+|**2025-11-01**|**Fast Time-Varying mmWave Channel Estimation: A Rank-Aware Matrix Completion Approach**|Tianyu Jiang et.al.|[2511.00607](https://arxiv.org/abs/2511.00607)|null|
 |**2025-10-30**|**MORE: Multi-Organ Medical Image REconstruction Dataset**|Shaokai Wu et.al.|[2510.26759](https://arxiv.org/abs/2510.26759)|null|
 |**2025-10-20**|**A Compressive Sensing Inspired Monte-Carlo Method for Combinatorial Optimization**|Baptiste Chevalier et.al.|[2510.24755](https://arxiv.org/abs/2510.24755)|null|
 |**2025-10-27**|**On quantum large sieve inequalities and operator recovery from incomplete information**|Luís Daniel Abreu et.al.|[2510.23676](https://arxiv.org/abs/2510.23676)|null|
@@ -279,12 +292,32 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](https://arxiv.org/abs/2511.02791)|null|
+|**2025-11-04**|**DANIEL: A Distributed and Scalable Approach for Global Representation Learning with EHR Applications**|Zebin Wang et.al.|[2511.02754](https://arxiv.org/abs/2511.02754)|null|
+|**2025-11-04**|**A Non-Adversarial Approach to Idempotent Generative Modelling**|Mohammed Al-Jaff et.al.|[2511.02614](https://arxiv.org/abs/2511.02614)|null|
+|**2025-11-04**|**Generalizable super-resolution turbulence reconstruction from minimal training data**|Wu Haokai et.al.|[2511.02604](https://arxiv.org/abs/2511.02604)|null|
+|**2025-11-04**|**First-principles Prediction of Carrier Mobility in Semiconductor Nanowires Based on the Spatially Dependent Boltzmann Transport Equation**|Zirui He et.al.|[2511.02561](https://arxiv.org/abs/2511.02561)|null|
+|**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](https://arxiv.org/abs/2511.02489)|null|
+|**2025-11-03**|**Human-AI Co-Embodied Intelligence for Scientific Experimentation and Manufacturing**|Xinyi Lin et.al.|[2511.02071](https://arxiv.org/abs/2511.02071)|null|
+|**2025-11-03**|**Quantum-Enhanced Generative Models for Rare Event Prediction**|M. Z. Haider et.al.|[2511.02042](https://arxiv.org/abs/2511.02042)|null|
+|**2025-11-03**|**A Compact Model for Polar Multiple-Channel Field Effect Transistors: A Case Study in III-V Nitride Semiconductors**|Aias Asteris et.al.|[2511.01699](https://arxiv.org/abs/2511.01699)|null|
+|**2025-11-03**|**Generative Adversarial Synthesis and Deep Feature Discrimination of Brain Tumor MRI Images**|Md Sumon Ali et.al.|[2511.01574](https://arxiv.org/abs/2511.01574)|null|
+|**2025-11-03**|**PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model**|Wenqi Liang et.al.|[2511.01571](https://arxiv.org/abs/2511.01571)|null|
+|**2025-11-03**|**The local twisted Gan-Gross-Prasad conjecture for  $\text{U}(V_K)/\text{U}(V)$ **|Nhat Hoang Le et.al.|[2511.01301](https://arxiv.org/abs/2511.01301)|null|
+|**2025-11-03**|**A Saddle Point Remedy: Power of Variable Elimination in Non-convex Optimization**|Min Gan et.al.|[2511.01234](https://arxiv.org/abs/2511.01234)|null|
+|**2025-11-03**|**An Interdisciplinary and Cross-Task Review on Missing Data Imputation**|Jicong Fan et.al.|[2511.01196](https://arxiv.org/abs/2511.01196)|null|
+|**2025-11-03**|**Conditional Diffusion Model-Enabled Scenario-Specific Neural Receivers for Superimposed Pilot Schemes**|Xingyu Zhou et.al.|[2511.01173](https://arxiv.org/abs/2511.01173)|null|
+|**2025-11-02**|**WhisperVC: Target Speaker-Controllable Mandarin Whisper-to-Speech Conversion**|Dong Liu et.al.|[2511.01056](https://arxiv.org/abs/2511.01056)|null|
+|**2025-11-02**|**MedEqualizer: A Framework Investigating Bias in Synthetic Medical Data and Mitigation via Augmentation**|Sama Salarian et.al.|[2511.01054](https://arxiv.org/abs/2511.01054)|null|
+|**2025-11-02**|**G2rammar: Bilingual Grammar Modeling for Enhanced Text-attributed Graph Learning**|Heng Zheng et.al.|[2511.00911](https://arxiv.org/abs/2511.00911)|null|
+|**2025-11-02**|**GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks**|Heng Zheng et.al.|[2511.00908](https://arxiv.org/abs/2511.00908)|null|
+|**2025-11-02**|**Empowering LLMs with Structural Role Inference for Zero-Shot Graph Learning**|Heng Zhang et.al.|[2511.00898](https://arxiv.org/abs/2511.00898)|null|
 |**2025-10-31**|**Kinematical and dynamical contrast of dislocations in thick GaN substrates observed by synchrotron-radiation X-ray topography under six-beam diffraction conditions**|Yongzhao Yao et.al.|[2510.27597](https://arxiv.org/abs/2510.27597)|null|
 |**2025-10-31**|**A Hybrid Deep Learning and Forensic Approach for Robust Deepfake Detection**|Sales Aribe Jr et.al.|[2510.27392](https://arxiv.org/abs/2510.27392)|null|
 |**2025-10-31**|**Dual-Scale Antenna Deployment for Pinching Antenna Systems**|Xu Gan et.al.|[2510.27185](https://arxiv.org/abs/2510.27185)|null|
@@ -700,7 +733,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -708,5 +741,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
