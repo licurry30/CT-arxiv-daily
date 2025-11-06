@@ -1,4 +1,4 @@
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**PETWB-REP: A Multi-Cancer Whole-Body FDG PET/CT and Radiology Report Dataset for Medical Imaging Research**|Le Xue et.al.|[2511.03194](https://arxiv.org/abs/2511.03194)|null|
 |**2025-11-04**|**Radon random sampling and reconstruction in local shift-invariant signal space**|Zhanpeng Deng et.al.|[2511.02261](https://arxiv.org/abs/2511.02261)|null|
 |**2025-11-04**|**CT density estimation and beam hardening correction for single material objects using reference scans - a simulation and experimental study**|Nikhil Deshmukh et.al.|[2511.02259](https://arxiv.org/abs/2511.02259)|null|
 |**2025-11-04**|**From Instance Segmentation to 3D Growth Trajectory Reconstruction in Planktonic Foraminifera**|Huahua Lin et.al.|[2511.02142](https://arxiv.org/abs/2511.02142)|null|
@@ -194,12 +195,14 @@
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**UAV SAR Imaging with 5G NR OFDM Signals in NLOS Environments**|Qiuyuan Yang et.al.|[2511.03292](https://arxiv.org/abs/2511.03292)|null|
+|**2025-11-05**|**A Plug-and-Play Framework for Volumetric Light-Sheet Image Reconstruction**|Yi Gong et.al.|[2511.03093](https://arxiv.org/abs/2511.03093)|null|
 |**2025-10-21**|**DiffPace: Diffusion-based Plug-and-play Augmented Channel Estimation in mmWave and Terahertz Ultra-Massive MIMO Systems**|Zhengdong Hu et.al.|[2511.01867](https://arxiv.org/abs/2511.01867)|null|
 |**2025-11-03**|**An unsupervised posterior sampling framework for multi-purpose seismic data recovery**|Chuangji Meng et.al.|[2511.01536](https://arxiv.org/abs/2511.01536)|null|
 |**2025-11-04**|**Optimizing Energy and Latency in 6G Smart Cities with Edge CyberTwins**|Amine Abouaomar et.al.|[2511.00955](https://arxiv.org/abs/2511.00955)|null|
@@ -292,12 +295,15 @@
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection**|Mahek Desai et.al.|[2511.03661](https://arxiv.org/abs/2511.03661)|null|
+|**2025-11-05**|**Discovery of Slot Plasma Excitations in a AlGaN/GaN Plasmonic Crystal**|A. R. Khisameeva et.al.|[2511.03450](https://arxiv.org/abs/2511.03450)|null|
+|**2025-11-05**|**Far-UVC Field Emission Device at 226 nm and its Sub-Nanometer thick GaN/AlN Quantum Well Anode**|D. L. Boiko et.al.|[2511.03321](https://arxiv.org/abs/2511.03321)|null|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](https://arxiv.org/abs/2511.02791)|null|
 |**2025-11-04**|**DANIEL: A Distributed and Scalable Approach for Global Representation Learning with EHR Applications**|Zebin Wang et.al.|[2511.02754](https://arxiv.org/abs/2511.02754)|null|
 |**2025-11-04**|**A Non-Adversarial Approach to Idempotent Generative Modelling**|Mohammed Al-Jaff et.al.|[2511.02614](https://arxiv.org/abs/2511.02614)|null|
@@ -733,7 +739,7 @@
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -741,5 +747,5 @@
 |---|---|---|---|---|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
