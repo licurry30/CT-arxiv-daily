@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Multimodal Deep Learning for Prediction of Progression-Free Survival in Patients with Neuroendocrine Tumors Undergoing 177Lu-based Peptide Receptor Radionuclide Therapy**|Simon Baur et.al.|[2511.05169](https://arxiv.org/abs/2511.05169)|null|
+|**2025-11-06**|**Rate dependency of capillary heterogeneity trapping for CO2 storage**|Catrin Harris et.al.|[2511.04876](https://arxiv.org/abs/2511.04876)|null|
 |**2025-11-06**|**The Moving Beam Diffraction Geometry: the DIAD Application of a Diffraction Scanning-Probe**|Alberto Leonardi et.al.|[2511.04463](https://arxiv.org/abs/2511.04463)|null|
 |**2025-11-06**|**Submanifold Sparse Convolutional Networks for Automated 3D Segmentation of Kidneys and Kidney Tumours in Computed Tomography**|Saúl Alonso-Monsalve et.al.|[2511.04334](https://arxiv.org/abs/2511.04334)|null|
 |**2025-11-06**|**Adversarial and Score-Based CT Denoising: CycleGAN vs Noise2Score**|Abu Hanif Muhammad Syarubany et.al.|[2511.04083](https://arxiv.org/abs/2511.04083)|null|
@@ -296,6 +298,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**kV-Class Lateral NiOx/GaN Super-Heterojunction Diode via Ammonia Molecular Beam Epitaxy (NH3-MBE)**|Yizheng Liu et.al.|[2511.05060](https://arxiv.org/abs/2511.05060)|null|
+|**2025-11-07**|**Nuclear Ptychoscopy: A Ptychographic Framework for Nuclear Spectroscopy**|Ziyang Yuan et.al.|[2511.04924](https://arxiv.org/abs/2511.04924)|null|
+|**2025-11-07**|**Three-dimensional imaging of threading dislocations in GaN by multimodal stimulated Raman scattering microscopy**|Shun Takahashi et.al.|[2511.04915](https://arxiv.org/abs/2511.04915)|null|
+|**2025-11-06**|**Persuading Stable Matching**|Jonathan Shaki et.al.|[2511.04846](https://arxiv.org/abs/2511.04846)|null|
 |**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](https://arxiv.org/abs/2511.04641)|null|
 |**2025-11-06**|**Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality**|Tushar Kataria et.al.|[2511.04615](https://arxiv.org/abs/2511.04615)|null|
 |**2025-11-06**|**ForecastGAN: A Decomposition-Based Adversarial Framework for Multi-Horizon Time Series Forecasting**|Syeda Sitara Wishal Fatima et.al.|[2511.04445](https://arxiv.org/abs/2511.04445)|null|
