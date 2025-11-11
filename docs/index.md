@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**LMM-IQA: Image Quality Assessment for Low-Dose CT Imaging**|Kagan Celik et.al.|[2511.07298](https://arxiv.org/abs/2511.07298)|null|
+|**2025-11-10**|**Task-Adaptive Low-Dose CT Reconstruction**|Necati Sefercioglu et.al.|[2511.07094](https://arxiv.org/abs/2511.07094)|null|
+|**2025-11-10**|**PADM: A Physics-aware Diffusion Model for Attenuation Correction**|Trung Kien Pham et.al.|[2511.06948](https://arxiv.org/abs/2511.06948)|null|
+|**2025-11-10**|**Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT**|Yifei Zhang et.al.|[2511.06625](https://arxiv.org/abs/2511.06625)|null|
+|**2025-11-09**|**A Bilayer Cathode Design Procedure for Li ion Batteries Using the Multilayer Doyle-Fuller-Newman Model (M-DFN)**|E. C. Tredenick et.al.|[2511.06228](https://arxiv.org/abs/2511.06228)|null|
+|**2025-11-09**|**SPASHT: An image-enhancement method for sparse-view MPI SPECT**|Zezhang Yang et.al.|[2511.06203](https://arxiv.org/abs/2511.06203)|null|
+|**2025-11-08**|**From cathode to anode: Understanding lithium loss in 21700-type Ni-rich NCM||Graphite-SiOx cells**|Thien An Pham et.al.|[2511.05892](https://arxiv.org/abs/2511.05892)|null|
 |**2025-11-07**|**Multimodal Deep Learning for Prediction of Progression-Free Survival in Patients with Neuroendocrine Tumors Undergoing 177Lu-based Peptide Receptor Radionuclide Therapy**|Simon Baur et.al.|[2511.05169](https://arxiv.org/abs/2511.05169)|null|
 |**2025-11-06**|**Rate dependency of capillary heterogeneity trapping for CO2 storage**|Catrin Harris et.al.|[2511.04876](https://arxiv.org/abs/2511.04876)|null|
 |**2025-11-06**|**The Moving Beam Diffraction Geometry: the DIAD Application of a Diffraction Scanning-Probe**|Alberto Leonardi et.al.|[2511.04463](https://arxiv.org/abs/2511.04463)|null|
@@ -200,6 +207,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Task-Adaptive Low-Dose CT Reconstruction**|Necati Sefercioglu et.al.|[2511.07094](https://arxiv.org/abs/2511.07094)|null|
+|**2025-11-09**|**Compressive Sensing Photoacoustic Imaging Receiver with Matrix-Vector-Multiplication SAR ADC**|Huan-Cheng Liao et.al.|[2511.06580](https://arxiv.org/abs/2511.06580)|null|
+|**2025-11-09**|**Sparse Linear Regression is Easy on Random Supports**|Gautam Chandrasekaran et.al.|[2511.06211](https://arxiv.org/abs/2511.06211)|null|
+|**2025-11-09**|**Hierarchically Block-Sparse Recovery With Prior Support Information**|Liyang Lu et.al.|[2511.06173](https://arxiv.org/abs/2511.06173)|null|
+|**2025-11-08**|**Fast Time-Varying mmWave MIMO Channel Estimation and Reconstruction: An Efficient Rank-Aware Matrix Completion Method**|Tianyu Jiang et.al.|[2511.05902](https://arxiv.org/abs/2511.05902)|null|
+|**2025-11-08**|**Compressive multi-beam scanning transmission electron microscopy**|Akira Yasuhara et.al.|[2511.05864](https://arxiv.org/abs/2511.05864)|null|
+|**2025-11-08**|**Signal and Image Recovery with Scale and Signed Permutation Invariant Sparsity-Promoting Functions**|Jianqing Jia et.al.|[2511.05777](https://arxiv.org/abs/2511.05777)|null|
 |**2025-11-05**|**UAV SAR Imaging with 5G NR OFDM Signals in NLOS Environments**|Qiuyuan Yang et.al.|[2511.03292](https://arxiv.org/abs/2511.03292)|null|
 |**2025-11-05**|**A Plug-and-Play Framework for Volumetric Light-Sheet Image Reconstruction**|Yi Gong et.al.|[2511.03093](https://arxiv.org/abs/2511.03093)|null|
 |**2025-10-21**|**DiffPace: Diffusion-based Plug-and-play Augmented Channel Estimation in mmWave and Terahertz Ultra-Massive MIMO Systems**|Zhengdong Hu et.al.|[2511.01867](https://arxiv.org/abs/2511.01867)|null|
@@ -298,6 +312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**DigiData: Training and Evaluating General-Purpose Mobile Control Agents**|Yuxuan Sun et.al.|[2511.07413](https://arxiv.org/abs/2511.07413)|null|
+|**2025-11-10**|**Privacy on the Fly: A Predictive Adversarial Transformation Network for Mobile Sensor Data**|Tianle Song et.al.|[2511.07242](https://arxiv.org/abs/2511.07242)|null|
+|**2025-11-10**|**Prospects for geoneutrino detection with JUNO**|Thomas Adam et.al.|[2511.07227](https://arxiv.org/abs/2511.07227)|null|
+|**2025-11-10**|**Diagnosing and Breaking Amplitude Suppression in Seismic Phase Picking Through Adversarial Shape Learning**|Chun-Ming Huang et.al.|[2511.06731](https://arxiv.org/abs/2511.06731)|null|
+|**2025-11-10**|**AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars**|Yuda Qiu et.al.|[2511.06721](https://arxiv.org/abs/2511.06721)|null|
+|**2025-11-10**|**F2GAN: A Feature-Feedback Generative Framework for Reliable AI-Based Fault Diagnosis in Inverter-Dominated Microgrids**|Swetha Rani Kasimalla et.al.|[2511.06677](https://arxiv.org/abs/2511.06677)|null|
+|**2025-11-09**|**TriShGAN: Enhancing Sparsity and Robustness in Multivariate Time Series Counterfactuals Explanation**|Hongnan Ma et.al.|[2511.06529](https://arxiv.org/abs/2511.06529)|null|
+|**2025-11-09**|**Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation**|Peng He et.al.|[2511.06285](https://arxiv.org/abs/2511.06285)|null|
+|**2025-11-09**|**OpenVLN: Open-world aerial Vision-Language Navigation**|Peican Lin et.al.|[2511.06182](https://arxiv.org/abs/2511.06182)|null|
+|**2025-11-04**|**DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping**|Weston Bondurant et.al.|[2511.05575](https://arxiv.org/abs/2511.05575)|null|
 |**2025-11-07**|**kV-Class Lateral NiOx/GaN Super-Heterojunction Diode via Ammonia Molecular Beam Epitaxy (NH3-MBE)**|Yizheng Liu et.al.|[2511.05060](https://arxiv.org/abs/2511.05060)|null|
 |**2025-11-07**|**Nuclear Ptychoscopy: A Ptychographic Framework for Nuclear Spectroscopy**|Ziyang Yuan et.al.|[2511.04924](https://arxiv.org/abs/2511.04924)|null|
 |**2025-11-07**|**Three-dimensional imaging of threading dislocations in GaN by multimodal stimulated Raman scattering microscopy**|Shun Takahashi et.al.|[2511.04915](https://arxiv.org/abs/2511.04915)|null|
