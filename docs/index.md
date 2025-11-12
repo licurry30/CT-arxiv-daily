@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.11
+## Updated on 2025.11.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -202,6 +202,26 @@ layout: default
 |**2025-08-07**|**MM2CT: MR-to-CT translation for multi-modal image fusion with mamba**|Chaohui Gong et.al.|[2508.05476](https://arxiv.org/abs/2508.05476)|null|
 |**2025-08-11**|**Unsupervised learning for inverse problems in computed tomography**|Laura Hellwege et.al.|[2508.05321](https://arxiv.org/abs/2508.05321)|null|
 |**2025-08-06**|**Influence of bone microstructure on ultrasound loss through skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2508.04838](https://arxiv.org/abs/2508.04838)|null|
+|**2025-01-10**|**End-to-End Deep Learning for Interior Tomography with Low-Dose X-ray CT**|Yoseob Han et.al.|[2501.05085](https://arxiv.org/abs/2501.05085)|null|
+|**2024-03-12**|**Low-dose CT Denoising with Language-engaged Dual-space Alignment**|Zhihao Chen et.al.|[2403.06128](https://arxiv.org/abs/2403.06128)|null|
+|**2025-02-25**|**PFCM: Poisson flow consistency models for low-dose CT image denoising**|Dennis Hein et.al.|[2402.08159](https://arxiv.org/abs/2402.08159)|null|
+|**2023-07-17**|**Diffusion Probabilistic Priors for Zero-Shot Low-Dose CT Image Denoising**|Xuan Liu et.al.|[2305.15887](https://arxiv.org/abs/2305.15887)|null|
+|**2023-02-08**|**Diffusion Denoising for Low-Dose-CT Model**|Runyi Li et.al.|[2301.11482](https://arxiv.org/abs/2301.11482)|null|
+|**2023-03-29**|**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising**|Dayang Wang et.al.|[2202.13517](https://arxiv.org/abs/2202.13517)|null|
+|**2021-02-05**|**No-reference denoising of low-dose CT projections**|Elvira Zainulina et.al.|[2102.02662](https://arxiv.org/abs/2102.02662)|null|
+|**2022-01-19**|**Noise2Context: Context-assisted Learning 3D Thin-layer Low Dose CT Without Clean Data**|Zhicheng Zhang et.al.|[2011.12525](https://arxiv.org/abs/2011.12525)|null|
+|**2021-03-09**|**EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising**|Tengfei Liang et.al.|[2011.00139](https://arxiv.org/abs/2011.00139)|null|
+|**2021-06-09**|**Probabilistic self-learning framework for Low-dose CT Denoising**|Ti Bai et.al.|[2006.00327](https://arxiv.org/abs/2006.00327)|null|
+|**2020-09-10**|**Momentum-Net for Low-Dose CT Image Reconstruction**|Siqi Ye et.al.|[2002.12018](https://arxiv.org/abs/2002.12018)|null|
+|**2019-10-21**|**SDCNet: Smoothed Dense-Convolution Network for Restoring Low-Dose Cerebral CT Perfusion**|Peng Liu et.al.|[1910.08364](https://arxiv.org/abs/1910.08364)|null|
+|**2019-08-13**|**Unpaired image denoising using a generative adversarial network in X-ray CT**|Hyoung Suk Park et.al.|[1903.06257](https://arxiv.org/abs/1903.06257)|null|
+|**2018-08-13**|**Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising**|Chenyu You et.al.|[1805.00587](https://arxiv.org/abs/1805.00587)|null|
+|**2019-07-16**|**3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network**|Hongming Shan et.al.|[1802.05656](https://arxiv.org/abs/1802.05656)|null|
+|**2019-03-06**|**Sharpness-aware Low dose CT denoising using conditional generative adversarial network**|Xin Yi et.al.|[1708.06453](https://arxiv.org/abs/1708.06453)|null|
+|**2018-03-29**|**Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network**|Eunhee Kang et.al.|[1707.09938](https://arxiv.org/abs/1707.09938)|null|
+|**2017-08-29**|**A Cascaded Convolutional Neural Network for X-ray Low-dose CT Image Denoising**|Dufan Wu et.al.|[1705.04267](https://arxiv.org/abs/1705.04267)|null|
+|**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
+|**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
 ## SVCT
 
@@ -285,7 +305,7 @@ layout: default
 |**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
 |**2025-08-20**|**SPIRiT Regularization: Parallel MRI with a Combination of Sensitivity Encoding and Linear Predictability**|Nicholas Dwork et.al.|[2508.15132](https://arxiv.org/abs/2508.15132)|null|
 |**2025-08-15**|**A Convergent Generalized Krylov Subspace Method for Compressed Sensing MRI Reconstruction with Gradient-Driven Denoisers**|Tao Hong et.al.|[2508.11219](https://arxiv.org/abs/2508.11219)|null|
-|**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-08-15**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
 |**2025-08-14**|**Output-Sparse Matrix Multiplication Using Compressed Sensing**|Huck Bennett et.al.|[2508.10250](https://arxiv.org/abs/2508.10250)|null|
 |**2025-08-13**|**AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models**|Tomás de la Sotta et.al.|[2508.09943](https://arxiv.org/abs/2508.09943)|null|
 |**2025-08-13**|**Physics-guided Deep Unfolding Network for Enhanced Kronecker Compressive sensing**|Gang Qu et.al.|[2508.09528](https://arxiv.org/abs/2508.09528)|null|
@@ -307,6 +327,25 @@ layout: default
 |**2025-07-24**|**A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots**|Alghalya Al-Hajri et.al.|[2507.18462](https://arxiv.org/abs/2507.18462)|null|
 |**2025-07-22**|**Fast One-Pass Sparse Approximation of the Top Eigenvectors of Huge Low-Rank Matrices? Yes,  $MAM^*$ !**|Edem Boahen et.al.|[2507.17036](https://arxiv.org/abs/2507.17036)|null|
 |**2025-07-19**|**Large-scale compressive microscopy via diffractive multiplexing across a sensor array**|Kevin C. Zhou et.al.|[2507.14437](https://arxiv.org/abs/2507.14437)|null|
+|**2025-05-16**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](https://arxiv.org/abs/2505.09985)|null|
+|**2025-03-11**|**X-LRM: X-ray Large Reconstruction Model for Extremely Sparse-View Computed Tomography Recovery in One Second**|Guofeng Zhang et.al.|[2503.06382](https://arxiv.org/abs/2503.06382)|null|
+|**2024-05-10**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814](https://arxiv.org/abs/2405.05814)|null|
+|**2024-11-06**|**Implicit Neural Representations for Robust Joint Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2405.02509](https://arxiv.org/abs/2405.02509)|null|
+|**2024-07-22**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](https://arxiv.org/abs/2404.17890)|null|
+|**2024-04-01**|**QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction**|Ishak Ayad et.al.|[2402.17951](https://arxiv.org/abs/2402.17951)|null|
+|**2025-04-23**|**3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation**|Yingtai Li et.al.|[2312.15676](https://arxiv.org/abs/2312.15676)|null|
+|**2024-03-26**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](https://arxiv.org/abs/2311.10959)|null|
+|**2023-08-29**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437](https://arxiv.org/abs/2308.14437)|null|
+|**2023-08-22**|**Learning to Distill Global Representation for Sparse-View CT**|Zilong Li et.al.|[2308.08463](https://arxiv.org/abs/2308.08463)|null|
+|**2022-11-28**|**Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction**|Bing Guan et.al.|[2211.13926](https://arxiv.org/abs/2211.13926)|null|
+|**2022-02-22**|**A Lightweight Dual-Domain Attention Framework for Sparse-View CT Reconstruction**|Chang Sun et.al.|[2202.09609](https://arxiv.org/abs/2202.09609)|null|
+|**2021-10-04**|**X2CT-FLOW: Maximum a posteriori reconstruction using a progressive flow-based deep generative model for ultra sparse-view computed tomography in ultra low-dose protocols**|Hisaichi Shibata et.al.|[2104.04179](https://arxiv.org/abs/2104.04179)|null|
+|**2020-12-15**|**LEARN++: Recurrent Dual-Domain Reconstruction Network for Compressed Sensing CT**|Yi Zhang et.al.|[2012.06983](https://arxiv.org/abs/2012.06983)|null|
+|**2021-03-30**|**Sparse-View Spectral CT Reconstruction Using Deep Learning**|Wail Mustafa et.al.|[2011.14842](https://arxiv.org/abs/2011.14842)|null|
+|**2019-05-29**|**Comparison of projection domain, image domain, and comprehensive deep learning for sparse-view X-ray CT image reconstruction**|Kaichao Liang et.al.|[1804.04289](https://arxiv.org/abs/1804.04289)|null|
+|**2018-09-05**|**Deep-neural-network based sinogram synthesis for sparse-view CT image reconstruction**|Hoyeon Lee et.al.|[1803.00694](https://arxiv.org/abs/1803.00694)|null|
+|**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
+|**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
 ## GAN in CT
 
@@ -766,10 +805,50 @@ layout: default
 |**2025-08-11**|**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution**|Zhiqiang Wu et.al.|[2508.08227](https://arxiv.org/abs/2508.08227)|null|
 |**2025-08-11**|**Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys**|Cheng Li et.al.|[2508.07798](https://arxiv.org/abs/2508.07798)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](https://arxiv.org/abs/2508.07711)|null|
+|**2025-02-11**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](https://arxiv.org/abs/2502.05713)|null|
+|**2024-12-03**|**DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation**|Zhaoxing Gan et.al.|[2412.00381](https://arxiv.org/abs/2412.00381)|null|
+|**2025-01-22**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](https://arxiv.org/abs/2403.16640)|null|
+|**2024-01-11**|**Synthesis of pulses from particle detectors with a Generative Adversarial Network (GAN)**|Alberto Regadío et.al.|[2401.05295](https://arxiv.org/abs/2401.05295)|null|
+|**2023-12-22**|**Texture Matching GAN for CT Image Enhancement**|Madhuri Nagare et.al.|[2312.13422](https://arxiv.org/abs/2312.13422)|null|
+|**2023-09-26**|**Solving Low-Dose CT Reconstruction via GAN with Local Coherence**|Wenjie Liu et.al.|[2309.13584](https://arxiv.org/abs/2309.13584)|null|
+|**2023-07-25**|**SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images**|Xueshen Li et.al.|[2307.12138](https://arxiv.org/abs/2307.12138)|null|
+|**2023-07-13**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](https://arxiv.org/abs/2307.05760)|null|
+|**2021-12-28**|**Self-Attention Generative Adversarial Network for Iterative Reconstruction of CT Images**|Ruiwen Xing et.al.|[2112.12810](https://arxiv.org/abs/2112.12810)|null|
+|**2021-11-19**|**Deep neural networks-based denoising models for CT imaging and their efficacy**|Prabhat KC et.al.|[2111.09539](https://arxiv.org/abs/2111.09539)|null|
+|**2022-04-19**|**DU-GAN: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising**|Zhizhong Huang et.al.|[2108.10772](https://arxiv.org/abs/2108.10772)|null|
+|**2021-07-05**|**Uncertainty-Guided Progressive GANs for Medical Image Translation**|Uddeshya Upadhyay et.al.|[2106.15542](https://arxiv.org/abs/2106.15542)|null|
+|**2022-12-16**|**Quaternion Generative Adversarial Networks**|Eleonora Grassucci et.al.|[2104.09630](https://arxiv.org/abs/2104.09630)|null|
+|**2021-07-06**|**Noise Conscious Training of Non Local Neural Network powered by Self Attentive Spectral Normalized Markovian Patch GAN for Low Dose CT Denoising**|Sutanu Bera et.al.|[2011.05684](https://arxiv.org/abs/2011.05684)|null|
+|**2020-01-30**|**Improving Limited Angle CT Reconstruction with a Robust GAN Prior**|Rushil Anirudh et.al.|[1910.01634](https://arxiv.org/abs/1910.01634)|null|
+|**2019-10-15**|**GA-GAN: CT reconstruction from Biplanar DRRs using GAN with Guided Attention**|Ashish Sinha et.al.|[1909.12525](https://arxiv.org/abs/1909.12525)|null|
+|**2019-05-17**|**X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks**|Xingde Ying et.al.|[1905.06902](https://arxiv.org/abs/1905.06902)|null|
+|**2017-11-21**|**Triangle Generative Adversarial Networks**|Zhe Gan et.al.|[1709.06548](https://arxiv.org/abs/1709.06548)|null|
+|**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
+|**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
 ## Diffusion in CT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Projection Embedded Diffusion Bridge for CT Reconstruction from Incomplete Data**|Yuang Wang et.al.|[2510.22605](https://arxiv.org/abs/2510.22605)|null|
+|**2025-09-19**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
+|**2025-09-30**|**Physics-Guided Null-Space Diffusion with Sparse Masking for Corrective Sparse-View CT Reconstruction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
+|**2025-08-15**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-07-16**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](https://arxiv.org/abs/2507.11152)|null|
+|**2025-06-10**|**ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction**|Changsheng Fang et.al.|[2506.06400](https://arxiv.org/abs/2506.06400)|null|
+|**2025-05-16**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](https://arxiv.org/abs/2505.09985)|null|
+|**2025-10-13**|**Adaptive Diffusion Models for Sparse-View Motion-Corrected Head Cone-beam CT**|Antoine De Paepe et.al.|[2504.14033](https://arxiv.org/abs/2504.14033)|null|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
+|**2025-02-06**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771](https://arxiv.org/abs/2502.02771)|null|
+|**2025-05-28**|**Exploring Out-of-distribution Detection for Sparse-view Computed Tomography with Diffusion Models**|Ezgi Demircan-Tureyen et.al.|[2411.06308](https://arxiv.org/abs/2411.06308)|null|
+|**2024-09-04**|**CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction across All Sampling Rates**|Liutao Yang et.al.|[2409.01571](https://arxiv.org/abs/2409.01571)|null|
+|**2024-08-29**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283](https://arxiv.org/abs/2408.15283)|null|
+|**2024-05-10**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814](https://arxiv.org/abs/2405.05814)|null|
+|**2024-03-15**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](https://arxiv.org/abs/2403.09355)|null|
+|**2024-09-02**|**CT Reconstruction using Diffusion Posterior Sampling conditioned on a Nonlinear Measurement Model**|Shudong Li et.al.|[2312.01464](https://arxiv.org/abs/2312.01464)|null|
+|**2023-10-06**|**Blind CT Image Quality Assessment Using DDPM-derived Content and Transformer-based Evaluator**|Yongyi Shi et.al.|[2310.03118](https://arxiv.org/abs/2310.03118)|null|
+|**2023-09-06**|**Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction**|Kai Xu et.al.|[2308.15942](https://arxiv.org/abs/2308.15942)|null|
+|**2023-08-29**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437](https://arxiv.org/abs/2308.14437)|null|
+|**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
+|**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
