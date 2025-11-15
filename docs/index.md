@@ -2,17 +2,30 @@
 layout: default
 ---
 
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Learnable Total Variation with Lambda Mapping for Low-Dose CT Denoising**|Yusuf Talha Basak et.al.|[2511.10500](https://arxiv.org/abs/2511.10500)|null|
+|**2025-11-13**|**Dynamic full-field swept-source optical coherence microscope for cellular-resolution, long-depth, and intratissue-activity imaging**|Nobuhisa Tateno et.al.|[2511.10235](https://arxiv.org/abs/2511.10235)|null|
+|**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
+|**2025-11-13**|**Regional Attention-Enhanced Swin Transformer for Clinically Relevant Medical Image Captioning**|Zubia Naz et.al.|[2511.09893](https://arxiv.org/abs/2511.09893)|null|
+|**2025-11-12**|**Constrained Shadow Tomography for Molecular Simulation on Quantum Devices**|Irma Avdic et.al.|[2511.09717](https://arxiv.org/abs/2511.09717)|null|
+|**2025-11-11**|**An update to PYRO-NN: A Python Library for Differentiable CT Operators**|Linda-Sophie Schneider et.al.|[2511.08427](https://arxiv.org/abs/2511.08427)|null|
+|**2025-11-11**|**The impact of Women's empowerment on childhood vaccination coverage in Nigeria: a spatio-temporal analysis**|Ezra Gayawan et.al.|[2511.08262](https://arxiv.org/abs/2511.08262)|null|
+|**2025-11-11**|**Generalized Probability Density Approach to Histopolation Schemes of Arbitrary Order**|Gradimir V. Milovanovic et.al.|[2511.07972](https://arxiv.org/abs/2511.07972)|null|
+|**2025-11-11**|**Deep generative priors for robust and efficient electron ptychography**|Arthur R. C. McCray et.al.|[2511.07795](https://arxiv.org/abs/2511.07795)|null|
+|**2025-11-10**|**Predicting Coronary Artery Calcium Severity based on Non-Contrast Cardiac CT images using Deep Learning**|Lachlan Nguyen et.al.|[2511.07695](https://arxiv.org/abs/2511.07695)|null|
+|**2025-11-10**|**Quantum Approximate Walk Algorithm**|Ziqing Guo et.al.|[2511.07676](https://arxiv.org/abs/2511.07676)|null|
 |**2025-11-10**|**LMM-IQA: Image Quality Assessment for Low-Dose CT Imaging**|Kagan Celik et.al.|[2511.07298](https://arxiv.org/abs/2511.07298)|null|
+|**2025-11-10**|**A General Probability Density Framework for Local Histopolation and Weighted Function Reconstruction from Mesh Line Integrals**|Francesco Dell'Accio et.al.|[2511.07259](https://arxiv.org/abs/2511.07259)|null|
 |**2025-11-10**|**Task-Adaptive Low-Dose CT Reconstruction**|Necati Sefercioglu et.al.|[2511.07094](https://arxiv.org/abs/2511.07094)|null|
+|**2025-11-10**|**Controlling viscosity to engineer focal conic domains in photonic cellulose nanocrystal films**|Diogo V. Saraiva et.al.|[2511.06981](https://arxiv.org/abs/2511.06981)|null|
 |**2025-11-10**|**PADM: A Physics-aware Diffusion Model for Attenuation Correction**|Trung Kien Pham et.al.|[2511.06948](https://arxiv.org/abs/2511.06948)|null|
-|**2025-11-10**|**Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT**|Yifei Zhang et.al.|[2511.06625](https://arxiv.org/abs/2511.06625)|null|
+|**2025-11-13**|**Explainable Cross-Disease Reasoning for Cardiovascular Risk Assessment from LDCT**|Yifei Zhang et.al.|[2511.06625](https://arxiv.org/abs/2511.06625)|null|
 |**2025-11-09**|**A Bilayer Cathode Design Procedure for Li ion Batteries Using the Multilayer Doyle-Fuller-Newman Model (M-DFN)**|E. C. Tredenick et.al.|[2511.06228](https://arxiv.org/abs/2511.06228)|null|
 |**2025-11-09**|**SPASHT: An image-enhancement method for sparse-view MPI SPECT**|Zezhang Yang et.al.|[2511.06203](https://arxiv.org/abs/2511.06203)|null|
 |**2025-11-08**|**From cathode to anode: Understanding lithium loss in 21700-type Ni-rich NCM||Graphite-SiOx cells**|Thien An Pham et.al.|[2511.05892](https://arxiv.org/abs/2511.05892)|null|
@@ -227,13 +240,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Learnable Total Variation with Lambda Mapping for Low-Dose CT Denoising**|Yusuf Talha Basak et.al.|[2511.10500](https://arxiv.org/abs/2511.10500)|null|
+|**2025-11-13**|**Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space**|Zhicheng Cai et.al.|[2511.10142](https://arxiv.org/abs/2511.10142)|null|
+|**2025-11-13**|**S-D-RSM: Stochastic Distributed Regularized Splitting Method for Large-Scale Convex Optimization Problems**|Maoran Wang et.al.|[2511.10133](https://arxiv.org/abs/2511.10133)|null|
+|**2025-11-11**|**An update to PYRO-NN: A Python Library for Differentiable CT Operators**|Linda-Sophie Schneider et.al.|[2511.08427](https://arxiv.org/abs/2511.08427)|null|
+|**2025-11-11**|**Mutual Coupling Aware Channel Estimation for RIS-Aided Multi-User mmWave Systems**|Tian Qiu et.al.|[2511.08112](https://arxiv.org/abs/2511.08112)|null|
+|**2025-11-11**|**Dual slow-light enhanced photothermal gas spectroscopy on a silicon chip**|Kaiyuan Zheng et.al.|[2511.07740](https://arxiv.org/abs/2511.07740)|null|
+|**2025-11-10**|**GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|[2511.07103](https://arxiv.org/abs/2511.07103)|null|
 |**2025-11-10**|**Task-Adaptive Low-Dose CT Reconstruction**|Necati Sefercioglu et.al.|[2511.07094](https://arxiv.org/abs/2511.07094)|null|
+|**2025-11-10**|**PADM: A Physics-aware Diffusion Model for Attenuation Correction**|Trung Kien Pham et.al.|[2511.06948](https://arxiv.org/abs/2511.06948)|null|
+|**2025-11-10**|**A Field Free Line 3D Reconstruction Model for Magnetic Particle Imaging for Improved Sensitivity, Resolution, and High Dynamic Range Imaging**|Toby Sanders et.al.|[2511.06627](https://arxiv.org/abs/2511.06627)|null|
 |**2025-11-09**|**Compressive Sensing Photoacoustic Imaging Receiver with Matrix-Vector-Multiplication SAR ADC**|Huan-Cheng Liao et.al.|[2511.06580](https://arxiv.org/abs/2511.06580)|null|
+|**2025-11-09**|**External Photoreflective Tactile Sensing Based on Surface Deformation Measurement**|Seiichi Yamamoto et.al.|[2511.06311](https://arxiv.org/abs/2511.06311)|null|
 |**2025-11-09**|**Sparse Linear Regression is Easy on Random Supports**|Gautam Chandrasekaran et.al.|[2511.06211](https://arxiv.org/abs/2511.06211)|null|
 |**2025-11-09**|**Hierarchically Block-Sparse Recovery With Prior Support Information**|Liyang Lu et.al.|[2511.06173](https://arxiv.org/abs/2511.06173)|null|
 |**2025-11-08**|**Fast Time-Varying mmWave MIMO Channel Estimation and Reconstruction: An Efficient Rank-Aware Matrix Completion Method**|Tianyu Jiang et.al.|[2511.05902](https://arxiv.org/abs/2511.05902)|null|
 |**2025-11-08**|**Compressive multi-beam scanning transmission electron microscopy**|Akira Yasuhara et.al.|[2511.05864](https://arxiv.org/abs/2511.05864)|null|
 |**2025-11-08**|**Signal and Image Recovery with Scale and Signed Permutation Invariant Sparsity-Promoting Functions**|Jianqing Jia et.al.|[2511.05777](https://arxiv.org/abs/2511.05777)|null|
+|**2025-11-05**|**Shape Deformation Networks for Automated Aortic Valve Finite Element Meshing from 3D CT Images**|Linchen Qian et.al.|[2511.03890](https://arxiv.org/abs/2511.03890)|null|
+|**2025-11-05**|**Computed Tomography (CT)-derived Cardiovascular Flow Estimation Using Physics-Informed Neural Networks Improves with Sinogram-based Training: A Simulation Study**|Jinyuxuan Guo et.al.|[2511.03876](https://arxiv.org/abs/2511.03876)|null|
+|**2025-11-05**|**Evolution of the Shock Properties of the 2023 March 13 Event from In-Situ and Remote-Sensing Data**|Federica Chiappetta et.al.|[2511.03496](https://arxiv.org/abs/2511.03496)|null|
 |**2025-11-05**|**UAV SAR Imaging with 5G NR OFDM Signals in NLOS Environments**|Qiuyuan Yang et.al.|[2511.03292](https://arxiv.org/abs/2511.03292)|null|
 |**2025-11-05**|**A Plug-and-Play Framework for Volumetric Light-Sheet Image Reconstruction**|Yi Gong et.al.|[2511.03093](https://arxiv.org/abs/2511.03093)|null|
 |**2025-10-21**|**DiffPace: Diffusion-based Plug-and-play Augmented Channel Estimation in mmWave and Terahertz Ultra-Massive MIMO Systems**|Zhengdong Hu et.al.|[2511.01867](https://arxiv.org/abs/2511.01867)|null|
@@ -351,6 +377,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**OpenSR-SRGAN: A Flexible Super-Resolution Framework for Multispectral Earth Observation Data**|Simon Donike et.al.|[2511.10461](https://arxiv.org/abs/2511.10461)|null|
+|**2025-11-13**|**Locally uniform ellipticity of the fractional Hessian operators**|Ziyu Gan et.al.|[2511.10034](https://arxiv.org/abs/2511.10034)|null|
+|**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
+|**2025-11-13**|**Provably Efficient Quantum Algorithms for Solving Nonlinear Differential Equations Using Multiple Bosonic Modes Coupled with Qubits**|Yu Gan et.al.|[2511.09939](https://arxiv.org/abs/2511.09939)|null|
+|**2025-11-13**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](https://arxiv.org/abs/2511.09915)|null|
+|**2025-11-13**|**Quantitative and Qualitative Comparison of Generative Models for Subject-Specific Gaze Synthesis: Diffusion vs GAN**|Kamrul Hasan et.al.|[2511.09867](https://arxiv.org/abs/2511.09867)|null|
+|**2025-11-12**|**Control of Extraordinary Optical Transmission in Resonant Terahertz Gratings via Lateral Depletion in an AlGaN-GaN Heterostructure**|Geofrey Nyabere et.al.|[2511.09811](https://arxiv.org/abs/2511.09811)|null|
+|**2025-11-12**|**Gradient-Guided Exploration of Generative Model's Latent Space for Controlled Iris Image Augmentations**|Mahsa Mitcheff et.al.|[2511.09749](https://arxiv.org/abs/2511.09749)|null|
+|**2025-11-12**|**SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning**|Tairan Huang et.al.|[2511.09681](https://arxiv.org/abs/2511.09681)|null|
+|**2025-11-12**|**Slice-Aware Spoofing Detection in 5G Networks Using Lightweight Machine Learning**|Daniyal Ganiuly et.al.|[2511.09610](https://arxiv.org/abs/2511.09610)|null|
+|**2025-11-12**|**LLM Enabled Beam Training for Pinching Antenna Systems (PASS)**|Deqiao Gan et.al.|[2511.09453](https://arxiv.org/abs/2511.09453)|null|
+|**2025-11-12**|**GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning**|Wolfgang Otto et.al.|[2511.09411](https://arxiv.org/abs/2511.09411)|null|
+|**2025-11-12**|**NeuroCLIP: Brain-Inspired Prompt Tuning for EEG-to-Image Multimodal Contrastive Learning**|Jiyuan Wang et.al.|[2511.09250](https://arxiv.org/abs/2511.09250)|null|
+|**2025-11-12**|**DKDS: A Benchmark Dataset of Degraded Kuzushiji Documents with Seals for Detection and Binarization**|Rui-Yang Ju et.al.|[2511.09117](https://arxiv.org/abs/2511.09117)|null|
+|**2025-11-12**|**4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching**|Xingchi Chen et.al.|[2511.09055](https://arxiv.org/abs/2511.09055)|null|
+|**2025-11-12**|**High-throughput, Non-Destructive, Three-Dimensional Imaging of GaN Threading Dislocations with in-Plane Burgers Vector Component via Phase-Contrast Microscopy**|Yukari Ishiakwa et.al.|[2511.08989](https://arxiv.org/abs/2511.08989)|null|
+|**2025-11-13**|**Improving Conditional VAE with approximation using Normalizing Flows**|Tuhin Subhra De et.al.|[2511.08946](https://arxiv.org/abs/2511.08946)|null|
+|**2025-11-11**|**WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting**|Kaitao Huang et.al.|[2511.08178](https://arxiv.org/abs/2511.08178)|null|
+|**2025-11-11**|**KPLM-STA: Physically-Accurate Shadow Synthesis for Human Relighting via Keypoint-Based Light Modeling**|Xinhui Yin et.al.|[2511.08169](https://arxiv.org/abs/2511.08169)|null|
+|**2025-11-12**|**Nash-equilibrium Seeking Algorithm for Power-Allocation Games on Networks of International Relations**|Chuanzhe Zhang et.al.|[2511.08033](https://arxiv.org/abs/2511.08033)|null|
 |**2025-11-10**|**DigiData: Training and Evaluating General-Purpose Mobile Control Agents**|Yuxuan Sun et.al.|[2511.07413](https://arxiv.org/abs/2511.07413)|null|
 |**2025-11-10**|**Privacy on the Fly: A Predictive Adversarial Transformation Network for Mobile Sensor Data**|Tianle Song et.al.|[2511.07242](https://arxiv.org/abs/2511.07242)|null|
 |**2025-11-10**|**Prospects for geoneutrino detection with JUNO**|Thomas Adam et.al.|[2511.07227](https://arxiv.org/abs/2511.07227)|null|
@@ -830,10 +876,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-28**|**Projection Embedded Diffusion Bridge for CT Reconstruction from Incomplete Data**|Yuang Wang et.al.|[2510.22605](https://arxiv.org/abs/2510.22605)|null|
-|**2025-09-19**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
-|**2025-09-30**|**Physics-Guided Null-Space Diffusion with Sparse Masking for Corrective Sparse-View CT Reconstruction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
-|**2025-08-15**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
+|**2025-11-10**|**PADM: A Physics-aware Diffusion Model for Attenuation Correction**|Trung Kien Pham et.al.|[2511.06948](https://arxiv.org/abs/2511.06948)|null|
+|**2025-10-28**|**CT-Less Attenuation Correction Using Multiview Ensemble Conditional Diffusion Model on High-Resolution Uncorrected PET Images**|Alexandre St-Georges et.al.|[2510.24805](https://arxiv.org/abs/2510.24805)|null|
+|**2025-10-26**|**Projection Embedded Diffusion Bridge for CT Reconstruction from Incomplete Data**|Yuang Wang et.al.|[2510.22605](https://arxiv.org/abs/2510.22605)|null|
+|**2025-10-16**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al.|[2510.14462](https://arxiv.org/abs/2510.14462)|null|
+|**2025-10-10**|**Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion**|Junhyeok Lee et.al.|[2510.09056](https://arxiv.org/abs/2510.09056)|null|
+|**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](https://arxiv.org/abs/2510.04069)|null|
+|**2025-10-30**|**Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction**|Guoquan Wei et.al.|[2509.23885](https://arxiv.org/abs/2509.23885)|null|
+|**2025-09-28**|**MAN: Latent Diffusion Enhanced Multistage Anti-Noise Network for Efficient and High-Quality Low-Dose CT Image Denoising**|Tangtangfang Fang et.al.|[2509.23603](https://arxiv.org/abs/2509.23603)|null|
+|**2025-09-26**|**EqDiff-CT: Equivariant Conditional Diffusion model for CT Image Synthesis from CBCT**|Alzahra Altalib et.al.|[2509.21913](https://arxiv.org/abs/2509.21913)|null|
+|**2025-09-18**|**DICE: Diffusion Consensus Equilibrium for Sparse-view CT Reconstruction**|Leon Suarez-Rodriguez et.al.|[2509.14566](https://arxiv.org/abs/2509.14566)|null|
+|**2025-09-16**|**Cross-Distribution Diffusion Priors-Driven Iterative Reconstruction for Sparse-View CT**|Haodong Li et.al.|[2509.13576](https://arxiv.org/abs/2509.13576)|null|
+|**2025-09-28**|**Physics-Guided Null-Space Diffusion with Sparse Masking for Corrective Sparse-View CT Reconstruction**|Zekun Zhou et.al.|[2509.05992](https://arxiv.org/abs/2509.05992)|null|
+|**2025-09-01**|**Clinical Metadata Guided Limited-Angle CT Image Reconstruction**|Yu Shi et.al.|[2509.01752](https://arxiv.org/abs/2509.01752)|null|
+|**2025-08-27**|**Towards Diagnostic Quality Flat-Panel Detector CT Imaging Using Diffusion Models**|Hélène Corbaz et.al.|[2508.16252](https://arxiv.org/abs/2508.16252)|null|
+|**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](https://arxiv.org/abs/2508.15151)|null|
+|**2025-08-15**|**Efficient Image-to-Image Schrödinger Bridge for CT Field of View Extension**|Zhenhao Li et.al.|[2508.11211](https://arxiv.org/abs/2508.11211)|null|
+|**2025-08-14**|**Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction**|Jixiang Chen et.al.|[2508.10313](https://arxiv.org/abs/2508.10313)|null|
+|**2025-08-13**|**AST-n: A Fast Sampling Approach for Low-Dose CT Reconstruction using Diffusion Models**|Tomás de la Sotta et.al.|[2508.09943](https://arxiv.org/abs/2508.09943)|null|
+|**2025-08-12**|**Lung-DDPM+: Efficient Thoracic CT Image Synthesis using Diffusion Probabilistic Model**|Yifan Jiang et.al.|[2508.09327](https://arxiv.org/abs/2508.09327)|null|
 |**2025-07-16**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](https://arxiv.org/abs/2507.11152)|null|
 |**2025-06-10**|**ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction**|Changsheng Fang et.al.|[2506.06400](https://arxiv.org/abs/2506.06400)|null|
 |**2025-05-16**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](https://arxiv.org/abs/2505.09985)|null|
