@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Unsupervised Segmentation of Micro-CT Scans of Polyurethane Structures By Combining Hidden-Markov-Random Fields and a U-Net**|Julian Grolig et.al.|[2511.11378](https://arxiv.org/abs/2511.11378)|null|
+|**2025-11-14**|**Machine-Learning Based Detection of Coronary Artery Calcification Using Synthetic Chest X-Rays**|Dylan Saeed et.al.|[2511.11093](https://arxiv.org/abs/2511.11093)|null|
+|**2025-11-14**|**CrossMed: A Multimodal Cross-Task Benchmark for Compositional Generalization in Medical Imaging**|Pooja Singh et.al.|[2511.11034](https://arxiv.org/abs/2511.11034)|null|
 |**2025-11-13**|**Learnable Total Variation with Lambda Mapping for Low-Dose CT Denoising**|Yusuf Talha Basak et.al.|[2511.10500](https://arxiv.org/abs/2511.10500)|null|
 |**2025-11-13**|**Dynamic full-field swept-source optical coherence microscope for cellular-resolution, long-depth, and intratissue-activity imaging**|Nobuhisa Tateno et.al.|[2511.10235](https://arxiv.org/abs/2511.10235)|null|
 |**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
@@ -248,6 +251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Machine-Learning Based Detection of Coronary Artery Calcification Using Synthetic Chest X-Rays**|Dylan Saeed et.al.|[2511.11093](https://arxiv.org/abs/2511.11093)|null|
+|**2025-11-13**|**Support Recovery in One-bit Compressed Sensing with Near-Optimal Measurements and Sublinear Time**|Xiaxin Li et.al.|[2511.10777](https://arxiv.org/abs/2511.10777)|null|
 |**2025-11-13**|**Learnable Total Variation with Lambda Mapping for Low-Dose CT Denoising**|Yusuf Talha Basak et.al.|[2511.10500](https://arxiv.org/abs/2511.10500)|null|
 |**2025-11-13**|**Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space**|Zhicheng Cai et.al.|[2511.10142](https://arxiv.org/abs/2511.10142)|null|
 |**2025-11-13**|**S-D-RSM: Stochastic Distributed Regularized Splitting Method for Large-Scale Convex Optimization Problems**|Maoran Wang et.al.|[2511.10133](https://arxiv.org/abs/2511.10133)|null|
@@ -387,11 +392,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Enabling Wireless Power Transfer (WPT) in Pinching Antenna Systems (PASS)**|Deqiao Gan et.al.|[2511.11465](https://arxiv.org/abs/2511.11465)|null|
+|**2025-11-14**|**Improving conditional generative adversarial networks for inverse design of plasmonic structures**|Petter Persson et.al.|[2511.11279](https://arxiv.org/abs/2511.11279)|null|
+|**2025-11-14**|**Adaptive Symmetrization of the KL Divergence**|Omri Ben-Dov et.al.|[2511.11159](https://arxiv.org/abs/2511.11159)|null|
+|**2025-11-14**|**Toward Generalized Detection of Synthetic Media: Limitations, Challenges, and the Path to Multimodal Solutions**|Redwan Hussain et.al.|[2511.11116](https://arxiv.org/abs/2511.11116)|null|
+|**2025-11-14**|**Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm**|Fuxiang Huang et.al.|[2511.11009](https://arxiv.org/abs/2511.11009)|null|
+|**2025-11-14**|**LEMUR: Large scale End-to-end MUltimodal Recommendation**|Xintian Han et.al.|[2511.10962](https://arxiv.org/abs/2511.10962)|null|
+|**2025-11-13**|**High Mobility Multiple-Channel AlScN/GaN Heterostructures**|Aias Asteris et.al.|[2511.10849](https://arxiv.org/abs/2511.10849)|null|
+|**2025-11-13**|**Discounted Cuts: A Stackelberg Approach to Network Disruption**|Pål Grønås Drange et.al.|[2511.10804](https://arxiv.org/abs/2511.10804)|null|
 |**2025-11-13**|**OpenSR-SRGAN: A Flexible Super-Resolution Framework for Multispectral Earth Observation Data**|Simon Donike et.al.|[2511.10461](https://arxiv.org/abs/2511.10461)|null|
 |**2025-11-13**|**Locally uniform ellipticity of the fractional Hessian operators**|Ziyu Gan et.al.|[2511.10034](https://arxiv.org/abs/2511.10034)|null|
 |**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
 |**2025-11-13**|**Provably Efficient Quantum Algorithms for Solving Nonlinear Differential Equations Using Multiple Bosonic Modes Coupled with Qubits**|Yu Gan et.al.|[2511.09939](https://arxiv.org/abs/2511.09939)|null|
-|**2025-11-13**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](https://arxiv.org/abs/2511.09915)|null|
+|**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](https://arxiv.org/abs/2511.09915)|null|
 |**2025-11-13**|**Quantitative and Qualitative Comparison of Generative Models for Subject-Specific Gaze Synthesis: Diffusion vs GAN**|Kamrul Hasan et.al.|[2511.09867](https://arxiv.org/abs/2511.09867)|null|
 |**2025-11-12**|**Control of Extraordinary Optical Transmission in Resonant Terahertz Gratings via Lateral Depletion in an AlGaN-GaN Heterostructure**|Geofrey Nyabere et.al.|[2511.09811](https://arxiv.org/abs/2511.09811)|null|
 |**2025-11-12**|**Gradient-Guided Exploration of Generative Model's Latent Space for Controlled Iris Image Augmentations**|Mahsa Mitcheff et.al.|[2511.09749](https://arxiv.org/abs/2511.09749)|null|
