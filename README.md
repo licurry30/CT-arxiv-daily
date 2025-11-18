@@ -1,4 +1,4 @@
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Simultaneous variances of Pauli strings, weighted independence numbers, and a new kind of perfection of graphs**|Zhen-Peng Xu et.al.|[2511.13531](https://arxiv.org/abs/2511.13531)|null|
+|**2025-11-17**|**PyPeT: A Python Perfusion Tool for Automated Quantitative Brain CT and MR Perfusion Analysis**|Marijn Borghouts et.al.|[2511.13310](https://arxiv.org/abs/2511.13310)|null|
+|**2025-11-16**|**Improving the Generalisation of Learned Reconstruction Frameworks**|Emilien Valat et.al.|[2511.12730](https://arxiv.org/abs/2511.12730)|null|
+|**2025-11-15**|**Leveraging Quantum-Based Architectures for Robust Diagnostics**|Shabnam Sodagari et.al.|[2511.12386](https://arxiv.org/abs/2511.12386)|null|
+|**2025-11-15**|**Bregman geometry-aware split Gibbs sampling for Bayesian Poisson inverse problems**|Elhadji Cisse Faye et.al.|[2511.12257](https://arxiv.org/abs/2511.12257)|null|
+|**2025-11-15**|**Prompt-Conditioned FiLM and Multi-Scale Fusion on MedSigLIP for Low-Dose CT Quality Assessment**|Tolga Demiroglu et.al.|[2511.12256](https://arxiv.org/abs/2511.12256)|null|
+|**2025-11-15**|**Deep Unfolded BM3D: Unrolling Non-local Collaborative Filtering into a Trainable Neural Network**|Kerem Basim et.al.|[2511.12248](https://arxiv.org/abs/2511.12248)|null|
+|**2025-11-15**|**Computation of a Consistent System Matrix for Cone-beam Computed Tomography**|Josef Simbrunner et.al.|[2511.12235](https://arxiv.org/abs/2511.12235)|null|
+|**2025-11-14**|**Advancing Annotat3D with Harpia: A CUDA-Accelerated Library For Large-Scale Volumetric Data Segmentation**|Camila Machado de Araujo et.al.|[2511.11890](https://arxiv.org/abs/2511.11890)|null|
 |**2025-11-14**|**Unsupervised Segmentation of Micro-CT Scans of Polyurethane Structures By Combining Hidden-Markov-Random Fields and a U-Net**|Julian Grolig et.al.|[2511.11378](https://arxiv.org/abs/2511.11378)|null|
 |**2025-11-14**|**Machine-Learning Based Detection of Coronary Artery Calcification Using Synthetic Chest X-Rays**|Dylan Saeed et.al.|[2511.11093](https://arxiv.org/abs/2511.11093)|null|
 |**2025-11-14**|**CrossMed: A Multimodal Cross-Task Benchmark for Compositional Generalization in Medical Imaging**|Pooja Singh et.al.|[2511.11034](https://arxiv.org/abs/2511.11034)|null|
@@ -245,14 +254,19 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**cryoSENSE: Compressive Sensing Enables High-throughput Microscopy with Sparse and Generative Priors on the Protein Cryo-EM Image Manifold**|Zain Shabeeb et.al.|[2511.12931](https://arxiv.org/abs/2511.12931)|null|
+|**2025-11-17**|**Approximate Message Passing for Quantum State Tomography**|Noah Siekierski et.al.|[2511.12857](https://arxiv.org/abs/2511.12857)|null|
+|**2025-11-16**|**Improving the Generalisation of Learned Reconstruction Frameworks**|Emilien Valat et.al.|[2511.12730](https://arxiv.org/abs/2511.12730)|null|
+|**2025-11-16**|**Diffusion Model Based Signal Recovery Under 1-Bit Quantization**|Youming Chen et.al.|[2511.12471](https://arxiv.org/abs/2511.12471)|null|
+|**2025-11-15**|**Computation of a Consistent System Matrix for Cone-beam Computed Tomography**|Josef Simbrunner et.al.|[2511.12235](https://arxiv.org/abs/2511.12235)|null|
 |**2025-11-14**|**Machine-Learning Based Detection of Coronary Artery Calcification Using Synthetic Chest X-Rays**|Dylan Saeed et.al.|[2511.11093](https://arxiv.org/abs/2511.11093)|null|
-|**2025-11-13**|**Support Recovery in One-bit Compressed Sensing with Near-Optimal Measurements and Sublinear Time**|Xiaxin Li et.al.|[2511.10777](https://arxiv.org/abs/2511.10777)|null|
+|**2025-11-17**|**Support Recovery in One-bit Compressed Sensing with Near-Optimal Measurements and Sublinear Time**|Xiaxin Li et.al.|[2511.10777](https://arxiv.org/abs/2511.10777)|null|
 |**2025-11-13**|**Learnable Total Variation with Lambda Mapping for Low-Dose CT Denoising**|Yusuf Talha Basak et.al.|[2511.10500](https://arxiv.org/abs/2511.10500)|null|
 |**2025-11-13**|**Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space**|Zhicheng Cai et.al.|[2511.10142](https://arxiv.org/abs/2511.10142)|null|
 |**2025-11-13**|**S-D-RSM: Stochastic Distributed Regularized Splitting Method for Large-Scale Convex Optimization Problems**|Maoran Wang et.al.|[2511.10133](https://arxiv.org/abs/2511.10133)|null|
@@ -386,12 +400,28 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Microwave-acoustic-driven power electronics**|Liyang Jin et.al.|[2511.13412](https://arxiv.org/abs/2511.13412)|null|
+|**2025-11-17**|**SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting**|Zihan Li et.al.|[2511.13278](https://arxiv.org/abs/2511.13278)|null|
+|**2025-11-17**|**MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI**|Malek Al Abed et.al.|[2511.13232](https://arxiv.org/abs/2511.13232)|null|
+|**2025-11-17**|**Automated Road Distress Detection Using Vision Transformersand Generative Adversarial Networks**|Cesar Portocarrero Rodriguez et.al.|[2511.13145](https://arxiv.org/abs/2511.13145)|null|
+|**2025-11-17**|**DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection**|Jiazhen Yan et.al.|[2511.13108](https://arxiv.org/abs/2511.13108)|null|
+|**2025-11-17**|**Angular Gradient Sign Method: Uncovering Vulnerabilities in Hyperbolic Networks**|Minsoo Jo et.al.|[2511.12985](https://arxiv.org/abs/2511.12985)|null|
+|**2025-11-16**|**Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models**|Chenglong Wang et.al.|[2511.12464](https://arxiv.org/abs/2511.12464)|null|
+|**2025-11-16**|**Tailored Primitive Initialization is the Secret Key to Reinforcement Learning**|Yihang Yao et.al.|[2511.12429](https://arxiv.org/abs/2511.12429)|null|
+|**2025-11-16**|**GRAPHTEXTACK: A Realistic Black-Box Node Injection Attack on LLM-Enhanced GNNs**|Jiaji Ma et.al.|[2511.12423](https://arxiv.org/abs/2511.12423)|null|
+|**2025-11-16**|**DEMIST: \underline{DE}coupled \underline{M}ulti-stream latent d\underline{I}ffusion for Quantitative Myelin Map \underline{S}yn\underline{T}hesis**|Jiacheng Wang et.al.|[2511.12396](https://arxiv.org/abs/2511.12396)|null|
+|**2025-11-15**|**Calibrated Adversarial Sampling: Multi-Armed Bandit-Guided Generalization Against Unforeseen Attacks**|Rui Wang et.al.|[2511.12265](https://arxiv.org/abs/2511.12265)|null|
+|**2025-11-15**|**Quantifying and Minimizing Perception Gap in Social Networks**|Hemant Kumar Gehlot et.al.|[2511.12106](https://arxiv.org/abs/2511.12106)|null|
+|**2025-11-15**|**TIMERIPPLE: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space**|Wenxuan Miao et.al.|[2511.12035](https://arxiv.org/abs/2511.12035)|null|
+|**2025-11-14**|**First Measurement of  $π^+$ -Ar and  $p$ -Ar Total Inelastic Cross Sections in the Sub-GeV Energy Regime with ProtoDUNE-SP Data**|DUNE Collaboration et.al.|[2511.11925](https://arxiv.org/abs/2511.11925)|null|
+|**2025-11-14**|**Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models**|Siyou Li et.al.|[2511.11910](https://arxiv.org/abs/2511.11910)|null|
+|**2025-11-14**|**Volatility in Certainty (VC): A Metric for Detecting Adversarial Perturbations During Inference in Neural Network Classifiers**|Vahid Hemmati et.al.|[2511.11834](https://arxiv.org/abs/2511.11834)|null|
 |**2025-11-14**|**Enabling Wireless Power Transfer (WPT) in Pinching Antenna Systems (PASS)**|Deqiao Gan et.al.|[2511.11465](https://arxiv.org/abs/2511.11465)|null|
 |**2025-11-14**|**Improving conditional generative adversarial networks for inverse design of plasmonic structures**|Petter Persson et.al.|[2511.11279](https://arxiv.org/abs/2511.11279)|null|
 |**2025-11-14**|**Adaptive Symmetrization of the KL Divergence**|Omri Ben-Dov et.al.|[2511.11159](https://arxiv.org/abs/2511.11159)|null|
@@ -895,7 +925,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -939,5 +969,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
