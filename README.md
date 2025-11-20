@@ -1,4 +1,4 @@
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Quantum measurement tomography with mini-batch stochastic gradient descent**|Akshay Gaikwad et.al.|[2511.15682](https://arxiv.org/abs/2511.15682)|null|
+|**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](https://arxiv.org/abs/2511.15600)|null|
+|**2025-11-18**|**Photoemission tomography of excitons in 2D systems: momentum-space signatures of correlated electron-hole wave functions**|Siegfried Kaidisch et.al.|[2511.14956](https://arxiv.org/abs/2511.14956)|null|
+|**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](https://arxiv.org/abs/2511.14918)|null|
+|**2025-11-18**|**Pattern-Dependent Performance of the Bernstein-Vazirani Algorithm**|Muhammad AbuGhanem et.al.|[2511.14821](https://arxiv.org/abs/2511.14821)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](https://arxiv.org/abs/2511.14680)|null|
 |**2025-11-18**|**RepAir: A Framework for Airway Segmentation and Discontinuity Correction in CT**|John M. Oyer et.al.|[2511.14649](https://arxiv.org/abs/2511.14649)|null|
 |**2025-11-18**|**D-PerceptCT: Deep Perceptual Enhancement for Low-Dose CT Images**|Taifour Yousra Nabila et.al.|[2511.14518](https://arxiv.org/abs/2511.14518)|null|
@@ -264,12 +269,15 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-11**|**Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics**|Gerasimos Damigos et.al.|[2511.15677](https://arxiv.org/abs/2511.15677)|null|
+|**2025-11-19**|**Mini-Extragradient Methods**|Xiaozhi Liu et.al.|[2511.15254](https://arxiv.org/abs/2511.15254)|null|
+|**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](https://arxiv.org/abs/2511.14918)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](https://arxiv.org/abs/2511.14680)|null|
 |**2025-11-18**|**Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model**|Jiancheng Fang et.al.|[2511.14310](https://arxiv.org/abs/2511.14310)|null|
 |**2025-11-17**|**Enabling Real-Time Volumetric Imaging in Interventional Radiology Suits via a Deep Learning Framework Robust to C-arm Tilt**|Fawazilla Utomo et.al.|[2511.13980](https://arxiv.org/abs/2511.13980)|null|
@@ -415,12 +423,15 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](https://arxiv.org/abs/2511.15535)|null|
+|**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](https://arxiv.org/abs/2511.15206)|null|
+|**2025-11-19**|**WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines**|Mingran Sun et.al.|[2511.15030](https://arxiv.org/abs/2511.15030)|null|
 |**2025-11-18**|**UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning**|Rui Tian et.al.|[2511.14760](https://arxiv.org/abs/2511.14760)|null|
 |**2025-11-18**|**First measurement of reactor neutrino oscillations at JUNO**|Angel Abusleme et.al.|[2511.14593](https://arxiv.org/abs/2511.14593)|null|
 |**2025-11-18**|**Initial performance results of the JUNO detector**|Angel Abusleme et.al.|[2511.14590](https://arxiv.org/abs/2511.14590)|null|
@@ -947,7 +958,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -993,5 +1004,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
