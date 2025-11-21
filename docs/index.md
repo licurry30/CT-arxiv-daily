@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -267,6 +267,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Mode-programmable comb spectroscopy enabling non-cooperative computational sensing with single-photon sensitivity**|Dongxu Zhu et.al.|[2511.16365](https://arxiv.org/abs/2511.16365)|null|
+|**2025-11-20**|**Layer-wise Noise Guided Selective Wavelet Reconstruction for Robust Medical Image Segmentation**|Yuting Lu et.al.|[2511.16162](https://arxiv.org/abs/2511.16162)|null|
+|**2025-11-15**|**Human-aligned Quantification of Numerical Data**|Anton Kolonin et.al.|[2511.15723](https://arxiv.org/abs/2511.15723)|null|
 |**2025-11-11**|**Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics**|Gerasimos Damigos et.al.|[2511.15677](https://arxiv.org/abs/2511.15677)|null|
 |**2025-11-19**|**Mini-Extragradient Methods**|Xiaozhi Liu et.al.|[2511.15254](https://arxiv.org/abs/2511.15254)|null|
 |**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](https://arxiv.org/abs/2511.14918)|null|
@@ -419,6 +422,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](https://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[2511.16574](https://arxiv.org/abs/2511.16574)|null|
+|**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](https://arxiv.org/abs/2511.16571)|null|
+|**2025-11-20**|**Toward Valid Generative Clinical Trial Data with Survival Endpoints**|Perrine Chassat et.al.|[2511.16551](https://arxiv.org/abs/2511.16551)|null|
+|**2025-11-20**|**Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation**|Zongcai Tan et.al.|[2511.16494](https://arxiv.org/abs/2511.16494)|null|
+|**2025-11-20**|**Denoising weak lensing mass maps with diffusion model and generative adversarial network**|Shohei D. Aoyama et.al.|[2511.16415](https://arxiv.org/abs/2511.16415)|null|
+|**2025-11-20**|**iFCTN: Folding-Free Fully-Connected Tensor Network Decomposition for Tensor Completion**|Ziyi Gan et.al.|[2511.16358](https://arxiv.org/abs/2511.16358)|null|
+|**2025-11-20**|**Revealing computation-communication trade-off in Segmented Pinching Antenna System (PASS)**|Deqiao Gan et.al.|[2511.16327](https://arxiv.org/abs/2511.16327)|null|
+|**2025-11-20**|**Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability**|Abishek Karthik et.al.|[2511.16294](https://arxiv.org/abs/2511.16294)|null|
+|**2025-11-20**|**Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion**|Dingkun Zhou et.al.|[2511.16020](https://arxiv.org/abs/2511.16020)|null|
+|**2025-11-20**|**Physics Informed Multi-task Joint Generative Learning for Arterial Vehicle Trajectory Reconstruction Considering Lane Changing Behavior**|Mengyun Xu et.al.|[2511.16019](https://arxiv.org/abs/2511.16019)|null|
+|**2025-11-20**|**Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming**|Strahinja Janjuesvic et.al.|[2511.15998](https://arxiv.org/abs/2511.15998)|null|
 |**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](https://arxiv.org/abs/2511.15535)|null|
 |**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](https://arxiv.org/abs/2511.15206)|null|
 |**2025-11-19**|**WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines**|Mingran Sun et.al.|[2511.15030](https://arxiv.org/abs/2511.15030)|null|
