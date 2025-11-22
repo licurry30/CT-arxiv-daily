@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.21
+## Updated on 2025.11.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -433,7 +433,7 @@ layout: default
 |**2025-11-20**|**Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability**|Abishek Karthik et.al.|[2511.16294](https://arxiv.org/abs/2511.16294)|null|
 |**2025-11-20**|**Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion**|Dingkun Zhou et.al.|[2511.16020](https://arxiv.org/abs/2511.16020)|null|
 |**2025-11-20**|**Physics Informed Multi-task Joint Generative Learning for Arterial Vehicle Trajectory Reconstruction Considering Lane Changing Behavior**|Mengyun Xu et.al.|[2511.16019](https://arxiv.org/abs/2511.16019)|null|
-|**2025-11-20**|**Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming**|Strahinja Janjuesvic et.al.|[2511.15998](https://arxiv.org/abs/2511.15998)|null|
+|**2025-11-20**|**Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming**|Strahinja Janjusevic et.al.|[2511.15998](https://arxiv.org/abs/2511.15998)|null|
 |**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](https://arxiv.org/abs/2511.15535)|null|
 |**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](https://arxiv.org/abs/2511.15206)|null|
 |**2025-11-19**|**WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines**|Mingran Sun et.al.|[2511.15030](https://arxiv.org/abs/2511.15030)|null|
