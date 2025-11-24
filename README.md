@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**Self-supervised denoising of raw tomography detector data for improved image reconstruction**|Israt Jahan Tulin et.al.|[2511.17312](https://arxiv.org/abs/2511.17312)|null|
+|**2025-11-21**|**Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers**|Cris Claessens et.al.|[2511.17209](https://arxiv.org/abs/2511.17209)|null|
+|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
+|**2025-11-21**|**Shape-preserving Tooth Segmentation from CBCT Images Using Deep Learning with Semantic and Shape Awareness**|Zongrui Ji et.al.|[2511.16936](https://arxiv.org/abs/2511.16936)|null|
 |**2025-11-19**|**Quantum measurement tomography with mini-batch stochastic gradient descent**|Akshay Gaikwad et.al.|[2511.15682](https://arxiv.org/abs/2511.15682)|null|
 |**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](https://arxiv.org/abs/2511.15600)|null|
 |**2025-11-18**|**Photoemission tomography of excitons in 2D systems: momentum-space signatures of correlated electron-hole wave functions**|Siegfried Kaidisch et.al.|[2511.14956](https://arxiv.org/abs/2511.14956)|null|
@@ -275,6 +279,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**From Cantilevers to Membranes: Advanced Scanning Protocols for Magnetic Resonance Force Microscopy**|Nils Prumbaum et.al.|[2511.17192](https://arxiv.org/abs/2511.17192)|null|
+|**2025-11-21**|**The Güler-type acceleration for proximal gradient, linearized augmented Lagrangian and linearized alternating direction method of multipliers**|Bin Zhou et.al.|[2511.17157](https://arxiv.org/abs/2511.17157)|null|
+|**2025-11-21**|**Calculation and analysis of exciton couplings via a subsystem formulation of the  $GW$ -Bethe-Salpeter Equation**|Sarathchandra Khandavilli et.al.|[2511.17077](https://arxiv.org/abs/2511.17077)|null|
+|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
+|**2025-11-21**|**Single-Pixel Tactile Skin via Compressive Sampling**|Ariel Slepyan et.al.|[2511.16898](https://arxiv.org/abs/2511.16898)|null|
+|**2025-11-20**|**A Respiratory Motion Analysis for Guiding Stereotactic Arrhythmia Radiotherapy Motion Management**|Yuhao Wang et.al.|[2511.16775](https://arxiv.org/abs/2511.16775)|null|
 |**2025-11-20**|**Mode-programmable comb spectroscopy enabling non-cooperative computational sensing with single-photon sensitivity**|Dongxu Zhu et.al.|[2511.16365](https://arxiv.org/abs/2511.16365)|null|
 |**2025-11-20**|**Layer-wise Noise Guided Selective Wavelet Reconstruction for Robust Medical Image Segmentation**|Yuting Lu et.al.|[2511.16162](https://arxiv.org/abs/2511.16162)|null|
 |**2025-11-15**|**Human-aligned Quantification of Numerical Data**|Anton Kolonin et.al.|[2511.15723](https://arxiv.org/abs/2511.15723)|null|
@@ -432,6 +442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**The Wireless Charger as a Gesture Sensor: A Novel Approach to Ubiquitous Interaction**|Weiyi Wang et.al.|[2511.16989](https://arxiv.org/abs/2511.16989)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](https://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[2511.16574](https://arxiv.org/abs/2511.16574)|null|
 |**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](https://arxiv.org/abs/2511.16571)|null|
@@ -979,6 +990,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](https://arxiv.org/abs/2511.14680)|null|
 |**2025-11-18**|**Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model**|Jiancheng Fang et.al.|[2511.14310](https://arxiv.org/abs/2511.14310)|null|
 |**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
