@@ -2,16 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**A primer on treatment planning aspects for temporally modulated pulsed radiation therapy**|Christian Velten et.al.|[2511.19329](https://arxiv.org/abs/2511.19329)|null|
+|**2025-11-24**|**MedSAM3: Delving into Segment Anything with Medical Concepts**|Anglin Liu et.al.|[2511.19046](https://arxiv.org/abs/2511.19046)|null|
+|**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
+|**2025-11-22**|**Early Lung Cancer Diagnosis from Virtual Follow-up LDCT Generation via Correlational Autoencoder and Latent Flow Matching**|Yutong Wu et.al.|[2511.18185](https://arxiv.org/abs/2511.18185)|null|
 |**2025-11-21**|**Self-supervised denoising of raw tomography detector data for improved image reconstruction**|Israt Jahan Tulin et.al.|[2511.17312](https://arxiv.org/abs/2511.17312)|null|
 |**2025-11-21**|**Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers**|Cris Claessens et.al.|[2511.17209](https://arxiv.org/abs/2511.17209)|null|
-|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
+|**2025-11-24**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
 |**2025-11-21**|**Shape-preserving Tooth Segmentation from CBCT Images Using Deep Learning with Semantic and Shape Awareness**|Zongrui Ji et.al.|[2511.16936](https://arxiv.org/abs/2511.16936)|null|
 |**2025-11-19**|**Quantum measurement tomography with mini-batch stochastic gradient descent**|Akshay Gaikwad et.al.|[2511.15682](https://arxiv.org/abs/2511.15682)|null|
 |**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](https://arxiv.org/abs/2511.15600)|null|
@@ -271,10 +275,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Quotient Manifold Optimization for Spectral Compressed Sensing**|Wenlong Wang et.al.|[2511.19108](https://arxiv.org/abs/2511.19108)|null|
+|**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
+|**2025-11-23**|**LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging**|He Huang et.al.|[2511.18513](https://arxiv.org/abs/2511.18513)|null|
+|**2025-11-23**|**CT-CFAR A Robust CFAR Detector Based on CLEAN and Truncated Statistics in Sidelobe-Contaminated Environments**|Jiachen Zhu et.al.|[2511.18358](https://arxiv.org/abs/2511.18358)|null|
+|**2025-11-21**|**JigsawComm: Joint Semantic Feature Encoding and Transmission for Communication-Efficient Cooperative Perception**|Chenyi Wang et.al.|[2511.17843](https://arxiv.org/abs/2511.17843)|null|
 |**2025-11-21**|**From Cantilevers to Membranes: Advanced Scanning Protocols for Magnetic Resonance Force Microscopy**|Nils Prumbaum et.al.|[2511.17192](https://arxiv.org/abs/2511.17192)|null|
 |**2025-11-21**|**The Güler-type acceleration for proximal gradient, linearized augmented Lagrangian and linearized alternating direction method of multipliers**|Bin Zhou et.al.|[2511.17157](https://arxiv.org/abs/2511.17157)|null|
 |**2025-11-21**|**Calculation and analysis of exciton couplings via a subsystem formulation of the  $GW$ -Bethe-Salpeter Equation**|Sarathchandra Khandavilli et.al.|[2511.17077](https://arxiv.org/abs/2511.17077)|null|
-|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
+|**2025-11-24**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
 |**2025-11-21**|**Single-Pixel Tactile Skin via Compressive Sampling**|Ariel Slepyan et.al.|[2511.16898](https://arxiv.org/abs/2511.16898)|null|
 |**2025-11-20**|**A Respiratory Motion Analysis for Guiding Stereotactic Arrhythmia Radiotherapy Motion Management**|Yuhao Wang et.al.|[2511.16775](https://arxiv.org/abs/2511.16775)|null|
 |**2025-11-20**|**Mode-programmable comb spectroscopy enabling non-cooperative computational sensing with single-photon sensitivity**|Dongxu Zhu et.al.|[2511.16365](https://arxiv.org/abs/2511.16365)|null|
@@ -432,6 +441,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Targeted Manipulation: Slope-Based Attacks on Financial Time-Series Data**|Dominik Luszczynski et.al.|[2511.19330](https://arxiv.org/abs/2511.19330)|null|
+|**2025-11-24**|**Three-Dimensional Anatomical Data Generation Based on Artificial Neural Networks**|Ann-Sophia Müller et.al.|[2511.19198](https://arxiv.org/abs/2511.19198)|null|
+|**2025-11-24**|**When Semantics Regulate: Rethinking Patch Shuffle and Internal Bias for Generated Image Detection with CLIP**|Beilin Chu et.al.|[2511.19126](https://arxiv.org/abs/2511.19126)|null|
+|**2025-11-24**|**Leveraging Adversarial Learning for Pathological Fidelity in Virtual Staining**|José Teixeira et.al.|[2511.18946](https://arxiv.org/abs/2511.18946)|null|
+|**2025-11-24**|**VAOT: Vessel-Aware Optimal Transport for Retinal Fundus Enhancement**|Xuanzhao Dong et.al.|[2511.18763](https://arxiv.org/abs/2511.18763)|null|
+|**2025-11-24**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755](https://arxiv.org/abs/2511.18755)|null|
+|**2025-11-24**|**CoD: A Diffusion Foundation Model for Image Compression**|Zhaoyang Jia et.al.|[2511.18706](https://arxiv.org/abs/2511.18706)|null|
+|**2025-11-23**|**Zero-Trust Strategies for O-RAN Cellular Networks: Principles, Challenges and Research Directions**|Charalampos Katsis et.al.|[2511.18568](https://arxiv.org/abs/2511.18568)|null|
+|**2025-11-23**|**ScriptViT: Vision Transformer-Based Personalized Handwriting Generation**|Sajjan Acharya et.al.|[2511.18307](https://arxiv.org/abs/2511.18307)|null|
+|**2025-11-23**|**Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation**|Yara Bahram et.al.|[2511.18281](https://arxiv.org/abs/2511.18281)|null|
+|**2025-11-23**|**Generation of Granular Deposition Interfaces using conditional Generative Adversarial Network (cGAN)**|Seyed Feyzelloh Ghavami Mirmahalle et.al.|[2511.18224](https://arxiv.org/abs/2511.18224)|null|
+|**2025-11-22**|**A Novel and Practical Universal Adversarial Perturbations against Deep Reinforcement Learning based Intrusion Detection Systems**|H. Zhang et.al.|[2511.18223](https://arxiv.org/abs/2511.18223)|null|
+|**2025-11-22**|**Validation of the copper equation of state via shock loading experiments of loosely associated powders**|Yufeng Wang et.al.|[2511.17863](https://arxiv.org/abs/2511.17863)|null|
+|**2025-11-21**|**GANGR: GAN-Assisted Scalable and Efficient Global Routing Parallelization**|Hadi Khodaei Jooshin et.al.|[2511.17665](https://arxiv.org/abs/2511.17665)|null|
 |**2025-11-21**|**The Wireless Charger as a Gesture Sensor: A Novel Approach to Ubiquitous Interaction**|Weiyi Wang et.al.|[2511.16989](https://arxiv.org/abs/2511.16989)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](https://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[2511.16574](https://arxiv.org/abs/2511.16574)|null|
@@ -978,7 +1001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
+|**2025-11-24**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](https://arxiv.org/abs/2511.14680)|null|
 |**2025-11-18**|**Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model**|Jiancheng Fang et.al.|[2511.14310](https://arxiv.org/abs/2511.14310)|null|
 |**2025-11-13**|**GPDM: Generation-Prior Diffusion Model for Accelerated Direct Attenuation and Scatter Correction of Whole-body 18F-FDG PET**|Min Jeong Cho et.al.|[2511.09941](https://arxiv.org/abs/2511.09941)|null|
