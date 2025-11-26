@@ -1,4 +1,4 @@
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Real-time 3D Ultrasonic Needle Tracking with a Photoacoustic Beacon**|Christian Baker et.al.|[2511.20514](https://arxiv.org/abs/2511.20514)|null|
+|**2025-11-25**|**Realizing Universal Non-Markovian Noise Suppression**|Hongfeng Liu et.al.|[2511.20304](https://arxiv.org/abs/2511.20304)|null|
+|**2025-11-25**|**Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction**|Baoshun Shi et.al.|[2511.20296](https://arxiv.org/abs/2511.20296)|null|
+|**2025-11-25**|**HASPIDE-SPACE: a new concept of a radiation-resistant instrument for solar energetic particles**|C. Grimani et.al.|[2511.20159](https://arxiv.org/abs/2511.20159)|null|
+|**2025-11-25**|**Vision-Language Models for Automated 3D PET/CT Report Generation**|Wenpei Jiao et.al.|[2511.20145](https://arxiv.org/abs/2511.20145)|null|
+|**2025-11-25**|**LungEvaty: A Scalable, Open-Source Transformer-based Deep Learning Model for Lung Cancer Risk Prediction in LDCT Screening**|Johannes Brandt et.al.|[2511.20116](https://arxiv.org/abs/2511.20116)|null|
+|**2025-11-25**|**LiMT: A Multi-task Liver Image Benchmark Dataset**|Zhe Liu et.al.|[2511.19889](https://arxiv.org/abs/2511.19889)|null|
+|**2025-11-25**|**Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation**|Haoqing Li et.al.|[2511.19834](https://arxiv.org/abs/2511.19834)|null|
+|**2025-11-24**|**Leveraging Unlabeled Scans for NCCT Image Segmentation in Early Stroke Diagnosis: A Semi-Supervised GAN Approach**|Maria Thoma et.al.|[2511.19576](https://arxiv.org/abs/2511.19576)|null|
+|**2025-11-22**|**Towards a future space-based, highly scalable AI infrastructure system design**|Blaise Agüera y Arcas et.al.|[2511.19468](https://arxiv.org/abs/2511.19468)|null|
 |**2025-11-24**|**A primer on treatment planning aspects for temporally modulated pulsed radiation therapy**|Christian Velten et.al.|[2511.19329](https://arxiv.org/abs/2511.19329)|null|
 |**2025-11-24**|**MedSAM3: Delving into Segment Anything with Medical Concepts**|Anglin Liu et.al.|[2511.19046](https://arxiv.org/abs/2511.19046)|null|
 |**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
@@ -277,12 +287,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction**|Baoshun Shi et.al.|[2511.20296](https://arxiv.org/abs/2511.20296)|null|
 |**2025-11-24**|**Quotient Manifold Optimization for Spectral Compressed Sensing**|Wenlong Wang et.al.|[2511.19108](https://arxiv.org/abs/2511.19108)|null|
 |**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
 |**2025-11-23**|**LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging**|He Huang et.al.|[2511.18513](https://arxiv.org/abs/2511.18513)|null|
@@ -445,12 +456,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Next-Generation MIMO Transceivers for Integrated Sensing and Communications: Unique Security Vulnerabilities and Solutions**|Kawon Han et.al.|[2511.20309](https://arxiv.org/abs/2511.20309)|null|
+|**2025-11-25**|**Adaptive Knowledge Transfer for Cross-Disciplinary Cold-Start Knowledge Tracing**|Yulong Deng et.al.|[2511.20009](https://arxiv.org/abs/2511.20009)|null|
+|**2025-11-25**|**Frequency Bias Matters: Diving into Robust and Generalized Deep Image Forgery Detection**|Chi Liu et.al.|[2511.19886](https://arxiv.org/abs/2511.19886)|null|
+|**2025-11-24**|**Synthetic Data: AI's New Weapon Against Android Malware**|Angelo Gaspar Diniz Nogueira et.al.|[2511.19649](https://arxiv.org/abs/2511.19649)|null|
+|**2025-11-24**|**Multiscale Vector-Quantized Variational Autoencoder for Endoscopic Image Synthesis**|Dimitrios E. Diamantis et.al.|[2511.19578](https://arxiv.org/abs/2511.19578)|null|
+|**2025-11-24**|**Leveraging Unlabeled Scans for NCCT Image Segmentation in Early Stroke Diagnosis: A Semi-Supervised GAN Approach**|Maria Thoma et.al.|[2511.19576](https://arxiv.org/abs/2511.19576)|null|
+|**2025-11-23**|**Beyond Binary Classification: A Semi-supervised Approach to Generalized AI-generated Image Detection**|Hong-Hanh Nguyen-Le et.al.|[2511.19499](https://arxiv.org/abs/2511.19499)|null|
+|**2025-11-23**|**Generative Model-Aided Continual Learning for CSI Feedback in FDD mMIMO-OFDM Systems**|Guijun Liu et.al.|[2511.19490](https://arxiv.org/abs/2511.19490)|null|
 |**2025-11-24**|**Targeted Manipulation: Slope-Based Attacks on Financial Time-Series Data**|Dominik Luszczynski et.al.|[2511.19330](https://arxiv.org/abs/2511.19330)|null|
 |**2025-11-24**|**Three-Dimensional Anatomical Data Generation Based on Artificial Neural Networks**|Ann-Sophia Müller et.al.|[2511.19198](https://arxiv.org/abs/2511.19198)|null|
 |**2025-11-24**|**When Semantics Regulate: Rethinking Patch Shuffle and Internal Bias for Generated Image Detection with CLIP**|Beilin Chu et.al.|[2511.19126](https://arxiv.org/abs/2511.19126)|null|
@@ -1007,7 +1026,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1054,5 +1073,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
