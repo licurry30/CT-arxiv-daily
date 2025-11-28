@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.11.26
+## Updated on 2025.11.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Stopping power monitoring during proton therapy by means of prompt gamma timing: first experimental results with a homogeneous phantom**|Julius Werner et.al.|[2511.21344](https://arxiv.org/abs/2511.21344)|null|
+|**2025-11-26**|**Low-dose Chemically Specific Bioimaging via Deep-UV Lensless Holographic Microscopy on a Standard Camera**|Piotr Arcab et.al.|[2511.21311](https://arxiv.org/abs/2511.21311)|null|
+|**2025-11-26**|**LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules**|Cheng Yang et.al.|[2511.21042](https://arxiv.org/abs/2511.21042)|null|
+|**2025-11-25**|**A deep learning model to reduce agent dose for contrast-enhanced MRI of the cerebellopontine angle cistern**|Yunjie Chen et.al.|[2511.20926](https://arxiv.org/abs/2511.20926)|null|
 |**2025-11-25**|**Real-time 3D Ultrasonic Needle Tracking with a Photoacoustic Beacon**|Christian Baker et.al.|[2511.20514](https://arxiv.org/abs/2511.20514)|null|
 |**2025-11-25**|**Realizing Universal Non-Markovian Noise Suppression**|Hongfeng Liu et.al.|[2511.20304](https://arxiv.org/abs/2511.20304)|null|
 |**2025-11-25**|**Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction**|Baoshun Shi et.al.|[2511.20296](https://arxiv.org/abs/2511.20296)|null|
@@ -285,6 +289,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Neural NMPC through Signed Distance Field Encoding for Collision Avoidance**|Martin Jacquet et.al.|[2511.21312](https://arxiv.org/abs/2511.21312)|null|
+|**2025-11-26**|**Data Exfiltration by Compression Attack: Definition and Evaluation on Medical Image Data**|Huiyu Li et.al.|[2511.21227](https://arxiv.org/abs/2511.21227)|null|
+|**2025-11-26**|**PileUp: A Tufting Approach to Soft, Tactile, and Volumetric E-Textile Interfaces**|Seoyoung Choi et.al.|[2511.21000](https://arxiv.org/abs/2511.21000)|null|
+|**2025-11-25**|**Primal: A Unified Deterministic Framework for Quasi-Orthogonal Hashing and Manifold Learning**|Vladimer Khasia et.al.|[2511.20839](https://arxiv.org/abs/2511.20839)|null|
 |**2025-11-25**|**Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction**|Baoshun Shi et.al.|[2511.20296](https://arxiv.org/abs/2511.20296)|null|
 |**2025-11-24**|**Quotient Manifold Optimization for Spectral Compressed Sensing**|Wenlong Wang et.al.|[2511.19108](https://arxiv.org/abs/2511.19108)|null|
 |**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](https://arxiv.org/abs/2511.18806)|null|
@@ -452,6 +460,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**HarmonicAttack: An Adaptive Cross-Domain Audio Watermark Removal**|Kexin Li et.al.|[2511.21577](https://arxiv.org/abs/2511.21577)|null|
+|**2025-11-26**|**Probabilistic Wildfire Spread Prediction Using an Autoregressive Conditional Generative Adversarial Network**|Taehoon Kang et.al.|[2511.21019](https://arxiv.org/abs/2511.21019)|null|
+|**2025-11-25**|**Cr2O3/\b{eta}-Ga2O3 Heterojunction Diodes with Orientation-Dependent Breakdown Electric Field up to 12.9 MV/cm**|Yizheng Liu et.al.|[2511.20885](https://arxiv.org/abs/2511.20885)|null|
+|**2025-11-24**|**Are Neuro-Inspired Multi-Modal Vision-Language Models Resilient to Membership Inference Privacy Leakage?**|David Amebley et.al.|[2511.20710](https://arxiv.org/abs/2511.20710)|null|
 |**2025-11-25**|**Next-Generation MIMO Transceivers for Integrated Sensing and Communications: Unique Security Vulnerabilities and Solutions**|Kawon Han et.al.|[2511.20309](https://arxiv.org/abs/2511.20309)|null|
 |**2025-11-25**|**Adaptive Knowledge Transfer for Cross-Disciplinary Cold-Start Knowledge Tracing**|Yulong Deng et.al.|[2511.20009](https://arxiv.org/abs/2511.20009)|null|
 |**2025-11-25**|**Frequency Bias Matters: Diving into Robust and Generalized Deep Image Forgery Detection**|Chi Liu et.al.|[2511.19886](https://arxiv.org/abs/2511.19886)|null|
