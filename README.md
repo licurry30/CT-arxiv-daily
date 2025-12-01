@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**MICCAI STS 2024 Challenge: Semi-Supervised Instance-Level Tooth Segmentation in Panoramic X-ray and CBCT Images**|Yaqi Wang et.al.|[2511.22911](https://arxiv.org/abs/2511.22911)|null|
+|**2025-11-28**|**Two-Dimensional Tomographic Reconstruction From Projections With Unknown Angles and Unknown Spatial Shifts**|Shreyas Jayant Grampurohit et.al.|[2511.22890](https://arxiv.org/abs/2511.22890)|null|
+|**2025-11-27**|**High-yield engineering of modified divacancies in 4H-SiC via oxygen-ion implantation**|Qi-Cheng Hu et.al.|[2511.22608](https://arxiv.org/abs/2511.22608)|null|
+|**2025-11-27**|**PET Rapid Image Reconstruction Challenge (PETRIC)**|Casper da Costa-Luis et.al.|[2511.22566](https://arxiv.org/abs/2511.22566)|null|
+|**2025-11-27**|**When Do Domain-Specific Foundation Models Justify Their Cost? A Systematic Evaluation Across Retinal Imaging Tasks**|David Isztl et.al.|[2511.22001](https://arxiv.org/abs/2511.22001)|null|
 |**2025-11-26**|**Stopping power monitoring during proton therapy by means of prompt gamma timing: first experimental results with a homogeneous phantom**|Julius Werner et.al.|[2511.21344](https://arxiv.org/abs/2511.21344)|null|
 |**2025-11-26**|**Low-dose Chemically Specific Bioimaging via Deep-UV Lensless Holographic Microscopy on a Standard Camera**|Piotr Arcab et.al.|[2511.21311](https://arxiv.org/abs/2511.21311)|null|
 |**2025-11-26**|**LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules**|Cheng Yang et.al.|[2511.21042](https://arxiv.org/abs/2511.21042)|null|
@@ -297,6 +302,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.|[2511.23331](https://arxiv.org/abs/2511.23331)|null|
+|**2025-11-28**|**Two-Dimensional Tomographic Reconstruction From Projections With Unknown Angles and Unknown Spatial Shifts**|Shreyas Jayant Grampurohit et.al.|[2511.22890](https://arxiv.org/abs/2511.22890)|null|
+|**2025-11-27**|**Fluid Antenna-Enhanced Flexible Beamforming**|Jingyuan Xu et.al.|[2511.22163](https://arxiv.org/abs/2511.22163)|null|
 |**2025-11-26**|**Neural NMPC through Signed Distance Field Encoding for Collision Avoidance**|Martin Jacquet et.al.|[2511.21312](https://arxiv.org/abs/2511.21312)|null|
 |**2025-11-26**|**Data Exfiltration by Compression Attack: Definition and Evaluation on Medical Image Data**|Huiyu Li et.al.|[2511.21227](https://arxiv.org/abs/2511.21227)|null|
 |**2025-11-26**|**PileUp: A Tufting Approach to Soft, Tactile, and Volumetric E-Textile Interfaces**|Seoyoung Choi et.al.|[2511.21000](https://arxiv.org/abs/2511.21000)|null|
@@ -470,6 +478,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**A cascade model for the defect-driven etching of porous GaN distributed Bragg reflectors**|Ben Thornley et.al.|[2511.23065](https://arxiv.org/abs/2511.23065)|null|
+|**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](https://arxiv.org/abs/2511.23026)|null|
+|**2025-11-28**|**Scalable Diffusion Transformer for Conditional 4D fMRI Synthesis**|Jungwoo Seo et.al.|[2511.22870](https://arxiv.org/abs/2511.22870)|null|
+|**2025-11-27**|**Moduli Selection in Robust Chinese Remainder Theorem: Closed-Form Solutions and Layered Design**|Wenyi Yan et.al.|[2511.22757](https://arxiv.org/abs/2511.22757)|null|
+|**2025-11-27**|**FPGA-Enabled Modulo ADC with x100 Dynamic-Range Expansion: Hardware Design and Performance Evaluation**|Zeyuan Li et.al.|[2511.22752](https://arxiv.org/abs/2511.22752)|null|
+|**2025-11-27**|**Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield**|Dongyang Liu et.al.|[2511.22677](https://arxiv.org/abs/2511.22677)|null|
+|**2025-11-27**|**Super-resolution of satellite-derived SST data via Generative Adversarial Networks**|Claudia Fanelli et.al.|[2511.22610](https://arxiv.org/abs/2511.22610)|null|
+|**2025-11-27**|**Adversarial Flow Models**|Shanchuan Lin et.al.|[2511.22475](https://arxiv.org/abs/2511.22475)|null|
+|**2025-11-27**|**DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention**|Furkan Guzelant et.al.|[2511.22411](https://arxiv.org/abs/2511.22411)|null|
+|**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](https://arxiv.org/abs/2511.22351)|null|
+|**2025-11-27**|**Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback**|Inhyo Lee et.al.|[2511.22307](https://arxiv.org/abs/2511.22307)|null|
+|**2025-11-27**|**Real-PGDN: A Two-level Classification Method for Full-Process Recognition of Newly Registered Pornographic and Gambling Domain Names**|Hao Wang et.al.|[2511.22215](https://arxiv.org/abs/2511.22215)|null|
+|**2025-11-27**|**Waveform-Based Probabilistic Seismic Hazard Analysis Using Ground-Motion Generative Models**|Yuma Matsumoto et.al.|[2511.22106](https://arxiv.org/abs/2511.22106)|null|
+|**2025-11-27**|**Nonlinear Optical Quantum Communication with a Two-Dimensional Perovskite Light Source**|Shuyue Feng et.al.|[2511.22060](https://arxiv.org/abs/2511.22060)|null|
+|**2025-11-27**|**PAGen: Phase-guided Amplitude Generation for Domain-adaptive Object Detection**|Shuchen Du et.al.|[2511.22029](https://arxiv.org/abs/2511.22029)|null|
+|**2025-11-26**|**Digital Elevation Model Estimation from RGB Satellite Imagery using Generative Deep Learning**|Alif Ilham Madani et.al.|[2511.21985](https://arxiv.org/abs/2511.21985)|null|
+|**2025-11-26**|**ABLE: Using Adversarial Pairs to Construct Local Models for Explaining Model Predictions**|Krishna Khadka et.al.|[2511.21952](https://arxiv.org/abs/2511.21952)|null|
+|**2025-11-26**|**Dynamic mixed turbulence modeling using a super-resolution generative adversarial approach**|Ludovico Nista et.al.|[2511.21879](https://arxiv.org/abs/2511.21879)|null|
+|**2025-11-26**|**Advancing Marine Bioacoustics with Deep Generative Models: A Hybrid Augmentation Strategy for Southern Resident Killer Whale Detection**|Bruno Padovese et.al.|[2511.21872](https://arxiv.org/abs/2511.21872)|null|
+|**2025-11-26**|**Invited to Develop: Institutional Belonging and the Counterfactual Architecture of Development**|Diego Vallarino et.al.|[2511.21865](https://arxiv.org/abs/2511.21865)|null|
 |**2025-11-26**|**HarmonicAttack: An Adaptive Cross-Domain Audio Watermark Removal**|Kexin Li et.al.|[2511.21577](https://arxiv.org/abs/2511.21577)|null|
 |**2025-11-26**|**Probabilistic Wildfire Spread Prediction Using an Autoregressive Conditional Generative Adversarial Network**|Taehoon Kang et.al.|[2511.21019](https://arxiv.org/abs/2511.21019)|null|
 |**2025-11-25**|**Cr2O3/\b{eta}-Ga2O3 Heterojunction Diodes with Orientation-Dependent Breakdown Electric Field up to 12.9 MV/cm**|Yizheng Liu et.al.|[2511.20885](https://arxiv.org/abs/2511.20885)|null|
