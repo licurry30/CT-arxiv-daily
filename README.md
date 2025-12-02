@@ -1,4 +1,4 @@
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-30**|**A Provably Efficient Method for Tensor Ring Decomposition and Its Applications**|Han Chen et.al.|[2512.01016](https://arxiv.org/abs/2512.01016)|null|
+|**2025-11-30**|**Efficient Self-Consistent Quantum Comb Tomography on the Product Stiefel Manifold**|Xinlin He et.al.|[2512.00875](https://arxiv.org/abs/2512.00875)|null|
+|**2025-11-30**|**Neural Discrete Representation Learning for Sparse-View CBCT Reconstruction: From Algorithm Design to Prospective Multicenter Clinical Evaluation**|Haoshen Wang et.al.|[2512.00873](https://arxiv.org/abs/2512.00873)|null|
+|**2025-11-30**|**TAP-CT: 3D Task-Agnostic Pretraining of Computed Tomography Foundation Models**|Tim Veenboer et.al.|[2512.00872](https://arxiv.org/abs/2512.00872)|null|
+|**2025-11-29**|**Rethinking Lung Cancer Screening: AI Nodule Detection and Diagnosis Outperforms Radiologists, Leading Models, and Standards Beyond Size and Growth**|Sylvain Bodard et.al.|[2512.00281](https://arxiv.org/abs/2512.00281)|null|
+|**2025-11-28**|**Analysis of Incursive Breast Cancer in Mammograms Using YOLO, Explainability, and Domain Adaptation**|Jayan Adhikari et.al.|[2512.00129](https://arxiv.org/abs/2512.00129)|null|
 |**2025-11-28**|**MICCAI STS 2024 Challenge: Semi-Supervised Instance-Level Tooth Segmentation in Panoramic X-ray and CBCT Images**|Yaqi Wang et.al.|[2511.22911](https://arxiv.org/abs/2511.22911)|null|
 |**2025-11-28**|**Two-Dimensional Tomographic Reconstruction From Projections With Unknown Angles and Unknown Spatial Shifts**|Shreyas Jayant Grampurohit et.al.|[2511.22890](https://arxiv.org/abs/2511.22890)|null|
 |**2025-11-27**|**High-yield engineering of modified divacancies in 4H-SiC via oxygen-ion implantation**|Qi-Cheng Hu et.al.|[2511.22608](https://arxiv.org/abs/2511.22608)|null|
@@ -296,12 +302,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-29**|**On the Holographic Geometry of Deterministic Computation**|Logan Nye et.al.|[2512.00607](https://arxiv.org/abs/2512.00607)|null|
 |**2025-11-28**|**Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.|[2511.23331](https://arxiv.org/abs/2511.23331)|null|
 |**2025-11-28**|**Two-Dimensional Tomographic Reconstruction From Projections With Unknown Angles and Unknown Spatial Shifts**|Shreyas Jayant Grampurohit et.al.|[2511.22890](https://arxiv.org/abs/2511.22890)|null|
 |**2025-11-27**|**Fluid Antenna-Enhanced Flexible Beamforming**|Jingyuan Xu et.al.|[2511.22163](https://arxiv.org/abs/2511.22163)|null|
@@ -472,12 +479,27 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**First-principles band alignment engineering in polar and nonpolar orientations for wurtzite AlN, GaN, and B $_x$ Al $_{1-x}$ N alloys**|Cody L Milne et.al.|[2512.01907](https://arxiv.org/abs/2512.01907)|null|
+|**2025-12-01**|**An innovative circuit for testing hot carrier and trap generation in GaN Devices**|Moshe Azoulay et.al.|[2512.01683](https://arxiv.org/abs/2512.01683)|null|
+|**2025-12-01**|**FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution**|Seungho Choi et.al.|[2512.01390](https://arxiv.org/abs/2512.01390)|null|
+|**2025-12-01**|**Generative Adversarial Gumbel MCTS for Abstract Visual Composition Generation**|Zirui Zhao et.al.|[2512.01242](https://arxiv.org/abs/2512.01242)|null|
+|**2025-11-30**|**Diffusion-Based Synthesis of 3D T1w MPRAGE Images from Multi-Echo GRE with Multi-Parametric MRI Integration**|Sizhe Fang et.al.|[2512.01135](https://arxiv.org/abs/2512.01135)|null|
+|**2025-11-30**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Jia et.al.|[2512.00765](https://arxiv.org/abs/2512.00765)|null|
+|**2025-11-30**|**New record in optical gain and room-temperature nanolasers in multiple wavelengths in 2D ErOCl single crystals**|Shipeng Yao et.al.|[2512.00731](https://arxiv.org/abs/2512.00731)|null|
+|**2025-11-30**|**MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion**|Sizhe Wei et.al.|[2512.00727](https://arxiv.org/abs/2512.00727)|null|
+|**2025-11-30**|**Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift**|Fanlong Zeng et.al.|[2512.00716](https://arxiv.org/abs/2512.00716)|null|
+|**2025-11-29**|**XAI-Driven Skin Disease Classification: Leveraging GANs to Augment ResNet-50 Performance**|Kim Gerard A. Villanueva et.al.|[2512.00626](https://arxiv.org/abs/2512.00626)|null|
+|**2025-11-29**|**SplatFont3D: Structure-Aware Text-to-3D Artistic Font Generation with Part-Level Style Control**|Ji Gan et.al.|[2512.00413](https://arxiv.org/abs/2512.00413)|null|
+|**2025-11-29**|**Adversarial Signed Graph Learning with Differential Privacy**|Haobin Ke et.al.|[2512.00307](https://arxiv.org/abs/2512.00307)|null|
+|**2025-11-29**|**Teleportation-Based Defenses for Privacy in Approximate Machine Unlearning**|Mohammad M Maheri et.al.|[2512.00272](https://arxiv.org/abs/2512.00272)|null|
+|**2025-11-28**|**SD-CGAN: Conditional Sinkhorn Divergence GAN for DDoS Anomaly Detection in IoT Networks**|Henry Onyeka et.al.|[2512.00251](https://arxiv.org/abs/2512.00251)|null|
+|**2025-11-27**|**Art2Music: Generating Music for Art Images with Multi-modal Feeling Alignment**|Jiaying Hong et.al.|[2512.00120](https://arxiv.org/abs/2512.00120)|null|
 |**2025-11-28**|**A cascade model for the defect-driven etching of porous GaN distributed Bragg reflectors**|Ben Thornley et.al.|[2511.23065](https://arxiv.org/abs/2511.23065)|null|
 |**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](https://arxiv.org/abs/2511.23026)|null|
 |**2025-11-28**|**Scalable Diffusion Transformer for Conditional 4D fMRI Synthesis**|Jungwoo Seo et.al.|[2511.22870](https://arxiv.org/abs/2511.22870)|null|
@@ -1066,7 +1088,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1113,5 +1135,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
 
