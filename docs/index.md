@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Tada-DIP: Input-adaptive Deep Image Prior for One-shot 3D Image Reconstruction**|Evan Bell et.al.|[2512.03962](https://arxiv.org/abs/2512.03962)|null|
+|**2025-12-03**|**Leveraging topological data analysis to estimate bone strength from micro-CT as a surrogate for advanced imaging**|John Rick Manzanares et.al.|[2512.03880](https://arxiv.org/abs/2512.03880)|null|
+|**2025-12-03**|**A Hybrid Deep Learning Framework with Explainable AI for Lung Cancer Classification with DenseNet169 and SVM**|Md Rashidul Islam et.al.|[2512.03359](https://arxiv.org/abs/2512.03359)|null|
 |**2025-12-02**|**MICCAI STSR 2025 Challenge: Semi-Supervised Teeth and Pulp Segmentation and CBCT-IOS Registration**|Yaqi Wang et.al.|[2512.02867](https://arxiv.org/abs/2512.02867)|null|
 |**2025-12-02**|**A Large Scale Benchmark for Test Time Adaptation Methods in Medical Image Segmentation**|Wenjing Yu et.al.|[2512.02497](https://arxiv.org/abs/2512.02497)|null|
 |**2025-11-30**|**A Provably Efficient Method for Tensor Ring Decomposition and Its Applications**|Han Chen et.al.|[2512.01016](https://arxiv.org/abs/2512.01016)|null|
@@ -302,6 +305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**An Information Theory of Finite Abstractions and their Fundamental Scalability Limits**|Giannis Delimpaltadakis et.al.|[2512.03977](https://arxiv.org/abs/2512.03977)|null|
+|**2025-12-03**|**Adaptive sampling using variational autoencoder and reinforcement learning**|Adil Rasheed et.al.|[2512.03525](https://arxiv.org/abs/2512.03525)|null|
+|**2025-12-03**|**Generalized Orthogonal Approximate Message-Passing for Sublinear Sparsity**|Keigo Takeuchi et.al.|[2512.03326](https://arxiv.org/abs/2512.03326)|null|
 |**2025-12-02**|**Maintaining SUV Accuracy in Low-Count PET with PETfectior: A Deep Learning Denoising Solution**|Yamila Rotstein Habarnau et.al.|[2512.02917](https://arxiv.org/abs/2512.02917)|null|
 |**2025-12-02**|**Diffusion-Prior Split Gibbs Sampling for Synthetic Aperture Radar Imaging under Incomplete Measurements**|Hefei Gao et.al.|[2512.02768](https://arxiv.org/abs/2512.02768)|null|
 |**2025-12-02**|**A Cyclic Shift Embedded Pilot based Channel Estimation for Multi-User MIMO-OTFS systems with fractional delay and Doppler**|Ruizhe Wang et.al.|[2512.02353](https://arxiv.org/abs/2512.02353)|null|
@@ -480,6 +486,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Fast & Efficient Normalizing Flows and Applications of Image Generative Models**|Sandeep Nagar et.al.|[2512.04039](https://arxiv.org/abs/2512.04039)|null|
+|**2025-12-03**|**FeatureLens: A Highly Generalizable and Interpretable Framework for Detecting Adversarial Examples Based on Image Features**|Zhigang Yang et.al.|[2512.03625](https://arxiv.org/abs/2512.03625)|null|
+|**2025-12-03**|**Optimal Hypercontractivity and Log--Sobolev inequalities on Cyclic Groups  $\mathbb{Z}_{m\cdot 2^k}$ **|Gan Yao et.al.|[2512.03489](https://arxiv.org/abs/2512.03489)|null|
+|**2025-12-03**|**A Universal Harmonic Discriminator for High-quality GAN-based Vocoder**|Nan Xu et.al.|[2512.03486](https://arxiv.org/abs/2512.03486)|null|
+|**2025-12-03**|**ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-based 3D Scene Understanding**|Lingjun Zhao et.al.|[2512.03370](https://arxiv.org/abs/2512.03370)|null|
+|**2025-12-02**|**Does Head Pose Correction Improve Biometric Facial Recognition?**|Justin Norman et.al.|[2512.03199](https://arxiv.org/abs/2512.03199)|null|
 |**2025-12-02**|**Leveraging generative adversarial networks with spatially adaptive denormalization for multivariate stochastic seismic data inversion**|Roberto Miele et.al.|[2512.02863](https://arxiv.org/abs/2512.02863)|null|
 |**2025-12-02**|**Making Dialogue Grounding Data Rich: A Three-Tier Data Synthesis Framework for Generalized Referring Expression Comprehension**|Juexi Shao et.al.|[2512.02791](https://arxiv.org/abs/2512.02791)|null|
 |**2025-12-02**|**Self-Improving AI Agents through Self-Play**|Przemyslaw Chojecki et.al.|[2512.02731](https://arxiv.org/abs/2512.02731)|null|
@@ -491,7 +503,7 @@ layout: default
 |**2025-12-01**|**FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution**|Seungho Choi et.al.|[2512.01390](https://arxiv.org/abs/2512.01390)|null|
 |**2025-12-01**|**Generative Adversarial Gumbel MCTS for Abstract Visual Composition Generation**|Zirui Zhao et.al.|[2512.01242](https://arxiv.org/abs/2512.01242)|null|
 |**2025-11-30**|**Diffusion-Based Synthesis of 3D T1w MPRAGE Images from Multi-Echo GRE with Multi-Parametric MRI Integration**|Sizhe Fang et.al.|[2512.01135](https://arxiv.org/abs/2512.01135)|null|
-|**2025-11-30**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Jia et.al.|[2512.00765](https://arxiv.org/abs/2512.00765)|null|
+|**2025-12-03**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Ji et.al.|[2512.00765](https://arxiv.org/abs/2512.00765)|null|
 |**2025-11-30**|**New record in optical gain and room-temperature nanolasers in multiple wavelengths in 2D ErOCl single crystals**|Shipeng Yao et.al.|[2512.00731](https://arxiv.org/abs/2512.00731)|null|
 |**2025-11-30**|**MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion**|Sizhe Wei et.al.|[2512.00727](https://arxiv.org/abs/2512.00727)|null|
 |**2025-11-30**|**Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift**|Fanlong Zeng et.al.|[2512.00716](https://arxiv.org/abs/2512.00716)|null|
