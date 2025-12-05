@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](https://arxiv.org/abs/2512.04913)|null|
+|**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](https://arxiv.org/abs/2512.04837)|null|
+|**2025-12-04**|**Spectral micro-CT for quantitative analysis of calcification in fibrocartilage**|Vittoria Mazzini et.al.|[2512.04662](https://arxiv.org/abs/2512.04662)|null|
+|**2025-12-04**|**TARDis: Time Attenuated Representation Disentanglement for Incomplete Multi-Modal Tumor Segmentation and Classification**|Zishuo Wan et.al.|[2512.04576](https://arxiv.org/abs/2512.04576)|null|
+|**2025-12-04**|**Performance Evaluation of Transfer Learning Based Medical Image Classification Techniques for Disease Detection**|Zeeshan Ahmad et.al.|[2512.04397](https://arxiv.org/abs/2512.04397)|null|
+|**2025-12-03**|**Quantum-optimal nonlinear microscopy with classical light**|Joshua L. Reynolds et.al.|[2512.04328](https://arxiv.org/abs/2512.04328)|null|
 |**2025-12-03**|**Tada-DIP: Input-adaptive Deep Image Prior for One-shot 3D Image Reconstruction**|Evan Bell et.al.|[2512.03962](https://arxiv.org/abs/2512.03962)|null|
 |**2025-12-03**|**Leveraging topological data analysis to estimate bone strength from micro-CT as a surrogate for advanced imaging**|John Rick Manzanares et.al.|[2512.03880](https://arxiv.org/abs/2512.03880)|null|
 |**2025-12-03**|**A Hybrid Deep Learning Framework with Explainable AI for Lung Cancer Classification with DenseNet169 and SVM**|Md Rashidul Islam et.al.|[2512.03359](https://arxiv.org/abs/2512.03359)|null|
@@ -305,7 +311,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-03**|**An Information Theory of Finite Abstractions and their Fundamental Scalability Limits**|Giannis Delimpaltadakis et.al.|[2512.03977](https://arxiv.org/abs/2512.03977)|null|
+|**2025-12-04**|**The Endocranial Cast of Khirtharia (Artiodactyla, Raoellidae) Provides New Insights into the Earliest Evolution of the Cetacean Brain**|Mohd Waqas et.al.|[2512.04624](https://arxiv.org/abs/2512.04624)|null|
+|**2025-12-04**|**Metagrating-based Single-pixel Acoustic Direction Finding**|Thomas Macleod et.al.|[2512.04424](https://arxiv.org/abs/2512.04424)|null|
+|**2025-12-04**|**RRAM-Based Analog Matrix Computing for Massive MIMO Signal Processing: A Review**|Pushen Zuo et.al.|[2512.04365](https://arxiv.org/abs/2512.04365)|null|
+|**2025-12-04**|**An Information Theory of Finite Abstractions and their Fundamental Scalability Limits**|Giannis Delimpaltadakis et.al.|[2512.03977](https://arxiv.org/abs/2512.03977)|null|
 |**2025-12-03**|**Adaptive sampling using variational autoencoder and reinforcement learning**|Adil Rasheed et.al.|[2512.03525](https://arxiv.org/abs/2512.03525)|null|
 |**2025-12-03**|**Generalized Orthogonal Approximate Message-Passing for Sublinear Sparsity**|Keigo Takeuchi et.al.|[2512.03326](https://arxiv.org/abs/2512.03326)|null|
 |**2025-12-02**|**Maintaining SUV Accuracy in Low-Count PET with PETfectior: A Deep Learning Denoising Solution**|Yamila Rotstein Habarnau et.al.|[2512.02917](https://arxiv.org/abs/2512.02917)|null|
@@ -486,6 +495,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding**|Abhigyan Bhattacharya et.al.|[2512.05039](https://arxiv.org/abs/2512.05039)|null|
+|**2025-12-04**|**Rethinking the Use of Vision Transformers for AI-Generated Image Detection**|NaHyeon Park et.al.|[2512.04969](https://arxiv.org/abs/2512.04969)|null|
+|**2025-12-04**|**Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens**|Ziran Qin et.al.|[2512.04857](https://arxiv.org/abs/2512.04857)|null|
+|**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](https://arxiv.org/abs/2512.04837)|null|
+|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](https://arxiv.org/abs/2512.04677)|null|
+|**2025-12-04**|**QoSDiff: An Implicit Topological Embedding Learning Framework Leveraging Denoising Diffusion and Adversarial Attention for Robust QoS Prediction**|Guanchen Du et.al.|[2512.04596](https://arxiv.org/abs/2512.04596)|null|
+|**2025-12-04**|**Adversarial Limits of Quantum Certification: When Eve Defeats Detection**|Davut Emre Tasar et.al.|[2512.04391](https://arxiv.org/abs/2512.04391)|null|
 |**2025-12-03**|**Fast & Efficient Normalizing Flows and Applications of Image Generative Models**|Sandeep Nagar et.al.|[2512.04039](https://arxiv.org/abs/2512.04039)|null|
 |**2025-12-03**|**FeatureLens: A Highly Generalizable and Interpretable Framework for Detecting Adversarial Examples Based on Image Features**|Zhigang Yang et.al.|[2512.03625](https://arxiv.org/abs/2512.03625)|null|
 |**2025-12-03**|**Optimal Hypercontractivity and Log--Sobolev inequalities on Cyclic Groups  $\mathbb{Z}_{m\cdot 2^k}$ **|Gan Yao et.al.|[2512.03489](https://arxiv.org/abs/2512.03489)|null|
