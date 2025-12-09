@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**EXR: An Interactive Immersive EHR Visualization in Extended Reality**|Benoit Marteau et.al.|[2512.05438](https://arxiv.org/abs/2512.05438)|null|
 |**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](https://arxiv.org/abs/2512.04913)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](https://arxiv.org/abs/2512.04837)|null|
 |**2025-12-04**|**Spectral micro-CT for quantitative analysis of calcification in fibrocartilage**|Vittoria Mazzini et.al.|[2512.04662](https://arxiv.org/abs/2512.04662)|null|
@@ -18,6 +19,7 @@ layout: default
 |**2025-12-03**|**Tada-DIP: Input-adaptive Deep Image Prior for One-shot 3D Image Reconstruction**|Evan Bell et.al.|[2512.03962](https://arxiv.org/abs/2512.03962)|null|
 |**2025-12-03**|**Leveraging topological data analysis to estimate bone strength from micro-CT as a surrogate for advanced imaging**|John Rick Manzanares et.al.|[2512.03880](https://arxiv.org/abs/2512.03880)|null|
 |**2025-12-03**|**A Hybrid Deep Learning Framework with Explainable AI for Lung Cancer Classification with DenseNet169 and SVM**|Md Rashidul Islam et.al.|[2512.03359](https://arxiv.org/abs/2512.03359)|null|
+|**2025-11-25**|**Energy-Efficient Federated Learning via Adaptive Encoder Freezing for MRI-to-CT Conversion: A Green AI-Guided Research**|Ciro Benito Raggio et.al.|[2512.03054](https://arxiv.org/abs/2512.03054)|null|
 |**2025-12-02**|**MICCAI STSR 2025 Challenge: Semi-Supervised Teeth and Pulp Segmentation and CBCT-IOS Registration**|Yaqi Wang et.al.|[2512.02867](https://arxiv.org/abs/2512.02867)|null|
 |**2025-12-02**|**A Large Scale Benchmark for Test Time Adaptation Methods in Medical Image Segmentation**|Wenjing Yu et.al.|[2512.02497](https://arxiv.org/abs/2512.02497)|null|
 |**2025-11-30**|**A Provably Efficient Method for Tensor Ring Decomposition and Its Applications**|Han Chen et.al.|[2512.01016](https://arxiv.org/abs/2512.01016)|null|
@@ -318,7 +320,7 @@ layout: default
 |**2025-12-03**|**Adaptive sampling using variational autoencoder and reinforcement learning**|Adil Rasheed et.al.|[2512.03525](https://arxiv.org/abs/2512.03525)|null|
 |**2025-12-03**|**Generalized Orthogonal Approximate Message-Passing for Sublinear Sparsity**|Keigo Takeuchi et.al.|[2512.03326](https://arxiv.org/abs/2512.03326)|null|
 |**2025-12-02**|**Maintaining SUV Accuracy in Low-Count PET with PETfectior: A Deep Learning Denoising Solution**|Yamila Rotstein Habarnau et.al.|[2512.02917](https://arxiv.org/abs/2512.02917)|null|
-|**2025-12-02**|**Diffusion-Prior Split Gibbs Sampling for Synthetic Aperture Radar Imaging under Incomplete Measurements**|Hefei Gao et.al.|[2512.02768](https://arxiv.org/abs/2512.02768)|null|
+|**2025-12-08**|**Diffusion-Prior Split Gibbs Sampling for Synthetic Aperture Radar Imaging under Incomplete Measurements**|Hefei Gao et.al.|[2512.02768](https://arxiv.org/abs/2512.02768)|null|
 |**2025-12-02**|**A Cyclic Shift Embedded Pilot based Channel Estimation for Multi-User MIMO-OTFS systems with fractional delay and Doppler**|Ruizhe Wang et.al.|[2512.02353](https://arxiv.org/abs/2512.02353)|null|
 |**2025-11-29**|**On the Holographic Geometry of Deterministic Computation**|Logan Nye et.al.|[2512.00607](https://arxiv.org/abs/2512.00607)|null|
 |**2025-11-28**|**Optimization and application of ultra-high field preclinical high-resolution and 3D 1H-MRSI using compressed sensing**|Brayan Alves et.al.|[2511.23331](https://arxiv.org/abs/2511.23331)|null|
@@ -495,6 +497,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting**|Qingyuan Yang et.al.|[2512.07539](https://arxiv.org/abs/2512.07539)|null|
+|**2025-12-08**|**DGGAN: Degradation Guided Generative Adversarial Network for Real-time Endoscopic Video Enhancement**|Handing Xu et.al.|[2512.07253](https://arxiv.org/abs/2512.07253)|null|
+|**2025-12-08**|**JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention**|Georgios Ioannides et.al.|[2512.07168](https://arxiv.org/abs/2512.07168)|null|
+|**2025-12-07**|**Revisiting the atmosphere of HAT-P-70b with CARMENES high-resolution transmission spectroscopy**|Tianjun Gan et.al.|[2512.06731](https://arxiv.org/abs/2512.06731)|null|
+|**2025-12-07**|**Multi-Functional Programmable Metasurfaces for 6G and Beyond**|Xu Gan et.al.|[2512.06693](https://arxiv.org/abs/2512.06693)|null|
+|**2025-12-07**|**EMGauss: Continuous Slice-to-3D Reconstruction via Dynamic Gaussian Modeling in Volume Electron Microscopy**|Yumeng He et.al.|[2512.06684](https://arxiv.org/abs/2512.06684)|null|
+|**2025-12-07**|**Rethinking Robustness: A New Approach to Evaluating Feature Attribution Methods**|Panagiota Kiourti et.al.|[2512.06665](https://arxiv.org/abs/2512.06665)|null|
+|**2025-12-06**|**Chemical Vapor Deposition of Nitrides by Carbon-free Brominated Precursors**|Stefano Leone et.al.|[2512.06566](https://arxiv.org/abs/2512.06566)|null|
+|**2025-12-06**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](https://arxiv.org/abs/2512.06438)|null|
+|**2025-12-06**|**LLM-Upgraded Graph Reinforcement Learning for Carbon-Aware Job Scheduling in Smart Manufacturing**|Zhiying Yang et.al.|[2512.06351](https://arxiv.org/abs/2512.06351)|null|
+|**2025-12-06**|**Physics-based Full-band GaN HEMT Simulation Suggests Upper Bound of LO Phonon Lifetime**|Ankan Ghosh Dastider et.al.|[2512.06226](https://arxiv.org/abs/2512.06226)|null|
+|**2025-12-05**|**Impugan: Learning Conditional Generative Models for Robust Data Imputation**|Zalish Mahmud et.al.|[2512.05950](https://arxiv.org/abs/2512.05950)|null|
+|**2025-12-05**|**Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition**|Anne Sielemann et.al.|[2512.05936](https://arxiv.org/abs/2512.05936)|null|
+|**2025-12-05**|**A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition**|Pedro Vidal et.al.|[2512.05928](https://arxiv.org/abs/2512.05928)|null|
+|**2025-12-05**|**Underwater Image Reconstruction Using a Swin Transformer-Based Generator and PatchGAN Discriminator**|Md. Mahbub Hasan Akash et.al.|[2512.05866](https://arxiv.org/abs/2512.05866)|null|
+|**2025-12-05**|**Design of a High-Power and High-Efficiency GaN-HEMT VCO Based on an Inverse Class-F Amplifier**|Junlin Mi et.al.|[2512.05846](https://arxiv.org/abs/2512.05846)|null|
+|**2025-12-05**|**Convergence rate of  $\ell^p$ -relaxation on a graph to a  $p$ -harmonic function with given boundary values**|Chenyu Gan et.al.|[2512.05424](https://arxiv.org/abs/2512.05424)|null|
+|**2025-12-05**|**China Regional 3km Downscaling Based on Residual Corrective Diffusion Model**|Honglu Sun et.al.|[2512.05377](https://arxiv.org/abs/2512.05377)|null|
 |**2025-12-04**|**Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding**|Abhigyan Bhattacharya et.al.|[2512.05039](https://arxiv.org/abs/2512.05039)|null|
 |**2025-12-04**|**Rethinking the Use of Vision Transformers for AI-Generated Image Detection**|NaHyeon Park et.al.|[2512.04969](https://arxiv.org/abs/2512.04969)|null|
 |**2025-12-04**|**Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens**|Ziran Qin et.al.|[2512.04857](https://arxiv.org/abs/2512.04857)|null|
@@ -1146,18 +1166,18 @@ layout: default
 |**2025-08-12**|**Lung-DDPM+: Efficient Thoracic CT Image Synthesis using Diffusion Probabilistic Model**|Yifan Jiang et.al.|[2508.09327](https://arxiv.org/abs/2508.09327)|null|
 |**2025-07-16**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](https://arxiv.org/abs/2507.11152)|null|
 |**2025-06-10**|**ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction**|Changsheng Fang et.al.|[2506.06400](https://arxiv.org/abs/2506.06400)|null|
-|**2025-05-16**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](https://arxiv.org/abs/2505.09985)|null|
+|**2025-05-15**|**Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction**|Pengfei Yu et.al.|[2505.09985](https://arxiv.org/abs/2505.09985)|null|
 |**2025-10-13**|**Adaptive Diffusion Models for Sparse-View Motion-Corrected Head Cone-beam CT**|Antoine De Paepe et.al.|[2504.14033](https://arxiv.org/abs/2504.14033)|null|
 |**2025-03-22**|**DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**|Xing Xie et.al.|[2503.17804](https://arxiv.org/abs/2503.17804)|null|
 |**2025-02-06**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771](https://arxiv.org/abs/2502.02771)|null|
 |**2025-05-28**|**Exploring Out-of-distribution Detection for Sparse-view Computed Tomography with Diffusion Models**|Ezgi Demircan-Tureyen et.al.|[2411.06308](https://arxiv.org/abs/2411.06308)|null|
-|**2024-09-04**|**CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction across All Sampling Rates**|Liutao Yang et.al.|[2409.01571](https://arxiv.org/abs/2409.01571)|null|
+|**2024-09-03**|**CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction across All Sampling Rates**|Liutao Yang et.al.|[2409.01571](https://arxiv.org/abs/2409.01571)|null|
 |**2024-08-29**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283](https://arxiv.org/abs/2408.15283)|null|
 |**2024-05-10**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814](https://arxiv.org/abs/2405.05814)|null|
-|**2024-03-15**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](https://arxiv.org/abs/2403.09355)|null|
+|**2024-03-14**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](https://arxiv.org/abs/2403.09355)|null|
 |**2024-09-02**|**CT Reconstruction using Diffusion Posterior Sampling conditioned on a Nonlinear Measurement Model**|Shudong Li et.al.|[2312.01464](https://arxiv.org/abs/2312.01464)|null|
 |**2023-10-06**|**Blind CT Image Quality Assessment Using DDPM-derived Content and Transformer-based Evaluator**|Yongyi Shi et.al.|[2310.03118](https://arxiv.org/abs/2310.03118)|null|
-|**2023-09-06**|**Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction**|Kai Xu et.al.|[2308.15942](https://arxiv.org/abs/2308.15942)|null|
+|**2023-09-03**|**Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction**|Kai Xu et.al.|[2308.15942](https://arxiv.org/abs/2308.15942)|null|
 |**2023-08-29**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437](https://arxiv.org/abs/2308.14437)|null|
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
