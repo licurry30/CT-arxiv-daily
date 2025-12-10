@@ -1,4 +1,4 @@
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**The new truly cylindrical tracker for the ALICE ITS3**|Stefania Perciballi et.al.|[2512.08748](https://arxiv.org/abs/2512.08748)|null|
+|**2025-12-09**|**Tumor-anchored deep feature random forests for out-of-distribution detection in lung cancer segmentation**|Aneesh Rangnekar et.al.|[2512.08216](https://arxiv.org/abs/2512.08216)|null|
+|**2025-12-08**|**Missing Wedge Inpainting and Joint Alignment in Electron Tomography through Implicit Neural Representations**|Cedric Lim et.al.|[2512.08113](https://arxiv.org/abs/2512.08113)|null|
+|**2025-12-08**|**A Semi-Supervised Inf-Net Framework for CT-Based Lung Nodule Analysis with a Conceptual Extension Toward Genomic Integration**|Fateme Mobini et.al.|[2512.07912](https://arxiv.org/abs/2512.07912)|null|
 |**2025-12-05**|**EXR: An Interactive Immersive EHR Visualization in Extended Reality**|Benoit Marteau et.al.|[2512.05438](https://arxiv.org/abs/2512.05438)|null|
 |**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](https://arxiv.org/abs/2512.04913)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](https://arxiv.org/abs/2512.04837)|null|
@@ -315,7 +319,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## SVCT
 
@@ -501,13 +505,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-08**|**FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting**|Qingyuan Yang et.al.|[2512.07539](https://arxiv.org/abs/2512.07539)|null|
+|**2025-12-09**|**Differentially Private Synthetic Data Generation Using Context-Aware GANs**|Anantaa Kotal et.al.|[2512.08869](https://arxiv.org/abs/2512.08869)|null|
+|**2025-12-09**|**A Novel Wasserstein Quaternion Generative Adversarial Network for Color Image Generation**|Zhigang Jia et.al.|[2512.08542](https://arxiv.org/abs/2512.08542)|null|
+|**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](https://arxiv.org/abs/2512.08366)|null|
+|**2025-12-09**|**Conditional Morphogenesis: Emergent Generation of Structural Digits via Neural Cellular Automata**|Ali Sakour et.al.|[2512.08360](https://arxiv.org/abs/2512.08360)|null|
+|**2025-12-09**|**DINO-BOLDNet: A DINOv3-Guided Multi-Slice Attention Network for T1-to-BOLD Generation**|Jianwei Wang et.al.|[2512.08337](https://arxiv.org/abs/2512.08337)|null|
+|**2025-12-09**|**Triality and adjoint lifting for GL(3)**|Wee Teck Gan et.al.|[2512.08307](https://arxiv.org/abs/2512.08307)|null|
+|**2025-12-08**|**Towards Sustainable Universal Deepfake Detection with Frequency-Domain Masking**|Chandler Timm C. Doloriel et.al.|[2512.08042](https://arxiv.org/abs/2512.08042)|null|
+|**2025-12-09**|**FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting**|Qingyuan Yang et.al.|[2512.07539](https://arxiv.org/abs/2512.07539)|null|
 |**2025-12-08**|**DGGAN: Degradation Guided Generative Adversarial Network for Real-time Endoscopic Video Enhancement**|Handing Xu et.al.|[2512.07253](https://arxiv.org/abs/2512.07253)|null|
 |**2025-12-08**|**JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention**|Georgios Ioannides et.al.|[2512.07168](https://arxiv.org/abs/2512.07168)|null|
 |**2025-12-07**|**Revisiting the atmosphere of HAT-P-70b with CARMENES high-resolution transmission spectroscopy**|Tianjun Gan et.al.|[2512.06731](https://arxiv.org/abs/2512.06731)|null|
@@ -1147,7 +1158,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1194,5 +1205,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
