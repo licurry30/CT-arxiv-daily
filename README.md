@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Detection and Localization of Subdural Hematoma Using Deep Learning on Computed Tomography**|Vasiliki Stoumpou et.al.|[2512.09393](https://arxiv.org/abs/2512.09393)|null|
+|**2025-12-09**|**Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach**|Phevos Paschalidis et.al.|[2512.09198](https://arxiv.org/abs/2512.09198)|null|
+|**2025-12-09**|**The choice of viscous or viscoelastic models affects attenuation and velocity determination in simplified skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2512.09173](https://arxiv.org/abs/2512.09173)|null|
+|**2025-12-09**|**Diffusion Model Regularized Implicit Neural Representation for CT Metal Artifact Reduction**|Jie Wen et.al.|[2512.08999](https://arxiv.org/abs/2512.08999)|null|
 |**2025-12-09**|**The new truly cylindrical tracker for the ALICE ITS3**|Stefania Perciballi et.al.|[2512.08748](https://arxiv.org/abs/2512.08748)|null|
 |**2025-12-09**|**Tumor-anchored deep feature random forests for out-of-distribution detection in lung cancer segmentation**|Aneesh Rangnekar et.al.|[2512.08216](https://arxiv.org/abs/2512.08216)|null|
 |**2025-12-08**|**Missing Wedge Inpainting and Joint Alignment in Electron Tomography through Implicit Neural Representations**|Cedric Lim et.al.|[2512.08113](https://arxiv.org/abs/2512.08113)|null|
@@ -319,7 +323,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## SVCT
 
@@ -505,12 +509,14 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Electrical Characterization of High-k (k>115) Crystalline SrTiO3 (STO) thin film integration with GaN with Nanomembrane Transfer Process**|Md Tahmidul Alam et.al.|[2512.09391](https://arxiv.org/abs/2512.09391)|null|
+|**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](https://arxiv.org/abs/2512.09000)|null|
 |**2025-12-09**|**Differentially Private Synthetic Data Generation Using Context-Aware GANs**|Anantaa Kotal et.al.|[2512.08869](https://arxiv.org/abs/2512.08869)|null|
 |**2025-12-09**|**A Novel Wasserstein Quaternion Generative Adversarial Network for Color Image Generation**|Zhigang Jia et.al.|[2512.08542](https://arxiv.org/abs/2512.08542)|null|
 |**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](https://arxiv.org/abs/2512.08366)|null|
@@ -1158,7 +1164,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1205,5 +1211,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 

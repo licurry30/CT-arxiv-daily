@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Detection and Localization of Subdural Hematoma Using Deep Learning on Computed Tomography**|Vasiliki Stoumpou et.al.|[2512.09393](https://arxiv.org/abs/2512.09393)|null|
+|**2025-12-09**|**Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach**|Phevos Paschalidis et.al.|[2512.09198](https://arxiv.org/abs/2512.09198)|null|
+|**2025-12-09**|**The choice of viscous or viscoelastic models affects attenuation and velocity determination in simplified skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2512.09173](https://arxiv.org/abs/2512.09173)|null|
+|**2025-12-09**|**Diffusion Model Regularized Implicit Neural Representation for CT Metal Artifact Reduction**|Jie Wen et.al.|[2512.08999](https://arxiv.org/abs/2512.08999)|null|
 |**2025-12-09**|**The new truly cylindrical tracker for the ALICE ITS3**|Stefania Perciballi et.al.|[2512.08748](https://arxiv.org/abs/2512.08748)|null|
 |**2025-12-09**|**Tumor-anchored deep feature random forests for out-of-distribution detection in lung cancer segmentation**|Aneesh Rangnekar et.al.|[2512.08216](https://arxiv.org/abs/2512.08216)|null|
 |**2025-12-08**|**Missing Wedge Inpainting and Joint Alignment in Electron Tomography through Implicit Neural Representations**|Cedric Lim et.al.|[2512.08113](https://arxiv.org/abs/2512.08113)|null|
@@ -501,6 +505,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Electrical Characterization of High-k (k>115) Crystalline SrTiO3 (STO) thin film integration with GaN with Nanomembrane Transfer Process**|Md Tahmidul Alam et.al.|[2512.09391](https://arxiv.org/abs/2512.09391)|null|
+|**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](https://arxiv.org/abs/2512.09000)|null|
 |**2025-12-09**|**Differentially Private Synthetic Data Generation Using Context-Aware GANs**|Anantaa Kotal et.al.|[2512.08869](https://arxiv.org/abs/2512.08869)|null|
 |**2025-12-09**|**A Novel Wasserstein Quaternion Generative Adversarial Network for Color Image Generation**|Zhigang Jia et.al.|[2512.08542](https://arxiv.org/abs/2512.08542)|null|
 |**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](https://arxiv.org/abs/2512.08366)|null|
