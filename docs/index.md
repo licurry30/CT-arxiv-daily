@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography**|Rene Lisasi et.al.|[2512.10765](https://arxiv.org/abs/2512.10765)|null|
 |**2025-12-10**|**Detection and Localization of Subdural Hematoma Using Deep Learning on Computed Tomography**|Vasiliki Stoumpou et.al.|[2512.09393](https://arxiv.org/abs/2512.09393)|null|
 |**2025-12-09**|**Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach**|Phevos Paschalidis et.al.|[2512.09198](https://arxiv.org/abs/2512.09198)|null|
 |**2025-12-09**|**The choice of viscous or viscoelastic models affects attenuation and velocity determination in simplified skull-mimicking digital phantoms**|Samuel Clinard et.al.|[2512.09173](https://arxiv.org/abs/2512.09173)|null|
@@ -505,6 +506,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](https://arxiv.org/abs/2512.10927)|null|
+|**2025-12-11**|**Topology-Guided Quantum GANs for Constrained Graph Generation**|Tobias Rohe et.al.|[2512.10582](https://arxiv.org/abs/2512.10582)|null|
+|**2025-12-11**|**RoleRMBench & RoleRM: Towards Reward Modeling for Profile-Based Role Play in Dialogue Systems**|Hang Ding et.al.|[2512.10575](https://arxiv.org/abs/2512.10575)|null|
+|**2025-12-11**|**KRAS G12D protein screening for pancreatic cancer clinical trials using an AlGaN/GaN high electron mobility transistor biosensor**|Sheng-Ting Hung et.al.|[2512.10377](https://arxiv.org/abs/2512.10377)|null|
 |**2025-12-10**|**Electrical Characterization of High-k (k>115) Crystalline SrTiO3 (STO) thin film integration with GaN with Nanomembrane Transfer Process**|Md Tahmidul Alam et.al.|[2512.09391](https://arxiv.org/abs/2512.09391)|null|
 |**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](https://arxiv.org/abs/2512.09000)|null|
 |**2025-12-09**|**Differentially Private Synthetic Data Generation Using Context-Aware GANs**|Anantaa Kotal et.al.|[2512.08869](https://arxiv.org/abs/2512.08869)|null|
