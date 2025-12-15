@@ -506,6 +506,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Quotient branching laws and Gan-Gross-Prasad relevance for general linear groups**|Basudev Pattanayak et.al.|[2512.11696](https://arxiv.org/abs/2512.11696)|null|
+|**2025-12-11**|**Generative Adversarial Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2512.11014](https://arxiv.org/abs/2512.11014)|null|
 |**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](https://arxiv.org/abs/2512.10927)|null|
 |**2025-12-11**|**Topology-Guided Quantum GANs for Constrained Graph Generation**|Tobias Rohe et.al.|[2512.10582](https://arxiv.org/abs/2512.10582)|null|
 |**2025-12-11**|**RoleRMBench & RoleRM: Towards Reward Modeling for Profile-Based Role Play in Dialogue Systems**|Hang Ding et.al.|[2512.10575](https://arxiv.org/abs/2512.10575)|null|
