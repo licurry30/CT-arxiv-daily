@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Anatomy Guided Coronary Artery Segmentation from CCTA Using Spatial Frequency Joint Modeling**|Huan Huang et.al.|[2512.12539](https://arxiv.org/abs/2512.12539)|null|
+|**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et.al.|[2512.12236](https://arxiv.org/abs/2512.12236)|null|
+|**2025-12-13**|**A Novel Patch-Based TDA Approach for Computed Tomography**|Dashti A. Ali et.al.|[2512.12108](https://arxiv.org/abs/2512.12108)|null|
 |**2025-12-11**|**Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography**|Rene Lisasi et.al.|[2512.10765](https://arxiv.org/abs/2512.10765)|null|
 |**2025-12-10**|**Detection and Localization of Subdural Hematoma Using Deep Learning on Computed Tomography**|Vasiliki Stoumpou et.al.|[2512.09393](https://arxiv.org/abs/2512.09393)|null|
 |**2025-12-09**|**Towards Optimal Valve Prescription for Transcatheter Aortic Valve Replacement (TAVR) Surgery: A Machine Learning Approach**|Phevos Paschalidis et.al.|[2512.09198](https://arxiv.org/abs/2512.09198)|null|
@@ -322,6 +325,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et.al.|[2512.12236](https://arxiv.org/abs/2512.12236)|null|
 |**2025-12-04**|**The Endocranial Cast of Khirtharia (Artiodactyla, Raoellidae) Provides New Insights into the Earliest Evolution of the Cetacean Brain**|Mohd Waqas et.al.|[2512.04624](https://arxiv.org/abs/2512.04624)|null|
 |**2025-12-04**|**Metagrating-based Single-pixel Acoustic Direction Finding**|Thomas Macleod et.al.|[2512.04424](https://arxiv.org/abs/2512.04424)|null|
 |**2025-12-04**|**RRAM-Based Analog Matrix Computing for Massive MIMO Signal Processing: A Review**|Pushen Zuo et.al.|[2512.04365](https://arxiv.org/abs/2512.04365)|null|
@@ -506,6 +510,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation**|Jiangning Zhang et.al.|[2512.13495](https://arxiv.org/abs/2512.13495)|null|
+|**2025-12-15**|**Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10 $\times$ **|Jiangning Zhang et.al.|[2512.13492](https://arxiv.org/abs/2512.13492)|null|
+|**2025-12-15**|**Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning**|Xin Guo et.al.|[2512.13131](https://arxiv.org/abs/2512.13131)|null|
+|**2025-12-15**|**Scaling Up AI-Generated Image Detection via Generator-Aware Prototypes**|Ziheng Qin et.al.|[2512.12982](https://arxiv.org/abs/2512.12982)|null|
+|**2025-12-14**|**Learning Common and Salient Generative Factors Between Two Image Datasets**|Yunlong He et.al.|[2512.12800](https://arxiv.org/abs/2512.12800)|null|
+|**2025-12-14**|**C-PASS: Center-Fed Pinching Antenna System**|Xu Gan et.al.|[2512.12619](https://arxiv.org/abs/2512.12619)|null|
+|**2025-12-14**|**Differentiable Energy-Based Regularization in GANs: A Simulator-Based Exploration of VQE-Inspired Auxiliary Losses**|David Strnadel et.al.|[2512.12581](https://arxiv.org/abs/2512.12581)|null|
+|**2025-12-14**|**Mechanisms of inductively coupled BCl3-plasma interaction with the GaN surfaceMechanisms of inductively coupled BCl3-plasma interaction with the GaN surface**|Anton Kobelev et.al.|[2512.12569](https://arxiv.org/abs/2512.12569)|null|
+|**2025-12-13**|**Hellinger loss function for Generative Adversarial Networks**|Giovanni Saraceno et.al.|[2512.12267](https://arxiv.org/abs/2512.12267)|null|
+|**2025-12-13**|**A comparative study of generative models for child voice conversion**|Protima Nomo Sudro et.al.|[2512.12129](https://arxiv.org/abs/2512.12129)|null|
+|**2025-12-13**|**AI-Augmented Pollen Recognition in Optical and Holographic Microscopy for Veterinary Imaging**|Swarn S. Warshaneyan et.al.|[2512.12101](https://arxiv.org/abs/2512.12101)|null|
 |**2025-12-12**|**Quotient branching laws and Gan-Gross-Prasad relevance for general linear groups**|Basudev Pattanayak et.al.|[2512.11696](https://arxiv.org/abs/2512.11696)|null|
 |**2025-12-11**|**Generative Adversarial Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2512.11014](https://arxiv.org/abs/2512.11014)|null|
 |**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](https://arxiv.org/abs/2512.10927)|null|
