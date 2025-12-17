@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](https://arxiv.org/abs/2512.14556)|null|
+|**2025-12-16**|**TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration**|Zhiwen Yang et.al.|[2512.14550](https://arxiv.org/abs/2512.14550)|null|
 |**2025-12-14**|**Anatomy Guided Coronary Artery Segmentation from CCTA Using Spatial Frequency Joint Modeling**|Huan Huang et.al.|[2512.12539](https://arxiv.org/abs/2512.12539)|null|
 |**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et.al.|[2512.12236](https://arxiv.org/abs/2512.12236)|null|
 |**2025-12-13**|**A Novel Patch-Based TDA Approach for Computed Tomography**|Dashti A. Ali et.al.|[2512.12108](https://arxiv.org/abs/2512.12108)|null|
@@ -25,7 +27,7 @@ layout: default
 |**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](https://arxiv.org/abs/2512.04913)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](https://arxiv.org/abs/2512.04837)|null|
 |**2025-12-04**|**Spectral micro-CT for quantitative analysis of calcification in fibrocartilage**|Vittoria Mazzini et.al.|[2512.04662](https://arxiv.org/abs/2512.04662)|null|
-|**2025-12-04**|**TARDis: Time Attenuated Representation Disentanglement for Incomplete Multi-Modal Tumor Segmentation and Classification**|Zishuo Wan et.al.|[2512.04576](https://arxiv.org/abs/2512.04576)|null|
+|**2025-12-16**|**TARDis: Time Attenuated Representation Disentanglement for Incomplete Multi-Modal Tumor Segmentation and Classification**|Zishuo Wan et.al.|[2512.04576](https://arxiv.org/abs/2512.04576)|null|
 |**2025-12-04**|**Performance Evaluation of Transfer Learning Based Medical Image Classification Techniques for Disease Detection**|Zeeshan Ahmad et.al.|[2512.04397](https://arxiv.org/abs/2512.04397)|null|
 |**2025-12-03**|**Quantum-optimal nonlinear microscopy with classical light**|Joshua L. Reynolds et.al.|[2512.04328](https://arxiv.org/abs/2512.04328)|null|
 |**2025-12-03**|**Tada-DIP: Input-adaptive Deep Image Prior for One-shot 3D Image Reconstruction**|Evan Bell et.al.|[2512.03962](https://arxiv.org/abs/2512.03962)|null|
@@ -325,6 +327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**User Localization and Channel Estimation for Pinching-Antenna Systems (PASS)**|Xiaoxia Xu et.al.|[2512.14351](https://arxiv.org/abs/2512.14351)|null|
 |**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et.al.|[2512.12236](https://arxiv.org/abs/2512.12236)|null|
 |**2025-12-04**|**The Endocranial Cast of Khirtharia (Artiodactyla, Raoellidae) Provides New Insights into the Earliest Evolution of the Cetacean Brain**|Mohd Waqas et.al.|[2512.04624](https://arxiv.org/abs/2512.04624)|null|
 |**2025-12-04**|**Metagrating-based Single-pixel Acoustic Direction Finding**|Thomas Macleod et.al.|[2512.04424](https://arxiv.org/abs/2512.04424)|null|
@@ -510,6 +513,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction**|Rui-Yang Ju et.al.|[2512.14114](https://arxiv.org/abs/2512.14114)|null|
+|**2025-12-16**|**An intercomparison of generative machine learning methods for downscaling precipitation at fine spatial scales**|Bryn Ward-Leikis et.al.|[2512.13987](https://arxiv.org/abs/2512.13987)|null|
 |**2025-12-15**|**Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation**|Jiangning Zhang et.al.|[2512.13495](https://arxiv.org/abs/2512.13495)|null|
 |**2025-12-15**|**Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10 $\times$ **|Jiangning Zhang et.al.|[2512.13492](https://arxiv.org/abs/2512.13492)|null|
 |**2025-12-15**|**Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning**|Xin Guo et.al.|[2512.13131](https://arxiv.org/abs/2512.13131)|null|
