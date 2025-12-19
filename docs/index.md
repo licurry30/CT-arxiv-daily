@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**A MAPS Detector for High Resolution Low Dose EBSD**|Barnaby D. A. Levin et.al.|[2512.16839](https://arxiv.org/abs/2512.16839)|null|
+|**2025-12-17**|**In search of truth: Evaluating concordance of AI-based anatomy segmentation models**|Lena Giebeler et.al.|[2512.15921](https://arxiv.org/abs/2512.15921)|null|
 |**2025-12-17**|**Radiomics and Clinical Features in Predictive Modelling of Brain Metastases Recurrence**|Ines Faria et.al.|[2512.15681](https://arxiv.org/abs/2512.15681)|null|
 |**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](https://arxiv.org/abs/2512.14556)|null|
 |**2025-12-16**|**TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration**|Zhiwen Yang et.al.|[2512.14550](https://arxiv.org/abs/2512.14550)|null|
@@ -328,6 +330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Channel State Information Preprocessing for CSI-based Physical-Layer Authentication Using Reconciliation**|Atsu Kokuvi Angelo Passah et.al.|[2512.16719](https://arxiv.org/abs/2512.16719)|null|
+|**2025-12-17**|**Lifting Biomolecular Data Acquisition**|Eli N. Weinstein et.al.|[2512.15984](https://arxiv.org/abs/2512.15984)|null|
 |**2025-12-16**|**User Localization and Channel Estimation for Pinching-Antenna Systems (PASS)**|Xiaoxia Xu et.al.|[2512.14351](https://arxiv.org/abs/2512.14351)|null|
 |**2025-12-13**|**Resolution-Independent Neural Operators for Multi-Rate Sparse-View CT**|Aujasvit Datta et.al.|[2512.12236](https://arxiv.org/abs/2512.12236)|null|
 |**2025-12-04**|**The Endocranial Cast of Khirtharia (Artiodactyla, Raoellidae) Provides New Insights into the Earliest Evolution of the Cetacean Brain**|Mohd Waqas et.al.|[2512.04624](https://arxiv.org/abs/2512.04624)|null|
@@ -514,6 +518,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Pixel Super-Resolved Fluorescence Lifetime Imaging Using Deep Learning**|Paloma Casteleiro Costa et.al.|[2512.16266](https://arxiv.org/abs/2512.16266)|null|
+|**2025-12-18**|**In situ XRD Study of Strain Evolution in AlGaN/GaN HEMT at High Temperatures up to 1000 °C**|Botong Li et.al.|[2512.16172](https://arxiv.org/abs/2512.16172)|null|
+|**2025-12-17**|**Visualizing metal-mediated nucleation and growth of GaN**|Abby Liu et.al.|[2512.15989](https://arxiv.org/abs/2512.15989)|null|
+|**2025-12-17**|**MCR-VQGAN: A Scalable and Cost-Effective Tau PET Synthesis Approach for Alzheimer's Disease Imaging**|Jin Young Kim et.al.|[2512.15947](https://arxiv.org/abs/2512.15947)|null|
 |**2025-12-17**|**Evaluating Large Language Models in Scientific Discovery**|Zhangde Song et.al.|[2512.15567](https://arxiv.org/abs/2512.15567)|null|
 |**2025-12-17**|**Fabrication of (In,Ga)N pseudo-substrates by a three-step growth protocol without ex-situ processing**|Huaide Zhang et.al.|[2512.15565](https://arxiv.org/abs/2512.15565)|null|
 |**2025-12-17**|**Exciton radiative lifetimes in hexagonal diamond Ge and Si $_x$ Ge $_{1-x}$  alloys**|Michele Re Fiorentin et.al.|[2512.15559](https://arxiv.org/abs/2512.15559)|null|
