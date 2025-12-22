@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Semi-Supervised 3D Segmentation for Type-B Aortic Dissection with Slim UNETR**|Denis Mikhailapov et.al.|[2512.17610](https://arxiv.org/abs/2512.17610)|null|
+|**2025-12-19**|**Guided progressive reconstructive imaging: a new quantization-based framework for low-dose, high-throughput and real-time analytical ptychography**|Hoelen L. Lalandec Robert et.al.|[2512.17561](https://arxiv.org/abs/2512.17561)|null|
+|**2025-12-19**|**Comparison of two statistical image reconstruction algorithms for quantitative assessment of pathological lesions using gamma emission tomography**|A. V. Nesterova et.al.|[2512.17523](https://arxiv.org/abs/2512.17523)|null|
+|**2025-12-19**|**Anatomical Region-Guided Contrastive Decoding: A Plug-and-Play Strategy for Mitigating Hallucinations in Medical VLMs**|Xiao Liang et.al.|[2512.17189](https://arxiv.org/abs/2512.17189)|null|
 |**2025-12-18**|**A MAPS Detector for High Resolution Low Dose EBSD**|Barnaby D. A. Levin et.al.|[2512.16839](https://arxiv.org/abs/2512.16839)|null|
 |**2025-12-17**|**In search of truth: Evaluating concordance of AI-based anatomy segmentation models**|Lena Giebeler et.al.|[2512.15921](https://arxiv.org/abs/2512.15921)|null|
 |**2025-12-17**|**Radiomics and Clinical Features in Predictive Modelling of Brain Metastases Recurrence**|Ines Faria et.al.|[2512.15681](https://arxiv.org/abs/2512.15681)|null|
@@ -528,6 +532,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Inverse-Designed Phase Prediction in Digital Lasers Using Deep Learning and Transfer Learning**|Yu-Che Wu et.al.|[2512.17879](https://arxiv.org/abs/2512.17879)|null|
+|**2025-12-19**|**AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection**|Yichen Jiang et.al.|[2512.17730](https://arxiv.org/abs/2512.17730)|null|
+|**2025-12-19**|**Beyond Semantic Features: Pixel-level Mapping for Generalized AI-Generated Image Detection**|Chenming Zhou et.al.|[2512.17350](https://arxiv.org/abs/2512.17350)|null|
 |**2025-12-18**|**Pixel Super-Resolved Fluorescence Lifetime Imaging Using Deep Learning**|Paloma Casteleiro Costa et.al.|[2512.16266](https://arxiv.org/abs/2512.16266)|null|
 |**2025-12-18**|**In situ XRD Study of Strain Evolution in AlGaN/GaN HEMT at High Temperatures up to 1000 °C**|Botong Li et.al.|[2512.16172](https://arxiv.org/abs/2512.16172)|null|
 |**2025-12-17**|**Visualizing metal-mediated nucleation and growth of GaN**|Abby Liu et.al.|[2512.15989](https://arxiv.org/abs/2512.15989)|null|
