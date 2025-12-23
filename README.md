@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
+|**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
+|**2025-12-21**|**Quantitative ultrasound imaging of bone: anatomical images, tissue structural quality, and pulsatile blood flow**|Gabrielle Laloy-Borgna et.al.|[2512.18793](https://arxiv.org/abs/2512.18793)|null|
+|**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
 |**2025-12-19**|**Semi-Supervised 3D Segmentation for Type-B Aortic Dissection with Slim UNETR**|Denis Mikhailapov et.al.|[2512.17610](https://arxiv.org/abs/2512.17610)|null|
 |**2025-12-19**|**Guided progressive reconstructive imaging: a new quantization-based framework for low-dose, high-throughput and real-time analytical ptychography**|Hoelen L. Lalandec Robert et.al.|[2512.17561](https://arxiv.org/abs/2512.17561)|null|
 |**2025-12-19**|**Comparison of two statistical image reconstruction algorithms for quantitative assessment of pathological lesions using gamma emission tomography**|A. V. Nesterova et.al.|[2512.17523](https://arxiv.org/abs/2512.17523)|null|
@@ -336,12 +340,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
 |**2025-12-18**|**Channel State Information Preprocessing for CSI-based Physical-Layer Authentication Using Reconciliation**|Atsu Kokuvi Angelo Passah et.al.|[2512.16719](https://arxiv.org/abs/2512.16719)|null|
 |**2025-12-17**|**Lifting Biomolecular Data Acquisition**|Eli N. Weinstein et.al.|[2512.15984](https://arxiv.org/abs/2512.15984)|null|
 |**2025-12-16**|**User Localization and Channel Estimation for Pinching-Antenna Systems (PASS)**|Xiaoxia Xu et.al.|[2512.14351](https://arxiv.org/abs/2512.14351)|null|
@@ -526,12 +531,17 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](https://arxiv.org/abs/2512.19676)|null|
+|**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
+|**2025-12-22**|**Regression generation adversarial network based on dual data evaluation strategy for industrial application**|Zesen Wang et.al.|[2512.19232](https://arxiv.org/abs/2512.19232)|null|
+|**2025-12-21**|**Sub-nanometer 3D morphometric precision of polarisation-resolved wide-field optical extinction microscopy determines the roundness of individual gold nanospheres**|Lukas M Payne et.al.|[2512.18696](https://arxiv.org/abs/2512.18696)|null|
+|**2025-12-21**|**Image-to-Image Translation with Generative Adversarial Network for Electrical Resistance Tomography Reconstruction**|Wejian Yan et.al.|[2512.18557](https://arxiv.org/abs/2512.18557)|null|
 |**2025-12-19**|**Inverse-Designed Phase Prediction in Digital Lasers Using Deep Learning and Transfer Learning**|Yu-Che Wu et.al.|[2512.17879](https://arxiv.org/abs/2512.17879)|null|
 |**2025-12-19**|**AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection**|Yichen Jiang et.al.|[2512.17730](https://arxiv.org/abs/2512.17730)|null|
 |**2025-12-19**|**Beyond Semantic Features: Pixel-level Mapping for Generalized AI-Generated Image Detection**|Chenming Zhou et.al.|[2512.17350](https://arxiv.org/abs/2512.17350)|null|
@@ -1218,7 +1228,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1265,5 +1275,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
