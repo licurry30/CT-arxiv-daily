@@ -1,4 +1,4 @@
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -340,7 +340,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## SVCT
 
@@ -531,12 +531,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](https://arxiv.org/abs/2512.20495)|null|
+|**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340](https://arxiv.org/abs/2512.20340)|null|
+|**2025-12-23**|**Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity**|Yuxing Gan et.al.|[2512.20291](https://arxiv.org/abs/2512.20291)|null|
+|**2025-12-23**|**HGAN-SDEs: Learning Neural Stochastic Differential Equations with Hermite-Guided Adversarial Training**|Yuanjian Xu et.al.|[2512.20272](https://arxiv.org/abs/2512.20272)|null|
+|**2025-12-23**|**FastMPS: Revisit Data Parallel in Large-scale Matrix Product State Sampling**|Yaojian Chen et.al.|[2512.20064](https://arxiv.org/abs/2512.20064)|null|
+|**2025-12-23**|**FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**|Andreas Zinonos et.al.|[2512.20033](https://arxiv.org/abs/2512.20033)|null|
+|**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](https://arxiv.org/abs/2512.20004)|null|
 |**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](https://arxiv.org/abs/2512.19676)|null|
 |**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
 |**2025-12-22**|**Regression generation adversarial network based on dual data evaluation strategy for industrial application**|Zesen Wang et.al.|[2512.19232](https://arxiv.org/abs/2512.19232)|null|
@@ -1228,7 +1235,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1275,5 +1282,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
