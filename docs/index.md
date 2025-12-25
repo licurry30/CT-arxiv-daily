@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data**|Nikita Moriakov et.al.|[2512.21180](https://arxiv.org/abs/2512.21180)|null|
 |**2025-12-22**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
 |**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
 |**2025-12-21**|**Quantitative ultrasound imaging of bone: anatomical images, tissue structural quality, and pulsatile blood flow**|Gabrielle Laloy-Borgna et.al.|[2512.18793](https://arxiv.org/abs/2512.18793)|null|
