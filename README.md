@@ -15,8 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Electrically induced ferromagnetism in an irradiated complex oxide**|Nareg Ghazikhanian et.al.|[2512.21875](https://arxiv.org/abs/2512.21875)|null|
+|**2025-12-25**|**BertsWin: Resolving Topological Sparsity in 3D Masked Autoencoders via Component-Balanced Structural Optimization**|Evgeny Alves Limarenko et.al.|[2512.21769](https://arxiv.org/abs/2512.21769)|null|
 |**2025-12-24**|**Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data**|Nikita Moriakov et.al.|[2512.21180](https://arxiv.org/abs/2512.21180)|null|
-|**2025-12-22**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
+|**2025-12-26**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
 |**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
 |**2025-12-21**|**Quantitative ultrasound imaging of bone: anatomical images, tissue structural quality, and pulsatile blood flow**|Gabrielle Laloy-Borgna et.al.|[2512.18793](https://arxiv.org/abs/2512.18793)|null|
 |**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
@@ -347,6 +349,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-25**|**Near-field Target Localization: Effect of Hardware Impairments**|Jiapeng Li et.al.|[2512.21480](https://arxiv.org/abs/2512.21480)|null|
 |**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
 |**2025-12-18**|**Channel State Information Preprocessing for CSI-based Physical-Layer Authentication Using Reconciliation**|Atsu Kokuvi Angelo Passah et.al.|[2512.16719](https://arxiv.org/abs/2512.16719)|null|
 |**2025-12-17**|**Lifting Biomolecular Data Acquisition**|Eli N. Weinstein et.al.|[2512.15984](https://arxiv.org/abs/2512.15984)|null|
@@ -538,6 +541,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting**|Shuyu Gan et.al.|[2512.22101](https://arxiv.org/abs/2512.22101)|null|
+|**2025-12-26**|**Data relativistic uncertainty framework for low-illumination anime scenery image enhancement**|Yiquan Gao et.al.|[2512.21944](https://arxiv.org/abs/2512.21944)|null|
+|**2025-12-26**|**Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs**|Yafeng Tang et.al.|[2512.21915](https://arxiv.org/abs/2512.21915)|null|
+|**2025-12-25**|**Synthetic Financial Data Generation for Enhanced Financial Modelling**|Christophe D. Hounwanou et.al.|[2512.21791](https://arxiv.org/abs/2512.21791)|null|
+|**2025-12-25**|**Inference-based GAN Video Generation**|Jingbo Yang et.al.|[2512.21776](https://arxiv.org/abs/2512.21776)|null|
+|**2025-12-25**|**Concentration-Dependent Tungsten Effects on Short-Range Order and Deformation Behavior in Ni-W alloys**|Shaozun Liu et.al.|[2512.21745](https://arxiv.org/abs/2512.21745)|null|
+|**2025-12-25**|**On-chip quadratically nonlinear photodetector**|Yu Zhang et.al.|[2512.21718](https://arxiv.org/abs/2512.21718)|null|
+|**2025-12-25**|**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**|Md. Rakibul Islam et.al.|[2512.21694](https://arxiv.org/abs/2512.21694)|null|
+|**2025-12-25**|**Dictionary-Transform Generative Adversarial Networks**|Angshul Majumdar et.al.|[2512.21677](https://arxiv.org/abs/2512.21677)|null|
+|**2025-12-25**|**Missing Pattern Tree based Decision Grouping and Ensemble for Deep Incomplete Multi-View Clustering**|Wenyuan Yang et.al.|[2512.21510](https://arxiv.org/abs/2512.21510)|null|
+|**2025-12-24**|**A Reinforcement Learning Approach to Synthetic Data Generation**|Natalia Espinosa-Dice et.al.|[2512.21395](https://arxiv.org/abs/2512.21395)|null|
+|**2025-12-24**|**Orbitally tuned composite-fermion metal-to-superfluid transitions**|Ravi Kumar et.al.|[2512.21383](https://arxiv.org/abs/2512.21383)|null|
 |**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](https://arxiv.org/abs/2512.20495)|null|
 |**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340](https://arxiv.org/abs/2512.20340)|null|
 |**2025-12-23**|**Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity**|Yuxing Gan et.al.|[2512.20291](https://arxiv.org/abs/2512.20291)|null|
@@ -545,7 +560,7 @@
 |**2025-12-23**|**FastMPS: Revisit Data Parallel in Large-scale Matrix Product State Sampling**|Yaojian Chen et.al.|[2512.20064](https://arxiv.org/abs/2512.20064)|null|
 |**2025-12-23**|**FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**|Andreas Zinonos et.al.|[2512.20033](https://arxiv.org/abs/2512.20033)|null|
 |**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](https://arxiv.org/abs/2512.20004)|null|
-|**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](https://arxiv.org/abs/2512.19676)|null|
+|**2025-12-25**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](https://arxiv.org/abs/2512.19676)|null|
 |**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
 |**2025-12-22**|**Regression generation adversarial network based on dual data evaluation strategy for industrial application**|Zesen Wang et.al.|[2512.19232](https://arxiv.org/abs/2512.19232)|null|
 |**2025-12-21**|**Sub-nanometer 3D morphometric precision of polarisation-resolved wide-field optical extinction microscopy determines the roundness of individual gold nanospheres**|Lukas M Payne et.al.|[2512.18696](https://arxiv.org/abs/2512.18696)|null|
