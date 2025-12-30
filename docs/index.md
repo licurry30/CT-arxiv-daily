@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Incorporating Tissue Composition Information in Total-Body PET Metabolic Quantification of Bone Marrow through Dual-Energy CT**|Siqi Li et.al.|[2512.23513](https://arxiv.org/abs/2512.23513)|null|
+|**2025-12-27**|**Semantic contrastive learning for orthogonal X-ray computed tomography reconstruction**|Jiashu Dong et.al.|[2512.22674](https://arxiv.org/abs/2512.22674)|null|
+|**2025-12-23**|**Fairness Evaluation of Risk Estimation Models for Lung Cancer Screening**|Shaurya Gaur et.al.|[2512.22242](https://arxiv.org/abs/2512.22242)|null|
+|**2025-12-23**|**Meta-information Guided Cross-domain Synergistic Diffusion Model for Low-dose PET Reconstruction**|Mengxiao Geng et.al.|[2512.22237](https://arxiv.org/abs/2512.22237)|null|
 |**2025-12-26**|**Electrically induced ferromagnetism in an irradiated complex oxide**|Nareg Ghazikhanian et.al.|[2512.21875](https://arxiv.org/abs/2512.21875)|null|
 |**2025-12-25**|**BertsWin: Resolving Topological Sparsity in 3D Masked Autoencoders via Component-Balanced Structural Optimization**|Evgeny Alves Limarenko et.al.|[2512.21769](https://arxiv.org/abs/2512.21769)|null|
 |**2025-12-24**|**Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data**|Nikita Moriakov et.al.|[2512.21180](https://arxiv.org/abs/2512.21180)|null|
@@ -341,6 +345,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Two-stage Respiratory Motion-resolved Radial MR Image Reconstruction Using an Interpretable Deep Unrolled Network**|Shanshan Shan et.al.|[2512.23151](https://arxiv.org/abs/2512.23151)|null|
+|**2025-12-29**|**Difference-of-Convex Elastic Net for Compressed Sensing**|Lang Yu et.al.|[2512.23134](https://arxiv.org/abs/2512.23134)|null|
+|**2025-12-27**|**Semantic contrastive learning for orthogonal X-ray computed tomography reconstruction**|Jiashu Dong et.al.|[2512.22674](https://arxiv.org/abs/2512.22674)|null|
 |**2025-12-25**|**Near-field Target Localization: Effect of Hardware Impairments**|Jiapeng Li et.al.|[2512.21480](https://arxiv.org/abs/2512.21480)|null|
 |**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
 |**2025-12-18**|**Channel State Information Preprocessing for CSI-based Physical-Layer Authentication Using Reconciliation**|Atsu Kokuvi Angelo Passah et.al.|[2512.16719](https://arxiv.org/abs/2512.16719)|null|
@@ -531,9 +538,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu et.al.|[2512.23631](https://arxiv.org/abs/2512.23631)|null|
+|**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](https://arxiv.org/abs/2512.23437)|null|
+|**2025-12-29**|**Soliton formation in a bound state in the continuum GaN waveguide polariton laser**|V. Develay et.al.|[2512.23368](https://arxiv.org/abs/2512.23368)|null|
+|**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](https://arxiv.org/abs/2512.23278)|null|
+|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](https://arxiv.org/abs/2512.23273)|null|
+|**2025-12-29**|**REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation**|Fulin Shi et.al.|[2512.23169](https://arxiv.org/abs/2512.23169)|null|
+|**2025-12-28**|**MARPO: A Reflective Policy Optimization for Multi Agent Reinforcement Learning**|Cuiling Wu et.al.|[2512.22832](https://arxiv.org/abs/2512.22832)|null|
+|**2025-12-28**|**Full-bandwidth, continuous, and grayscale 3D nanolithography via line-illumination temporal focusing of ultrafast lasers**|Qiuyuan Zhong et.al.|[2512.22746](https://arxiv.org/abs/2512.22746)|null|
+|**2025-12-27**|**Quantum Generative Models for Computational Fluid Dynamics: A First Exploration of Latent Space Learning in Lattice Boltzmann Simulations**|Achraf Hsain et.al.|[2512.22672](https://arxiv.org/abs/2512.22672)|null|
+|**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](https://arxiv.org/abs/2512.22650)|null|
+|**2025-12-27**|**CoDS: Collaborative Perception via Digital Semantic Communication**|Jipeng Gan et.al.|[2512.22513](https://arxiv.org/abs/2512.22513)|null|
+|**2025-12-27**|**Quantum-Circuit Framework for Two-Stage Stochastic Programming via QAOA Integrated with a Quantum Generative Neural Network**|Taihei Kuroiwa et.al.|[2512.22434](https://arxiv.org/abs/2512.22434)|null|
 |**2025-12-26**|**A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting**|Shuyu Gan et.al.|[2512.22101](https://arxiv.org/abs/2512.22101)|null|
 |**2025-12-26**|**Data relativistic uncertainty framework for low-illumination anime scenery image enhancement**|Yiquan Gao et.al.|[2512.21944](https://arxiv.org/abs/2512.21944)|null|
 |**2025-12-26**|**Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs**|Yafeng Tang et.al.|[2512.21915](https://arxiv.org/abs/2512.21915)|null|
+|**2025-12-29**|**Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling**|Christophe D. Hounwanou et.al.|[2512.21798](https://arxiv.org/abs/2512.21798)|null|
 |**2025-12-25**|**Synthetic Financial Data Generation for Enhanced Financial Modelling**|Christophe D. Hounwanou et.al.|[2512.21791](https://arxiv.org/abs/2512.21791)|null|
 |**2025-12-25**|**Inference-based GAN Video Generation**|Jingbo Yang et.al.|[2512.21776](https://arxiv.org/abs/2512.21776)|null|
 |**2025-12-25**|**Concentration-Dependent Tungsten Effects on Short-Range Order and Deformation Behavior in Ni-W alloys**|Shaozun Liu et.al.|[2512.21745](https://arxiv.org/abs/2512.21745)|null|
