@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Towards Interpretable AI in Personalized Medicine: A Radiological-Biological Radiomics Dictionary Connecting Semantic Lung-RADS and imaging Radiomics Features; Dictionary LC 1.0**|Ali Fathi Jouzdani et.al.|[2512.24529](https://arxiv.org/abs/2512.24529)|null|
+|**2025-12-30**|**A novel Boltzmann equation solver for calculation of dose and fluence spectra distributions for proton beam therapy**|Oleg N Vassiliev et.al.|[2512.24514](https://arxiv.org/abs/2512.24514)|null|
+|**2025-12-30**|**Virtual-Eyes: Quantitative Validation of a Lung CT Quality-Control Pipeline for Foundation-Model Cancer Risk Prediction**|Md. Enamul Hoq et.al.|[2512.24294](https://arxiv.org/abs/2512.24294)|null|
+|**2025-12-29**|**MRI-to-CT Synthesis With Cranial Suture Segmentations Using A Variational Autoencoder Framework**|Krithika Iyer et.al.|[2512.23894](https://arxiv.org/abs/2512.23894)|null|
+|**2025-12-28**|**Neural Optimal Design of Experiment for Inverse Problems**|John E. Darges et.al.|[2512.23763](https://arxiv.org/abs/2512.23763)|null|
 |**2025-12-29**|**Incorporating Tissue Composition Information in Total-Body PET Metabolic Quantification of Bone Marrow through Dual-Energy CT**|Siqi Li et.al.|[2512.23513](https://arxiv.org/abs/2512.23513)|null|
 |**2025-12-27**|**Semantic contrastive learning for orthogonal X-ray computed tomography reconstruction**|Jiashu Dong et.al.|[2512.22674](https://arxiv.org/abs/2512.22674)|null|
 |**2025-12-23**|**Fairness Evaluation of Risk Estimation Models for Lung Cancer Screening**|Shaurya Gaur et.al.|[2512.22242](https://arxiv.org/abs/2512.22242)|null|
@@ -538,12 +543,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Bounding regularity of  $\mathrm{VI}^m$ -modules**|Wee Liang Gan et.al.|[2512.25010](https://arxiv.org/abs/2512.25010)|null|
+|**2025-12-31**|**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**|Qingda Hu et.al.|[2512.24638](https://arxiv.org/abs/2512.24638)|null|
+|**2025-12-30**|**Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19**|Sina Jahromi et.al.|[2512.24214](https://arxiv.org/abs/2512.24214)|null|
+|**2025-12-29**|**Lifelong Domain Adaptive 3D Human Pose Estimation**|Qucheng Peng et.al.|[2512.23860](https://arxiv.org/abs/2512.23860)|null|
 |**2025-12-29**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu et.al.|[2512.23631](https://arxiv.org/abs/2512.23631)|null|
 |**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](https://arxiv.org/abs/2512.23437)|null|
 |**2025-12-29**|**Soliton formation in a bound state in the continuum GaN waveguide polariton laser**|V. Develay et.al.|[2512.23368](https://arxiv.org/abs/2512.23368)|null|
 |**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](https://arxiv.org/abs/2512.23278)|null|
-|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](https://arxiv.org/abs/2512.23273)|null|
+|**2025-12-30**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](https://arxiv.org/abs/2512.23273)|null|
 |**2025-12-29**|**REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation**|Fulin Shi et.al.|[2512.23169](https://arxiv.org/abs/2512.23169)|null|
+|**2025-12-30**|**Federated Multi-Task Clustering**|Suyan Dai et.al.|[2512.22897](https://arxiv.org/abs/2512.22897)|null|
 |**2025-12-28**|**MARPO: A Reflective Policy Optimization for Multi Agent Reinforcement Learning**|Cuiling Wu et.al.|[2512.22832](https://arxiv.org/abs/2512.22832)|null|
 |**2025-12-28**|**Full-bandwidth, continuous, and grayscale 3D nanolithography via line-illumination temporal focusing of ultrafast lasers**|Qiuyuan Zhong et.al.|[2512.22746](https://arxiv.org/abs/2512.22746)|null|
 |**2025-12-27**|**Quantum Generative Models for Computational Fluid Dynamics: A First Exploration of Latent Space Learning in Lattice Boltzmann Simulations**|Achraf Hsain et.al.|[2512.22672](https://arxiv.org/abs/2512.22672)|null|
