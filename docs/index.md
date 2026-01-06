@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**An Explainable Agentic AI Framework for Uncertainty-Aware and Abstention-Enabled Acute Ischemic Stroke Imaging Decisions**|Md Rashadul Islam et.al.|[2601.01008](https://arxiv.org/abs/2601.01008)|null|
+|**2026-01-01**|**Application of deep learning techniques in non-contrast computed tomography pulmonary angiogram for pulmonary embolism diagnosis**|I-Hsien Ting et.al.|[2601.00925](https://arxiv.org/abs/2601.00925)|null|
+|**2026-01-02**|**Physics-Guided Dual-Domain Plug-and-Play ADMM for Low-Dose CT Reconstruction**|Sayantan Dutta et.al.|[2601.00669](https://arxiv.org/abs/2601.00669)|null|
 |**2025-12-31**|**Towards Interpretable AI in Personalized Medicine: A Radiological-Biological Radiomics Dictionary Connecting Semantic Lung-RADS and imaging Radiomics Features; Dictionary LC 1.0**|Ali Fathi Jouzdani et.al.|[2512.24529](https://arxiv.org/abs/2512.24529)|null|
 |**2025-12-30**|**A novel Boltzmann equation solver for calculation of dose and fluence spectra distributions for proton beam therapy**|Oleg N Vassiliev et.al.|[2512.24514](https://arxiv.org/abs/2512.24514)|null|
 |**2025-12-30**|**Virtual-Eyes: Quantitative Validation of a Lung CT Quality-Control Pipeline for Foundation-Model Cancer Risk Prediction**|Md. Enamul Hoq et.al.|[2512.24294](https://arxiv.org/abs/2512.24294)|null|
@@ -23,7 +26,7 @@ layout: default
 |**2025-12-24**|**Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data**|Nikita Moriakov et.al.|[2512.21180](https://arxiv.org/abs/2512.21180)|null|
 |**2025-12-26**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
 |**2025-12-22**|**GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**|Siyuan Mei et.al.|[2512.19336](https://arxiv.org/abs/2512.19336)|null|
-|**2025-12-21**|**Quantitative ultrasound imaging of bone: anatomical images, tissue structural quality, and pulsatile blood flow**|Gabrielle Laloy-Borgna et.al.|[2512.18793](https://arxiv.org/abs/2512.18793)|null|
+|**2026-01-05**|**Quantitative ultrasound imaging of bone: anatomical images, tissue structural quality, and pulsatile blood flow**|Gabrielle Laloy-Borgna et.al.|[2512.18793](https://arxiv.org/abs/2512.18793)|null|
 |**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](https://arxiv.org/abs/2512.18161)|null|
 |**2025-12-19**|**Semi-Supervised 3D Segmentation for Type-B Aortic Dissection with Slim UNETR**|Denis Mikhailapov et.al.|[2512.17610](https://arxiv.org/abs/2512.17610)|null|
 |**2025-12-19**|**Guided progressive reconstructive imaging: a new quantization-based framework for low-dose, high-throughput and real-time analytical ptychography**|Hoelen L. Lalandec Robert et.al.|[2512.17561](https://arxiv.org/abs/2512.17561)|null|
@@ -350,6 +353,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**HyDRA: Hybrid Denoising Regularization for Measurement-Only DEQ Training**|Markus Haltmeier et.al.|[2601.01228](https://arxiv.org/abs/2601.01228)|null|
+|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](https://arxiv.org/abs/2601.01064)|null|
+|**2026-01-02**|**Physics-Guided Dual-Domain Plug-and-Play ADMM for Low-Dose CT Reconstruction**|Sayantan Dutta et.al.|[2601.00669](https://arxiv.org/abs/2601.00669)|null|
 |**2025-12-29**|**Two-stage Respiratory Motion-resolved Radial MR Image Reconstruction Using an Interpretable Deep Unrolled Network**|Shanshan Shan et.al.|[2512.23151](https://arxiv.org/abs/2512.23151)|null|
 |**2025-12-29**|**Difference-of-Convex Elastic Net for Compressed Sensing**|Lang Yu et.al.|[2512.23134](https://arxiv.org/abs/2512.23134)|null|
 |**2025-12-27**|**Semantic contrastive learning for orthogonal X-ray computed tomography reconstruction**|Jiashu Dong et.al.|[2512.22674](https://arxiv.org/abs/2512.22674)|null|
@@ -543,11 +549,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Explore the Ideology of Deep Learning in ENSO Forecasts**|Yanhai Gan et.al.|[2601.02050](https://arxiv.org/abs/2601.02050)|null|
+|**2026-01-05**|**The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups III: Proof of the main theorems**|Paul Boisseau et.al.|[2601.01738](https://arxiv.org/abs/2601.01738)|null|
+|**2026-01-05**|**Accelerating evaporative cooling of a strongly interacting Fermi gas by tilting the optical trap with a magnetic field gradient**|Bolong Jiao et.al.|[2601.01732](https://arxiv.org/abs/2601.01732)|null|
+|**2026-01-05**|**The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups II: Comparison of the relative trace formulae**|Paul Boisseau et.al.|[2601.01727](https://arxiv.org/abs/2601.01727)|null|
+|**2026-01-04**|**DiMEx: Breaking the Cold Start Barrier in Data-Free Model Extraction via Latent Diffusion Priors**|Yash Thesia et.al.|[2601.01688](https://arxiv.org/abs/2601.01688)|null|
+|**2026-01-04**|**Length-Aware Adversarial Training for Variable-Length Trajectories: Digital Twins for Mall Shopper Paths**|He Sun et.al.|[2601.01663](https://arxiv.org/abs/2601.01663)|null|
+|**2026-01-04**|**Domain Adaptation of Carotid Ultrasound Images using Generative Adversarial Network**|Mohd Usama et.al.|[2601.01460](https://arxiv.org/abs/2601.01460)|null|
+|**2026-01-04**|**Image Synthesis Using Spintronic Deep Convolutional Generative Adversarial Network**|Saumya Gupta et.al.|[2601.01441](https://arxiv.org/abs/2601.01441)|null|
+|**2026-01-04**|**Causal discovery for linear causal model with correlated noise: an Adversarial Learning Approach**|Mujin Zhou et.al.|[2601.01368](https://arxiv.org/abs/2601.01368)|null|
+|**2026-01-04**|**Advanced Machine Learning Approaches for Enhancing Person Re-Identification Performance**|Dang H. Pham et.al.|[2601.01356](https://arxiv.org/abs/2601.01356)|null|
+|**2026-01-03**|**Comparative Evaluation of VAE, GAN, and SMOTE for Tor Detection in Encrypted Network Traffic**|Saravanan A et.al.|[2601.01183](https://arxiv.org/abs/2601.01183)|null|
+|**2026-01-03**|**Out-of-Band Power Side-Channel Detection for Semiconductor Supply Chain Integrity at Scale**|Rajiv Thummala et.al.|[2601.01054](https://arxiv.org/abs/2601.01054)|null|
+|**2026-01-02**|**Peak-Nadir Encoding for Efficient CGM Data Compression and High-Fidelity Reconstruction**|Clara Bender et.al.|[2601.00608](https://arxiv.org/abs/2601.00608)|null|
+|**2026-01-01**|**DichroGAN: Towards Restoration of in-air Colours of Seafloor from Satellite Imagery**|Salma Gonzalez-Sabbagh et.al.|[2601.00194](https://arxiv.org/abs/2601.00194)|null|
+|**2026-01-01**|**SSI-GAN: Semi-Supervised Swin-Inspired Generative Adversarial Networks for Neuronal Spike Classification**|Danial Sharifrazi et.al.|[2601.00189](https://arxiv.org/abs/2601.00189)|null|
 |**2025-12-31**|**Bounding regularity of  $\mathrm{VI}^m$ -modules**|Wee Liang Gan et.al.|[2512.25010](https://arxiv.org/abs/2512.25010)|null|
 |**2025-12-31**|**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**|Qingda Hu et.al.|[2512.24638](https://arxiv.org/abs/2512.24638)|null|
 |**2025-12-30**|**Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19**|Sina Jahromi et.al.|[2512.24214](https://arxiv.org/abs/2512.24214)|null|
 |**2025-12-29**|**Lifelong Domain Adaptive 3D Human Pose Estimation**|Qucheng Peng et.al.|[2512.23860](https://arxiv.org/abs/2512.23860)|null|
-|**2025-12-29**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu et.al.|[2512.23631](https://arxiv.org/abs/2512.23631)|null|
+|**2026-01-01**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu et.al.|[2512.23631](https://arxiv.org/abs/2512.23631)|null|
 |**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](https://arxiv.org/abs/2512.23437)|null|
 |**2025-12-29**|**Soliton formation in a bound state in the continuum GaN waveguide polariton laser**|V. Develay et.al.|[2512.23368](https://arxiv.org/abs/2512.23368)|null|
 |**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](https://arxiv.org/abs/2512.23278)|null|
