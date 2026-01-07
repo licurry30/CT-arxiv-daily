@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Lesion Segmentation in FDG-PET/CT Using Swin Transformer U-Net 3D: A Robust Deep Learning Framework**|Shovini Guha et.al.|[2601.02864](https://arxiv.org/abs/2601.02864)|null|
+|**2026-01-05**|**CT Scans As Video: Efficient Intracranial Hemorrhage Detection Using Multi-Object Tracking**|Amirreza Parvahan et.al.|[2601.02521](https://arxiv.org/abs/2601.02521)|null|
+|**2025-12-25**|**Self-Supervised Masked Autoencoders with Dense-Unet for Coronary Calcium Removal in limited CT Data**|Mo Chen et.al.|[2601.02392](https://arxiv.org/abs/2601.02392)|null|
 |**2026-01-03**|**An Explainable Agentic AI Framework for Uncertainty-Aware and Abstention-Enabled Acute Ischemic Stroke Imaging Decisions**|Md Rashadul Islam et.al.|[2601.01008](https://arxiv.org/abs/2601.01008)|null|
 |**2026-01-01**|**Application of deep learning techniques in non-contrast computed tomography pulmonary angiogram for pulmonary embolism diagnosis**|I-Hsien Ting et.al.|[2601.00925](https://arxiv.org/abs/2601.00925)|null|
 |**2026-01-02**|**Physics-Guided Dual-Domain Plug-and-Play ADMM for Low-Dose CT Reconstruction**|Sayantan Dutta et.al.|[2601.00669](https://arxiv.org/abs/2601.00669)|null|
@@ -549,6 +552,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback**|Dehao Yuan et.al.|[2601.03149](https://arxiv.org/abs/2601.03149)|null|
+|**2026-01-06**|**An O(N) quasi-Ewald splitting method for nanoconfined electrostatics**|Zecheng Gan et.al.|[2601.03125](https://arxiv.org/abs/2601.03125)|null|
+|**2026-01-06**|**ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation**|Peiran Li et.al.|[2601.03121](https://arxiv.org/abs/2601.03121)|null|
+|**2026-01-06**|**Shubnikov-de Haas oscillations of two-dimensional electron gases in AlYN/GaN and AlScN/GaN heterostructures**|Yu-Hsin Chen et.al.|[2601.03022](https://arxiv.org/abs/2601.03022)|null|
+|**2026-01-06**|**ChemBART: A Pre-trained BART Model Assisting Organic Chemistry Analysis**|Kenan Li et.al.|[2601.02915](https://arxiv.org/abs/2601.02915)|null|
+|**2026-01-06**|**Beyond the Black Box: Theory and Mechanism of Large Language Models**|Zeyu Gan et.al.|[2601.02907](https://arxiv.org/abs/2601.02907)|null|
+|**2026-01-06**|**GRRE: Leveraging G-Channel Removed Reconstruction Error for Robust Detection of AI-Generated Images**|Shuman He et.al.|[2601.02709](https://arxiv.org/abs/2601.02709)|null|
 |**2026-01-05**|**Explore the Ideology of Deep Learning in ENSO Forecasts**|Yanhai Gan et.al.|[2601.02050](https://arxiv.org/abs/2601.02050)|null|
 |**2026-01-05**|**The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups III: Proof of the main theorems**|Paul Boisseau et.al.|[2601.01738](https://arxiv.org/abs/2601.01738)|null|
 |**2026-01-05**|**Accelerating evaporative cooling of a strongly interacting Fermi gas by tilting the optical trap with a magnetic field gradient**|Bolong Jiao et.al.|[2601.01732](https://arxiv.org/abs/2601.01732)|null|
