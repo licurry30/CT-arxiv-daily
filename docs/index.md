@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.07
+## Updated on 2026.01.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -19,7 +19,7 @@ layout: default
 |**2025-12-30**|**A novel Boltzmann equation solver for calculation of dose and fluence spectra distributions for proton beam therapy**|Oleg N Vassiliev et.al.|[2512.24514](https://arxiv.org/abs/2512.24514)|null|
 |**2025-12-30**|**Virtual-Eyes: Quantitative Validation of a Lung CT Quality-Control Pipeline for Foundation-Model Cancer Risk Prediction**|Md. Enamul Hoq et.al.|[2512.24294](https://arxiv.org/abs/2512.24294)|null|
 |**2025-12-29**|**MRI-to-CT Synthesis With Cranial Suture Segmentations Using A Variational Autoencoder Framework**|Krithika Iyer et.al.|[2512.23894](https://arxiv.org/abs/2512.23894)|null|
-|**2025-12-28**|**Neural Optimal Design of Experiment for Inverse Problems**|John E. Darges et.al.|[2512.23763](https://arxiv.org/abs/2512.23763)|null|
+|**2026-01-06**|**Neural Optimal Design of Experiment for Inverse Problems**|John E. Darges et.al.|[2512.23763](https://arxiv.org/abs/2512.23763)|null|
 |**2025-12-29**|**Incorporating Tissue Composition Information in Total-Body PET Metabolic Quantification of Bone Marrow through Dual-Energy CT**|Siqi Li et.al.|[2512.23513](https://arxiv.org/abs/2512.23513)|null|
 |**2025-12-27**|**Semantic contrastive learning for orthogonal X-ray computed tomography reconstruction**|Jiashu Dong et.al.|[2512.22674](https://arxiv.org/abs/2512.22674)|null|
 |**2025-12-23**|**Fairness Evaluation of Risk Estimation Models for Lung Cancer Screening**|Shaurya Gaur et.al.|[2512.22242](https://arxiv.org/abs/2512.22242)|null|
@@ -552,6 +552,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Exponential capacity scaling of classical GANs compared to hybrid latent style-based quantum GANs**|Milan Liepelt et.al.|[2601.05036](https://arxiv.org/abs/2601.05036)|null|
+|**2026-01-08**|**Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning**|Siyuan Gan et.al.|[2601.04805](https://arxiv.org/abs/2601.04805)|null|
+|**2026-01-08**|**SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning**|Xihe Qiu et.al.|[2601.04785](https://arxiv.org/abs/2601.04785)|null|
+|**2026-01-08**|**3D Conditional Image Synthesis of Left Atrial LGE MRI from Composite Semantic Masks**|Yusri Al-Sanaani et.al.|[2601.04588](https://arxiv.org/abs/2601.04588)|null|
+|**2026-01-07**|**Logic Tensor Network-Enhanced Generative Adversarial Network**|Nijesh Upreti et.al.|[2601.03839](https://arxiv.org/abs/2601.03839)|null|
+|**2026-01-06**|**Discriminating real and synthetic super-resolved audio samples using embedding-based classifiers**|Mikhail Silaev et.al.|[2601.03443](https://arxiv.org/abs/2601.03443)|null|
 |**2026-01-06**|**PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback**|Dehao Yuan et.al.|[2601.03149](https://arxiv.org/abs/2601.03149)|null|
 |**2026-01-06**|**An O(N) quasi-Ewald splitting method for nanoconfined electrostatics**|Zecheng Gan et.al.|[2601.03125](https://arxiv.org/abs/2601.03125)|null|
 |**2026-01-06**|**ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation**|Peiran Li et.al.|[2601.03121](https://arxiv.org/abs/2601.03121)|null|
