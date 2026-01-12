@@ -356,6 +356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Group-patch joint compression for highly accelerated MRI: compressing dynamic B0 and static RF spatial modulations across k-space subregion groups**|Rui Tian et.al.|[2601.05418](https://arxiv.org/abs/2601.05418)|null|
 |**2026-01-03**|**HyDRA: Hybrid Denoising Regularization for Measurement-Only DEQ Training**|Markus Haltmeier et.al.|[2601.01228](https://arxiv.org/abs/2601.01228)|null|
 |**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](https://arxiv.org/abs/2601.01064)|null|
 |**2026-01-02**|**Physics-Guided Dual-Domain Plug-and-Play ADMM for Low-Dose CT Reconstruction**|Sayantan Dutta et.al.|[2601.00669](https://arxiv.org/abs/2601.00669)|null|
@@ -552,6 +553,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Comparison of reverse current mechanisms in GaN Schottky diodes grown on sapphire versus ammonothermal GaN substrates**|B. Orfao et.al.|[2601.05958](https://arxiv.org/abs/2601.05958)|null|
+|**2026-01-09**|**On Coordinate Singularities Induced by Trapping Horizons**|Jinbo Yang et.al.|[2601.05902](https://arxiv.org/abs/2601.05902)|null|
+|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[2601.05852](https://arxiv.org/abs/2601.05852)|null|
+|**2026-01-09**|**Frascati 22 GeV Workshop Summary**|A. Accardi et.al.|[2601.05773](https://arxiv.org/abs/2601.05773)|null|
+|**2026-01-09**|**Generalizable and Adaptive Continual Learning Framework for AI-generated Image Detection**|Hanyi Wang et.al.|[2601.05580](https://arxiv.org/abs/2601.05580)|null|
 |**2026-01-08**|**Exponential capacity scaling of classical GANs compared to hybrid latent style-based quantum GANs**|Milan Liepelt et.al.|[2601.05036](https://arxiv.org/abs/2601.05036)|null|
 |**2026-01-08**|**Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning**|Siyuan Gan et.al.|[2601.04805](https://arxiv.org/abs/2601.04805)|null|
 |**2026-01-08**|**SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning**|Xihe Qiu et.al.|[2601.04785](https://arxiv.org/abs/2601.04785)|null|
