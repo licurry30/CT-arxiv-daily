@@ -1,4 +1,4 @@
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Developing Predictive and Robust Radiomics Models for Chemotherapy Response in High-Grade Serous Ovarian Carcinoma**|Sepideh Hatamikia et.al.|[2601.08455](https://arxiv.org/abs/2601.08455)|null|
+|**2026-01-13**|**Direct detection of hydrogen reveals a new macroscopic crustal water reservoir on early Mars**|Estrid Buhl Naver et.al.|[2601.08390](https://arxiv.org/abs/2601.08390)|null|
 |**2026-01-12**|**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**|Bing Yu et.al.|[2601.07499](https://arxiv.org/abs/2601.07499)|null|
 |**2026-01-12**|**On spectral properties and fast initial convergence of the Kaczmarz method**|Per Christian Hansen et.al.|[2601.07498](https://arxiv.org/abs/2601.07498)|null|
 |**2026-01-11**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
@@ -361,12 +363,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Variable-Length Wideband CSI Feedback via Loewner Interpolation and Deep Learning**|Meilin Li et.al.|[2601.08300](https://arxiv.org/abs/2601.08300)|null|
+|**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|null|
 |**2026-01-11**|**Entropy-based Thermal Sensor Placement and Temperature Reconstruction based on Adaptive Compressive Sensing Theory**|Kun-Chih et.al.|[2601.06740](https://arxiv.org/abs/2601.06740)|null|
 |**2026-01-08**|**Group-patch joint compression for highly accelerated MRI: compressing dynamic B0 and static RF spatial modulations across k-space subregion groups**|Rui Tian et.al.|[2601.05418](https://arxiv.org/abs/2601.05418)|null|
 |**2026-01-03**|**HyDRA: Hybrid Denoising Regularization for Measurement-Only DEQ Training**|Markus Haltmeier et.al.|[2601.01228](https://arxiv.org/abs/2601.01228)|null|
@@ -561,12 +565,18 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Beyond Linearization: Attributed Table Graphs for Table Reasoning**|Yuxiang Wang et.al.|[2601.08444](https://arxiv.org/abs/2601.08444)|null|
+|**2026-01-13**|**Fractional-Monolayer 2D-GaN/AlN Structures: Growth Kinetics and UVC-emitter Applications**|V. N. Jmerik et.al.|[2601.08410](https://arxiv.org/abs/2601.08410)|null|
+|**2026-01-13**|**IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks**|Ahmed A. Hashim et.al.|[2601.08332](https://arxiv.org/abs/2601.08332)|null|
+|**2026-01-13**|**A Usable GAN-Based Tool for Synthetic ECG Generation in Cardiac Amyloidosis Research**|Francesco Speziale et.al.|[2601.08260](https://arxiv.org/abs/2601.08260)|null|
+|**2026-01-13**|**Improving LLM Reasoning with Homophily-aware Structural and Semantic Text-Attributed Graph Compression**|Zijun Di et.al.|[2601.08187](https://arxiv.org/abs/2601.08187)|null|
+|**2026-01-13**|**PathoGen: Diffusion-Based Synthesis of Realistic Lesions in Histopathology Images**|Mohamad Koohi-Moghadam et.al.|[2601.08127](https://arxiv.org/abs/2601.08127)|null|
 |**2026-01-12**|**Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP**|Joseph L. Shomberg et.al.|[2601.07733](https://arxiv.org/abs/2601.07733)|null|
 |**2026-01-12**|**Advancing Multinational License Plate Recognition Through Synthetic and Real Data Fusion: A Comprehensive Evaluation**|Rayson Laroca et.al.|[2601.07671](https://arxiv.org/abs/2601.07671)|null|
 |**2026-01-12**|**Pheromone-Focused Ant Colony Optimization algorithm for path planning**|Yi Liu et.al.|[2601.07597](https://arxiv.org/abs/2601.07597)|null|
@@ -1339,7 +1349,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1386,5 +1396,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 

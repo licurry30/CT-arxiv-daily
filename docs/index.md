@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Developing Predictive and Robust Radiomics Models for Chemotherapy Response in High-Grade Serous Ovarian Carcinoma**|Sepideh Hatamikia et.al.|[2601.08455](https://arxiv.org/abs/2601.08455)|null|
+|**2026-01-13**|**Direct detection of hydrogen reveals a new macroscopic crustal water reservoir on early Mars**|Estrid Buhl Naver et.al.|[2601.08390](https://arxiv.org/abs/2601.08390)|null|
 |**2026-01-12**|**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**|Bing Yu et.al.|[2601.07499](https://arxiv.org/abs/2601.07499)|null|
 |**2026-01-12**|**On spectral properties and fast initial convergence of the Kaczmarz method**|Per Christian Hansen et.al.|[2601.07498](https://arxiv.org/abs/2601.07498)|null|
 |**2026-01-11**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
@@ -359,6 +361,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Variable-Length Wideband CSI Feedback via Loewner Interpolation and Deep Learning**|Meilin Li et.al.|[2601.08300](https://arxiv.org/abs/2601.08300)|null|
+|**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|null|
 |**2026-01-11**|**Entropy-based Thermal Sensor Placement and Temperature Reconstruction based on Adaptive Compressive Sensing Theory**|Kun-Chih et.al.|[2601.06740](https://arxiv.org/abs/2601.06740)|null|
 |**2026-01-08**|**Group-patch joint compression for highly accelerated MRI: compressing dynamic B0 and static RF spatial modulations across k-space subregion groups**|Rui Tian et.al.|[2601.05418](https://arxiv.org/abs/2601.05418)|null|
 |**2026-01-03**|**HyDRA: Hybrid Denoising Regularization for Measurement-Only DEQ Training**|Markus Haltmeier et.al.|[2601.01228](https://arxiv.org/abs/2601.01228)|null|
@@ -557,6 +561,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Beyond Linearization: Attributed Table Graphs for Table Reasoning**|Yuxiang Wang et.al.|[2601.08444](https://arxiv.org/abs/2601.08444)|null|
+|**2026-01-13**|**Fractional-Monolayer 2D-GaN/AlN Structures: Growth Kinetics and UVC-emitter Applications**|V. N. Jmerik et.al.|[2601.08410](https://arxiv.org/abs/2601.08410)|null|
+|**2026-01-13**|**IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks**|Ahmed A. Hashim et.al.|[2601.08332](https://arxiv.org/abs/2601.08332)|null|
+|**2026-01-13**|**A Usable GAN-Based Tool for Synthetic ECG Generation in Cardiac Amyloidosis Research**|Francesco Speziale et.al.|[2601.08260](https://arxiv.org/abs/2601.08260)|null|
+|**2026-01-13**|**Improving LLM Reasoning with Homophily-aware Structural and Semantic Text-Attributed Graph Compression**|Zijun Di et.al.|[2601.08187](https://arxiv.org/abs/2601.08187)|null|
+|**2026-01-13**|**PathoGen: Diffusion-Based Synthesis of Realistic Lesions in Histopathology Images**|Mohamad Koohi-Moghadam et.al.|[2601.08127](https://arxiv.org/abs/2601.08127)|null|
 |**2026-01-12**|**Backward Reconstruction of the Chafee--Infante Equation via Physics-Informed WGAN-GP**|Joseph L. Shomberg et.al.|[2601.07733](https://arxiv.org/abs/2601.07733)|null|
 |**2026-01-12**|**Advancing Multinational License Plate Recognition Through Synthetic and Real Data Fusion: A Comprehensive Evaluation**|Rayson Laroca et.al.|[2601.07671](https://arxiv.org/abs/2601.07671)|null|
 |**2026-01-12**|**Pheromone-Focused Ant Colony Optimization algorithm for path planning**|Yi Liu et.al.|[2601.07597](https://arxiv.org/abs/2601.07597)|null|
