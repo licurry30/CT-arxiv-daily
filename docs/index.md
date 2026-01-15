@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence**|Fernando Alonso-Marroquin et.al.|[2601.09283](https://arxiv.org/abs/2601.09283)|null|
+|**2026-01-14**|**Use of synthetic data for training dose estimation neural networks in CT dosimetry**|Marie-Luise Kuhlmann et.al.|[2601.09235](https://arxiv.org/abs/2601.09235)|null|
 |**2026-01-13**|**Developing Predictive and Robust Radiomics Models for Chemotherapy Response in High-Grade Serous Ovarian Carcinoma**|Sepideh Hatamikia et.al.|[2601.08455](https://arxiv.org/abs/2601.08455)|null|
 |**2026-01-13**|**Direct detection of hydrogen reveals a new macroscopic crustal water reservoir on early Mars**|Estrid Buhl Naver et.al.|[2601.08390](https://arxiv.org/abs/2601.08390)|null|
 |**2026-01-12**|**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**|Bing Yu et.al.|[2601.07499](https://arxiv.org/abs/2601.07499)|null|
@@ -561,6 +563,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**|Fahimeh Orvati Nia et.al.|[2601.09701](https://arxiv.org/abs/2601.09701)|null|
+|**2026-01-14**|**A note on toric periods in unramified families**|Alexandros Groutides et.al.|[2601.09418](https://arxiv.org/abs/2601.09418)|null|
+|**2026-01-14**|**Fourier-Jacobi models for real symplectic-metaplectic groups: the basic case**|Cheng Chen et.al.|[2601.09062](https://arxiv.org/abs/2601.09062)|null|
+|**2026-01-12**|**ForensicFormer: Hierarchical Multi-Scale Reasoning for Cross-Domain Image Forgery Detection**|Hema Hariharan Samson et.al.|[2601.08873](https://arxiv.org/abs/2601.08873)|null|
+|**2026-01-11**|**R $^2$ BD: A Reconstruction-Based Method for Generalizable and Efficient Detection of Fake Images**|Qingyu Liu et.al.|[2601.08867](https://arxiv.org/abs/2601.08867)|null|
 |**2026-01-13**|**Beyond Linearization: Attributed Table Graphs for Table Reasoning**|Yuxiang Wang et.al.|[2601.08444](https://arxiv.org/abs/2601.08444)|null|
 |**2026-01-13**|**Fractional-Monolayer 2D-GaN/AlN Structures: Growth Kinetics and UVC-emitter Applications**|V. N. Jmerik et.al.|[2601.08410](https://arxiv.org/abs/2601.08410)|null|
 |**2026-01-13**|**IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks**|Ahmed A. Hashim et.al.|[2601.08332](https://arxiv.org/abs/2601.08332)|null|
