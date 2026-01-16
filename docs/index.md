@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Handling Missing Modalities in Multimodal Survival Prediction for Non-Small Cell Lung Cancer**|Filippo Ruffini et.al.|[2601.10386](https://arxiv.org/abs/2601.10386)|null|
 |**2026-01-14**|**Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence**|Fernando Alonso-Marroquin et.al.|[2601.09283](https://arxiv.org/abs/2601.09283)|null|
 |**2026-01-14**|**Use of synthetic data for training dose estimation neural networks in CT dosimetry**|Marie-Luise Kuhlmann et.al.|[2601.09235](https://arxiv.org/abs/2601.09235)|null|
 |**2026-01-13**|**Developing Predictive and Robust Radiomics Models for Chemotherapy Response in High-Grade Serous Ovarian Carcinoma**|Sepideh Hatamikia et.al.|[2601.08455](https://arxiv.org/abs/2601.08455)|null|
 |**2026-01-13**|**Direct detection of hydrogen reveals a new macroscopic crustal water reservoir on early Mars**|Estrid Buhl Naver et.al.|[2601.08390](https://arxiv.org/abs/2601.08390)|null|
 |**2026-01-12**|**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**|Bing Yu et.al.|[2601.07499](https://arxiv.org/abs/2601.07499)|null|
 |**2026-01-12**|**On spectral properties and fast initial convergence of the Kaczmarz method**|Per Christian Hansen et.al.|[2601.07498](https://arxiv.org/abs/2601.07498)|null|
-|**2026-01-11**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
+|**2026-01-15**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
 |**2026-01-06**|**Lesion Segmentation in FDG-PET/CT Using Swin Transformer U-Net 3D: A Robust Deep Learning Framework**|Shovini Guha et.al.|[2601.02864](https://arxiv.org/abs/2601.02864)|null|
 |**2026-01-05**|**CT Scans As Video: Efficient Intracranial Hemorrhage Detection Using Multi-Object Tracking**|Amirreza Parvahan et.al.|[2601.02521](https://arxiv.org/abs/2601.02521)|null|
 |**2025-12-25**|**Self-Supervised Masked Autoencoders with Dense-Unet for Coronary Calcium Removal in limited CT Data**|Mo Chen et.al.|[2601.02392](https://arxiv.org/abs/2601.02392)|null|
@@ -363,6 +364,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Sparse Signal Recovery from Random Measurements**|Siu-Wing Cheng et.al.|[2601.10569](https://arxiv.org/abs/2601.10569)|null|
+|**2026-01-15**|**On Existence of Girth-8 QC-LDPC Code with Large Column Weight: Combining Mirror-sequence with Classification Modulo Ten**|Guohua Zhang et.al.|[2601.10170](https://arxiv.org/abs/2601.10170)|null|
 |**2026-01-13**|**Variable-Length Wideband CSI Feedback via Loewner Interpolation and Deep Learning**|Meilin Li et.al.|[2601.08300](https://arxiv.org/abs/2601.08300)|null|
 |**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|null|
 |**2026-01-11**|**Entropy-based Thermal Sensor Placement and Temperature Reconstruction based on Adaptive Compressive Sensing Theory**|Kun-Chih et.al.|[2601.06740](https://arxiv.org/abs/2601.06740)|null|
@@ -563,6 +566,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models**|Khalid Oublal et.al.|[2601.09776](https://arxiv.org/abs/2601.09776)|null|
 |**2026-01-14**|**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**|Fahimeh Orvati Nia et.al.|[2601.09701](https://arxiv.org/abs/2601.09701)|null|
 |**2026-01-14**|**A note on toric periods in unramified families**|Alexandros Groutides et.al.|[2601.09418](https://arxiv.org/abs/2601.09418)|null|
 |**2026-01-14**|**Fourier-Jacobi models for real symplectic-metaplectic groups: the basic case**|Cheng Chen et.al.|[2601.09062](https://arxiv.org/abs/2601.09062)|null|
@@ -578,7 +582,7 @@ layout: default
 |**2026-01-12**|**Advancing Multinational License Plate Recognition Through Synthetic and Real Data Fusion: A Comprehensive Evaluation**|Rayson Laroca et.al.|[2601.07671](https://arxiv.org/abs/2601.07671)|null|
 |**2026-01-12**|**Pheromone-Focused Ant Colony Optimization algorithm for path planning**|Yi Liu et.al.|[2601.07597](https://arxiv.org/abs/2601.07597)|null|
 |**2026-01-12**|**Center-Fed Pinching Antenna System (C-PASS) Aided Wireless Communications**|Xu Gan et.al.|[2601.07424](https://arxiv.org/abs/2601.07424)|null|
-|**2026-01-11**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
+|**2026-01-15**|**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2601.07093](https://arxiv.org/abs/2601.07093)|null|
 |**2026-01-11**|**Directional Selective Fixed-Filter Active Noise Control Based on a Convolutional Neural Network in Reverberant Environments**|Boxiang Wang et.al.|[2601.06981](https://arxiv.org/abs/2601.06981)|null|
 |**2026-01-11**|**V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking**|Jikai Chen et.al.|[2601.06899](https://arxiv.org/abs/2601.06899)|null|
 |**2026-01-10**|**UMLoc: Uncertainty-Aware Map-Constrained Inertial Localization with Quantified Bounds**|Mohammed S. Alharbi et.al.|[2601.06602](https://arxiv.org/abs/2601.06602)|null|
