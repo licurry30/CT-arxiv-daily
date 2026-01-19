@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Visual question answering-based image-finding generation for pulmonary nodules on chest CT from structured annotations**|Maiko Nagao et.al.|[2601.11075](https://arxiv.org/abs/2601.11075)|null|
 |**2026-01-15**|**Handling Missing Modalities in Multimodal Survival Prediction for Non-Small Cell Lung Cancer**|Filippo Ruffini et.al.|[2601.10386](https://arxiv.org/abs/2601.10386)|null|
 |**2026-01-14**|**Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence**|Fernando Alonso-Marroquin et.al.|[2601.09283](https://arxiv.org/abs/2601.09283)|null|
 |**2026-01-14**|**Use of synthetic data for training dose estimation neural networks in CT dosimetry**|Marie-Luise Kuhlmann et.al.|[2601.09235](https://arxiv.org/abs/2601.09235)|null|
@@ -372,7 +373,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-15**|**Sparse Signal Recovery from Random Measurements**|Siu-Wing Cheng et.al.|[2601.10569](https://arxiv.org/abs/2601.10569)|null|
+|**2026-01-16**|**Sparse Signal Recovery from Random Measurements**|Man Ting Wong et.al.|[2601.10569](https://arxiv.org/abs/2601.10569)|null|
 |**2026-01-15**|**On Existence of Girth-8 QC-LDPC Code with Large Column Weight: Combining Mirror-sequence with Classification Modulo Ten**|Guohua Zhang et.al.|[2601.10170](https://arxiv.org/abs/2601.10170)|null|
 |**2026-01-13**|**Variable-Length Wideband CSI Feedback via Loewner Interpolation and Deep Learning**|Meilin Li et.al.|[2601.08300](https://arxiv.org/abs/2601.08300)|null|
 |**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|null|
@@ -576,6 +577,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Controlled epitaxy of room-temperature quantum emitters in gallium nitride**|Katie M. Eggleton et.al.|[2601.11309](https://arxiv.org/abs/2601.11309)|null|
+|**2026-01-16**|**DFT modelling of stacking faults in hexagonal and cubic GaN**|Zijie Wang et.al.|[2601.11206](https://arxiv.org/abs/2601.11206)|null|
+|**2026-01-16**|**Mesoscale Modelling of Confined Split-Hopkinson Pressure Bar Tests on Concrete: Effects of Internal Damage and Strain Rates**|Qingchen Liu et.al.|[2601.11176](https://arxiv.org/abs/2601.11176)|null|
 |**2026-01-14**|**TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models**|Khalid Oublal et.al.|[2601.09776](https://arxiv.org/abs/2601.09776)|null|
 |**2026-01-14**|**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**|Fahimeh Orvati Nia et.al.|[2601.09701](https://arxiv.org/abs/2601.09701)|null|
 |**2026-01-14**|**A note on toric periods in unramified families**|Alexandros Groutides et.al.|[2601.09418](https://arxiv.org/abs/2601.09418)|null|
