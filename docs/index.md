@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**DuFal: Dual-Frequency-Aware Learning for High-Fidelity Extremely Sparse-view CBCT Reconstruction**|Cuong Tran Van et.al.|[2601.15416](https://arxiv.org/abs/2601.15416)|null|
+|**2026-01-21**|**High-Fidelity 3D Tooth Reconstruction by Fusing Intraoral Scans and CBCT Data via a Deep Implicit Representation**|Yi Zhu et.al.|[2601.15358](https://arxiv.org/abs/2601.15358)|null|
 |**2026-01-21**|**Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**|Yipeng Yin et.al.|[2601.15098](https://arxiv.org/abs/2601.15098)|null|
 |**2026-01-21**|**A combined dose and microdosimetric modeling framework incorporating volume effects correlates with tissue sparing in proton minibeam radiotherapy**|Giulio Bordieri et.al.|[2601.15073](https://arxiv.org/abs/2601.15073)|null|
 |**2026-01-21**|**Filtered 2D Contour-Based Reconstruction of 3D STL Model from CT-DICOM Images**|K. Punnam Chandar et.al.|[2601.14997](https://arxiv.org/abs/2601.14997)|null|
@@ -375,6 +377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**RIS-Aided Cooperative ISAC Network for Imaging-Based Low-Altitude Surveillance**|Zhixin Chen et.al.|[2601.16033](https://arxiv.org/abs/2601.16033)|null|
 |**2026-01-21**|**Single Pixel Imaging and Compressive Sensing: A Practical Tutorial**|Dennis Scheidt et.al.|[2601.15248](https://arxiv.org/abs/2601.15248)|null|
 |**2026-01-21**|**Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**|Yipeng Yin et.al.|[2601.15098](https://arxiv.org/abs/2601.15098)|null|
 |**2026-01-20**|**Correction of Pooling Matrix Mis-specifications in Compressed Sensing Based Group Testing**|Shuvayan Banerjee et.al.|[2601.13641](https://arxiv.org/abs/2601.13641)|null|
@@ -582,6 +585,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Interface Spin-orbit Coupling Induced Room-temperature Ferromagnetic Insulator**|Yuhao Hong et.al.|[2601.16069](https://arxiv.org/abs/2601.16069)|null|
+|**2026-01-22**|**A Stabilized Hybrid Active Noise Control Algorithm of GFANC and FxNLMS with Online Clustering**|Zhengding Luo et.al.|[2601.15889](https://arxiv.org/abs/2601.15889)|null|
+|**2026-01-22**|**Uncertainty-guided Generation of Dark-field Radiographs**|Lina Felsner et.al.|[2601.15859](https://arxiv.org/abs/2601.15859)|null|
+|**2026-01-22**|**Localized emission in MoSe $_2$  monolayers on GaN nanopillars**|Abderrahim Lamrani Alaoui et.al.|[2601.15852](https://arxiv.org/abs/2601.15852)|null|
+|**2026-01-22**|**TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing**|Toan Gian et.al.|[2601.15838](https://arxiv.org/abs/2601.15838)|null|
+|**2026-01-22**|**Consistency-Regularized GAN for Few-Shot SAR Target Recognition**|Yikui Zhai et.al.|[2601.15681](https://arxiv.org/abs/2601.15681)|null|
+|**2026-01-22**|**TempoNet: Learning Realistic Communication and Timing Patterns for Network Traffic Simulation**|Kristen Moore et.al.|[2601.15663](https://arxiv.org/abs/2601.15663)|null|
+|**2026-01-22**|**Distributed Multichannel Active Noise Control with Asynchronous Communication**|Junwei Ji et.al.|[2601.15653](https://arxiv.org/abs/2601.15653)|null|
+|**2026-01-22**|**Screening for Choice Sets**|Tan Gan et.al.|[2601.15580](https://arxiv.org/abs/2601.15580)|null|
+|**2026-01-22**|**FUGC: Benchmarking Semi-Supervised Learning Methods for Cervical Segmentation**|Jieyun Bai et.al.|[2601.15572](https://arxiv.org/abs/2601.15572)|null|
+|**2026-01-21**|**GeMM-GAN: A Multimodal Generative Model Conditioned on Histopathology Images and Clinical Descriptions for Gene Expression Profile Generation**|Francesca Pia Panaccione et.al.|[2601.15392](https://arxiv.org/abs/2601.15392)|null|
 |**2026-01-21**|**SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation**|Yanan Wang et.al.|[2601.15017](https://arxiv.org/abs/2601.15017)|null|
 |**2026-01-21**|**Semantic-Guided Unsupervised Video Summarization**|Haizhou Liu et.al.|[2601.14773](https://arxiv.org/abs/2601.14773)|null|
 |**2026-01-21**|**A comprehensive overview of deep learning models for object detection from videos/images**|Sukana Zulfqar et.al.|[2601.14677](https://arxiv.org/abs/2601.14677)|null|
