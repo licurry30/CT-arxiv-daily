@@ -385,6 +385,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Provably Learning Attention with Queries**|Satwik Bhattamishra et.al.|[2601.16873](https://arxiv.org/abs/2601.16873)|null|
+|**2026-01-23**|**DeMark: A Query-Free Black-Box Attack on Deepfake Watermarking Defenses**|Wei Song et.al.|[2601.16473](https://arxiv.org/abs/2601.16473)|null|
+|**2026-01-22**|**The Fourier Ratio: A Unifying Measure of Complexity for Recovery, Localization, and Learning**|Will Burstein et.al.|[2601.16345](https://arxiv.org/abs/2601.16345)|null|
 |**2026-01-22**|**RIS-Aided Cooperative ISAC Network for Imaging-Based Low-Altitude Surveillance**|Zhixin Chen et.al.|[2601.16033](https://arxiv.org/abs/2601.16033)|null|
 |**2026-01-21**|**Single Pixel Imaging and Compressive Sensing: A Practical Tutorial**|Dennis Scheidt et.al.|[2601.15248](https://arxiv.org/abs/2601.15248)|null|
 |**2026-01-21**|**Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**|Yipeng Yin et.al.|[2601.15098](https://arxiv.org/abs/2601.15098)|null|
@@ -595,6 +598,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**AutoRegressive Generation with B-rep Holistic Token Sequence Representation**|Jiahao Li et.al.|[2601.16771](https://arxiv.org/abs/2601.16771)|null|
+|**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Lucía Güitta-López et.al.|[2601.16677](https://arxiv.org/abs/2601.16677)|null|
+|**2026-01-23**|**How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants**|Xueyang Feng et.al.|[2601.16621](https://arxiv.org/abs/2601.16621)|null|
 |**2026-01-22**|**Interface Spin-orbit Coupling Induced Room-temperature Ferromagnetic Insulator**|Yuhao Hong et.al.|[2601.16069](https://arxiv.org/abs/2601.16069)|null|
 |**2026-01-22**|**A Stabilized Hybrid Active Noise Control Algorithm of GFANC and FxNLMS with Online Clustering**|Zhengding Luo et.al.|[2601.15889](https://arxiv.org/abs/2601.15889)|null|
 |**2026-01-22**|**Uncertainty-guided Generation of Dark-field Radiographs**|Lina Felsner et.al.|[2601.15859](https://arxiv.org/abs/2601.15859)|null|
