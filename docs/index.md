@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**LungCRCT: Causal Representation based Lung CT Processing for Lung Cancer Treatment**|Daeyoung Kim et.al.|[2601.18118](https://arxiv.org/abs/2601.18118)|null|
+|**2026-01-23**|**Benchmarking Deep Learning-Based Reconstruction Methods for Photoacoustic Computed Tomography with Clinically Relevant Synthetic Datasets**|Panpan Chen et.al.|[2601.17165](https://arxiv.org/abs/2601.17165)|null|
 |**2026-01-21**|**DuFal: Dual-Frequency-Aware Learning for High-Fidelity Extremely Sparse-view CBCT Reconstruction**|Cuong Tran Van et.al.|[2601.15416](https://arxiv.org/abs/2601.15416)|null|
 |**2026-01-21**|**High-Fidelity 3D Tooth Reconstruction by Fusing Intraoral Scans and CBCT Data via a Deep Implicit Representation**|Yi Zhu et.al.|[2601.15358](https://arxiv.org/abs/2601.15358)|null|
 |**2026-01-21**|**Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**|Yipeng Yin et.al.|[2601.15098](https://arxiv.org/abs/2601.15098)|null|
@@ -377,6 +379,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Integrated Channel Estimation and Sensing for Near-Field ELAA Systems**|Jionghui Wang et.al.|[2601.18333](https://arxiv.org/abs/2601.18333)|null|
+|**2026-01-24**|**Discretization, sampling, and the Fourier ratio**|A. Iosevich et.al.|[2601.17493](https://arxiv.org/abs/2601.17493)|null|
 |**2026-01-23**|**Provably Learning Attention with Queries**|Satwik Bhattamishra et.al.|[2601.16873](https://arxiv.org/abs/2601.16873)|null|
 |**2026-01-23**|**DeMark: A Query-Free Black-Box Attack on Deepfake Watermarking Defenses**|Wei Song et.al.|[2601.16473](https://arxiv.org/abs/2601.16473)|null|
 |**2026-01-22**|**The Fourier Ratio: A Unifying Measure of Complexity for Recovery, Localization, and Learning**|Will Burstein et.al.|[2601.16345](https://arxiv.org/abs/2601.16345)|null|
@@ -588,6 +592,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[2601.18780](https://arxiv.org/abs/2601.18780)|null|
+|**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](https://arxiv.org/abs/2601.18537)|null|
+|**2026-01-26**|**Potential of Graphene/AlGaN/GaN heterostructures to study the drag and two-stream instability effects**|A. Rehman et.al.|[2601.18369](https://arxiv.org/abs/2601.18369)|null|
+|**2026-01-25**|**VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding**|Zhihao He et.al.|[2601.17868](https://arxiv.org/abs/2601.17868)|null|
+|**2026-01-25**|**MarketGANs: Multivariate financial time-series data augmentation using generative adversarial networks**|Jeonggyu Huh et.al.|[2601.17773](https://arxiv.org/abs/2601.17773)|null|
+|**2026-01-24**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](https://arxiv.org/abs/2601.17517)|null|
+|**2026-01-24**|**Recovering Counterfactual Distributions via Wasserstein GANs**|Xinran Liu et.al.|[2601.17296](https://arxiv.org/abs/2601.17296)|null|
+|**2026-01-23**|**GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars**|Rui-Yang Ju et.al.|[2601.17088](https://arxiv.org/abs/2601.17088)|null|
 |**2026-01-23**|**AutoRegressive Generation with B-rep Holistic Token Sequence Representation**|Jiahao Li et.al.|[2601.16771](https://arxiv.org/abs/2601.16771)|null|
 |**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Lucía Güitta-López et.al.|[2601.16677](https://arxiv.org/abs/2601.16677)|null|
 |**2026-01-23**|**How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants**|Xueyang Feng et.al.|[2601.16621](https://arxiv.org/abs/2601.16621)|null|
