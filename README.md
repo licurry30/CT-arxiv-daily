@@ -1,4 +1,4 @@
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -381,7 +381,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## SVCT
 
@@ -596,12 +596,16 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**|Ajoy Biswas et.al.|[2601.19492](https://arxiv.org/abs/2601.19492)|null|
+|**2026-01-27**|**Symmetry Adapted Analysis of Screw Dislocation: Electronic Structure and Carrier Recombination Mechanisms in GaN**|Yuncheng Xie et.al.|[2601.19240](https://arxiv.org/abs/2601.19240)|null|
+|**2026-01-26**|**A Survey of Pinching-Antenna Systems (PASS)**|Yuanwei Liu et.al.|[2601.18927](https://arxiv.org/abs/2601.18927)|null|
+|**2026-01-26**|**SelfieAvatar: Real-time Head Avatar reenactment from a Selfie Video**|Wei Liang et.al.|[2601.18851](https://arxiv.org/abs/2601.18851)|null|
 |**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[2601.18780](https://arxiv.org/abs/2601.18780)|null|
 |**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](https://arxiv.org/abs/2601.18537)|null|
 |**2026-01-26**|**Potential of Graphene/AlGaN/GaN heterostructures to study the drag and two-stream instability effects**|A. Rehman et.al.|[2601.18369](https://arxiv.org/abs/2601.18369)|null|
@@ -1431,7 +1435,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1478,5 +1482,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 

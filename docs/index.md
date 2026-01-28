@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -592,6 +592,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**|Ajoy Biswas et.al.|[2601.19492](https://arxiv.org/abs/2601.19492)|null|
+|**2026-01-27**|**Symmetry Adapted Analysis of Screw Dislocation: Electronic Structure and Carrier Recombination Mechanisms in GaN**|Yuncheng Xie et.al.|[2601.19240](https://arxiv.org/abs/2601.19240)|null|
+|**2026-01-26**|**A Survey of Pinching-Antenna Systems (PASS)**|Yuanwei Liu et.al.|[2601.18927](https://arxiv.org/abs/2601.18927)|null|
+|**2026-01-26**|**SelfieAvatar: Real-time Head Avatar reenactment from a Selfie Video**|Wei Liang et.al.|[2601.18851](https://arxiv.org/abs/2601.18851)|null|
 |**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[2601.18780](https://arxiv.org/abs/2601.18780)|null|
 |**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](https://arxiv.org/abs/2601.18537)|null|
 |**2026-01-26**|**Potential of Graphene/AlGaN/GaN heterostructures to study the drag and two-stream instability effects**|A. Rehman et.al.|[2601.18369](https://arxiv.org/abs/2601.18369)|null|
