@@ -1,4 +1,4 @@
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**SegRap2025: A Benchmark of Gross Tumor Volume and Lymph Node Clinical Target Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Jia Fu et.al.|[2601.20575](https://arxiv.org/abs/2601.20575)|null|
+|**2026-01-28**|**Structure-constrained Language-informed Diffusion Model for Unpaired Low-dose Computed Tomography Angiography Reconstruction**|Genyuan Zhang et.al.|[2601.20304](https://arxiv.org/abs/2601.20304)|null|
+|**2026-01-28**|**A Learning-based Framework for Spatial Impulse Response Compensation in 3D Photoacoustic Computed Tomography**|Kaiyi Yang et.al.|[2601.20291](https://arxiv.org/abs/2601.20291)|null|
 |**2026-01-26**|**LungCRCT: Causal Representation based Lung CT Processing for Lung Cancer Treatment**|Daeyoung Kim et.al.|[2601.18118](https://arxiv.org/abs/2601.18118)|null|
 |**2026-01-23**|**Benchmarking Deep Learning-Based Reconstruction Methods for Photoacoustic Computed Tomography with Clinically Relevant Synthetic Datasets**|Panpan Chen et.al.|[2601.17165](https://arxiv.org/abs/2601.17165)|null|
 |**2026-01-21**|**DuFal: Dual-Frequency-Aware Learning for High-Fidelity Extremely Sparse-view CBCT Reconstruction**|Cuong Tran Van et.al.|[2601.15416](https://arxiv.org/abs/2601.15416)|null|
@@ -23,7 +26,7 @@
 |**2026-01-21**|**A combined dose and microdosimetric modeling framework incorporating volume effects correlates with tissue sparing in proton minibeam radiotherapy**|Giulio Bordieri et.al.|[2601.15073](https://arxiv.org/abs/2601.15073)|null|
 |**2026-01-21**|**Filtered 2D Contour-Based Reconstruction of 3D STL Model from CT-DICOM Images**|K. Punnam Chandar et.al.|[2601.14997](https://arxiv.org/abs/2601.14997)|null|
 |**2026-01-20**|**Automatic skull-template alignment without a guidance image**|Oscar Bates et.al.|[2601.14533](https://arxiv.org/abs/2601.14533)|null|
-|**2026-01-20**|**Progressive self-supervised blind-spot denoising method for LDCT denoising**|Yichao Liu et.al.|[2601.14180](https://arxiv.org/abs/2601.14180)|null|
+|**2026-01-28**|**Progressive  $\mathcal{J}$ -Invariant Self-supervised Learning for Low-Dose CT Denoising**|Yichao Liu et.al.|[2601.14180](https://arxiv.org/abs/2601.14180)|null|
 |**2026-01-19**|**Organ-Aware Attention Improves CT Triage and Classification**|Lavsen Dahal et.al.|[2601.13385](https://arxiv.org/abs/2601.13385)|null|
 |**2026-01-19**|**Discovery of Ferroelectric Twin Boundaries in a Photoactive Halide Perovskite**|Weilun Li et.al.|[2601.12892](https://arxiv.org/abs/2601.12892)|null|
 |**2026-01-19**|**A Generalist Foundation Model for Total-body PET/CT Enables Diagnostic Reporting and System-wide Metabolic Profiling**|Wei Chen et.al.|[2601.12820](https://arxiv.org/abs/2601.12820)|null|
@@ -381,7 +384,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## SVCT
 
@@ -596,12 +599,13 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**An inductive Ext non-vanishing theorem for the  $p$ -adic general linear group**|Kei Yuen Chan et.al.|[2601.20635](https://arxiv.org/abs/2601.20635)|null|
 |**2026-01-27**|**Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**|Ajoy Biswas et.al.|[2601.19492](https://arxiv.org/abs/2601.19492)|null|
 |**2026-01-27**|**Symmetry Adapted Analysis of Screw Dislocation: Electronic Structure and Carrier Recombination Mechanisms in GaN**|Yuncheng Xie et.al.|[2601.19240](https://arxiv.org/abs/2601.19240)|null|
 |**2026-01-26**|**A Survey of Pinching-Antenna Systems (PASS)**|Yuanwei Liu et.al.|[2601.18927](https://arxiv.org/abs/2601.18927)|null|
@@ -611,7 +615,7 @@
 |**2026-01-26**|**Potential of Graphene/AlGaN/GaN heterostructures to study the drag and two-stream instability effects**|A. Rehman et.al.|[2601.18369](https://arxiv.org/abs/2601.18369)|null|
 |**2026-01-25**|**VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding**|Zhihao He et.al.|[2601.17868](https://arxiv.org/abs/2601.17868)|null|
 |**2026-01-25**|**MarketGANs: Multivariate financial time-series data augmentation using generative adversarial networks**|Jeonggyu Huh et.al.|[2601.17773](https://arxiv.org/abs/2601.17773)|null|
-|**2026-01-24**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](https://arxiv.org/abs/2601.17517)|null|
+|**2026-01-27**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](https://arxiv.org/abs/2601.17517)|null|
 |**2026-01-24**|**Recovering Counterfactual Distributions via Wasserstein GANs**|Xinran Liu et.al.|[2601.17296](https://arxiv.org/abs/2601.17296)|null|
 |**2026-01-23**|**GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars**|Rui-Yang Ju et.al.|[2601.17088](https://arxiv.org/abs/2601.17088)|null|
 |**2026-01-23**|**AutoRegressive Generation with B-rep Holistic Token Sequence Representation**|Jiahao Li et.al.|[2601.16771](https://arxiv.org/abs/2601.16771)|null|
@@ -1435,7 +1439,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1482,5 +1486,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
