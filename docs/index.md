@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography**|Wenxuan Li et.al.|[2601.22134](https://arxiv.org/abs/2601.22134)|null|
+|**2026-01-29**|**Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking**|Kaito Shiku et.al.|[2601.21479](https://arxiv.org/abs/2601.21479)|null|
+|**2026-01-28**|**Low performing pixel correction in computed tomography with unrolled network and synthetic data training**|Hongxu Yang et.al.|[2601.20995](https://arxiv.org/abs/2601.20995)|null|
 |**2026-01-28**|**SegRap2025: A Benchmark of Gross Tumor Volume and Lymph Node Clinical Target Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Jia Fu et.al.|[2601.20575](https://arxiv.org/abs/2601.20575)|null|
 |**2026-01-28**|**Structure-constrained Language-informed Diffusion Model for Unpaired Low-dose Computed Tomography Angiography Reconstruction**|Genyuan Zhang et.al.|[2601.20304](https://arxiv.org/abs/2601.20304)|null|
 |**2026-01-28**|**A Learning-based Framework for Spatial Impulse Response Compensation in 3D Photoacoustic Computed Tomography**|Kaiyi Yang et.al.|[2601.20291](https://arxiv.org/abs/2601.20291)|null|
@@ -382,6 +385,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Compressed Sensing-Driven Near-Field Localization Exploiting Array of Subarrays**|Sai Pavan Deram et.al.|[2601.21481](https://arxiv.org/abs/2601.21481)|null|
 |**2026-01-26**|**Integrated Channel Estimation and Sensing for Near-Field ELAA Systems**|Jionghui Wang et.al.|[2601.18333](https://arxiv.org/abs/2601.18333)|null|
 |**2026-01-24**|**Discretization, sampling, and the Fourier ratio**|A. Iosevich et.al.|[2601.17493](https://arxiv.org/abs/2601.17493)|null|
 |**2026-01-23**|**Provably Learning Attention with Queries**|Satwik Bhattamishra et.al.|[2601.16873](https://arxiv.org/abs/2601.16873)|null|
@@ -595,15 +599,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Densities of small planets around the M dwarfs TOI-4336 A and TOI-4342 with ESPRESSO: Three sub-Neptunes, one super-Earth, and a Neptune-mass candidate**|Léna Parc et.al.|[2601.22115](https://arxiv.org/abs/2601.22115)|null|
+|**2026-01-29**|**Latent Adversarial Regularization for Offline Preference Optimization**|Enyi Jiang et.al.|[2601.22083](https://arxiv.org/abs/2601.22083)|null|
+|**2026-01-29**|**OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](https://arxiv.org/abs/2601.21770)|null|
 |**2026-01-28**|**An inductive Ext non-vanishing theorem for the  $p$ -adic general linear group**|Kei Yuen Chan et.al.|[2601.20635](https://arxiv.org/abs/2601.20635)|null|
 |**2026-01-27**|**Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**|Ajoy Biswas et.al.|[2601.19492](https://arxiv.org/abs/2601.19492)|null|
 |**2026-01-27**|**Symmetry Adapted Analysis of Screw Dislocation: Electronic Structure and Carrier Recombination Mechanisms in GaN**|Yuncheng Xie et.al.|[2601.19240](https://arxiv.org/abs/2601.19240)|null|
 |**2026-01-26**|**A Survey of Pinching-Antenna Systems (PASS)**|Yuanwei Liu et.al.|[2601.18927](https://arxiv.org/abs/2601.18927)|null|
 |**2026-01-26**|**SelfieAvatar: Real-time Head Avatar reenactment from a Selfie Video**|Wei Liang et.al.|[2601.18851](https://arxiv.org/abs/2601.18851)|null|
 |**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[2601.18780](https://arxiv.org/abs/2601.18780)|null|
-|**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](https://arxiv.org/abs/2601.18537)|null|
+|**2026-01-29**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](https://arxiv.org/abs/2601.18537)|null|
 |**2026-01-26**|**Potential of Graphene/AlGaN/GaN heterostructures to study the drag and two-stream instability effects**|A. Rehman et.al.|[2601.18369](https://arxiv.org/abs/2601.18369)|null|
-|**2026-01-25**|**VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding**|Zhihao He et.al.|[2601.17868](https://arxiv.org/abs/2601.17868)|null|
+|**2026-01-29**|**VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding**|Zhihao He et.al.|[2601.17868](https://arxiv.org/abs/2601.17868)|null|
 |**2026-01-25**|**MarketGANs: Multivariate financial time-series data augmentation using generative adversarial networks**|Jeonggyu Huh et.al.|[2601.17773](https://arxiv.org/abs/2601.17773)|null|
 |**2026-01-27**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](https://arxiv.org/abs/2601.17517)|null|
 |**2026-01-24**|**Recovering Counterfactual Distributions via Wasserstein GANs**|Xinran Liu et.al.|[2601.17296](https://arxiv.org/abs/2601.17296)|null|
