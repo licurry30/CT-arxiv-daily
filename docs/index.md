@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**DC-LA: Difference-of-Convex Langevin Algorithm**|Hoang Phuc Hau Luu et.al.|[2601.22932](https://arxiv.org/abs/2601.22932)|null|
 |**2026-01-29**|**Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography**|Wenxuan Li et.al.|[2601.22134](https://arxiv.org/abs/2601.22134)|null|
 |**2026-01-29**|**Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking**|Kaito Shiku et.al.|[2601.21479](https://arxiv.org/abs/2601.21479)|null|
 |**2026-01-28**|**Low performing pixel correction in computed tomography with unrolled network and synthetic data training**|Hongxu Yang et.al.|[2601.20995](https://arxiv.org/abs/2601.20995)|null|
@@ -385,6 +386,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Compressed BC-LISTA via Low-Rank Convolutional Decomposition**|Han Wang et.al.|[2601.23148](https://arxiv.org/abs/2601.23148)|null|
+|**2026-01-29**|**Efficient learning of logical noise from syndrome data**|Han Zheng et.al.|[2601.22286](https://arxiv.org/abs/2601.22286)|null|
+|**2026-01-29**|**Compressive Beam-Pattern-Aware Near-field Beam Training via Total Variation Denoising**|Zijun Wang et.al.|[2601.22243](https://arxiv.org/abs/2601.22243)|null|
 |**2026-01-29**|**Compressed Sensing-Driven Near-Field Localization Exploiting Array of Subarrays**|Sai Pavan Deram et.al.|[2601.21481](https://arxiv.org/abs/2601.21481)|null|
 |**2026-01-26**|**Integrated Channel Estimation and Sensing for Near-Field ELAA Systems**|Jionghui Wang et.al.|[2601.18333](https://arxiv.org/abs/2601.18333)|null|
 |**2026-01-24**|**Discretization, sampling, and the Fourier ratio**|A. Iosevich et.al.|[2601.17493](https://arxiv.org/abs/2601.17493)|null|
@@ -599,6 +603,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](https://arxiv.org/abs/2601.23238)|null|
+|**2026-01-30**|**Adaptive Edge Learning for Density-Aware Graph Generation**|Seyedeh Ava Razi Razavi et.al.|[2601.23052](https://arxiv.org/abs/2601.23052)|null|
+|**2026-01-30**|**Hydrogen at GaN(0001) surface control of Fermi level pinning: Mg activation of p-type conductivity -- Nakamura process deciphered**|Konrad Sakowski et.al.|[2601.22986](https://arxiv.org/abs/2601.22986)|null|
+|**2026-01-30**|**Synthetic Time Series Generation via Complex Networks**|Jaime Vale et.al.|[2601.22879](https://arxiv.org/abs/2601.22879)|null|
+|**2026-01-30**|**Linking Extratropical Forecast Degradation to Tropical Cyclones in Physical and AI Models**|Gan Zhang et.al.|[2601.22540](https://arxiv.org/abs/2601.22540)|null|
+|**2026-01-27**|**High-utility Sequential Rule Mining Utilizing Segmentation Guided by Confidence**|Chunkai Zhang et.al.|[2601.22179](https://arxiv.org/abs/2601.22179)|null|
+|**2026-01-27**|**Discovering High-utility Sequential Rules with Increasing Utility Ratio**|Zhenqiang Ye et.al.|[2601.22178](https://arxiv.org/abs/2601.22178)|null|
 |**2026-01-29**|**Densities of small planets around the M dwarfs TOI-4336 A and TOI-4342 with ESPRESSO: Three sub-Neptunes, one super-Earth, and a Neptune-mass candidate**|Léna Parc et.al.|[2601.22115](https://arxiv.org/abs/2601.22115)|null|
 |**2026-01-29**|**Latent Adversarial Regularization for Offline Preference Optimization**|Enyi Jiang et.al.|[2601.22083](https://arxiv.org/abs/2601.22083)|null|
 |**2026-01-29**|**OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](https://arxiv.org/abs/2601.21770)|null|
