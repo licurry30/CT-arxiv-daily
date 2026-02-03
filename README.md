@@ -1,4 +1,4 @@
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
+|**2026-02-01**|**Radioactive 3D Gaussian Ray Tracing for Tomographic Reconstruction**|Ling Chen et.al.|[2602.01057](https://arxiv.org/abs/2602.01057)|null|
+|**2026-01-30**|**Advanced Geometric Correction Algorithms for 3D Medical Reconstruction: Comparison of Computed Tomography and Macroscopic Imaging**|Tomasz Les et.al.|[2602.00220](https://arxiv.org/abs/2602.00220)|null|
+|**2026-01-30**|**Visible Singularities Guided Correlation Network for Limited-Angle CT Reconstruction**|Yiyang Wen et.al.|[2602.00184](https://arxiv.org/abs/2602.00184)|null|
 |**2026-01-30**|**DC-LA: Difference-of-Convex Langevin Algorithm**|Hoang Phuc Hau Luu et.al.|[2601.22932](https://arxiv.org/abs/2601.22932)|null|
 |**2026-01-29**|**Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography**|Wenxuan Li et.al.|[2601.22134](https://arxiv.org/abs/2601.22134)|null|
 |**2026-01-29**|**Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking**|Kaito Shiku et.al.|[2601.21479](https://arxiv.org/abs/2601.21479)|null|
@@ -388,12 +392,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
+|**2026-01-30**|**Visible Singularities Guided Correlation Network for Limited-Angle CT Reconstruction**|Yiyang Wen et.al.|[2602.00184](https://arxiv.org/abs/2602.00184)|null|
 |**2026-01-30**|**Compressed BC-LISTA via Low-Rank Convolutional Decomposition**|Han Wang et.al.|[2601.23148](https://arxiv.org/abs/2601.23148)|null|
 |**2026-01-29**|**Efficient learning of logical noise from syndrome data**|Han Zheng et.al.|[2601.22286](https://arxiv.org/abs/2601.22286)|null|
 |**2026-01-29**|**Compressive Beam-Pattern-Aware Near-field Beam Training via Total Variation Denoising**|Zijun Wang et.al.|[2601.22243](https://arxiv.org/abs/2601.22243)|null|
@@ -607,12 +613,24 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](https://arxiv.org/abs/2602.02171)|null|
+|**2026-02-02**|**Enhancing Diffusion-Based Quantitatively Controllable Image Generation via Matrix-Form EDM and Adaptive Vicinal Training**|Xin Ding et.al.|[2602.02114](https://arxiv.org/abs/2602.02114)|null|
+|**2026-02-02**|**GuideWeb: A Benchmark for Automatic In-App Guide Generation on Real-World Web UIs**|Chengguang Gan et.al.|[2602.01917](https://arxiv.org/abs/2602.01917)|null|
+|**2026-02-02**|**<SOG_k>: One LLM Token for Explicit Graph Structural Understanding**|Jingyao Wu et.al.|[2602.01771](https://arxiv.org/abs/2602.01771)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](https://arxiv.org/abs/2602.01710)|null|
+|**2026-02-01**|**TLDiffGAN: A Latent Diffusion-GAN Framework with Temporal Information Fusion for Anomalous Sound Detection**|Chengyuan Ma et.al.|[2602.01060](https://arxiv.org/abs/2602.01060)|null|
+|**2026-02-01**|**HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving**|Weizhe Tang et.al.|[2602.00993](https://arxiv.org/abs/2602.00993)|null|
+|**2026-01-31**|**Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding**|Jiamin Xu et.al.|[2602.00781](https://arxiv.org/abs/2602.00781)|null|
+|**2026-01-31**|**Supervised makeup transfer with a curated dataset: Decoupling identity and makeup features for enhanced transformation**|Qihe Pan et.al.|[2602.00729](https://arxiv.org/abs/2602.00729)|null|
+|**2026-01-31**|**On-Chip Erbium-Doped Tantalum Oxide Microring Hybrid Cavity Single-Mode Laser**|Like Shui et.al.|[2602.00695](https://arxiv.org/abs/2602.00695)|null|
+|**2026-01-31**|**Exact minimum co-degree conditions for  $\ell$ -Hamiltonicity in hypergraphs**|Luyining Gan et.al.|[2602.00605](https://arxiv.org/abs/2602.00605)|null|
+|**2026-01-30**|**Benchmarking Vanilla GAN, DCGAN, and WGAN Architectures for MRI Reconstruction: A Quantitative Analysis**|Humaira Mehwish et.al.|[2602.00221](https://arxiv.org/abs/2602.00221)|null|
 |**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](https://arxiv.org/abs/2601.23238)|null|
 |**2026-01-30**|**Adaptive Edge Learning for Density-Aware Graph Generation**|Seyedeh Ava Razi Razavi et.al.|[2601.23052](https://arxiv.org/abs/2601.23052)|null|
 |**2026-01-30**|**Hydrogen at GaN(0001) surface control of Fermi level pinning: Mg activation of p-type conductivity -- Nakamura process deciphered**|Konrad Sakowski et.al.|[2601.22986](https://arxiv.org/abs/2601.22986)|null|
@@ -621,8 +639,8 @@
 |**2026-01-27**|**High-utility Sequential Rule Mining Utilizing Segmentation Guided by Confidence**|Chunkai Zhang et.al.|[2601.22179](https://arxiv.org/abs/2601.22179)|null|
 |**2026-01-27**|**Discovering High-utility Sequential Rules with Increasing Utility Ratio**|Zhenqiang Ye et.al.|[2601.22178](https://arxiv.org/abs/2601.22178)|null|
 |**2026-01-29**|**Densities of small planets around the M dwarfs TOI-4336 A and TOI-4342 with ESPRESSO: Three sub-Neptunes, one super-Earth, and a Neptune-mass candidate**|Léna Parc et.al.|[2601.22115](https://arxiv.org/abs/2601.22115)|null|
-|**2026-01-29**|**Latent Adversarial Regularization for Offline Preference Optimization**|Enyi Jiang et.al.|[2601.22083](https://arxiv.org/abs/2601.22083)|null|
-|**2026-01-29**|**OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](https://arxiv.org/abs/2601.21770)|null|
+|**2026-02-02**|**Latent Adversarial Regularization for Offline Preference Optimization**|Enyi Jiang et.al.|[2601.22083](https://arxiv.org/abs/2601.22083)|null|
+|**2026-02-02**|**OneMall: One Architecture, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](https://arxiv.org/abs/2601.21770)|null|
 |**2026-01-28**|**An inductive Ext non-vanishing theorem for the  $p$ -adic general linear group**|Kei Yuen Chan et.al.|[2601.20635](https://arxiv.org/abs/2601.20635)|null|
 |**2026-01-27**|**Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**|Ajoy Biswas et.al.|[2601.19492](https://arxiv.org/abs/2601.19492)|null|
 |**2026-01-27**|**Symmetry Adapted Analysis of Screw Dislocation: Electronic Structure and Carrier Recombination Mechanisms in GaN**|Yuncheng Xie et.al.|[2601.19240](https://arxiv.org/abs/2601.19240)|null|
@@ -1457,7 +1475,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1504,5 +1522,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
