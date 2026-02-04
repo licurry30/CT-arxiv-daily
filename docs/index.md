@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification**|Jack Michael Solomon et.al.|[2602.02948](https://arxiv.org/abs/2602.02948)|null|
+|**2026-02-02**|**Perfusion Imaging and Single Material Reconstruction in Polychromatic Photon Counting CT**|Namhoon Kim et.al.|[2602.02713](https://arxiv.org/abs/2602.02713)|null|
+|**2026-01-30**|**Auditing Sybil: Explaining Deep Lung Cancer Risk Prediction Through Generative Interventional Attributions**|Bartlomiej Sobieski et.al.|[2602.02560](https://arxiv.org/abs/2602.02560)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
 |**2026-02-01**|**Radioactive 3D Gaussian Ray Tracing for Tomographic Reconstruction**|Ling Chen et.al.|[2602.01057](https://arxiv.org/abs/2602.01057)|null|
 |**2026-01-30**|**Advanced Geometric Correction Algorithms for 3D Medical Reconstruction: Comparison of Computed Tomography and Macroscopic Imaging**|Tomasz Les et.al.|[2602.00220](https://arxiv.org/abs/2602.00220)|null|
@@ -609,6 +612,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning**|Quanyu Long et.al.|[2602.03485](https://arxiv.org/abs/2602.03485)|null|
+|**2026-02-03**|**FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation**|Chenxi Zhang et.al.|[2602.03130](https://arxiv.org/abs/2602.03130)|null|
+|**2026-02-03**|**Inverse Design of Tunable Infrared Metasurface Absorbers via a Conditional Wasserstein Generative Adversarial Network**|H. Shen et.al.|[2602.03062](https://arxiv.org/abs/2602.03062)|null|
+|**2026-02-03**|**HP-GAN: Harnessing pretrained networks for GAN improvement with FakeTwins and discriminator consistency**|Geonhui Son et.al.|[2602.03039](https://arxiv.org/abs/2602.03039)|null|
+|**2026-02-03**|**Synthetic Data Augmentation for Medical Audio Classification: A Preliminary Evaluation**|David McShannon et.al.|[2602.02955](https://arxiv.org/abs/2602.02955)|null|
 |**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](https://arxiv.org/abs/2602.02171)|null|
 |**2026-02-02**|**Enhancing Diffusion-Based Quantitatively Controllable Image Generation via Matrix-Form EDM and Adaptive Vicinal Training**|Xin Ding et.al.|[2602.02114](https://arxiv.org/abs/2602.02114)|null|
 |**2026-02-02**|**GuideWeb: A Benchmark for Automatic In-App Guide Generation on Real-World Web UIs**|Chengguang Gan et.al.|[2602.01917](https://arxiv.org/abs/2602.01917)|null|
