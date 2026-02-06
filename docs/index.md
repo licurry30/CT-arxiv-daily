@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](https://arxiv.org/abs/2602.05812)|null|
+|**2026-02-04**|**Combination therapy for colorectal cancer with anti-PD-L1 and cancer vaccine: A multiscale mathematical model of tumor-immune interactions**|Chenghang Li et.al.|[2602.05118](https://arxiv.org/abs/2602.05118)|null|
 |**2026-02-03**|**GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction**|Yibing Wang et.al.|[2602.03893](https://arxiv.org/abs/2602.03893)|null|
 |**2026-02-03**|**Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification**|Jack Michael Solomon et.al.|[2602.02948](https://arxiv.org/abs/2602.02948)|null|
 |**2026-02-02**|**Perfusion Imaging and Single Material Reconstruction in Polychromatic Photon Counting CT**|Namhoon Kim et.al.|[2602.02713](https://arxiv.org/abs/2602.02713)|null|
@@ -394,6 +396,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](https://arxiv.org/abs/2602.05812)|null|
+|**2026-02-05**|**CoSA: Compressed Sensing-Based Adaptation of Large Language Models**|Songtao Wei et.al.|[2602.05148](https://arxiv.org/abs/2602.05148)|null|
+|**2026-02-04**|**Laterally Oscillating Trajectory for Undersampling Slices: LOTUS**|Mayuri Sothynathan et.al.|[2602.05077](https://arxiv.org/abs/2602.05077)|null|
 |**2026-02-04**|**An Information-Theoretic Detector for Multiple Scatterers in SAR Tomography**|Pia Addabbo et.al.|[2602.04465](https://arxiv.org/abs/2602.04465)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
 |**2026-01-30**|**Visible Singularities Guided Correlation Network for Limited-Angle CT Reconstruction**|Yiyang Wen et.al.|[2602.00184](https://arxiv.org/abs/2602.00184)|null|
@@ -614,12 +619,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](https://arxiv.org/abs/2602.05833)|null|
+|**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](https://arxiv.org/abs/2602.05443)|null|
 |**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](https://arxiv.org/abs/2602.04705)|null|
 |**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[2602.04307](https://arxiv.org/abs/2602.04307)|null|
 |**2026-02-03**|**Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning**|Quanyu Long et.al.|[2602.03485](https://arxiv.org/abs/2602.03485)|null|
 |**2026-02-03**|**FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation**|Chenxi Zhang et.al.|[2602.03130](https://arxiv.org/abs/2602.03130)|null|
 |**2026-02-03**|**Inverse Design of Tunable Infrared Metasurface Absorbers via a Conditional Wasserstein Generative Adversarial Network**|H. Shen et.al.|[2602.03062](https://arxiv.org/abs/2602.03062)|null|
-|**2026-02-03**|**HP-GAN: Harnessing pretrained networks for GAN improvement with FakeTwins and discriminator consistency**|Geonhui Son et.al.|[2602.03039](https://arxiv.org/abs/2602.03039)|null|
+|**2026-02-05**|**HP-GAN: Harnessing pretrained networks for GAN improvement with FakeTwins and discriminator consistency**|Geonhui Son et.al.|[2602.03039](https://arxiv.org/abs/2602.03039)|null|
 |**2026-02-03**|**Synthetic Data Augmentation for Medical Audio Classification: A Preliminary Evaluation**|David McShannon et.al.|[2602.02955](https://arxiv.org/abs/2602.02955)|null|
 |**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](https://arxiv.org/abs/2602.02171)|null|
 |**2026-02-02**|**Enhancing Diffusion-Based Quantitatively Controllable Image Generation via Matrix-Form EDM and Adaptive Vicinal Training**|Xin Ding et.al.|[2602.02114](https://arxiv.org/abs/2602.02114)|null|
