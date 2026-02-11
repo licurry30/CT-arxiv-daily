@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -23,7 +23,7 @@ layout: default
 |**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](https://arxiv.org/abs/2602.05812)|null|
 |**2026-02-04**|**Combination therapy for colorectal cancer with anti-PD-L1 and cancer vaccine: A multiscale mathematical model of tumor-immune interactions**|Chenghang Li et.al.|[2602.05118](https://arxiv.org/abs/2602.05118)|null|
 |**2026-02-03**|**GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction**|Yibing Wang et.al.|[2602.03893](https://arxiv.org/abs/2602.03893)|null|
-|**2026-02-03**|**Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification**|Jack Michael Solomon et.al.|[2602.02948](https://arxiv.org/abs/2602.02948)|null|
+|**2026-02-10**|**Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification**|Jack Michael Solomon et.al.|[2602.02948](https://arxiv.org/abs/2602.02948)|null|
 |**2026-02-02**|**Perfusion Imaging and Single Material Reconstruction in Polychromatic Photon Counting CT**|Namhoon Kim et.al.|[2602.02713](https://arxiv.org/abs/2602.02713)|null|
 |**2026-01-30**|**Auditing Sybil: Explaining Deep Lung Cancer Risk Prediction Through Generative Interventional Attributions**|Bartlomiej Sobieski et.al.|[2602.02560](https://arxiv.org/abs/2602.02560)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
@@ -407,8 +407,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Digital-Twin-Aided Dynamic Spectrum Sharing and Resource Management in Integrated Satellite-Terrestrial Networks**|Hung Nguyen-Kha et.al.|[2602.09191](https://arxiv.org/abs/2602.09191)|null|
 |**2026-02-08**|**FSP-Diff: Full-Spectrum Prior-Enhanced DualDomain Latent Diffusion for Ultra-Low-Dose Spectral CT Reconstruction**|Peng Peng et.al.|[2602.07979](https://arxiv.org/abs/2602.07979)|null|
-|**2026-02-08**|**Deep learning based Channel Estimation and Beamforming in Movable Antenna Systems**|Kaijun Feng et.al.|[2602.07870](https://arxiv.org/abs/2602.07870)|null|
+|**2026-02-10**|**Deep learning based Channel Estimation and Beamforming in Movable Antenna Systems**|Kaijun Feng et.al.|[2602.07870](https://arxiv.org/abs/2602.07870)|null|
 |**2026-02-08**|**Compressed Sensing Methods for Memory Reduction in Monte Carlo Simulations**|Ethan Lame et.al.|[2602.07771](https://arxiv.org/abs/2602.07771)|null|
 |**2026-02-04**|**MTS-CSNet: Multiscale Tensor Factorization for Deep Compressive Sensing on RGB Images**|Mehmet Yamac et.al.|[2602.07056](https://arxiv.org/abs/2602.07056)|null|
 |**2026-02-05**|**Adaptive Sparse Möbius Transforms for Learning Polynomials**|Yigit Efe Erginbas et.al.|[2602.06246](https://arxiv.org/abs/2602.06246)|null|
@@ -419,7 +420,7 @@ layout: default
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
 |**2026-01-30**|**Visible Singularities Guided Correlation Network for Limited-Angle CT Reconstruction**|Yiyang Wen et.al.|[2602.00184](https://arxiv.org/abs/2602.00184)|null|
 |**2026-01-30**|**Compressed BC-LISTA via Low-Rank Convolutional Decomposition**|Han Wang et.al.|[2601.23148](https://arxiv.org/abs/2601.23148)|null|
-|**2026-01-29**|**Efficient learning of logical noise from syndrome data**|Han Zheng et.al.|[2601.22286](https://arxiv.org/abs/2601.22286)|null|
+|**2026-02-10**|**Efficient learning of logical noise from syndrome data**|Han Zheng et.al.|[2601.22286](https://arxiv.org/abs/2601.22286)|null|
 |**2026-01-29**|**Compressive Beam-Pattern-Aware Near-field Beam Training via Total Variation Denoising**|Zijun Wang et.al.|[2601.22243](https://arxiv.org/abs/2601.22243)|null|
 |**2026-01-29**|**Compressed Sensing-Driven Near-Field Localization Exploiting Array of Subarrays**|Sai Pavan Deram et.al.|[2601.21481](https://arxiv.org/abs/2601.21481)|null|
 |**2026-01-26**|**Integrated Channel Estimation and Sensing for Near-Field ELAA Systems**|Jionghui Wang et.al.|[2601.18333](https://arxiv.org/abs/2601.18333)|null|
@@ -635,8 +636,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](https://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning**|Zixuan Wang et.al.|[2602.09972](https://arxiv.org/abs/2602.09972)|null|
+|**2026-02-10**|**MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation**|Jiaxu Wang et.al.|[2602.09878](https://arxiv.org/abs/2602.09878)|null|
+|**2026-02-10**|**Measuring Privacy Risks and Tradeoffs in Financial Synthetic Data Generation**|Michael Zuo et.al.|[2602.09288](https://arxiv.org/abs/2602.09288)|null|
+|**2026-02-09**|**One RNG to Rule Them All: How Randomness Becomes an Attack Vector in Machine Learning**|Kotekar Annapoorna Prabhu et.al.|[2602.09182](https://arxiv.org/abs/2602.09182)|null|
 |**2026-02-09**|**Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[2602.08815](https://arxiv.org/abs/2602.08815)|null|
-|**2026-02-09**|**ALIVE: Animate Your World with Lifelike Audio-Video Generation**|Ying Guo et.al.|[2602.08682](https://arxiv.org/abs/2602.08682)|null|
+|**2026-02-10**|**ALIVE: Animate Your World with Lifelike Audio-Video Generation**|Ying Guo et.al.|[2602.08682](https://arxiv.org/abs/2602.08682)|null|
 |**2026-02-09**|**QARM V2: Quantitative Alignment Multi-Modal Recommendation for Reasoning User Sequence Modeling**|Tian Xia et.al.|[2602.08559](https://arxiv.org/abs/2602.08559)|null|
 |**2026-02-09**|**Coupling between CaWO $_4$  phonons and Er $^{3+}$  dopants**|Mikhael T. Sayat et.al.|[2602.08525](https://arxiv.org/abs/2602.08525)|null|
 |**2026-02-09**|**A Unified Framework for Multimodal Image Reconstruction and Synthesis using Denoising Diffusion Models**|Weijie Gan et.al.|[2602.08249](https://arxiv.org/abs/2602.08249)|null|
