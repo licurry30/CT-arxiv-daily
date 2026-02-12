@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**A Diffusion-Based Generative Prior Approach to Sparse-view Computed Tomography**|Davide Evangelista et.al.|[2602.10722](https://arxiv.org/abs/2602.10722)|null|
+|**2026-02-10**|**Comp2Comp: Open-Source Software with FDA-Cleared Artificial Intelligence Algorithms for Computed Tomography Image Analysis**|Adrit Rao et.al.|[2602.10364](https://arxiv.org/abs/2602.10364)|null|
 |**2026-02-09**|**Hidden in-plane long-range order in an amorphized crystal**|Yin Chen et.al.|[2602.08551](https://arxiv.org/abs/2602.08551)|null|
 |**2026-02-09**|**Trajectory Stitching for Solving Inverse Problems with Flow-Based Models**|Alexander Denker et.al.|[2602.08538](https://arxiv.org/abs/2602.08538)|null|
 |**2026-02-09**|**Mixing properties of bi-disperse ellipsoid assemblies: Mean-field behaviour in a granular matter experiment**|F. M. Schaller et.al.|[2602.08250](https://arxiv.org/abs/2602.08250)|null|
@@ -636,6 +638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**TESS planets in known radial velocity cold Jupiter systems: Hot super Earth occurrence is enhanced by cold Jupiters**|Quanyi Liu et.al.|[2602.11017](https://arxiv.org/abs/2602.11017)|null|
+|**2026-02-11**|**Rising Multi-Armed Bandits with Known Horizons**|Seockbean Song et.al.|[2602.10727](https://arxiv.org/abs/2602.10727)|null|
 |**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](https://arxiv.org/abs/2602.10016)|null|
 |**2026-02-10**|**Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning**|Zixuan Wang et.al.|[2602.09972](https://arxiv.org/abs/2602.09972)|null|
 |**2026-02-10**|**MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation**|Jiaxu Wang et.al.|[2602.09878](https://arxiv.org/abs/2602.09878)|null|
