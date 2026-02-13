@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](https://arxiv.org/abs/2602.11705)|null|
+|**2026-02-12**|**GR-Diffusion: 3D Gaussian Representation Meets Diffusion in Whole-Body PET Reconstruction**|Mengxiao Geng et.al.|[2602.11653](https://arxiv.org/abs/2602.11653)|null|
+|**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](https://arxiv.org/abs/2602.11625)|null|
+|**2026-02-12**|**Supervise-assisted Multi-modality Fusion Diffusion Model for PET Restoration**|Yingkai Zhang et.al.|[2602.11545](https://arxiv.org/abs/2602.11545)|null|
+|**2026-02-11**|**Fighting MRI Anisotropy: Learning Multiple Cardiac Shapes From a Single Implicit Neural Representation**|Carolina Brás et.al.|[2602.11436](https://arxiv.org/abs/2602.11436)|null|
 |**2026-02-11**|**A Diffusion-Based Generative Prior Approach to Sparse-view Computed Tomography**|Davide Evangelista et.al.|[2602.10722](https://arxiv.org/abs/2602.10722)|null|
 |**2026-02-10**|**Comp2Comp: Open-Source Software with FDA-Cleared Artificial Intelligence Algorithms for Computed Tomography Image Analysis**|Adrit Rao et.al.|[2602.10364](https://arxiv.org/abs/2602.10364)|null|
 |**2026-02-09**|**Hidden in-plane long-range order in an amorphized crystal**|Yin Chen et.al.|[2602.08551](https://arxiv.org/abs/2602.08551)|null|
@@ -409,6 +414,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](https://arxiv.org/abs/2602.11705)|null|
+|**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](https://arxiv.org/abs/2602.11625)|null|
+|**2026-02-11**|**How Many Features Can a Language Model Store Under the Linear Representation Hypothesis?**|Nikhil Garg et.al.|[2602.11246](https://arxiv.org/abs/2602.11246)|null|
 |**2026-02-09**|**Digital-Twin-Aided Dynamic Spectrum Sharing and Resource Management in Integrated Satellite-Terrestrial Networks**|Hung Nguyen-Kha et.al.|[2602.09191](https://arxiv.org/abs/2602.09191)|null|
 |**2026-02-08**|**FSP-Diff: Full-Spectrum Prior-Enhanced DualDomain Latent Diffusion for Ultra-Low-Dose Spectral CT Reconstruction**|Peng Peng et.al.|[2602.07979](https://arxiv.org/abs/2602.07979)|null|
 |**2026-02-10**|**Deep learning based Channel Estimation and Beamforming in Movable Antenna Systems**|Kaijun Feng et.al.|[2602.07870](https://arxiv.org/abs/2602.07870)|null|
@@ -416,7 +424,7 @@ layout: default
 |**2026-02-04**|**MTS-CSNet: Multiscale Tensor Factorization for Deep Compressive Sensing on RGB Images**|Mehmet Yamac et.al.|[2602.07056](https://arxiv.org/abs/2602.07056)|null|
 |**2026-02-05**|**Adaptive Sparse Möbius Transforms for Learning Polynomials**|Yigit Efe Erginbas et.al.|[2602.06246](https://arxiv.org/abs/2602.06246)|null|
 |**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](https://arxiv.org/abs/2602.05812)|null|
-|**2026-02-05**|**CoSA: Compressed Sensing-Based Adaptation of Large Language Models**|Songtao Wei et.al.|[2602.05148](https://arxiv.org/abs/2602.05148)|null|
+|**2026-02-11**|**CoSA: Compressed Sensing-Based Adaptation of Large Language Models**|Songtao Wei et.al.|[2602.05148](https://arxiv.org/abs/2602.05148)|null|
 |**2026-02-04**|**Laterally Oscillating Trajectory for Undersampling Slices: LOTUS**|Mayuri Sothynathan et.al.|[2602.05077](https://arxiv.org/abs/2602.05077)|null|
 |**2026-02-04**|**An Information-Theoretic Detector for Multiple Scatterers in SAR Tomography**|Pia Addabbo et.al.|[2602.04465](https://arxiv.org/abs/2602.04465)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](https://arxiv.org/abs/2602.02356)|null|
@@ -638,6 +646,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](https://arxiv.org/abs/2602.12088)|null|
+|**2026-02-12**|**Low-Energy, Octave-Spanning Supercontinuum Generation in Ta_2O_5 Waveguides: Towards Optical Coherence Metrology**|Yanyan Zhang et.al.|[2602.11659](https://arxiv.org/abs/2602.11659)|null|
+|**2026-02-12**|**Epitaxial Growth and Anomalous Hall Effect in High-Quality Altermagnetic  $α$ -MnTe Thin Films**|Tian-Hao Shao et.al.|[2602.11645](https://arxiv.org/abs/2602.11645)|null|
+|**2026-02-12**|**SemaPop: Semantic-Persona Conditioned Population Synthesis**|Zhenlin Qin et.al.|[2602.11569](https://arxiv.org/abs/2602.11569)|null|
+|**2026-02-12**|**Perception-based Image Denoising via Generative Compression**|Nam Nguyen et.al.|[2602.11553](https://arxiv.org/abs/2602.11553)|null|
+|**2026-02-12**|**Estimation of Electrical Characteristics of Complex Walls Using Deep Neural Networks**|Kainat Yasmeen et.al.|[2602.11463](https://arxiv.org/abs/2602.11463)|null|
+|**2026-02-11**|**ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control**|Ziyan Xiong et.al.|[2602.11321](https://arxiv.org/abs/2602.11321)|null|
+|**2026-02-11**|**Hierarchical Testing of a Hybrid Machine Learning-Physics Global Atmosphere Model**|Ziming Chen et.al.|[2602.11313](https://arxiv.org/abs/2602.11313)|null|
 |**2026-02-11**|**TESS planets in known radial velocity cold Jupiter systems: Hot super Earth occurrence is enhanced by cold Jupiters**|Quanyi Liu et.al.|[2602.11017](https://arxiv.org/abs/2602.11017)|null|
 |**2026-02-11**|**Rising Multi-Armed Bandits with Known Horizons**|Seockbean Song et.al.|[2602.10727](https://arxiv.org/abs/2602.10727)|null|
 |**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](https://arxiv.org/abs/2602.10016)|null|
