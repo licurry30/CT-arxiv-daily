@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Comparative Study of Ultrasound Shape Completion and CBCT-Based AR Workflows for Spinal Needle Interventions**|Tianyu Song et.al.|[2602.12920](https://arxiv.org/abs/2602.12920)|null|
+|**2026-02-13**|**Ultrasound-Guided Real-Time Spinal Motion Visualization for Spinal Instability Assessment**|Feng Li et.al.|[2602.12917](https://arxiv.org/abs/2602.12917)|null|
+|**2026-02-13**|**Towards reconstructing experimental sparse-view X-ray CT data with diffusion models**|Nelas J. Thomsen et.al.|[2602.12755](https://arxiv.org/abs/2602.12755)|null|
+|**2026-02-09**|**Maximum-Likelihood--Based Position Decoding of Laser Processed Converging Pixel CsI: Tl Detectors for High-Resolution SPECT**|Xi Zhang et.al.|[2602.12298](https://arxiv.org/abs/2602.12298)|null|
 |**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](https://arxiv.org/abs/2602.11705)|null|
 |**2026-02-12**|**GR-Diffusion: 3D Gaussian Representation Meets Diffusion in Whole-Body PET Reconstruction**|Mengxiao Geng et.al.|[2602.11653](https://arxiv.org/abs/2602.11653)|null|
 |**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](https://arxiv.org/abs/2602.11625)|null|
@@ -414,6 +418,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Towards reconstructing experimental sparse-view X-ray CT data with diffusion models**|Nelas J. Thomsen et.al.|[2602.12755](https://arxiv.org/abs/2602.12755)|null|
+|**2026-02-13**|**Compressed Sensing Shadow Tomography**|Joseph Barreto et.al.|[2602.12518](https://arxiv.org/abs/2602.12518)|null|
 |**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](https://arxiv.org/abs/2602.11705)|null|
 |**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](https://arxiv.org/abs/2602.11625)|null|
 |**2026-02-11**|**How Many Features Can a Language Model Store Under the Linear Representation Hypothesis?**|Nikhil Garg et.al.|[2602.11246](https://arxiv.org/abs/2602.11246)|null|
@@ -646,6 +652,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Beyond Benchmarks of IUGC: Rethinking Requirements of Deep Learning Methods for Intrapartum Ultrasound Biometry from Fetal Ultrasound Videos**|Jieyun Bai et.al.|[2602.12922](https://arxiv.org/abs/2602.12922)|null|
+|**2026-02-13**|**Dependence of the Mn sticking coefficient on Ga-rich, N-rich, and Ga/N-flux-free conditions in GaN grown by plasma-assisted molecular beam epitaxy**|YongJin Cho et.al.|[2602.12882](https://arxiv.org/abs/2602.12882)|null|
+|**2026-02-13**|**QTabGAN: A Hybrid Quantum-Classical GAN for Tabular Data Synthesis**|Subhangi Kumari et.al.|[2602.12704](https://arxiv.org/abs/2602.12704)|null|
+|**2026-02-12**|**Synthetic Image Detection with CLIP: Understanding and Assessing Predictive Cues**|Marco Willi et.al.|[2602.12381](https://arxiv.org/abs/2602.12381)|null|
+|**2026-02-12**|**Deep Doubly Debiased Longitudinal Effect Estimation with ICE G-Computation**|Wenxin Chen et.al.|[2602.12379](https://arxiv.org/abs/2602.12379)|null|
 |**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](https://arxiv.org/abs/2602.12088)|null|
 |**2026-02-12**|**Low-Energy, Octave-Spanning Supercontinuum Generation in Ta_2O_5 Waveguides: Towards Optical Coherence Metrology**|Yanyan Zhang et.al.|[2602.11659](https://arxiv.org/abs/2602.11659)|null|
 |**2026-02-12**|**Epitaxial Growth and Anomalous Hall Effect in High-Quality Altermagnetic  $α$ -MnTe Thin Films**|Tian-Hao Shao et.al.|[2602.11645](https://arxiv.org/abs/2602.11645)|null|
@@ -655,7 +666,7 @@ layout: default
 |**2026-02-11**|**ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control**|Ziyan Xiong et.al.|[2602.11321](https://arxiv.org/abs/2602.11321)|null|
 |**2026-02-11**|**Hierarchical Testing of a Hybrid Machine Learning-Physics Global Atmosphere Model**|Ziming Chen et.al.|[2602.11313](https://arxiv.org/abs/2602.11313)|null|
 |**2026-02-11**|**TESS planets in known radial velocity cold Jupiter systems: Hot super Earth occurrence is enhanced by cold Jupiters**|Quanyi Liu et.al.|[2602.11017](https://arxiv.org/abs/2602.11017)|null|
-|**2026-02-11**|**Rising Multi-Armed Bandits with Known Horizons**|Seockbean Song et.al.|[2602.10727](https://arxiv.org/abs/2602.10727)|null|
+|**2026-02-13**|**Rising Multi-Armed Bandits with Known Horizons**|Seockbean Song et.al.|[2602.10727](https://arxiv.org/abs/2602.10727)|null|
 |**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](https://arxiv.org/abs/2602.10016)|null|
 |**2026-02-10**|**Hydra-Nav: Object Navigation via Adaptive Dual-Process Reasoning**|Zixuan Wang et.al.|[2602.09972](https://arxiv.org/abs/2602.09972)|null|
 |**2026-02-10**|**MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation**|Jiaxu Wang et.al.|[2602.09878](https://arxiv.org/abs/2602.09878)|null|
