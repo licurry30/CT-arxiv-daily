@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**StrokeNeXt: A Siamese-encoder Approach for Brain Stroke Classification in Computed Tomography Imagery**|Leo Thomas Ramos et.al.|[2602.15087](https://arxiv.org/abs/2602.15087)|null|
 |**2026-02-16**|**CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography**|Qingqing Zhu et.al.|[2602.14879](https://arxiv.org/abs/2602.14879)|null|
 |**2026-02-16**|**Deep Image Prior for Computed Tomography Reconstruction**|Simon Arridge et.al.|[2602.14709](https://arxiv.org/abs/2602.14709)|null|
 |**2026-02-15**|**Complex Wavelet-Based Sinogram Segmentation for Metal Artifact Reduction in Cone-Beam CT**|Siiri Rautio et.al.|[2602.14315](https://arxiv.org/abs/2602.14315)|null|
@@ -657,6 +658,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Latent Regularization in Generative Test Input Generation**|Giorgi Merabishvili et.al.|[2602.15552](https://arxiv.org/abs/2602.15552)|null|
+|**2026-02-17**|**Fine-Refine: Iterative Fine-grained Refinement for Mitigating Dialogue Hallucination**|Xiangyan Chen et.al.|[2602.15509](https://arxiv.org/abs/2602.15509)|null|
+|**2026-02-17**|**Enhancing Diversity and Feasibility: Joint Population Synthesis from Multi-source Data Using Generative Models**|Farbod Abbasi et.al.|[2602.15270](https://arxiv.org/abs/2602.15270)|null|
 |**2026-02-16**|**PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement**|Yian Wang et.al.|[2602.14968](https://arxiv.org/abs/2602.14968)|null|
 |**2026-02-16**|**Relative Character Asymptotics Beyond Stability for  $\mathrm{PGL}_2 \times \mathrm{GL}_1$ **|Trajan Hammonds et.al.|[2602.14845](https://arxiv.org/abs/2602.14845)|null|
 |**2026-02-16**|**Center-Fed Pinching Antenna System (C-PASS): Modeling, Analysis, and Beamforming Design**|Xu Gan et.al.|[2602.14805](https://arxiv.org/abs/2602.14805)|null|
