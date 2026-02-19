@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Tianwei Lin et.al.|[2602.16110](https://arxiv.org/abs/2602.16110)|null|
+|**2026-02-17**|**ROIX-Comp: Optimizing X-ray Computed Tomography Imaging Strategy for Data Reduction and Reconstruction**|Amarjit Singh et.al.|[2602.15917](https://arxiv.org/abs/2602.15917)|null|
 |**2026-02-16**|**StrokeNeXt: A Siamese-encoder Approach for Brain Stroke Classification in Computed Tomography Imagery**|Leo Thomas Ramos et.al.|[2602.15087](https://arxiv.org/abs/2602.15087)|null|
 |**2026-02-16**|**CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography**|Qingqing Zhu et.al.|[2602.14879](https://arxiv.org/abs/2602.14879)|null|
 |**2026-02-16**|**Deep Image Prior for Computed Tomography Reconstruction**|Simon Arridge et.al.|[2602.14709](https://arxiv.org/abs/2602.14709)|null|
@@ -658,6 +660,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens**|Potsawee Manakul et.al.|[2602.16687](https://arxiv.org/abs/2602.16687)|null|
+|**2026-02-17**|**Entanglement-assisted Hamiltonian dynamics learning**|Ayaka Usui et.al.|[2602.15931](https://arxiv.org/abs/2602.15931)|null|
 |**2026-02-17**|**Latent Regularization in Generative Test Input Generation**|Giorgi Merabishvili et.al.|[2602.15552](https://arxiv.org/abs/2602.15552)|null|
 |**2026-02-17**|**Fine-Refine: Iterative Fine-grained Refinement for Mitigating Dialogue Hallucination**|Xiangyan Chen et.al.|[2602.15509](https://arxiv.org/abs/2602.15509)|null|
 |**2026-02-17**|**Enhancing Diversity and Feasibility: Joint Population Synthesis from Multi-source Data Using Generative Models**|Farbod Abbasi et.al.|[2602.15270](https://arxiv.org/abs/2602.15270)|null|
