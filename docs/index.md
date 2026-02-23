@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Hybrid ABBA-GMRES for Unmatched Backprojectors in Large Scale X-Ray Computerized Tomography**|Ryan Bentley et.al.|[2602.17892](https://arxiv.org/abs/2602.17892)|null|
+|**2026-02-19**|**TopoGate: Quality-Aware Topology-Stabilized Gated Fusion for Longitudinal Low-Dose CT New-Lesion Prediction**|Seungik Cho et.al.|[2602.17855](https://arxiv.org/abs/2602.17855)|null|
 |**2026-02-19**|**Gaussian surrogates do well on Poisson inverse problems**|Alexandra Spitzer et.al.|[2602.17274](https://arxiv.org/abs/2602.17274)|null|
 |**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Tianwei Lin et.al.|[2602.16110](https://arxiv.org/abs/2602.16110)|null|
 |**2026-02-17**|**ROIX-Comp: Optimizing X-ray Computed Tomography Imaging Strategy for Data Reduction and Reconstruction**|Amarjit Singh et.al.|[2602.15917](https://arxiv.org/abs/2602.15917)|null|
@@ -662,6 +664,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**A stochastic simulation of the dislocation-mediated etching of porous GaN distributed Bragg reflectors**|Piotr Sokolinski et.al.|[2602.18336](https://arxiv.org/abs/2602.18336)|null|
+|**2026-02-20**|**Generative Model via Quantile Assignment**|Georgi Hrusanov et.al.|[2602.18216](https://arxiv.org/abs/2602.18216)|null|
+|**2026-02-20**|**Interactions that reshape the interfaces of the interacting parties**|David I. Spivak et.al.|[2602.17917](https://arxiv.org/abs/2602.17917)|null|
+|**2026-02-20**|**Efficient Filtered-ANN via Learning-based Query Planning**|Zhuocheng Gan et.al.|[2602.17914](https://arxiv.org/abs/2602.17914)|null|
+|**2026-02-19**|**Financial time series augmentation using transformer based GAN architecture**|Andrzej Podobiński et.al.|[2602.17865](https://arxiv.org/abs/2602.17865)|null|
 |**2026-02-19**|**Physics Encoded Spatial and Temporal Generative Adversarial Network for Tropical Cyclone Image Super-resolution**|Ruoyi Zhang et.al.|[2602.17277](https://arxiv.org/abs/2602.17277)|null|
 |**2026-02-19**|**Synergizing Transport-Based Generative Models and Latent Geometry for Stochastic Closure Modeling**|Xinghao Dong et.al.|[2602.17089](https://arxiv.org/abs/2602.17089)|null|
 |**2026-02-18**|**Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens**|Potsawee Manakul et.al.|[2602.16687](https://arxiv.org/abs/2602.16687)|null|
