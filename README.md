@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Comparing Implicit Neural Representations and B-Splines for Continuous Function Fitting from Sparse Samples**|Hongze Yu et.al.|[2602.20535](https://arxiv.org/abs/2602.20535)|null|
+|**2026-02-23**|**Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images**|Wen-Liang Lin et.al.|[2602.19891](https://arxiv.org/abs/2602.19891)|null|
+|**2026-02-23**|**A Green Learning Approach to LDCT Image Restoration**|Wei Wang et.al.|[2602.19540](https://arxiv.org/abs/2602.19540)|null|
+|**2026-02-22**|**IPv2: An Improved Image Purification Strategy for Real-World Ultra-Low-Dose Lung CT Denoising**|Guoliang Gong et.al.|[2602.19314](https://arxiv.org/abs/2602.19314)|null|
+|**2026-02-20**|**Sparse Dictionary-Based Solution of Dynamic Inverse Problems**|Aidan Mason-Mackay et.al.|[2602.18593](https://arxiv.org/abs/2602.18593)|null|
+|**2026-02-20**|**DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction**|Jiayang Shi et.al.|[2602.18589](https://arxiv.org/abs/2602.18589)|null|
+|**2026-02-20**|**Triggering hallucinations in model-based MRI reconstruction via adversarial perturbations**|Suna Buğday et.al.|[2602.18536](https://arxiv.org/abs/2602.18536)|null|
+|**2026-02-17**|**Scaling Ultrasound Volumetric Reconstruction via Mobile Augmented Reality**|Kian Wei Ng et.al.|[2602.18500](https://arxiv.org/abs/2602.18500)|null|
 |**2026-02-19**|**Hybrid ABBA-GMRES for Unmatched Backprojectors in Large Scale X-Ray Computerized Tomography**|Ryan Bentley et.al.|[2602.17892](https://arxiv.org/abs/2602.17892)|null|
 |**2026-02-19**|**TopoGate: Quality-Aware Topology-Stabilized Gated Fusion for Longitudinal Low-Dose CT New-Lesion Prediction**|Seungik Cho et.al.|[2602.17855](https://arxiv.org/abs/2602.17855)|null|
 |**2026-02-19**|**Gaussian surrogates do well on Poisson inverse problems**|Alexandra Spitzer et.al.|[2602.17274](https://arxiv.org/abs/2602.17274)|null|
@@ -22,7 +30,7 @@
 |**2026-02-17**|**ROIX-Comp: Optimizing X-ray Computed Tomography Imaging Strategy for Data Reduction and Reconstruction**|Amarjit Singh et.al.|[2602.15917](https://arxiv.org/abs/2602.15917)|null|
 |**2026-02-16**|**StrokeNeXt: A Siamese-encoder Approach for Brain Stroke Classification in Computed Tomography Imagery**|Leo Thomas Ramos et.al.|[2602.15087](https://arxiv.org/abs/2602.15087)|null|
 |**2026-02-19**|**CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography**|Qingqing Zhu et.al.|[2602.14879](https://arxiv.org/abs/2602.14879)|null|
-|**2026-02-16**|**Deep Image Prior for Computed Tomography Reconstruction**|Simon Arridge et.al.|[2602.14709](https://arxiv.org/abs/2602.14709)|null|
+|**2026-02-23**|**Deep Image Prior for Computed Tomography Reconstruction**|Simon Arridge et.al.|[2602.14709](https://arxiv.org/abs/2602.14709)|null|
 |**2026-02-15**|**Complex Wavelet-Based Sinogram Segmentation for Metal Artifact Reduction in Cone-Beam CT**|Siiri Rautio et.al.|[2602.14315](https://arxiv.org/abs/2602.14315)|null|
 |**2026-02-14**|**KorMedMCQA-V: A Multimodal Benchmark for Evaluating Vision-Language Models on the Korean Medical Licensing Examination**|Byungjin Choi et.al.|[2602.13650](https://arxiv.org/abs/2602.13650)|null|
 |**2026-02-13**|**Comparative Study of Ultrasound Shape Completion and CBCT-Based AR Workflows for Spinal Needle Interventions**|Tianyu Song et.al.|[2602.12920](https://arxiv.org/abs/2602.12920)|null|
@@ -430,12 +438,16 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**GSNR: Graph Smooth Null-Space Representation for Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2602.20328](https://arxiv.org/abs/2602.20328)|null|
+|**2026-02-21**|**Deep LoRA-Unfolding Networks for Image Restoration**|Xiangming Wang et.al.|[2602.18697](https://arxiv.org/abs/2602.18697)|null|
+|**2026-02-20**|**Sparse Dictionary-Based Solution of Dynamic Inverse Problems**|Aidan Mason-Mackay et.al.|[2602.18593](https://arxiv.org/abs/2602.18593)|null|
+|**2026-02-20**|**DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction**|Jiayang Shi et.al.|[2602.18589](https://arxiv.org/abs/2602.18589)|null|
 |**2026-02-19**|**Failure Detection for Pinching-Antenna Systems**|Chongjun Ouyang et.al.|[2602.17257](https://arxiv.org/abs/2602.17257)|null|
 |**2026-02-16**|**Online Architecture Search for Compressed Sensing based on Hypergradient Descent**|Ayano Nakai-Kasai et.al.|[2602.14411](https://arxiv.org/abs/2602.14411)|null|
 |**2026-02-13**|**Towards reconstructing experimental sparse-view X-ray CT data with diffusion models**|Nelas J. Thomsen et.al.|[2602.12755](https://arxiv.org/abs/2602.12755)|null|
@@ -668,12 +680,29 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Accessibility of doping ranges of semiconductors by terahertz spectroscopy**|Joshua Hennig et.al.|[2602.21094](https://arxiv.org/abs/2602.21094)|null|
+|**2026-02-24**|**Generative Deep Learning for the Two-Dimensional Quantum Rotor Model**|Yanyang Wang et.al.|[2602.20772](https://arxiv.org/abs/2602.20772)|null|
+|**2026-02-24**|**Deep unfolding of MCMC kernels: scalable, modular & explainable GANs for high-dimensional posterior sampling**|Jonathan Spence et.al.|[2602.20758](https://arxiv.org/abs/2602.20758)|null|
+|**2026-02-24**|**VINA: Variational Invertible Neural Architectures**|Shubhanshu Shekhar et.al.|[2602.20480](https://arxiv.org/abs/2602.20480)|null|
+|**2026-02-23**|**Two-spin-multiplexed optoacoustic light storage in chiral photonic crystal fiber**|Xinglin Zeng et.al.|[2602.20024](https://arxiv.org/abs/2602.20024)|null|
+|**2026-02-23**|**Test-beam results from MiniCACTUS-v2: A depleted monolithic CMOS timing sensor prototype**|Y. Degerli et.al.|[2602.19890](https://arxiv.org/abs/2602.19890)|null|
+|**2026-02-23**|**DTT-BSR: GAN-based DTTNet with RoPE Transformer Enhancement for Music Source Restoration**|Shihong Tan et.al.|[2602.19825](https://arxiv.org/abs/2602.19825)|null|
+|**2026-02-23**|**InfScene-SR: Spatially Continuous Inference for Arbitrary-Size Image Super-Resolution**|Shoukun Sun et.al.|[2602.19736](https://arxiv.org/abs/2602.19736)|null|
+|**2026-02-23**|**CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning**|Chunlei Meng et.al.|[2602.19605](https://arxiv.org/abs/2602.19605)|null|
+|**2026-02-23**|**Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis**|Chunlei Meng et.al.|[2602.19585](https://arxiv.org/abs/2602.19585)|null|
+|**2026-02-21**|**PCA-VAE: Differentiable Subspace Quantization without Codebook Collapse**|Hao Lu et.al.|[2602.18904](https://arxiv.org/abs/2602.18904)|null|
+|**2026-02-21**|**Beyond Stationarity: Rethinking Codebook Collapse in Vector Quantization**|Hao Lu et.al.|[2602.18896](https://arxiv.org/abs/2602.18896)|null|
+|**2026-02-21**|**Enhancing 3D LiDAR Segmentation by Shaping Dense and Accurate 2D Semantic Predictions**|Xiaoyu Dong et.al.|[2602.18869](https://arxiv.org/abs/2602.18869)|null|
+|**2026-02-21**|**Multi-Channel Speech Enhancement for Cocktail Party Speech Emotion Recognition**|Youjun Chen et.al.|[2602.18802](https://arxiv.org/abs/2602.18802)|null|
+|**2026-02-21**|**RadioGen3D: 3D Radio Map Generation via Adversarial Learning on Large-Scale Synthetic Data**|Junshen Chen et.al.|[2602.18744](https://arxiv.org/abs/2602.18744)|null|
+|**2026-02-21**|**Extremely Low Thermal Resistance Architectures for AlxGaN1-x Semiconductor Devices**|Kidus Guye et.al.|[2602.18736](https://arxiv.org/abs/2602.18736)|null|
+|**2026-02-20**|**Do Generative Metrics Predict YOLO Performance? An Evaluation Across Models, Augmentation Ratios, and Dataset Complexity**|Vasile Marian et.al.|[2602.18525](https://arxiv.org/abs/2602.18525)|null|
 |**2026-02-20**|**A stochastic simulation of the dislocation-mediated etching of porous GaN distributed Bragg reflectors**|Piotr Sokolinski et.al.|[2602.18336](https://arxiv.org/abs/2602.18336)|null|
 |**2026-02-20**|**Generative Model via Quantile Assignment**|Georgi Hrusanov et.al.|[2602.18216](https://arxiv.org/abs/2602.18216)|null|
 |**2026-02-20**|**Interactions that reshape the interfaces of the interacting parties**|David I. Spivak et.al.|[2602.17917](https://arxiv.org/abs/2602.17917)|null|
@@ -1596,12 +1625,13 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Diffusion in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction**|Jiayang Shi et.al.|[2602.18589](https://arxiv.org/abs/2602.18589)|null|
 |**2025-11-24**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](https://arxiv.org/abs/2511.17068)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](https://arxiv.org/abs/2511.14680)|null|
 |**2025-11-18**|**Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model**|Jiancheng Fang et.al.|[2511.14310](https://arxiv.org/abs/2511.14310)|null|
@@ -1643,5 +1673,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
