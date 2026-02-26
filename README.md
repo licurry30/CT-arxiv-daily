@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,7 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-24**|**Comparing Implicit Neural Representations and B-Splines for Continuous Function Fitting from Sparse Samples**|Hongze Yu et.al.|[2602.20535](https://arxiv.org/abs/2602.20535)|null|
+|**2026-02-25**|**MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining**|Yuetan Chu et.al.|[2602.22143](https://arxiv.org/abs/2602.22143)|null|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](https://arxiv.org/abs/2602.21987)|null|
+|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[2602.21935](https://arxiv.org/abs/2602.21935)|null|
+|**2026-02-25**|**SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning**|Jiayi Wang et.al.|[2602.21735](https://arxiv.org/abs/2602.21735)|null|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](https://arxiv.org/abs/2602.21636)|null|
+|**2026-02-25**|**Comparing Implicit Neural Representations and B-Splines for Continuous Function Fitting from Sparse Samples**|Hongze Yu et.al.|[2602.20535](https://arxiv.org/abs/2602.20535)|null|
 |**2026-02-23**|**Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images**|Wen-Liang Lin et.al.|[2602.19891](https://arxiv.org/abs/2602.19891)|null|
 |**2026-02-23**|**A Green Learning Approach to LDCT Image Restoration**|Wei Wang et.al.|[2602.19540](https://arxiv.org/abs/2602.19540)|null|
 |**2026-02-22**|**IPv2: An Improved Image Purification Strategy for Real-World Ultra-Low-Dose Lung CT Denoising**|Guoliang Gong et.al.|[2602.19314](https://arxiv.org/abs/2602.19314)|null|
@@ -438,12 +443,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Analyzing URA Geometry for Enhanced Near-Field Beamfocusing and Spatial Degrees of Freedom**|Ahmed Hussain et.al.|[2602.21927](https://arxiv.org/abs/2602.21927)|null|
 |**2026-02-23**|**GSNR: Graph Smooth Null-Space Representation for Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2602.20328](https://arxiv.org/abs/2602.20328)|null|
 |**2026-02-21**|**Deep LoRA-Unfolding Networks for Image Restoration**|Xiangming Wang et.al.|[2602.18697](https://arxiv.org/abs/2602.18697)|null|
 |**2026-02-20**|**Sparse Dictionary-Based Solution of Dynamic Inverse Problems**|Aidan Mason-Mackay et.al.|[2602.18593](https://arxiv.org/abs/2602.18593)|null|
@@ -680,12 +686,16 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](https://arxiv.org/abs/2602.21987)|null|
+|**2026-02-25**|**Bayesian Generative Adversarial Networks via Gaussian Approximation for Tabular Data Synthesis**|Bahrul Ilmi Nasution et.al.|[2602.21948](https://arxiv.org/abs/2602.21948)|null|
+|**2026-02-25**|**RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms**|Mohamed Abdelmaksoud et.al.|[2602.21766](https://arxiv.org/abs/2602.21766)|null|
+|**2026-02-25**|**Measuring elastic properties of granular hydrogels: Effects of capillary interaction and ionic conditions**|Jiayin Zhao et.al.|[2602.21457](https://arxiv.org/abs/2602.21457)|null|
 |**2026-02-24**|**Accessibility of doping ranges of semiconductors by terahertz spectroscopy**|Joshua Hennig et.al.|[2602.21094](https://arxiv.org/abs/2602.21094)|null|
 |**2026-02-24**|**Generative Deep Learning for the Two-Dimensional Quantum Rotor Model**|Yanyang Wang et.al.|[2602.20772](https://arxiv.org/abs/2602.20772)|null|
 |**2026-02-24**|**Deep unfolding of MCMC kernels: scalable, modular & explainable GANs for high-dimensional posterior sampling**|Jonathan Spence et.al.|[2602.20758](https://arxiv.org/abs/2602.20758)|null|
@@ -1625,7 +1635,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1673,5 +1683,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
