@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**HARU-Net: Hybrid Attention Residual U-Net for Edge-Preserving Denoising in Cone-Beam Computed Tomography**|Khuram Naveed et.al.|[2602.22544](https://arxiv.org/abs/2602.22544)|null|
 |**2026-02-25**|**MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining**|Yuetan Chu et.al.|[2602.22143](https://arxiv.org/abs/2602.22143)|null|
 |**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](https://arxiv.org/abs/2602.21987)|null|
 |**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[2602.21935](https://arxiv.org/abs/2602.21935)|null|
@@ -682,6 +683,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**A Proper Scoring Rule for Virtual Staining**|Samuel Tonks et.al.|[2602.23305](https://arxiv.org/abs/2602.23305)|null|
+|**2026-02-26**|**The Axion-Photon Mixing and the Extragalactic Magnetic Background: Plateau Regimes, Resonances, and Non-Gaussian Boosts**|Andrea Addazi et.al.|[2602.23249](https://arxiv.org/abs/2602.23249)|null|
+|**2026-02-25**|**mmWave Radar Aware Dual-Conditioned GAN for Speech Reconstruction of Signals With Low SNR**|Jash Karani et.al.|[2602.22431](https://arxiv.org/abs/2602.22431)|null|
 |**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](https://arxiv.org/abs/2602.21987)|null|
 |**2026-02-25**|**Bayesian Generative Adversarial Networks via Gaussian Approximation for Tabular Data Synthesis**|Bahrul Ilmi Nasution et.al.|[2602.21948](https://arxiv.org/abs/2602.21948)|null|
 |**2026-02-25**|**RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms**|Mohamed Abdelmaksoud et.al.|[2602.21766](https://arxiv.org/abs/2602.21766)|null|
