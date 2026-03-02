@@ -442,6 +442,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Channel Estimation for Beyond Diagonal RIS Exploiting Core Tensor Sparsity**|Daniel Costa Araújo et.al.|[2602.24150](https://arxiv.org/abs/2602.24150)|null|
 |**2026-02-25**|**Analyzing URA Geometry for Enhanced Near-Field Beamfocusing and Spatial Degrees of Freedom**|Ahmed Hussain et.al.|[2602.21927](https://arxiv.org/abs/2602.21927)|null|
 |**2026-02-23**|**GSNR: Graph Smooth Null-Space Representation for Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2602.20328](https://arxiv.org/abs/2602.20328)|null|
 |**2026-02-21**|**Deep LoRA-Unfolding Networks for Image Restoration**|Xiangming Wang et.al.|[2602.18697](https://arxiv.org/abs/2602.18697)|null|
@@ -683,6 +684,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**High sub-bandgap response and fast switching enabled by thermal quenching in carbon-doped semi-insulating GaN**|Jiahao Dong et.al.|[2602.23644](https://arxiv.org/abs/2602.23644)|null|
 |**2026-02-26**|**A Proper Scoring Rule for Virtual Staining**|Samuel Tonks et.al.|[2602.23305](https://arxiv.org/abs/2602.23305)|null|
 |**2026-02-26**|**The Axion-Photon Mixing and the Extragalactic Magnetic Background: Plateau Regimes, Resonances, and Non-Gaussian Boosts**|Andrea Addazi et.al.|[2602.23249](https://arxiv.org/abs/2602.23249)|null|
 |**2026-02-25**|**mmWave Radar Aware Dual-Conditioned GAN for Speech Reconstruction of Signals With Low SNR**|Jash Karani et.al.|[2602.22431](https://arxiv.org/abs/2602.22431)|null|
