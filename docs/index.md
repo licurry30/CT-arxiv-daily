@@ -2,13 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](https://arxiv.org/abs/2603.02149)|null|
+|**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](https://arxiv.org/abs/2603.02012)|null|
+|**2026-03-02**|**CTForensics: A Comprehensive Dataset and Method for AI-Generated CT Image Detection**|Yiheng Li et.al.|[2603.01878](https://arxiv.org/abs/2603.01878)|null|
+|**2026-03-01**|**Cross-Modal Guidance for Fast Diffusion-Based Computed Tomography**|Timofey Efimov et.al.|[2603.01253](https://arxiv.org/abs/2603.01253)|null|
+|**2026-02-28**|**Stroke outcome and evolution prediction from CT brain using a spatiotemporal diffusion autoencoder**|Adam Marcus et.al.|[2603.00756](https://arxiv.org/abs/2603.00756)|null|
+|**2026-02-28**|**SCOUT: Fast Spectral CT Imaging in Ultra LOw-data Regimes via PseUdo-label GeneraTion**|Guoquan Wei et.al.|[2603.00687](https://arxiv.org/abs/2603.00687)|null|
+|**2026-02-27**|**DiffSOS: Acoustic Conditional Diffusion Model for Speed-of-Sound Reconstruction in Ultrasound Computed Tomography**|Yujia Wu et.al.|[2603.00382](https://arxiv.org/abs/2603.00382)|null|
+|**2026-02-27**|**Unsupervised Semantic Segmentation in Synchrotron Computed Tomography with Self-Correcting Pseudo Labels**|Austin Yunker et.al.|[2603.00372](https://arxiv.org/abs/2603.00372)|null|
+|**2026-02-27**|**Efficient Flow Matching for Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2603.00205](https://arxiv.org/abs/2603.00205)|null|
+|**2026-02-25**|**BiCLIP: Bidirectional and Consistent Language-Image Processing for Robust Medical Image Segmentation**|Saivan Talaei et.al.|[2603.00156](https://arxiv.org/abs/2603.00156)|null|
+|**2026-02-23**|**Segmenting Low-Contrast XCTs of Concretes: An Unsupervised Approach**|Kaustav Das et.al.|[2603.00127](https://arxiv.org/abs/2603.00127)|null|
 |**2026-02-26**|**HARU-Net: Hybrid Attention Residual U-Net for Edge-Preserving Denoising in Cone-Beam Computed Tomography**|Khuram Naveed et.al.|[2602.22544](https://arxiv.org/abs/2602.22544)|null|
 |**2026-02-25**|**MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining**|Yuetan Chu et.al.|[2602.22143](https://arxiv.org/abs/2602.22143)|null|
 |**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](https://arxiv.org/abs/2602.21987)|null|
@@ -442,6 +453,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-28**|**FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation**|Fabian Scheidt et.al.|[2603.00633](https://arxiv.org/abs/2603.00633)|null|
+|**2026-02-27**|**Efficient Flow Matching for Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2603.00205](https://arxiv.org/abs/2603.00205)|null|
 |**2026-02-27**|**Channel Estimation for Beyond Diagonal RIS Exploiting Core Tensor Sparsity**|Daniel Costa Araújo et.al.|[2602.24150](https://arxiv.org/abs/2602.24150)|null|
 |**2026-02-25**|**Analyzing URA Geometry for Enhanced Near-Field Beamfocusing and Spatial Degrees of Freedom**|Ahmed Hussain et.al.|[2602.21927](https://arxiv.org/abs/2602.21927)|null|
 |**2026-02-23**|**GSNR: Graph Smooth Null-Space Representation for Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2602.20328](https://arxiv.org/abs/2602.20328)|null|
@@ -684,6 +697,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[2603.02063](https://arxiv.org/abs/2603.02063)|null|
+|**2026-03-02**|**CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data**|Amir Asiaee et.al.|[2603.02015](https://arxiv.org/abs/2603.02015)|null|
+|**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](https://arxiv.org/abs/2603.02012)|null|
+|**2026-03-02**|**Large scale mapping of [CI] and the [CI]-to-CO transition in  $ρ$  Ophiuchus molecular cloud**|Jifeng Xia et.al.|[2603.01955](https://arxiv.org/abs/2603.01955)|null|
+|**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](https://arxiv.org/abs/2603.01686)|null|
+|**2026-03-02**|**Learning Structured Reasoning via Tractable Trajectory Control**|Po-Nien Kung et.al.|[2603.01641](https://arxiv.org/abs/2603.01641)|null|
+|**2026-03-02**|**Autoregressive Synthesis of Sparse and Semi-Structured Mixed-Type Data**|Thomas Rückstieß et.al.|[2603.01444](https://arxiv.org/abs/2603.01444)|null|
+|**2026-03-01**|**GuiDINO: Rethinking Vision Foundation Model in Medical Image Segmentation**|Zhuonan Liang et.al.|[2603.01115](https://arxiv.org/abs/2603.01115)|null|
+|**2026-02-28**|**AIoT-based Continuous, Contextualized, and Explainable Driving Assessment for Older Adults**|Yimeng Liu et.al.|[2603.00691](https://arxiv.org/abs/2603.00691)|null|
+|**2026-02-28**|**A Noval Monte Carlo Gradient Method Based on Meta-learning for Effective Step-size Selection in Active Noise Control**|Luyuan Li et.al.|[2603.00508](https://arxiv.org/abs/2603.00508)|null|
+|**2026-02-28**|**Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling**|Xueyang Li et.al.|[2603.00439](https://arxiv.org/abs/2603.00439)|null|
+|**2026-02-27**|**Scaling Quantum Machine Learning without Tricks: High-Resolution and Diverse Image Generation**|Jonas Jäger et.al.|[2603.00233](https://arxiv.org/abs/2603.00233)|null|
+|**2026-02-27**|**Physical Evaluation of Naturalistic Adversarial Patches for Camera-Based Traffic-Sign Detection**|Brianna D'Urso et.al.|[2603.00217](https://arxiv.org/abs/2603.00217)|null|
+|**2026-02-27**|**Optimisation of SOUP-GAN and CSR-GAN for High Resolution MR Images Reconstruction**|Muneeba Rashid et.al.|[2603.00204](https://arxiv.org/abs/2603.00204)|null|
 |**2026-02-27**|**High sub-bandgap response and fast switching enabled by thermal quenching in carbon-doped semi-insulating GaN**|Jiahao Dong et.al.|[2602.23644](https://arxiv.org/abs/2602.23644)|null|
 |**2026-02-26**|**A Proper Scoring Rule for Virtual Staining**|Samuel Tonks et.al.|[2602.23305](https://arxiv.org/abs/2602.23305)|null|
 |**2026-02-26**|**The Axion-Photon Mixing and the Extragalactic Magnetic Background: Plateau Regimes, Resonances, and Non-Gaussian Boosts**|Andrea Addazi et.al.|[2602.23249](https://arxiv.org/abs/2602.23249)|null|
