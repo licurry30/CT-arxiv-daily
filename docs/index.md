@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -453,6 +453,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](https://arxiv.org/abs/2603.03196)|null|
+|**2026-03-03**|**ReCo-Diff: Residual-Conditioned Deterministic Sampling for Cold Diffusion in Sparse-View CT**|Yong Eun Choi et.al.|[2603.02691](https://arxiv.org/abs/2603.02691)|null|
 |**2026-02-28**|**FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation**|Fabian Scheidt et.al.|[2603.00633](https://arxiv.org/abs/2603.00633)|null|
 |**2026-02-27**|**Efficient Flow Matching for Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2603.00205](https://arxiv.org/abs/2603.00205)|null|
 |**2026-02-27**|**Channel Estimation for Beyond Diagonal RIS Exploiting Core Tensor Sparsity**|Daniel Costa Araújo et.al.|[2602.24150](https://arxiv.org/abs/2602.24150)|null|
@@ -697,6 +699,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](https://arxiv.org/abs/2603.03125)|null|
+|**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](https://arxiv.org/abs/2603.03067)|null|
 |**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[2603.02063](https://arxiv.org/abs/2603.02063)|null|
 |**2026-03-02**|**CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data**|Amir Asiaee et.al.|[2603.02015](https://arxiv.org/abs/2603.02015)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](https://arxiv.org/abs/2603.02012)|null|
