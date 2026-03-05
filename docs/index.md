@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Dose-Dependent Cardiac Complexity Changes in Children Following Prenatal Glucocorticoid Exposure: Complementary Evidence from Multiscale Entropy Analysis and ECG Foundation Models**|Nicolas B. Garnier et.al.|[2603.04074](https://arxiv.org/abs/2603.04074)|null|
 |**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](https://arxiv.org/abs/2603.02149)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](https://arxiv.org/abs/2603.02012)|null|
 |**2026-03-02**|**CTForensics: A Comprehensive Dataset and Method for AI-Generated CT Image Detection**|Yiheng Li et.al.|[2603.01878](https://arxiv.org/abs/2603.01878)|null|
@@ -453,6 +454,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**The Pivotal Information Criterion**|Sylvain Sardy et.al.|[2603.04172](https://arxiv.org/abs/2603.04172)|null|
+|**2026-02-11**|**Compressed Sensing for Capability Localization in Large Language Models**|Anna Bair et.al.|[2603.03335](https://arxiv.org/abs/2603.03335)|null|
 |**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](https://arxiv.org/abs/2603.03196)|null|
 |**2026-03-03**|**ReCo-Diff: Residual-Conditioned Deterministic Sampling for Cold Diffusion in Sparse-View CT**|Yong Eun Choi et.al.|[2603.02691](https://arxiv.org/abs/2603.02691)|null|
 |**2026-02-28**|**FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation**|Fabian Scheidt et.al.|[2603.00633](https://arxiv.org/abs/2603.00633)|null|
@@ -699,6 +702,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**FastWave: Optimized Diffusion Model for Audio Super-Resolution**|Nikita Kuznetsov et.al.|[2603.04122](https://arxiv.org/abs/2603.04122)|null|
+|**2026-03-04**|**Multi-Stage Music Source Restoration with BandSplit-RoFormer Separation and HiFi++ GAN**|Tobias Morocutti et.al.|[2603.04032](https://arxiv.org/abs/2603.04032)|null|
+|**2026-03-04**|**Dielectric Barrier Corona Discharge Anomaly by Ionic Wind under Unipolar Voltage Excitation**|Gan Fu et.al.|[2603.03986](https://arxiv.org/abs/2603.03986)|null|
+|**2026-03-04**|**MLOps-Assisted Anomalous Reflector Metasurfaces Design Based on Red Hat OpenShift AI**|Wael Elshennawy et.al.|[2603.03981](https://arxiv.org/abs/2603.03981)|null|
+|**2026-03-04**|**Transmit Pinching-Antenna Systems (T-PASS): Connecting Wired to Wireless Communications**|Deqiao Gan et.al.|[2603.03809](https://arxiv.org/abs/2603.03809)|null|
+|**2026-03-04**|**DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation**|Tuan Duc Ngo et.al.|[2603.03744](https://arxiv.org/abs/2603.03744)|null|
+|**2026-03-04**|**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2603.03700](https://arxiv.org/abs/2603.03700)|null|
+|**2026-03-03**|**Strain effects on  $n$ -type doping in AlN**|Haochen Wang et.al.|[2603.03528](https://arxiv.org/abs/2603.03528)|null|
+|**2026-03-03**|**Near-surface Extreme Wind Events and Their Responses to Climate Forcings in a Hierarchy of Global Climate Models**|G. Zhang et.al.|[2603.03483](https://arxiv.org/abs/2603.03483)|null|
 |**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](https://arxiv.org/abs/2603.03125)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](https://arxiv.org/abs/2603.03067)|null|
 |**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[2603.02063](https://arxiv.org/abs/2603.02063)|null|
