@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](https://arxiv.org/abs/2603.05183)|null|
+|**2026-03-05**|**Structure Observation Driven Image-Text Contrastive Learning for Computed Tomography Report Generation**|Hong Liu et.al.|[2603.04878](https://arxiv.org/abs/2603.04878)|null|
 |**2026-03-04**|**Dose-Dependent Cardiac Complexity Changes in Children Following Prenatal Glucocorticoid Exposure: Complementary Evidence from Multiscale Entropy Analysis and ECG Foundation Models**|Nicolas B. Garnier et.al.|[2603.04074](https://arxiv.org/abs/2603.04074)|null|
 |**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](https://arxiv.org/abs/2603.02149)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](https://arxiv.org/abs/2603.02012)|null|
@@ -454,6 +456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](https://arxiv.org/abs/2603.05183)|null|
 |**2026-03-04**|**The Pivotal Information Criterion**|Sylvain Sardy et.al.|[2603.04172](https://arxiv.org/abs/2603.04172)|null|
 |**2026-02-11**|**Compressed Sensing for Capability Localization in Large Language Models**|Anna Bair et.al.|[2603.03335](https://arxiv.org/abs/2603.03335)|null|
 |**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](https://arxiv.org/abs/2603.03196)|null|
@@ -702,6 +705,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**FairFinGAN: Fairness-aware Synthetic Financial Data Generation**|Tai Le Quy et.al.|[2603.05327](https://arxiv.org/abs/2603.05327)|null|
+|**2026-03-05**|**Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation**|Pengfei Yi et.al.|[2603.05185](https://arxiv.org/abs/2603.05185)|null|
+|**2026-03-05**|**Lifelong Language-Conditioned Robotic Manipulation Learning**|Xudong Wang et.al.|[2603.05160](https://arxiv.org/abs/2603.05160)|null|
+|**2026-03-05**|**How far have we gone in Generative Image Restoration? A study on its capability, limitations and evaluation practices**|Xiang Yin et.al.|[2603.05010](https://arxiv.org/abs/2603.05010)|null|
+|**2026-03-05**|**An Efficient Stochastic First-Order Algorithm for Nonconvex-Strongly Concave Minimax Optimization beyond Lipschitz Smoothness**|Yan Gao et.al.|[2603.04940](https://arxiv.org/abs/2603.04940)|null|
+|**2026-03-04**|**Structure-Guided Histopathology Synthesis via Dual-LoRA Diffusion**|Xuan Xu et.al.|[2603.04565](https://arxiv.org/abs/2603.04565)|null|
 |**2026-03-04**|**FastWave: Optimized Diffusion Model for Audio Super-Resolution**|Nikita Kuznetsov et.al.|[2603.04122](https://arxiv.org/abs/2603.04122)|null|
 |**2026-03-04**|**Multi-Stage Music Source Restoration with BandSplit-RoFormer Separation and HiFi++ GAN**|Tobias Morocutti et.al.|[2603.04032](https://arxiv.org/abs/2603.04032)|null|
 |**2026-03-04**|**Dielectric Barrier Corona Discharge Anomaly by Ionic Wind under Unipolar Voltage Excitation**|Gan Fu et.al.|[2603.03986](https://arxiv.org/abs/2603.03986)|null|
