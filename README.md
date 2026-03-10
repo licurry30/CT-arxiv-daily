@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](https://arxiv.org/abs/2603.06300)|null|
 |**2026-03-06**|**CBCT-Based Synthetic CT Generation Using Conditional Flow Matching Model**|Junbo Peng et.al.|[2603.05796](https://arxiv.org/abs/2603.05796)|null|
 |**2026-03-05**|**Autonomous Algorithm Discovery for Ptychography via Evolutionary LLM Reasoning**|Xiangyu Yin et.al.|[2603.05696](https://arxiv.org/abs/2603.05696)|null|
@@ -461,12 +462,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-07**|**Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems**|Sean Gunn et.al.|[2603.07357](https://arxiv.org/abs/2603.07357)|null|
+|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-05**|**Gabor Primitives for Accelerated Cardiac Cine MRI Reconstruction**|Wenqi Huang et.al.|[2603.05681](https://arxiv.org/abs/2603.05681)|null|
 |**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](https://arxiv.org/abs/2603.05183)|null|
 |**2026-03-04**|**The Pivotal Information Criterion**|Sylvain Sardy et.al.|[2603.04172](https://arxiv.org/abs/2603.04172)|null|
@@ -713,12 +716,23 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](https://arxiv.org/abs/2603.08658)|null|
+|**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](https://arxiv.org/abs/2603.08483)|null|
+|**2026-03-09**|**Interlayer Error Calibration for Stacked Intelligent Metasurfaces:Modeling, Algorithms, and Future Perspectives**|Xing Jia et.al.|[2603.08040](https://arxiv.org/abs/2603.08040)|null|
+|**2026-03-09**|**SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity**|Zhenghao Gan et.al.|[2603.07917](https://arxiv.org/abs/2603.07917)|null|
+|**2026-03-09**|**Impacts of Jet Stream Structure on Cyclone Merging and Persistent Anticyclones: Insights from Dry Idealized Simulations**|Mingfei Ren et.al.|[2603.07859](https://arxiv.org/abs/2603.07859)|null|
+|**2026-03-08**|**GRD-Net: Generative-Reconstructive-Discriminative Anomaly Detection with Region of Interest Attention Module**|Niccolò Ferrari et.al.|[2603.07566](https://arxiv.org/abs/2603.07566)|null|
+|**2026-03-08**|**MIRO: Multi-radar Identity and Ranging for Occupational Safety**|Tirthankar Halder et.al.|[2603.07531](https://arxiv.org/abs/2603.07531)|null|
+|**2026-03-08**|**Image Generation Models: A Technical History**|Rouzbeh Shirvani et.al.|[2603.07455](https://arxiv.org/abs/2603.07455)|null|
+|**2026-03-08**|**Data Agent: Learning to Select Data via End-to-End Dynamic Optimization**|Suorong Yang et.al.|[2603.07433](https://arxiv.org/abs/2603.07433)|null|
+|**2026-03-06**|**Extracting and analyzing 3D histomorphometric features related to perineural and lymphovascular invasion in prostate cancer**|Sarah S. L. Chow et.al.|[2603.06936](https://arxiv.org/abs/2603.06936)|null|
+|**2026-03-06**|**Implementation of Quantum Implicit Neural Representation in Deterministic and Probabilistic Autoencoders for Image Reconstruction/Generation Tasks**|Saadet Müzehher Eren et.al.|[2603.06755](https://arxiv.org/abs/2603.06755)|null|
 |**2026-03-06**|**Toward Generative Quantum Utility via Correlation-Complexity Map**|Chen-Yu Liu et.al.|[2603.06440](https://arxiv.org/abs/2603.06440)|null|
 |**2026-03-06**|**Generation of Imaging Air Cherenkov Telescope images using Diffusion Models**|Christian Elflein et.al.|[2603.06364](https://arxiv.org/abs/2603.06364)|null|
 |**2026-03-06**|**Longitudinal NSCLC Treatment Progression via Multimodal Generative Models**|Massimiliano Mantegna et.al.|[2603.06147](https://arxiv.org/abs/2603.06147)|null|
@@ -1701,7 +1715,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1749,5 +1763,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
