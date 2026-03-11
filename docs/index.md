@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](https://arxiv.org/abs/2603.09932)|null|
+|**2026-03-10**|**Association of Radiologic PPFE Change with Mortality in Lung Cancer Screening Cohorts**|Shahab Aslani et.al.|[2603.09531](https://arxiv.org/abs/2603.09531)|null|
+|**2026-03-10**|**Evidential Perfusion Physics-Informed Neural Networks with Residual Uncertainty Quantification**|Junhyeok Lee et.al.|[2603.09359](https://arxiv.org/abs/2603.09359)|null|
+|**2026-03-10**|**Transformer-Based Multi-Region Segmentation and Radiomic Analysis of HR-pQCT Imaging**|Mohseu Rashid Subah et.al.|[2603.09137](https://arxiv.org/abs/2603.09137)|null|
+|**2026-03-10**|**M2Diff: Multi-Modality Multi-Task Enhanced Diffusion Model for MRI-Guided Low-Dose PET Enhancement**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2603.09075](https://arxiv.org/abs/2603.09075)|null|
 |**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](https://arxiv.org/abs/2603.06300)|null|
 |**2026-03-06**|**CBCT-Based Synthetic CT Generation Using Conditional Flow Matching Model**|Junbo Peng et.al.|[2603.05796](https://arxiv.org/abs/2603.05796)|null|
@@ -460,7 +465,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-07**|**Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems**|Sean Gunn et.al.|[2603.07357](https://arxiv.org/abs/2603.07357)|null|
+|**2026-03-10**|**Uniform Concentration for  $α$ -subexponential Random Operators**|Tiankun Diao et.al.|[2603.09487](https://arxiv.org/abs/2603.09487)|null|
+|**2026-03-10**|**Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems**|Sean Gunn et.al.|[2603.07357](https://arxiv.org/abs/2603.07357)|null|
 |**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-05**|**Gabor Primitives for Accelerated Cardiac Cine MRI Reconstruction**|Wenqi Huang et.al.|[2603.05681](https://arxiv.org/abs/2603.05681)|null|
 |**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](https://arxiv.org/abs/2603.05183)|null|
@@ -712,6 +718,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Well Log-Guided Synthesis of Subsurface Images from Sparse Petrography Data Using cGANs**|Ali Sadeghkhani et.al.|[2603.09651](https://arxiv.org/abs/2603.09651)|null|
+|**2026-03-10**|**Component-Aware Sketch-to-Image Generation Using Self-Attention Encoding and Coordinate-Preserving Fusion**|Ali Zia et.al.|[2603.09484](https://arxiv.org/abs/2603.09484)|null|
+|**2026-03-10**|**Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework**|Engin Deniz Erkan et.al.|[2603.09353](https://arxiv.org/abs/2603.09353)|null|
+|**2026-03-10**|**Modelling wetting-bouncing transitions of droplet impact on random rough surfaces**|Huihuang Xia et.al.|[2603.09267](https://arxiv.org/abs/2603.09267)|null|
+|**2026-03-10**|**StuPASE: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement**|Xiaobin Rong et.al.|[2603.09234](https://arxiv.org/abs/2603.09234)|null|
+|**2026-03-09**|**Uncovering the properties of homo-epitaxial GaN devices through cross-sectional infrared nanoscopy**|Hossein Zandipour et.al.|[2603.08858](https://arxiv.org/abs/2603.08858)|null|
 |**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](https://arxiv.org/abs/2603.08658)|null|
 |**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](https://arxiv.org/abs/2603.08483)|null|
 |**2026-03-09**|**Interlayer Error Calibration for Stacked Intelligent Metasurfaces:Modeling, Algorithms, and Future Perspectives**|Xing Jia et.al.|[2603.08040](https://arxiv.org/abs/2603.08040)|null|
