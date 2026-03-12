@@ -2,17 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
+|**2026-03-10**|**Robotic Ultrasound Makes CBCT Alive**|Feng Li et.al.|[2603.10220](https://arxiv.org/abs/2603.10220)|null|
 |**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](https://arxiv.org/abs/2603.09932)|null|
 |**2026-03-10**|**Association of Radiologic PPFE Change with Mortality in Lung Cancer Screening Cohorts**|Shahab Aslani et.al.|[2603.09531](https://arxiv.org/abs/2603.09531)|null|
 |**2026-03-10**|**Evidential Perfusion Physics-Informed Neural Networks with Residual Uncertainty Quantification**|Junhyeok Lee et.al.|[2603.09359](https://arxiv.org/abs/2603.09359)|null|
-|**2026-03-10**|**Transformer-Based Multi-Region Segmentation and Radiomic Analysis of HR-pQCT Imaging**|Mohseu Rashid Subah et.al.|[2603.09137](https://arxiv.org/abs/2603.09137)|null|
+|**2026-03-11**|**Transformer-Based Multi-Region Segmentation and Radiomic Analysis of HR-pQCT Imaging for Osteoporosis Classification**|Mohseu Rashid Subah et.al.|[2603.09137](https://arxiv.org/abs/2603.09137)|null|
 |**2026-03-10**|**M2Diff: Multi-Modality Multi-Task Enhanced Diffusion Model for MRI-Guided Low-Dose PET Enhancement**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2603.09075](https://arxiv.org/abs/2603.09075)|null|
 |**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](https://arxiv.org/abs/2603.06300)|null|
@@ -465,6 +467,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**A Harmony Composition-Inspired Tensor Modalization Method for Near-Field IRS Channel Estimation**|Wenzhou Cao et.al.|[2603.10515](https://arxiv.org/abs/2603.10515)|null|
+|**2026-03-11**|**Information-Theoretic Spectroscopy: Universal Sparsity of Extinction Manifold and Optimal Sensing across Scattering Regimes**|Proity Nayeeb Akbar et.al.|[2603.10364](https://arxiv.org/abs/2603.10364)|null|
 |**2026-03-10**|**Uniform Concentration for  $α$ -subexponential Random Operators**|Tiankun Diao et.al.|[2603.09487](https://arxiv.org/abs/2603.09487)|null|
 |**2026-03-10**|**Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems**|Sean Gunn et.al.|[2603.07357](https://arxiv.org/abs/2603.07357)|null|
 |**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
@@ -718,6 +722,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](https://arxiv.org/abs/2603.10910)|null|
+|**2026-03-11**|**HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement**|Stefanos Pasios et.al.|[2603.10604](https://arxiv.org/abs/2603.10604)|null|
+|**2026-03-11**|**Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection**|Yawen Yang et.al.|[2603.10598](https://arxiv.org/abs/2603.10598)|null|
+|**2026-03-11**|**Enhancing Network Intrusion Detection Systems: A Multi-Layer Ensemble Approach to Mitigate Adversarial Attacks**|Nasim Soltani et.al.|[2603.10413](https://arxiv.org/abs/2603.10413)|null|
 |**2026-03-10**|**Well Log-Guided Synthesis of Subsurface Images from Sparse Petrography Data Using cGANs**|Ali Sadeghkhani et.al.|[2603.09651](https://arxiv.org/abs/2603.09651)|null|
 |**2026-03-10**|**Component-Aware Sketch-to-Image Generation Using Self-Attention Encoding and Coordinate-Preserving Fusion**|Ali Zia et.al.|[2603.09484](https://arxiv.org/abs/2603.09484)|null|
 |**2026-03-10**|**Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework**|Engin Deniz Erkan et.al.|[2603.09353](https://arxiv.org/abs/2603.09353)|null|
