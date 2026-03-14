@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
+|**2026-03-12**|**SemiTooth: a Generalizable Semi-supervised Framework for Multi-Source Tooth Segmentation**|Muyi Sun et.al.|[2603.11616](https://arxiv.org/abs/2603.11616)|null|
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
 |**2026-03-10**|**Robotic Ultrasound Makes CBCT Alive**|Feng Li et.al.|[2603.10220](https://arxiv.org/abs/2603.10220)|null|
 |**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](https://arxiv.org/abs/2603.09932)|null|
@@ -722,6 +724,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**|Yulu Gan et.al.|[2603.12228](https://arxiv.org/abs/2603.12228)|null|
+|**2026-03-12**|**Preliminary analysis of RGB-NIR Image Registration techniques for off-road forestry environments**|Pankaj Deoli et.al.|[2603.11952](https://arxiv.org/abs/2603.11952)|null|
+|**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
+|**2026-03-12**|**RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis**|Yongjoon Lee et.al.|[2603.11678](https://arxiv.org/abs/2603.11678)|null|
+|**2026-03-12**|**Gen-Fab: A Variation-Aware Generative Model for Predicting Fabrication Variations in Nanophotonic Devices**|Rambod Azimi et.al.|[2603.11505](https://arxiv.org/abs/2603.11505)|null|
+|**2026-03-12**|**Bridging Discrete Marks and Continuous Dynamics: Dual-Path Cross-Interaction for Marked Temporal Point Processes**|Yuxiang Liu et.al.|[2603.11462](https://arxiv.org/abs/2603.11462)|null|
+|**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](https://arxiv.org/abs/2603.11407)|null|
 |**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](https://arxiv.org/abs/2603.10910)|null|
 |**2026-03-11**|**HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement**|Stefanos Pasios et.al.|[2603.10604](https://arxiv.org/abs/2603.10604)|null|
 |**2026-03-11**|**Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection**|Yawen Yang et.al.|[2603.10598](https://arxiv.org/abs/2603.10598)|null|

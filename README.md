@@ -1,4 +1,4 @@
-## Updated on 2026.03.12
+## Updated on 2026.03.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
+|**2026-03-12**|**SemiTooth: a Generalizable Semi-supervised Framework for Multi-Source Tooth Segmentation**|Muyi Sun et.al.|[2603.11616](https://arxiv.org/abs/2603.11616)|null|
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
 |**2026-03-10**|**Robotic Ultrasound Makes CBCT Alive**|Feng Li et.al.|[2603.10220](https://arxiv.org/abs/2603.10220)|null|
 |**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](https://arxiv.org/abs/2603.09932)|null|
@@ -469,7 +471,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## SVCT
 
@@ -726,12 +728,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**|Yulu Gan et.al.|[2603.12228](https://arxiv.org/abs/2603.12228)|null|
+|**2026-03-12**|**Preliminary analysis of RGB-NIR Image Registration techniques for off-road forestry environments**|Pankaj Deoli et.al.|[2603.11952](https://arxiv.org/abs/2603.11952)|null|
+|**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
+|**2026-03-12**|**RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis**|Yongjoon Lee et.al.|[2603.11678](https://arxiv.org/abs/2603.11678)|null|
+|**2026-03-12**|**Gen-Fab: A Variation-Aware Generative Model for Predicting Fabrication Variations in Nanophotonic Devices**|Rambod Azimi et.al.|[2603.11505](https://arxiv.org/abs/2603.11505)|null|
+|**2026-03-12**|**Bridging Discrete Marks and Continuous Dynamics: Dual-Path Cross-Interaction for Marked Temporal Point Processes**|Yuxiang Liu et.al.|[2603.11462](https://arxiv.org/abs/2603.11462)|null|
+|**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](https://arxiv.org/abs/2603.11407)|null|
 |**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](https://arxiv.org/abs/2603.10910)|null|
 |**2026-03-11**|**HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement**|Stefanos Pasios et.al.|[2603.10604](https://arxiv.org/abs/2603.10604)|null|
 |**2026-03-11**|**Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection**|Yawen Yang et.al.|[2603.10598](https://arxiv.org/abs/2603.10598)|null|
@@ -1735,7 +1744,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1783,5 +1792,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
