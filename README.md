@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](https://arxiv.org/abs/2603.12667)|null|
+|**2026-03-13**|**Variational Garrote for Sparse Inverse Problems**|Kanghun Lee et.al.|[2603.12562](https://arxiv.org/abs/2603.12562)|null|
+|**2026-03-12**|**Unleashing Video Language Models for Fine-grained HRCT Report Generation**|Yingying Fang et.al.|[2603.12469](https://arxiv.org/abs/2603.12469)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
 |**2026-03-12**|**SemiTooth: a Generalizable Semi-supervised Framework for Multi-Source Tooth Segmentation**|Muyi Sun et.al.|[2603.11616](https://arxiv.org/abs/2603.11616)|null|
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
@@ -734,6 +737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Rooftop Wind Field Reconstruction Using Sparse Sensors: From Deterministic to Generative Learning Methods**|Yihang Zhou et.al.|[2603.13077](https://arxiv.org/abs/2603.13077)|null|
+|**2026-03-12**|**Confirmation of the hot super-Neptune TOI-672 b with NIRPS and HARPS and Insights into the Neptunian desert around M dwarfs**|Ares Osborn et.al.|[2603.12345](https://arxiv.org/abs/2603.12345)|null|
 |**2026-03-12**|**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**|Yulu Gan et.al.|[2603.12228](https://arxiv.org/abs/2603.12228)|null|
 |**2026-03-12**|**Preliminary analysis of RGB-NIR Image Registration techniques for off-road forestry environments**|Pankaj Deoli et.al.|[2603.11952](https://arxiv.org/abs/2603.11952)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
