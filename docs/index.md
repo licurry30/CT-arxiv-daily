@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Towards Fair and Robust Volumetric CT Classification via KL-Regularised Group Distributionally Robust Optimisation**|Samuel Johnny et.al.|[2603.15941](https://arxiv.org/abs/2603.15941)|null|
+|**2026-03-16**|**Nodule-Aligned Latent Space Learning with LLM-Driven Multimodal Diffusion for Lung Nodule Progression Prediction**|James Song et.al.|[2603.15932](https://arxiv.org/abs/2603.15932)|null|
 |**2026-03-16**|**One CT Unified Model Training Framework to Rule All Scanning Protocols**|Fengzhi Xu et.al.|[2603.15025](https://arxiv.org/abs/2603.15025)|null|
 |**2026-03-16**|**A hybrid statistical sampling and iterative regularization method in sparse-view computed tomography**|Huiying Li et.al.|[2603.14866](https://arxiv.org/abs/2603.14866)|null|
 |**2026-03-14**|**Countershading coloration in blue shark skin emerges from hierarchically organized and spatially tuned photonic architectures inside skin denticles**|Viktoriia Kamska et.al.|[2603.13937](https://arxiv.org/abs/2603.13937)|null|
@@ -24,7 +26,7 @@ layout: default
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
 |**2026-03-10**|**Robotic Ultrasound Makes CBCT Alive**|Feng Li et.al.|[2603.10220](https://arxiv.org/abs/2603.10220)|null|
 |**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](https://arxiv.org/abs/2603.09932)|null|
-|**2026-03-10**|**Association of Radiologic PPFE Change with Mortality in Lung Cancer Screening Cohorts**|Shahab Aslani et.al.|[2603.09531](https://arxiv.org/abs/2603.09531)|null|
+|**2026-03-17**|**Association of Progressive PPFE and Mortality in Lung Cancer Screening Cohorts**|Shahab Aslani et.al.|[2603.09531](https://arxiv.org/abs/2603.09531)|null|
 |**2026-03-10**|**Evidential Perfusion Physics-Informed Neural Networks with Residual Uncertainty Quantification**|Junhyeok Lee et.al.|[2603.09359](https://arxiv.org/abs/2603.09359)|null|
 |**2026-03-11**|**Transformer-Based Multi-Region Segmentation and Radiomic Analysis of HR-pQCT Imaging for Osteoporosis Classification**|Mohseu Rashid Subah et.al.|[2603.09137](https://arxiv.org/abs/2603.09137)|null|
 |**2026-03-10**|**M2Diff: Multi-Modality Multi-Task Enhanced Diffusion Model for MRI-Guided Low-Dose PET Enhancement**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2603.09075](https://arxiv.org/abs/2603.09075)|null|
@@ -737,6 +739,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Efficient generation of entangled photons in the telecommunications range using nonlinear metasurfaces integrated with ScAlN/GaN heterostructures**|Jaeyeon Yu et.al.|[2603.16699](https://arxiv.org/abs/2603.16699)|null|
+|**2026-03-17**|**Deep Learning-Driven Black-Box Doherty Power Amplifier with Pixelated Output Combiner and Extended Efficiency Range**|Han Zhou et.al.|[2603.16565](https://arxiv.org/abs/2603.16565)|null|
+|**2026-03-17**|**When Generative Augmentation Hurts: A Benchmark Study of GAN and Diffusion Models for Bias Correction in AI Classification Systems**|Shesh Narayan Gupta et.al.|[2603.16134](https://arxiv.org/abs/2603.16134)|null|
+|**2026-03-17**|**RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems**|Hui Wang et.al.|[2603.16088](https://arxiv.org/abs/2603.16088)|null|
+|**2026-03-17**|**Investigation of the  $D^{0} \rightarrow K_S^{0} π^{0} η,\ K_S^{0} π^{0} π^0$  decays**|Wei Liang et.al.|[2603.16082](https://arxiv.org/abs/2603.16082)|null|
 |**2026-03-16**|**Monolithic integration of diverse crystalline thin films on diamond for near-junction thermal management**|Tiancheng Zhao et.al.|[2603.15142](https://arxiv.org/abs/2603.15142)|null|
 |**2026-03-16**|**Seismic full-waveform inversion based on a physics-driven generative adversarial network**|Xinyi Zhang et.al.|[2603.14879](https://arxiv.org/abs/2603.14879)|null|
 |**2026-03-16**|**Architecture-Agnostic Feature Synergy for Universal Defense Against Heterogeneous Generative Threats**|Bingxue Zhang et.al.|[2603.14860](https://arxiv.org/abs/2603.14860)|null|
