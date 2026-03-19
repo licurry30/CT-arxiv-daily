@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](https://arxiv.org/abs/2603.17926)|null|
+|**2026-03-17**|**Topology-Guided Biomechanical Profiling: A White-Box Framework for Opportunistic Screening of Spinal Instability on Routine CT**|Zanting Ye et.al.|[2603.16963](https://arxiv.org/abs/2603.16963)|null|
 |**2026-03-16**|**Towards Fair and Robust Volumetric CT Classification via KL-Regularised Group Distributionally Robust Optimisation**|Samuel Johnny et.al.|[2603.15941](https://arxiv.org/abs/2603.15941)|null|
 |**2026-03-16**|**Nodule-Aligned Latent Space Learning with LLM-Driven Multimodal Diffusion for Lung Nodule Progression Prediction**|James Song et.al.|[2603.15932](https://arxiv.org/abs/2603.15932)|null|
 |**2026-03-16**|**One CT Unified Model Training Framework to Rule All Scanning Protocols**|Fengzhi Xu et.al.|[2603.15025](https://arxiv.org/abs/2603.15025)|null|
@@ -739,6 +741,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Cache-enabled Generative Joint Source-Channel Coding for Evolving Semantic Communications**|Shunpu Tang et.al.|[2603.17702](https://arxiv.org/abs/2603.17702)|null|
+|**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[2603.17637](https://arxiv.org/abs/2603.17637)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](https://arxiv.org/abs/2603.17499)|null|
+|**2026-03-14**|**Facial beauty prediction fusing transfer learning and broad learning system**|Junying Gan et.al.|[2603.16930](https://arxiv.org/abs/2603.16930)|null|
 |**2026-03-17**|**Efficient generation of entangled photons in the telecommunications range using nonlinear metasurfaces integrated with ScAlN/GaN heterostructures**|Jaeyeon Yu et.al.|[2603.16699](https://arxiv.org/abs/2603.16699)|null|
 |**2026-03-17**|**Deep Learning-Driven Black-Box Doherty Power Amplifier with Pixelated Output Combiner and Extended Efficiency Range**|Han Zhou et.al.|[2603.16565](https://arxiv.org/abs/2603.16565)|null|
 |**2026-03-17**|**When Generative Augmentation Hurts: A Benchmark Study of GAN and Diffusion Models for Bias Correction in AI Classification Systems**|Shesh Narayan Gupta et.al.|[2603.16134](https://arxiv.org/abs/2603.16134)|null|
