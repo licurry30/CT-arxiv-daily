@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -485,12 +485,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](https://arxiv.org/abs/2603.18309)|null|
 |**2026-03-16**|**ILV: Iterative Latent Volumes for Fast and Accurate Sparse-View CT Reconstruction**|Seungryong Lee et.al.|[2603.14915](https://arxiv.org/abs/2603.14915)|null|
 |**2026-03-13**|**Bayesian Uncertainty-Aware MRI Reconstruction**|Ahmed Karam Eldaly et.al.|[2603.13439](https://arxiv.org/abs/2603.13439)|null|
 |**2026-03-12**|**Projection Guided Personalized Federated Learning for Low Dose CT Denoising**|Anas Zafar et.al.|[2603.13422](https://arxiv.org/abs/2603.13422)|null|
@@ -501,7 +502,7 @@
 |**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](https://arxiv.org/abs/2603.06852)|null|
 |**2026-03-05**|**Gabor Primitives for Accelerated Cardiac Cine MRI Reconstruction**|Wenqi Huang et.al.|[2603.05681](https://arxiv.org/abs/2603.05681)|null|
 |**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](https://arxiv.org/abs/2603.05183)|null|
-|**2026-03-04**|**The Pivotal Information Criterion**|Sylvain Sardy et.al.|[2603.04172](https://arxiv.org/abs/2603.04172)|null|
+|**2026-03-19**|**The Pivotal Information Criterion**|Sylvain Sardy et.al.|[2603.04172](https://arxiv.org/abs/2603.04172)|null|
 |**2026-02-11**|**Compressed Sensing for Capability Localization in Large Language Models**|Anna Bair et.al.|[2603.03335](https://arxiv.org/abs/2603.03335)|null|
 |**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](https://arxiv.org/abs/2603.03196)|null|
 |**2026-03-03**|**ReCo-Diff: Residual-Conditioned Deterministic Sampling for Cold Diffusion in Sparse-View CT**|Yong Eun Choi et.al.|[2603.02691](https://arxiv.org/abs/2603.02691)|null|
@@ -745,12 +746,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis**|Pronob Kumar Barman et.al.|[2603.18987](https://arxiv.org/abs/2603.18987)|null|
+|**2026-03-19**|**Seasoning Generative Models for a Generalization Aftertaste**|Hisham Husain et.al.|[2603.18817](https://arxiv.org/abs/2603.18817)|null|
+|**2026-03-19**|**Enhancing the Parameterization of Reservoir Properties for Data Assimilation Using Deep VAE-GAN**|Marcio Augusto Sampaio et.al.|[2603.18766](https://arxiv.org/abs/2603.18766)|null|
+|**2026-03-19**|**End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration**|Xue Yang et.al.|[2603.18554](https://arxiv.org/abs/2603.18554)|null|
+|**2026-03-19**|**A Warm Massive Pair of Planets around TOI-1232 Revealed with Transit-timing Variations and Doppler Spectroscopy**|Deyan P. Mihaylov et.al.|[2603.18395](https://arxiv.org/abs/2603.18395)|null|
+|**2026-03-18**|**Epistemic Generative Adversarial Networks**|Muhammad Mubashar et.al.|[2603.18348](https://arxiv.org/abs/2603.18348)|null|
+|**2026-03-18**|**The Steep Price of No Hair in Thiemann Regularized Loop Quantum Cosmology**|Meysam Motaharfar et.al.|[2603.18175](https://arxiv.org/abs/2603.18175)|null|
 |**2026-03-18**|**Cache-enabled Generative Joint Source-Channel Coding for Evolving Semantic Communications**|Shunpu Tang et.al.|[2603.17702](https://arxiv.org/abs/2603.17702)|null|
 |**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[2603.17637](https://arxiv.org/abs/2603.17637)|null|
 |**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](https://arxiv.org/abs/2603.17499)|null|
@@ -1787,7 +1795,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1835,5 +1843,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
