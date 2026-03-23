@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](https://arxiv.org/abs/2603.19942)|null|
+|**2026-03-20**|**Characterizing the Radiation Dose to Measurement Accuracy Relationship across Multiple Metrics in Opportunistic Chest CT**|Boyuan Li et.al.|[2603.19651](https://arxiv.org/abs/2603.19651)|null|
 |**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](https://arxiv.org/abs/2603.17926)|null|
 |**2026-03-17**|**Topology-Guided Biomechanical Profiling: A White-Box Framework for Opportunistic Screening of Spinal Instability on Routine CT**|Zanting Ye et.al.|[2603.16963](https://arxiv.org/abs/2603.16963)|null|
 |**2026-03-16**|**Towards Fair and Robust Volumetric CT Classification via KL-Regularised Group Distributionally Robust Optimisation**|Samuel Johnny et.al.|[2603.15941](https://arxiv.org/abs/2603.15941)|null|
@@ -742,7 +744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-19**|**Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis**|Pronob Kumar Barman et.al.|[2603.18987](https://arxiv.org/abs/2603.18987)|null|
+|**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](https://arxiv.org/abs/2603.20025)|null|
+|**2026-03-20**|**Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians**|Yang Zhong et.al.|[2603.20007](https://arxiv.org/abs/2603.20007)|null|
+|**2026-03-20**|**Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs**|Shaoshuai Du et.al.|[2603.19970](https://arxiv.org/abs/2603.19970)|null|
+|**2026-03-20**|**ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis**|Lubin Gan et.al.|[2603.19925](https://arxiv.org/abs/2603.19925)|null|
+|**2026-03-20**|**Diminishing Returns in Expanding Generative Models and Godel-Tarski-Lob Limits**|Angshul Majumdar et.al.|[2603.19687](https://arxiv.org/abs/2603.19687)|null|
+|**2026-03-20**|**OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**|Weixuan Zeng et.al.|[2603.19643](https://arxiv.org/abs/2603.19643)|null|
+|**2026-03-20**|**Spectral and Small-Signal Electroluminescence Analysis of Carrier Dynamics in Dual-Color InGaN/GaN Light-Emitting Diodes**|Xuefeng Li et.al.|[2603.19534](https://arxiv.org/abs/2603.19534)|null|
+|**2026-03-19**|**TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis**|Atharva Rege et.al.|[2603.19386](https://arxiv.org/abs/2603.19386)|null|
+|**2026-03-19**|**A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention and Jensen-Shannon Divergence in WGAN-GP**|Ziyu Mu et.al.|[2603.19350](https://arxiv.org/abs/2603.19350)|null|
+|**2026-03-20**|**Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis**|Pronob Kumar Barman et.al.|[2603.18987](https://arxiv.org/abs/2603.18987)|null|
 |**2026-03-19**|**Seasoning Generative Models for a Generalization Aftertaste**|Hisham Husain et.al.|[2603.18817](https://arxiv.org/abs/2603.18817)|null|
 |**2026-03-19**|**Enhancing the Parameterization of Reservoir Properties for Data Assimilation Using Deep VAE-GAN**|Marcio Augusto Sampaio et.al.|[2603.18766](https://arxiv.org/abs/2603.18766)|null|
 |**2026-03-19**|**End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration**|Xue Yang et.al.|[2603.18554](https://arxiv.org/abs/2603.18554)|null|
