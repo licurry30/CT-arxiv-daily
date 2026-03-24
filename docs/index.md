@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Ensemble Kalman inversion with non-smooth regularization**|Simon Weissmann et.al.|[2603.21916](https://arxiv.org/abs/2603.21916)|null|
+|**2026-03-23**|**Multi-View Deformable Convolution Meets Visual Mamba for Coronary Artery Segmentation**|Xiaochan Yuan et.al.|[2603.21829](https://arxiv.org/abs/2603.21829)|null|
+|**2026-03-22**|**A Modular Approach to Stochastic Optimisation for Inverse Problems Using the Core Imaging Library**|Evangelos Papoutsellis et.al.|[2603.21230](https://arxiv.org/abs/2603.21230)|null|
+|**2026-03-21**|**TAFG-MAN: Timestep-Adaptive Frequency-Gated Latent Diffusion for Efficient and High-Quality Low-Dose CT Image Denoising**|Tangtangfang Fang et.al.|[2603.20868](https://arxiv.org/abs/2603.20868)|null|
 |**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](https://arxiv.org/abs/2603.19942)|null|
 |**2026-03-20**|**Characterizing the Radiation Dose to Measurement Accuracy Relationship across Multiple Metrics in Opportunistic Chest CT**|Boyuan Li et.al.|[2603.19651](https://arxiv.org/abs/2603.19651)|null|
 |**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](https://arxiv.org/abs/2603.17926)|null|
@@ -24,7 +28,7 @@ layout: default
 |**2026-03-10**|**A Computer-aided Framework for Detecting Osteosarcoma in Computed Tomography Scans**|Maximo Rodriguez-Herrero et.al.|[2603.13376](https://arxiv.org/abs/2603.13376)|null|
 |**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](https://arxiv.org/abs/2603.12667)|null|
 |**2026-03-13**|**Variational Garrote for Sparse Inverse Problems**|Kanghun Lee et.al.|[2603.12562](https://arxiv.org/abs/2603.12562)|null|
-|**2026-03-12**|**Unleashing Video Language Models for Fine-grained HRCT Report Generation**|Yingying Fang et.al.|[2603.12469](https://arxiv.org/abs/2603.12469)|null|
+|**2026-03-23**|**Unleashing Video Language Models for Fine-grained HRCT Report Generation**|Yingying Fang et.al.|[2603.12469](https://arxiv.org/abs/2603.12469)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](https://arxiv.org/abs/2603.11836)|null|
 |**2026-03-12**|**SemiTooth: a Generalizable Semi-supervised Framework for Multi-Source Tooth Segmentation**|Muyi Sun et.al.|[2603.11616](https://arxiv.org/abs/2603.11616)|null|
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](https://arxiv.org/abs/2603.10947)|null|
@@ -485,6 +489,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Anatomical Token Uncertainty for Transformer-Guided Active MRI Acquisition**|Lev Ayzenberg et.al.|[2603.21806](https://arxiv.org/abs/2603.21806)|null|
+|**2026-03-23**|**Near-Field Wideband Channel Estimation for Extremely Large-Scale RIS-Aided Communication Systems**|Lanqing Zhi et.al.|[2603.21709](https://arxiv.org/abs/2603.21709)|null|
+|**2026-03-22**|**DSCSNet: A Dynamic Sparse Compression Sensing Network for Closely-Spaced Infrared Small Target Unmixing**|Zhiyang Tang et.al.|[2603.21192](https://arxiv.org/abs/2603.21192)|null|
 |**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](https://arxiv.org/abs/2603.18309)|null|
 |**2026-03-16**|**ILV: Iterative Latent Volumes for Fast and Accurate Sparse-View CT Reconstruction**|Seungryong Lee et.al.|[2603.14915](https://arxiv.org/abs/2603.14915)|null|
 |**2026-03-13**|**Bayesian Uncertainty-Aware MRI Reconstruction**|Ahmed Karam Eldaly et.al.|[2603.13439](https://arxiv.org/abs/2603.13439)|null|
@@ -744,6 +751,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](https://arxiv.org/abs/2603.22279)|null|
+|**2026-03-23**|**DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution**|Zhengyao Lv et.al.|[2603.22271](https://arxiv.org/abs/2603.22271)|null|
+|**2026-03-23**|**Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion**|Yanglin Deng et.al.|[2603.21820](https://arxiv.org/abs/2603.21820)|null|
+|**2026-03-23**|**Conditional Wasserstein GAN for Simulating Neutrino Event Summaries using Incident Energy of Electron Neutrinos**|Dipthi S. et.al.|[2603.21599](https://arxiv.org/abs/2603.21599)|null|
 |**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](https://arxiv.org/abs/2603.20025)|null|
 |**2026-03-20**|**Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians**|Yang Zhong et.al.|[2603.20007](https://arxiv.org/abs/2603.20007)|null|
 |**2026-03-20**|**Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs**|Shaoshuai Du et.al.|[2603.19970](https://arxiv.org/abs/2603.19970)|null|
@@ -755,11 +766,11 @@ layout: default
 |**2026-03-19**|**A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention and Jensen-Shannon Divergence in WGAN-GP**|Ziyu Mu et.al.|[2603.19350](https://arxiv.org/abs/2603.19350)|null|
 |**2026-03-20**|**Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis**|Pronob Kumar Barman et.al.|[2603.18987](https://arxiv.org/abs/2603.18987)|null|
 |**2026-03-19**|**Seasoning Generative Models for a Generalization Aftertaste**|Hisham Husain et.al.|[2603.18817](https://arxiv.org/abs/2603.18817)|null|
-|**2026-03-19**|**Enhancing the Parameterization of Reservoir Properties for Data Assimilation Using Deep VAE-GAN**|Marcio Augusto Sampaio et.al.|[2603.18766](https://arxiv.org/abs/2603.18766)|null|
+|**2026-03-22**|**Enhancing the Parameterization of Reservoir Properties for Data Assimilation Using Deep VAE-GAN**|M. A. Sampaio et.al.|[2603.18766](https://arxiv.org/abs/2603.18766)|null|
 |**2026-03-19**|**End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration**|Xue Yang et.al.|[2603.18554](https://arxiv.org/abs/2603.18554)|null|
 |**2026-03-19**|**A Warm Massive Pair of Planets around TOI-1232 Revealed with Transit-timing Variations and Doppler Spectroscopy**|Deyan P. Mihaylov et.al.|[2603.18395](https://arxiv.org/abs/2603.18395)|null|
 |**2026-03-18**|**Epistemic Generative Adversarial Networks**|Muhammad Mubashar et.al.|[2603.18348](https://arxiv.org/abs/2603.18348)|null|
-|**2026-03-18**|**The Steep Price of No Hair in Thiemann Regularized Loop Quantum Cosmology**|Meysam Motaharfar et.al.|[2603.18175](https://arxiv.org/abs/2603.18175)|null|
+|**2026-03-21**|**The Steep Price of No Hair in a Modified Loop Quantum Cosmology**|Meysam Motaharfar et.al.|[2603.18175](https://arxiv.org/abs/2603.18175)|null|
 |**2026-03-18**|**Cache-enabled Generative Joint Source-Channel Coding for Evolving Semantic Communications**|Shunpu Tang et.al.|[2603.17702](https://arxiv.org/abs/2603.17702)|null|
 |**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[2603.17637](https://arxiv.org/abs/2603.17637)|null|
 |**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](https://arxiv.org/abs/2603.17499)|null|
