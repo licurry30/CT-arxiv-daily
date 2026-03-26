@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Spatial Sampling of Hemispherical Arrays for Three-Dimensional Photoacoustic Computed Tomography**|Wanqing Zhang et.al.|[2603.23728](https://arxiv.org/abs/2603.23728)|null|
 |**2026-03-24**|**Curriculum-Driven 3D CT Report Generation via Language-Free Visual Grafting and Zone-Constrained Compression**|V. K. Cody Bumgardner et.al.|[2603.23308](https://arxiv.org/abs/2603.23308)|null|
 |**2026-03-24**|**Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning**|Konstantinos Barmpounakis et.al.|[2603.23295](https://arxiv.org/abs/2603.23295)|null|
 |**2026-03-23**|**Ensemble Kalman inversion with non-smooth regularization**|Simon Weissmann et.al.|[2603.21916](https://arxiv.org/abs/2603.21916)|null|
@@ -753,6 +754,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Attack Assessment and Augmented Identity Recognition for Human Skeleton Data**|Joseph G. Zalameda et.al.|[2603.24232](https://arxiv.org/abs/2603.24232)|null|
+|**2026-03-25**|**Unified ab initio quantum-electrodynamical density-functional theory for cavity-modified electron-phonon-photon coupling in solids**|Benshu Fan et.al.|[2603.24095](https://arxiv.org/abs/2603.24095)|null|
+|**2026-03-25**|**Transcending Classical Neural Network Boundaries: A Quantum-Classical Synergistic Paradigm for Seismic Data Processing**|Zhengyi Yuan et.al.|[2603.23984](https://arxiv.org/abs/2603.23984)|null|
+|**2026-03-25**|**3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation**|Kyeonghun Kim et.al.|[2603.23845](https://arxiv.org/abs/2603.23845)|null|
+|**2026-03-24**|**PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning**|Tao Liu et.al.|[2603.23574](https://arxiv.org/abs/2603.23574)|null|
+|**2026-03-24**|**Causal Reconstruction of Sentiment Signals from Sparse News Data**|Stefania Stan et.al.|[2603.23568](https://arxiv.org/abs/2603.23568)|null|
 |**2026-03-24**|**Neural ODE and SDE Models for Adaptation and Planning in Model-Based Reinforcement Learning**|Chao Han et.al.|[2603.23245](https://arxiv.org/abs/2603.23245)|null|
 |**2026-03-24**|**Privacy-Preserving EHR Data Transformation via Geometric Operators: A Human-AI Co-Design Technical Report**|Maolin Wang et.al.|[2603.22954](https://arxiv.org/abs/2603.22954)|null|
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796](https://arxiv.org/abs/2603.22796)|null|
