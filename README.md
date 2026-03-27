@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment**|Jinkui Hao et.al.|[2603.24847](https://arxiv.org/abs/2603.24847)|null|
+|**2026-03-25**|**Dissecting Model Failures in Abdominal Aortic Aneurysm Segmentation through Explainability-Driven Analysis**|Abu Noman Md Sakib et.al.|[2603.24801](https://arxiv.org/abs/2603.24801)|null|
+|**2026-03-25**|**Coronary artery calcification assessment in National Lung Screening Trial CT images (DeepCAC2)**|Leonard Nürnberg et.al.|[2603.24633](https://arxiv.org/abs/2603.24633)|null|
 |**2026-03-24**|**Spatial Sampling of Hemispherical Arrays for Three-Dimensional Photoacoustic Computed Tomography**|Wanqing Zhang et.al.|[2603.23728](https://arxiv.org/abs/2603.23728)|null|
 |**2026-03-24**|**Curriculum-Driven 3D CT Report Generation via Language-Free Visual Grafting and Zone-Constrained Compression**|V. K. Cody Bumgardner et.al.|[2603.23308](https://arxiv.org/abs/2603.23308)|null|
 |**2026-03-24**|**Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning**|Konstantinos Barmpounakis et.al.|[2603.23295](https://arxiv.org/abs/2603.23295)|null|
@@ -494,12 +497,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Efficient compressive sensing for machinery vibration signals**|Imen Tounsi et.al.|[2603.25166](https://arxiv.org/abs/2603.25166)|null|
 |**2026-03-23**|**Anatomical Token Uncertainty for Transformer-Guided Active MRI Acquisition**|Lev Ayzenberg et.al.|[2603.21806](https://arxiv.org/abs/2603.21806)|null|
 |**2026-03-23**|**Near-Field Wideband Channel Estimation for Extremely Large-Scale RIS-Aided Communication Systems**|Lanqing Zhi et.al.|[2603.21709](https://arxiv.org/abs/2603.21709)|null|
 |**2026-03-22**|**DSCSNet: A Dynamic Sparse Compression Sensing Network for Closely-Spaced Infrared Small Target Unmixing**|Zhiyang Tang et.al.|[2603.21192](https://arxiv.org/abs/2603.21192)|null|
@@ -758,12 +762,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Nonlinear Information from DESI Luminous Red Galaxies: An Emulator-Based Analysis of Pre- and Post-Reconstruction Power Spectra**|Yuting Wang et.al.|[2603.25693](https://arxiv.org/abs/2603.25693)|null|
+|**2026-03-26**|**Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating**|Yuxiang Gan et.al.|[2603.25652](https://arxiv.org/abs/2603.25652)|null|
+|**2026-03-26**|**An Integrative Genome-Scale Metabolic Modeling and Machine Learning Framework for Predicting and Optimizing Biofuel-Relevant Biomass Production in Saccharomyces cerevisiae**|Neha K. Nair et.al.|[2603.25561](https://arxiv.org/abs/2603.25561)|null|
+|**2026-03-26**|**Giant Brillouin gain in frozen CS2 capillaries**|Simon Seiderer et.al.|[2603.25472](https://arxiv.org/abs/2603.25472)|null|
+|**2026-03-26**|**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**|Chenglong Wang et.al.|[2603.25108](https://arxiv.org/abs/2603.25108)|null|
+|**2026-03-25**|**Synthetic Cardiac MRI Image Generation using Deep Generative Models**|Ishan Kumarasinghe et.al.|[2603.24764](https://arxiv.org/abs/2603.24764)|null|
+|**2026-03-25**|**A Large-Scale Comparative Analysis of Imputation Methods for Single-Cell RNA Sequencing Data**|Yuichiro Iwashita et.al.|[2603.24626](https://arxiv.org/abs/2603.24626)|null|
 |**2026-03-25**|**Attack Assessment and Augmented Identity Recognition for Human Skeleton Data**|Joseph G. Zalameda et.al.|[2603.24232](https://arxiv.org/abs/2603.24232)|null|
 |**2026-03-25**|**Unified ab initio quantum-electrodynamical density-functional theory for cavity-modified electron-phonon-photon coupling in solids**|Benshu Fan et.al.|[2603.24095](https://arxiv.org/abs/2603.24095)|null|
 |**2026-03-25**|**Transcending Classical Neural Network Boundaries: A Quantum-Classical Synergistic Paradigm for Seismic Data Processing**|Zhengyi Yuan et.al.|[2603.23984](https://arxiv.org/abs/2603.23984)|null|
@@ -1830,7 +1841,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -1878,5 +1889,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
