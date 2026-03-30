@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Conditional Diffusion for 3D CT Volume Reconstruction from 2D X-rays**|Martin Rath et.al.|[2603.26509](https://arxiv.org/abs/2603.26509)|null|
+|**2026-03-27**|**Cone-Beam CT Image Quality Enhancement Using A Latent Diffusion Model Trained with Simulated CBCT Artifacts**|Naruki Murahashi et.al.|[2603.26014](https://arxiv.org/abs/2603.26014)|null|
 |**2026-03-25**|**CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment**|Jinkui Hao et.al.|[2603.24847](https://arxiv.org/abs/2603.24847)|null|
 |**2026-03-25**|**Dissecting Model Failures in Abdominal Aortic Aneurysm Segmentation through Explainability-Driven Analysis**|Abu Noman Md Sakib et.al.|[2603.24801](https://arxiv.org/abs/2603.24801)|null|
 |**2026-03-25**|**Coronary artery calcification assessment in National Lung Screening Trial CT images (DeepCAC2)**|Leonard Nürnberg et.al.|[2603.24633](https://arxiv.org/abs/2603.24633)|null|
@@ -758,6 +760,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Strain-released epitaxy of GaN enabled by compliant single-crystalline metal foils**|Yaqing Ma et.al.|[2603.26325](https://arxiv.org/abs/2603.26325)|null|
+|**2026-03-27**|**MuDD: A Multimodal Deception Detection Dataset and GSR-Guided Progressive Distillation for Non-Contact Deception Detection**|Peiyuan Jiang et.al.|[2603.26064](https://arxiv.org/abs/2603.26064)|null|
+|**2026-03-26**|**Universal effect of ammonia pressure on synthesis of colloidal metal nitrides in molten salts**|Ruiming Lin et.al.|[2603.25847](https://arxiv.org/abs/2603.25847)|null|
 |**2026-03-26**|**Nonlinear Information from DESI Luminous Red Galaxies: An Emulator-Based Analysis of Pre- and Post-Reconstruction Power Spectra**|Yuting Wang et.al.|[2603.25693](https://arxiv.org/abs/2603.25693)|null|
 |**2026-03-26**|**Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating**|Yuxiang Gan et.al.|[2603.25652](https://arxiv.org/abs/2603.25652)|null|
 |**2026-03-26**|**An Integrative Genome-Scale Metabolic Modeling and Machine Learning Framework for Predicting and Optimizing Biofuel-Relevant Biomass Production in Saccharomyces cerevisiae**|Neha K. Nair et.al.|[2603.25561](https://arxiv.org/abs/2603.25561)|null|
