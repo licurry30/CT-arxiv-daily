@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.03
+## Updated on 2026.04.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
