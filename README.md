@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Applied Statistics Requires Scientific Context**|Ashley I Naimi et.al.|[2604.02526](https://arxiv.org/abs/2604.02526)|null|
 |**2026-04-02**|**FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting**|Pawel Tomasz Pieta et.al.|[2604.01844](https://arxiv.org/abs/2604.01844)|null|
 |**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](https://arxiv.org/abs/2604.01053)|null|
 |**2026-04-01**|**HICT: High-precision 3D CBCT reconstruction from a single X-ray**|Wen Ma et.al.|[2604.00792](https://arxiv.org/abs/2604.00792)|null|
@@ -786,6 +787,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment**|Jia Feng et.al.|[2604.02852](https://arxiv.org/abs/2604.02852)|null|
+|**2026-04-03**|**High-energy electronic excitations in La3Ni2O7 by time-resolved optical spectroscopy**|Junzhi Zhu et.al.|[2604.02843](https://arxiv.org/abs/2604.02843)|null|
+|**2026-04-03**|**V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views**|Junwei You et.al.|[2604.02710](https://arxiv.org/abs/2604.02710)|null|
+|**2026-04-03**|**Product-Stability: Provable Convergence for Gradient Descent on the Edge of Stability**|Eric Gan et.al.|[2604.02653](https://arxiv.org/abs/2604.02653)|null|
+|**2026-04-03**|**Wavelength-multiplexed massively parallel diffractive optical information storage and image projection**|Che-Yung Shen et.al.|[2604.02624](https://arxiv.org/abs/2604.02624)|null|
+|**2026-04-02**|**VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation**|Mengtian Li et.al.|[2604.02467](https://arxiv.org/abs/2604.02467)|null|
 |**2026-04-02**|**Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images**|Jamie S. J. Stirling et.al.|[2604.01843](https://arxiv.org/abs/2604.01843)|null|
 |**2026-04-02**|**Cognitive Energy Modeling for Neuroadaptive Human-Machine Systems using EEG and WGAN-GP**|Sriram Sattiraju et.al.|[2604.01653](https://arxiv.org/abs/2604.01653)|null|
 |**2026-04-02**|**Diffusion-Guided Adversarial Perturbation Injection for Generalizable Defense Against Facial Manipulations**|Yue Li et.al.|[2604.01635](https://arxiv.org/abs/2604.01635)|null|
