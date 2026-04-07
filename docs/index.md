@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Atomic Structure of Grain Boundaries, Dislocations and Associated Strain in Templated Co-evaporated Photoactive Halide Perovskites**|Huyen T Pham et.al.|[2604.04446](https://arxiv.org/abs/2604.04446)|null|
+|**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[2604.04133](https://arxiv.org/abs/2604.04133)|null|
 |**2026-04-02**|**Applied Statistics Requires Scientific Context**|Ashley I Naimi et.al.|[2604.02526](https://arxiv.org/abs/2604.02526)|null|
 |**2026-04-02**|**FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting**|Pawel Tomasz Pieta et.al.|[2604.01844](https://arxiv.org/abs/2604.01844)|null|
 |**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](https://arxiv.org/abs/2604.01053)|null|
@@ -506,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Partially deterministic sampling for compressed sensing with denoising guarantees**|Yaniv Plan et.al.|[2604.04802](https://arxiv.org/abs/2604.04802)|null|
 |**2026-04-02**|**FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting**|Pawel Tomasz Pieta et.al.|[2604.01844](https://arxiv.org/abs/2604.01844)|null|
 |**2026-03-31**|**Measuring the Representational Alignment of Neural Systems in Superposition**|Sunny Liu et.al.|[2604.00208](https://arxiv.org/abs/2604.00208)|null|
 |**2026-03-31**|**Training deep learning based dynamic MR image reconstruction using synthetic fractals**|Anirudh Raman et.al.|[2603.29922](https://arxiv.org/abs/2603.29922)|null|
@@ -777,6 +780,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation**|Houzhe Wang et.al.|[2604.04800](https://arxiv.org/abs/2604.04800)|null|
+|**2026-04-06**|**Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection**|Mei Qiu et.al.|[2604.04608](https://arxiv.org/abs/2604.04608)|null|
+|**2026-04-06**|**Comprehensive determination of Burgers vectors of threading dislocations in GaN substrates by combining reflection and transmission synchrotron-radiation x-ray topography**|Kazuki Ohnishi et.al.|[2604.04392](https://arxiv.org/abs/2604.04392)|null|
+|**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](https://arxiv.org/abs/2604.04135)|null|
+|**2026-04-05**|**Gaussian-Process Emulation of the Redshift-Space Halo Power Spectrum Monopole in Cosmologies with Massive Neutrinos**|Jixin Gan et.al.|[2604.04122](https://arxiv.org/abs/2604.04122)|null|
+|**2026-04-04**|**SPARK-IL: Spectral Retrieval-Augmented RAG for Knowledge-driven Deepfake Detection via Incremental Learning**|Hessen Bougueffa Eutamene et.al.|[2604.03833](https://arxiv.org/abs/2604.03833)|null|
+|**2026-04-04**|**SAGE-GAN: Towards Realistic and Robust Segmentation of Spatially Ordered Nanoparticles via Attention-Guided GANs**|Anindya Pal et.al.|[2604.03637](https://arxiv.org/abs/2604.03637)|null|
+|**2026-04-03**|**Microwave Performance of all MOCVD-grown AlScN/GaN MIS-HEMTs on Semi-Insulating GaN Substrates**|Can Cao et.al.|[2604.03485](https://arxiv.org/abs/2604.03485)|null|
 |**2026-04-03**|**Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment**|Jia Feng et.al.|[2604.02852](https://arxiv.org/abs/2604.02852)|null|
 |**2026-04-03**|**High-energy electronic excitations in La3Ni2O7 by time-resolved optical spectroscopy**|Junzhi Zhu et.al.|[2604.02843](https://arxiv.org/abs/2604.02843)|null|
 |**2026-04-03**|**V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views**|Junwei You et.al.|[2604.02710](https://arxiv.org/abs/2604.02710)|null|
