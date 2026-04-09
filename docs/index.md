@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images**|Xiaojun Zhang et.al.|[2604.07271](https://arxiv.org/abs/2604.07271)|null|
+|**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[2604.07141](https://arxiv.org/abs/2604.07141)|null|
+|**2026-04-08**|**Balancing Efficiency and Restoration: Lightweight Mamba-Based Model for CT Metal Artifact Reduction**|Weikai Qu et.al.|[2604.06622](https://arxiv.org/abs/2604.06622)|null|
+|**2026-04-06**|**No-reference based automatic parameter optimization for iterative reconstruction using a novel search space aware crow search algorithm**|Poorya MohammadiNasab et.al.|[2604.06246](https://arxiv.org/abs/2604.06246)|null|
 |**2026-04-07**|**Probing Intrinsic Medical Task Relationships: A Contrastive Learning Perspective**|Jonas Muth et.al.|[2604.05651](https://arxiv.org/abs/2604.05651)|null|
 |**2026-04-06**|**Atomic Structure of Grain Boundaries, Dislocations and Associated Strain in Templated Co-evaporated Photoactive Halide Perovskites**|Huyen T Pham et.al.|[2604.04446](https://arxiv.org/abs/2604.04446)|null|
 |**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[2604.04133](https://arxiv.org/abs/2604.04133)|null|
@@ -781,6 +785,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](https://arxiv.org/abs/2604.07350)|null|
+|**2026-04-08**|**Dual-Envelope Constrained Nonlinear MPC for Distributed Drive Electric Vehicles Drifting Under Bounded Steering and Direct Yaw-Moment Control**|Yurun Gan et.al.|[2604.07342](https://arxiv.org/abs/2604.07342)|null|
+|**2026-04-08**|**Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions**|Guo Gan et.al.|[2604.07277](https://arxiv.org/abs/2604.07277)|null|
+|**2026-04-08**|**Photon density of states engineering with generative inverse design for scalable 3D photonic metamaterials**|Zesen Zhou et.al.|[2604.07111](https://arxiv.org/abs/2604.07111)|null|
+|**2026-04-08**|**Scheduling the Unschedulable: Taming Black-Box LLM Inference at Scale**|Renzhong Yuan et.al.|[2604.06970](https://arxiv.org/abs/2604.06970)|null|
+|**2026-04-08**|**An Aligned Very-Low-Mass Star Orbiting an M dwarf and Obliquity Patterns Across Giant Planets, Brown Dwarfs, and Binary Stars**|Tianjun Gan et.al.|[2604.06595](https://arxiv.org/abs/2604.06595)|null|
+|**2026-04-07**|**Evolution of Video Generative Foundations**|Teng Hu et.al.|[2604.06339](https://arxiv.org/abs/2604.06339)|null|
+|**2026-04-07**|**Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models**|Jiayuan Liu et.al.|[2604.06263](https://arxiv.org/abs/2604.06263)|null|
 |**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168](https://arxiv.org/abs/2604.06168)|null|
 |**2026-04-07**|**JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing**|Linghui Meng et.al.|[2604.05845](https://arxiv.org/abs/2604.05845)|null|
 |**2026-04-07**|**Controllable Image Generation with Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2604.05730](https://arxiv.org/abs/2604.05730)|null|
