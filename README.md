@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**AMO-ENE: Attention-based Multi-Omics Fusion Model for Outcome Prediction in Extra Nodal Extension and HPV-associated Oropharyngeal Cancer**|Gautier Hénique et.al.|[2604.09280](https://arxiv.org/abs/2604.09280)|null|
+|**2026-04-10**|**Vision Transformers for Preoperative CT-Based Prediction of Histopathologic Chemotherapy Response Score in High-Grade Serous Ovarian Carcinoma**|Francesca Fati et.al.|[2604.09197](https://arxiv.org/abs/2604.09197)|null|
 |**2026-04-09**|**Quantifying Injection-Driven Mass Transfer within Porous Media via Time-Elapsed X-ray micro-Computed Tomography**|Christopher A. Allison et.al.|[2604.07743](https://arxiv.org/abs/2604.07743)|null|
 |**2026-04-08**|**Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images**|Xiaojun Zhang et.al.|[2604.07271](https://arxiv.org/abs/2604.07271)|null|
 |**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[2604.07141](https://arxiv.org/abs/2604.07141)|null|
@@ -797,7 +799,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-09**|**CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**|Rui Gan et.al.|[2604.08457](https://arxiv.org/abs/2604.08457)|null|
+|**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](https://arxiv.org/abs/2604.09529)|null|
+|**2026-04-10**|**Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion**|Seungjin Jung et.al.|[2604.09018](https://arxiv.org/abs/2604.09018)|null|
+|**2026-04-10**|**Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals**|Jiexi Song et.al.|[2604.08972](https://arxiv.org/abs/2604.08972)|null|
+|**2026-04-10**|**Genericness of quantum damping of cosmological shear in modified loop quantum cosmology**|Wen-Cong Gan et.al.|[2604.08912](https://arxiv.org/abs/2604.08912)|null|
+|**2026-04-10**|**CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**|Rui Gan et.al.|[2604.08457](https://arxiv.org/abs/2604.08457)|null|
 |**2026-04-09**|**A GAN and LLM-Driven Data Augmentation Framework for Dynamic Linguistic Pattern Modeling in Chinese Sarcasm Detection**|Wenxian Wang et.al.|[2604.08381](https://arxiv.org/abs/2604.08381)|null|
 |**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[2604.08305](https://arxiv.org/abs/2604.08305)|null|
 |**2026-04-09**|**A Systematic Framework for Tabular Data Disentanglement**|Ivan Tjuawinata et.al.|[2604.07940](https://arxiv.org/abs/2604.07940)|null|
