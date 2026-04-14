@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Low-dose Image Recognition with Quantum Computational Electron Microscopy**|Hiroshi Okamoto et.al.|[2604.11303](https://arxiv.org/abs/2604.11303)|null|
+|**2026-04-13**|**Neural-Network Inversion for the Temporal CT Multi-Source Bundle Problem: Per-Bundle Statistical Limits and Near-Optimal Performance**|Guy M. Besson et.al.|[2604.10934](https://arxiv.org/abs/2604.10934)|null|
+|**2026-04-13**|**Evaluating the Impact of Medical Image Reconstruction on Downstream AI Fairness and Performance**|Matteo Wohlrapp et.al.|[2604.10904](https://arxiv.org/abs/2604.10904)|null|
+|**2026-04-11**|**Voxel-Based Conversion of Hypofractionated Radiotherapy Dose Distributions to 2 Gy-Equivalent OAR Constraints: Proof-of-Concept Demonstrating the Radiobiological Benefits of Hypofractionation in a Prostate Radiotherapy Case**|Mazen Moussallem et.al.|[2604.10227](https://arxiv.org/abs/2604.10227)|null|
+|**2026-04-10**|**In-situ process monitoring for defect detection in wire-arc additive manufacturing: an agentic AI approach**|Pallock Halder et.al.|[2604.09889](https://arxiv.org/abs/2604.09889)|null|
 |**2026-04-10**|**AMO-ENE: Attention-based Multi-Omics Fusion Model for Outcome Prediction in Extra Nodal Extension and HPV-associated Oropharyngeal Cancer**|Gautier Hénique et.al.|[2604.09280](https://arxiv.org/abs/2604.09280)|null|
 |**2026-04-10**|**Vision Transformers for Preoperative CT-Based Prediction of Histopathologic Chemotherapy Response Score in High-Grade Serous Ovarian Carcinoma**|Francesca Fati et.al.|[2604.09197](https://arxiv.org/abs/2604.09197)|null|
 |**2026-04-09**|**Quantifying Injection-Driven Mass Transfer within Porous Media via Time-Elapsed X-ray micro-Computed Tomography**|Christopher A. Allison et.al.|[2604.07743](https://arxiv.org/abs/2604.07743)|null|
@@ -516,6 +521,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Progressively Texture-Aware Diffusion for Contrast-Enhanced Sparse-View CT**|Tianqi Wang et.al.|[2604.11559](https://arxiv.org/abs/2604.11559)|null|
+|**2026-04-12**|**INCRT: An Incremental Transformer That Determines Its Own Architecture**|Giansalvo Cirrincione et.al.|[2604.10703](https://arxiv.org/abs/2604.10703)|null|
+|**2026-04-12**|**Efficient imaging of quantum emitters using compressive sensing**|Sonali Gupta et.al.|[2604.10463](https://arxiv.org/abs/2604.10463)|null|
+|**2026-04-10**|**Memory-efficient optimization of implicit neural representations for CT reconstruction**|Mahrokh Najaf et.al.|[2604.09884](https://arxiv.org/abs/2604.09884)|null|
 |**2026-04-08**|**Universal, sample-optimal algorithms for recovery of anisotropic functions from i.i.d. samples**|Ben Adcock et.al.|[2604.07660](https://arxiv.org/abs/2604.07660)|null|
 |**2026-04-06**|**Partially deterministic sampling for compressed sensing with denoising guarantees**|Yaniv Plan et.al.|[2604.04802](https://arxiv.org/abs/2604.04802)|null|
 |**2026-04-02**|**FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting**|Pawel Tomasz Pieta et.al.|[2604.01844](https://arxiv.org/abs/2604.01844)|null|
@@ -789,6 +798,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](https://arxiv.org/abs/2604.11680)|null|
+|**2026-04-13**|**Video-based Heart Rate Estimation with Angle-guided ROI Optimization and Graph Signal Denoising**|Gan Pei et.al.|[2604.11395](https://arxiv.org/abs/2604.11395)|null|
+|**2026-04-13**|**Evaluating the Impact of Medical Image Reconstruction on Downstream AI Fairness and Performance**|Matteo Wohlrapp et.al.|[2604.10904](https://arxiv.org/abs/2604.10904)|null|
+|**2026-04-12**|**FedRio: Personalized Federated Social Bot Detection via Cooperative Reinforced Contrastive Adversarial Distillation**|Yingguang Yang et.al.|[2604.10678](https://arxiv.org/abs/2604.10678)|null|
+|**2026-04-12**|**Sign-to-Speech Prosody Transfer via Sign Reconstruction-based GAN**|Toranosuke Manabe et.al.|[2604.10413](https://arxiv.org/abs/2604.10413)|null|
+|**2026-04-11**|**Inductive Reasoning for Temporal Knowledge Graphs with Emerging Entities**|Ze Zhao et.al.|[2604.10164](https://arxiv.org/abs/2604.10164)|null|
 |**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](https://arxiv.org/abs/2604.09529)|null|
 |**2026-04-10**|**Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion**|Seungjin Jung et.al.|[2604.09018](https://arxiv.org/abs/2604.09018)|null|
 |**2026-04-10**|**Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals**|Jiexi Song et.al.|[2604.08972](https://arxiv.org/abs/2604.08972)|null|
