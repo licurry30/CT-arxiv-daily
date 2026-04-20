@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](https://arxiv.org/abs/2604.16104)|null|
+|**2026-04-17**|**SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|[2604.15651](https://arxiv.org/abs/2604.15651)|null|
+|**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](https://arxiv.org/abs/2604.15459)|null|
+|**2026-04-15**|**Portable Medical Imaging in Modern Healthcare: Fundamentals, AI-Based Taxonomy, Image Quality, and Open Challenges**|Yassine Habchi et.al.|[2604.15378](https://arxiv.org/abs/2604.15378)|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](https://arxiv.org/abs/2604.15231)|null|
 |**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](https://arxiv.org/abs/2604.13021)|null|
 |**2026-04-13**|**Low-dose Image Recognition with Quantum Computational Electron Microscopy**|Hiroshi Okamoto et.al.|[2604.11303](https://arxiv.org/abs/2604.11303)|null|
@@ -813,7 +817,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-16**|**Restricted Projections to Hyperplanes in  $\mathbb{R}^n$ **|Jiayin Liu et.al.|[2604.14662](https://arxiv.org/abs/2604.14662)|null|
+|**2026-04-17**|**ASMR-Bench: Auditing for Sabotage in ML Research**|Eric Gan et.al.|[2604.16286](https://arxiv.org/abs/2604.16286)|null|
+|**2026-04-17**|**Enhancing Hazy Wildlife Imagery: AnimalHaze3k and IncepDehazeGan**|Shivarth Rai et.al.|[2604.16284](https://arxiv.org/abs/2604.16284)|null|
+|**2026-04-17**|**Synthetic data in cryptocurrencies using generative models**|André Saimon S. Sousa et.al.|[2604.16182](https://arxiv.org/abs/2604.16182)|null|
+|**2026-04-17**|**Extending Galactic foreground emission with neural networks**|Giuseppe Puglisi et.al.|[2604.16167](https://arxiv.org/abs/2604.16167)|null|
+|**2026-04-17**|**SCHK-HTC: Sibling Contrastive Learning with Hierarchical Knowledge-Aware Prompt Tuning for Hierarchical Text Classification**|Ke Xiong et.al.|[2604.15998](https://arxiv.org/abs/2604.15998)|null|
+|**2026-04-17**|**A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI-1752**|A. Peláez-Torres et.al.|[2604.15816](https://arxiv.org/abs/2604.15816)|null|
+|**2026-04-17**|**Continual Hand-Eye Calibration for Open-world Robotic Manipulation**|Fazeng Li et.al.|[2604.15814](https://arxiv.org/abs/2604.15814)|null|
+|**2026-04-17**|**TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models**|Jinlun Ye et.al.|[2604.15756](https://arxiv.org/abs/2604.15756)|null|
+|**2026-04-15**|**An Agentic Workflow for Detecting Personally Identifiable Information in Crash Narratives**|Junyi Ma et.al.|[2604.15369](https://arxiv.org/abs/2604.15369)|null|
+|**2026-04-17**|**Restricted Projections to Hyperplanes in  $\mathbb{R}^n$ **|Jiayin Liu et.al.|[2604.14662](https://arxiv.org/abs/2604.14662)|null|
 |**2026-04-16**|**Multigrain-aware Semantic Prototype Scanning and Tri-Token Prompt Learning Embraced High-Order RWKV for Pan-Sharpening**|Junfeng Li et.al.|[2604.14622](https://arxiv.org/abs/2604.14622)|null|
 |**2026-04-16**|**Deepfake Detection Generalization with Diffusion Noise**|Hongyuan Qi et.al.|[2604.14570](https://arxiv.org/abs/2604.14570)|null|
 |**2026-04-15**|**GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification**|Wangjie Gan et.al.|[2604.14258](https://arxiv.org/abs/2604.14258)|null|
