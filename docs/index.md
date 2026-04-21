@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**AI Approach for MRI-only Full-Spine Vertebral Segmentation and 3D Reconstruction in Paediatric Scoliosis**|Nathasha Naranpanawa et.al.|[2604.17846](https://arxiv.org/abs/2604.17846)|null|
+|**2026-04-20**|**Score-Based Matching with Target Guidance for Cryo-EM Denoising**|Xiaoqi Wu et.al.|[2604.17734](https://arxiv.org/abs/2604.17734)|null|
+|**2026-04-18**|**Rethinking Cross-Dose PET Denoising: Mitigating Averaging Effects via Residual Noise Learning**|Yichao Liu et.al.|[2604.16925](https://arxiv.org/abs/2604.16925)|null|
 |**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](https://arxiv.org/abs/2604.16104)|null|
 |**2026-04-17**|**SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|[2604.15651](https://arxiv.org/abs/2604.15651)|null|
 |**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](https://arxiv.org/abs/2604.15459)|null|
@@ -807,6 +810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**LBFTI: Layer-Based Facial Template Inversion for Identity-Preserving Fine-Grained Face Reconstruction**|Zixuan Shen et.al.|[2604.18358](https://arxiv.org/abs/2604.18358)|null|
+|**2026-04-20**|**GPUOS: A GPU Operating System Primitive for Transparent Operation Fusion**|Yiwei Yang et.al.|[2604.17861](https://arxiv.org/abs/2604.17861)|null|
+|**2026-04-20**|**AI Approach for MRI-only Full-Spine Vertebral Segmentation and 3D Reconstruction in Paediatric Scoliosis**|Nathasha Naranpanawa et.al.|[2604.17846](https://arxiv.org/abs/2604.17846)|null|
+|**2026-04-20**|**Dynamic Visual-semantic Alignment for Zero-shot Learning with Ambiguous Labels**|Jiangnan Li et.al.|[2604.17710](https://arxiv.org/abs/2604.17710)|null|
+|**2026-04-19**|**MESA: A Training-Free Multi-Exemplar Deep Framework for Restoring Ancient Inscription Textures**|Vasileios Toulatzis et.al.|[2604.17390](https://arxiv.org/abs/2604.17390)|null|
+|**2026-04-18**|**Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models**|Oliver E. Richardson et.al.|[2604.17140](https://arxiv.org/abs/2604.17140)|null|
+|**2026-04-18**|**Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy**|Chenwei Zhang et.al.|[2604.16851](https://arxiv.org/abs/2604.16851)|null|
+|**2026-04-17**|**WP-MIP: An Artificial Intelligence, Hybrid and Physically Based Model Intercomparison Project for Weather Prediction**|Ron McTaggart-Cowan et.al.|[2604.16643](https://arxiv.org/abs/2604.16643)|null|
+|**2026-04-17**|**Physics-informed, Generative Adversarial Design of Funicular Shells**|Rúben Lourenço et.al.|[2604.16621](https://arxiv.org/abs/2604.16621)|null|
+|**2026-04-17**|**IncepDeHazeGAN: Novel Satellite Image Dehazing**|Tejeswar Pokuri et.al.|[2604.16609](https://arxiv.org/abs/2604.16609)|null|
 |**2026-04-17**|**ASMR-Bench: Auditing for Sabotage in ML Research**|Eric Gan et.al.|[2604.16286](https://arxiv.org/abs/2604.16286)|null|
 |**2026-04-17**|**Enhancing Hazy Wildlife Imagery: AnimalHaze3k and IncepDehazeGan**|Shivarth Rai et.al.|[2604.16284](https://arxiv.org/abs/2604.16284)|null|
 |**2026-04-17**|**Synthetic data in cryptocurrencies using generative models**|André Saimon S. Sousa et.al.|[2604.16182](https://arxiv.org/abs/2604.16182)|null|
