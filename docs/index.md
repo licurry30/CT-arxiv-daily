@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -530,6 +530,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](https://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**DUSG-Tomo-Net: A Deep Unfolded Neural Network for Super-Resolving Gridless Spaceborne SAR Tomography via Learned Toeplitz-Structured Covariance Representation**|Kun Qian et.al.|[2604.19084](https://arxiv.org/abs/2604.19084)|null|
+|**2026-04-20**|**Safety-Certified CRT Sparse FFT:  $Ω(k^2)$  Lower Bound and  $O(N \log N)$  Worst-Case**|Aaron R. Flouro et.al.|[2604.18911](https://arxiv.org/abs/2604.18911)|null|
 |**2026-03-22**|**Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models**|Andrew Kiruluta et.al.|[2604.14156](https://arxiv.org/abs/2604.14156)|null|
 |**2026-04-15**|**Phase transition in compressed sensing using log-sum penalty and adaptive smoothing**|Keisuke Morita et.al.|[2604.13511](https://arxiv.org/abs/2604.13511)|null|
 |**2026-04-14**|**Information-Theoretic Optimization for Task-Adapted Compressed Sensing Magnetic Resonance Imaging**|Xinyu Peng et.al.|[2604.12709](https://arxiv.org/abs/2604.12709)|null|
@@ -810,11 +813,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](https://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**A Network-Aware Evaluation of Distributed Energy Resource Control in Smart Distribution Systems**|Houchao Gan et.al.|[2604.19715](https://arxiv.org/abs/2604.19715)|null|
+|**2026-04-21**|**Electrically-injected room-temperature waveguide polariton laser**|Hassen Souissi et.al.|[2604.19513](https://arxiv.org/abs/2604.19513)|null|
 |**2026-04-20**|**LBFTI: Layer-Based Facial Template Inversion for Identity-Preserving Fine-Grained Face Reconstruction**|Zixuan Shen et.al.|[2604.18358](https://arxiv.org/abs/2604.18358)|null|
 |**2026-04-20**|**GPUOS: A GPU Operating System Primitive for Transparent Operation Fusion**|Yiwei Yang et.al.|[2604.17861](https://arxiv.org/abs/2604.17861)|null|
 |**2026-04-20**|**AI Approach for MRI-only Full-Spine Vertebral Segmentation and 3D Reconstruction in Paediatric Scoliosis**|Nathasha Naranpanawa et.al.|[2604.17846](https://arxiv.org/abs/2604.17846)|null|
 |**2026-04-20**|**Dynamic Visual-semantic Alignment for Zero-shot Learning with Ambiguous Labels**|Jiangnan Li et.al.|[2604.17710](https://arxiv.org/abs/2604.17710)|null|
-|**2026-04-19**|**MESA: A Training-Free Multi-Exemplar Deep Framework for Restoring Ancient Inscription Textures**|Vasileios Toulatzis et.al.|[2604.17390](https://arxiv.org/abs/2604.17390)|null|
+|**2026-04-21**|**MESA: A Training-Free Multi-Exemplar Deep Framework for Restoring Ancient Inscription Textures**|Vasileios Toulatzis et.al.|[2604.17390](https://arxiv.org/abs/2604.17390)|null|
 |**2026-04-18**|**Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models**|Oliver E. Richardson et.al.|[2604.17140](https://arxiv.org/abs/2604.17140)|null|
 |**2026-04-18**|**Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy**|Chenwei Zhang et.al.|[2604.16851](https://arxiv.org/abs/2604.16851)|null|
 |**2026-04-17**|**WP-MIP: An Artificial Intelligence, Hybrid and Physically Based Model Intercomparison Project for Weather Prediction**|Ron McTaggart-Cowan et.al.|[2604.16643](https://arxiv.org/abs/2604.16643)|null|
