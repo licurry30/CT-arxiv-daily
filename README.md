@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Catheter Monitoring in Intelligent Endovascular Navigation Systems: Interactive Simulations and Mixed Reality for Enhanced Navigational Awareness**|Veronica Ruozzi et.al.|[2604.22497](https://arxiv.org/abs/2604.22497)|null|
+|**2026-04-24**|**The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers**|Sabine Leroch et.al.|[2604.22434](https://arxiv.org/abs/2604.22434)|null|
+|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction**|Shiyan Su et.al.|[2604.21518](https://arxiv.org/abs/2604.21518)|null|
 |**2026-04-22**|**The Radon Transform, True Time Delay Beamforming, and Ultra-Wideband Antenna Arrays (Invited Paper)**|Tyler Ikehara et.al.|[2604.21022](https://arxiv.org/abs/2604.21022)|null|
 |**2026-04-22**|**PanGuide3D: Cohort-Robust Pancreas Tumor Segmentation via Probabilistic Pancreas Conditioning and a Transformer Bottleneck**|Sunny Joy Ma et.al.|[2604.20981](https://arxiv.org/abs/2604.20981)|null|
@@ -543,6 +546,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**Large values in time series and additive combinatorics**|Alex Iosevich et.al.|[2604.21292](https://arxiv.org/abs/2604.21292)|null|
 |**2026-04-22**|**Complex Approximate Message Passing with Non-separable Denoising**|Vishnu Teja Kunde et.al.|[2604.21115](https://arxiv.org/abs/2604.21115)|null|
 |**2026-04-22**|**Deep Reinforcement Learning for Optimizing Angle Selection and Dose Allocation in CT Reconstruction**|Tianyuan Wang et.al.|[2604.20939](https://arxiv.org/abs/2604.20939)|null|
@@ -832,6 +836,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**AI-based experts' knowledge visualization of cultural heritage: A case study of Terracotta Warriors**|Siyi Li et.al.|[2604.22480](https://arxiv.org/abs/2604.22480)|null|
+|**2026-04-24**|**Efficient Diffusion Distillation via Embedding Loss**|Jincheng Ying et.al.|[2604.22379](https://arxiv.org/abs/2604.22379)|null|
+|**2026-04-24**|**TabSCM: A practical Framework for Generating Realistic Tabular Data**|Sven Jacob et.al.|[2604.22337](https://arxiv.org/abs/2604.22337)|null|
+|**2026-04-23**|**Generating Synthetic Malware Samples Using Generative AI**|Tiffany Bao et.al.|[2604.22084](https://arxiv.org/abs/2604.22084)|null|
+|**2026-04-23**|**Spin-polarized Energy Density Method from Spin-Density Functional Theory**|Yang Dan et.al.|[2604.22044](https://arxiv.org/abs/2604.22044)|null|
 |**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](https://arxiv.org/abs/2604.21627)|null|
 |**2026-04-23**|**AttDiff-GAN: A Hybrid Diffusion-GAN Framework for Facial Attribute Editing**|Wenmin Huang et.al.|[2604.21289](https://arxiv.org/abs/2604.21289)|null|
 |**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](https://arxiv.org/abs/2604.21279)|null|
