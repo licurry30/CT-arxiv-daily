@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Unsupervised Physics-Informed Deep Learning for Dual-Energy CT Material Decomposition**|Laura Hellwege et.al.|[2604.25356](https://arxiv.org/abs/2604.25356)|null|
+|**2026-04-27**|**BifDet: A 3D Bifurcation Detection Dataset for Airway-Tree Modeling**|Ali Keshavarzi et.al.|[2604.24999](https://arxiv.org/abs/2604.24999)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
 |**2026-04-27**|**EXACT: an explainable anomaly-aware vision foundation model for analysis of 3D chest CT**|Xuguang Bai et.al.|[2604.24146](https://arxiv.org/abs/2604.24146)|null|
 |**2026-04-27**|**CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation**|Ruifeng Yuan et.al.|[2604.24001](https://arxiv.org/abs/2604.24001)|null|
@@ -542,6 +544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Quantum Compressed Sensing Enables Image Classification with a Single Photon**|Yanshan Fan et.al.|[2604.25480](https://arxiv.org/abs/2604.25480)|null|
+|**2026-04-27**|**Stabilizers for Compiling Logical Circuits under Hardware Constraints**|Jack Weinberg et.al.|[2604.25042](https://arxiv.org/abs/2604.25042)|null|
 |**2026-04-24**|**Benchmarking Open-Source FDK Against Commercial and Iterative Reconstruction Methods for Preclinical Micro-CBCT**|Falk L Wiegmann et.al.|[2604.23047](https://arxiv.org/abs/2604.23047)|null|
 |**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**Large values in time series and additive combinatorics**|Alex Iosevich et.al.|[2604.21292](https://arxiv.org/abs/2604.21292)|null|
@@ -831,6 +835,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Magnification-Invariant Image Classification via Domain Generalization and Stable Sparse Embedding Signatures**|Ifeanyi Ezuma et.al.|[2604.25817](https://arxiv.org/abs/2604.25817)|null|
+|**2026-04-28**|**Improving Diversity in Black-box Few-shot Knowledge Distillation**|Tri-Nhan Vo et.al.|[2604.25795](https://arxiv.org/abs/2604.25795)|null|
+|**2026-04-28**|**UNet-Based Fusion and Exponential Moving Average Adaptation for Noise-Robust Speaker Recognition**|Chong-Xin Gan et.al.|[2604.25624](https://arxiv.org/abs/2604.25624)|null|
+|**2026-04-28**|**Distributed adaptive estimation for stochastic large regression models**|Die Gan et.al.|[2604.25468](https://arxiv.org/abs/2604.25468)|null|
+|**2026-04-28**|**ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution**|Chuyao Fu et.al.|[2604.25329](https://arxiv.org/abs/2604.25329)|null|
+|**2026-04-28**|**Cutscene Agent: An LLM Agent Framework for Automated 3D Cutscene Generation**|Lanshan He et.al.|[2604.25318](https://arxiv.org/abs/2604.25318)|null|
+|**2026-04-28**|**Reversible Modulation of Thermal Conductivity in GaN via Strain-Driven Reorganization of Dislocation Ensembles**|Shantal Adajian et.al.|[2604.25287](https://arxiv.org/abs/2604.25287)|null|
+|**2026-04-28**|**Towards Seamless Lunar Mosaics: Deep Radiometric Normalization for Cross-Sensor Orbital Imagery Using Chandrayaan-2 TMC Data**|Pratincha Singh et.al.|[2604.25208](https://arxiv.org/abs/2604.25208)|null|
+|**2026-04-28**|**Mitigating Shared-Private Branch Imbalance via Dual-Branch Rebalancing for Multimodal Sentiment Analysis**|Chunlei Meng et.al.|[2604.25179](https://arxiv.org/abs/2604.25179)|null|
 |**2026-04-27**|**Step- and terrace-resolved crystal truncation rod scattering from vicinal surfaces under coherent heteroepitaxy**|Junlin Wu et.al.|[2604.24604](https://arxiv.org/abs/2604.24604)|null|
 |**2026-04-27**|**CA-IDD: Cross-Attention Guided Identity-Conditional Diffusion for Identity-Consistent Face Swapping**|Md Shohel Rana et.al.|[2604.24493](https://arxiv.org/abs/2604.24493)|null|
 |**2026-04-27**|**Atomistic Mechanisms of Temperature-Dependent Ion Track Formation in Gallium Nitride under Swift Heavy Ion Irradiation**|Jiayu Liang et.al.|[2604.24288](https://arxiv.org/abs/2604.24288)|null|
