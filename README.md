@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Virtual-reality based patient-specific simulation of spine surgical procedures: A fast, highly automated and high-fidelity system for surgical education and planning**|Raj Kumar Ranabhat et.al.|[2604.26781](https://arxiv.org/abs/2604.26781)|null|
 |**2026-04-28**|**Unsupervised Physics-Informed Deep Learning for Dual-Energy CT Material Decomposition**|Laura Hellwege et.al.|[2604.25356](https://arxiv.org/abs/2604.25356)|null|
 |**2026-04-27**|**BifDet: A 3D Bifurcation Detection Dataset for Airway-Tree Modeling**|Ali Keshavarzi et.al.|[2604.24999](https://arxiv.org/abs/2604.24999)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
@@ -31,7 +32,7 @@
 |**2026-04-22**|**On the convergence of an adaptive denoiser driven iterative regularization with early stopping**|Harshit Bajpai et.al.|[2604.20360](https://arxiv.org/abs/2604.20360)|null|
 |**2026-04-20**|**AI Approach for MRI-only Full-Spine Vertebral Segmentation and 3D Reconstruction in Paediatric Scoliosis**|Nathasha Naranpanawa et.al.|[2604.17846](https://arxiv.org/abs/2604.17846)|null|
 |**2026-04-20**|**Score-Based Matching with Target Guidance for Cryo-EM Denoising**|Xiaoqi Wu et.al.|[2604.17734](https://arxiv.org/abs/2604.17734)|null|
-|**2026-04-18**|**Rethinking Cross-Dose PET Denoising: Mitigating Averaging Effects via Residual Noise Learning**|Yichao Liu et.al.|[2604.16925](https://arxiv.org/abs/2604.16925)|null|
+|**2026-04-29**|**Rethinking Cross-Dose PET Denoising: Mitigating Averaging Effects via Residual Noise Learning**|Yichao Liu et.al.|[2604.16925](https://arxiv.org/abs/2604.16925)|null|
 |**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](https://arxiv.org/abs/2604.16104)|null|
 |**2026-04-17**|**SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|[2604.15651](https://arxiv.org/abs/2604.15651)|null|
 |**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](https://arxiv.org/abs/2604.15459)|null|
@@ -546,7 +547,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## SVCT
 
@@ -839,12 +840,17 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al.|[2604.26868](https://arxiv.org/abs/2604.26868)|null|
+|**2026-04-29**|**GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents**|GLM-V Team et.al.|[2604.26752](https://arxiv.org/abs/2604.26752)|null|
+|**2026-04-29**|**SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts**|Yuan Xin et.al.|[2604.26506](https://arxiv.org/abs/2604.26506)|null|
+|**2026-04-29**|**RV and TTV Measurements of Two Transiting Long-Period Giants around TOI-4600**|Tong Hu et.al.|[2604.26426](https://arxiv.org/abs/2604.26426)|null|
+|**2026-04-28**|**Mining Negative Sequential Patterns to Improve Viral Genomic Feature Representation and Classification**|Wenxi Zhu et.al.|[2604.25968](https://arxiv.org/abs/2604.25968)|null|
 |**2026-04-28**|**Magnification-Invariant Image Classification via Domain Generalization and Stable Sparse Embedding Signatures**|Ifeanyi Ezuma et.al.|[2604.25817](https://arxiv.org/abs/2604.25817)|null|
 |**2026-04-28**|**Improving Diversity in Black-box Few-shot Knowledge Distillation**|Tri-Nhan Vo et.al.|[2604.25795](https://arxiv.org/abs/2604.25795)|null|
 |**2026-04-28**|**UNet-Based Fusion and Exponential Moving Average Adaptation for Noise-Robust Speaker Recognition**|Chong-Xin Gan et.al.|[2604.25624](https://arxiv.org/abs/2604.25624)|null|
@@ -2057,7 +2063,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2105,5 +2111,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
