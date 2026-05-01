@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.|[2604.27552](https://arxiv.org/abs/2604.27552)|null|
 |**2026-04-29**|**Virtual-reality based patient-specific simulation of spine surgical procedures: A fast, highly automated and high-fidelity system for surgical education and planning**|Raj Kumar Ranabhat et.al.|[2604.26781](https://arxiv.org/abs/2604.26781)|null|
 |**2026-04-28**|**Unsupervised Physics-Informed Deep Learning for Dual-Energy CT Material Decomposition**|Laura Hellwege et.al.|[2604.25356](https://arxiv.org/abs/2604.25356)|null|
 |**2026-04-27**|**BifDet: A 3D Bifurcation Detection Dataset for Airway-Tree Modeling**|Ali Keshavarzi et.al.|[2604.24999](https://arxiv.org/abs/2604.24999)|null|
@@ -545,6 +546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Low-cost passive single-shot ultrafast imaging at 685 Gfps**|Dilem Eşlik et.al.|[2604.27898](https://arxiv.org/abs/2604.27898)|null|
+|**2026-04-30**|**Compressed Sensing for Efficient Fidelity Estimation of GHZ States**|Farrokh Labib et.al.|[2604.27824](https://arxiv.org/abs/2604.27824)|null|
 |**2026-04-28**|**Quantum Compressed Sensing Enables Image Classification with a Single Photon**|Yanshan Fan et.al.|[2604.25480](https://arxiv.org/abs/2604.25480)|null|
 |**2026-04-27**|**Stabilizers for Compiling Logical Circuits under Hardware Constraints**|Jack Weinberg et.al.|[2604.25042](https://arxiv.org/abs/2604.25042)|null|
 |**2026-04-24**|**Benchmarking Open-Source FDK Against Commercial and Iterative Reconstruction Methods for Preclinical Micro-CBCT**|Falk L Wiegmann et.al.|[2604.23047](https://arxiv.org/abs/2604.23047)|null|
@@ -836,6 +839,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Size-Limited Room Temperature Single-Photon Emission from Sidewall-Treated Fractional Dimension InGaN Quantum Dots: Determined by Density-of-States-Corrected Ultrafast Carrier Dynamics and Improved Signal-to-Noise Ratio**|Pratim K. Saha et.al.|[2604.27718](https://arxiv.org/abs/2604.27718)|null|
+|**2026-04-29**|**Preserving Temporal Dynamics in Time Series Generation**|Ci Lin et.al.|[2604.27182](https://arxiv.org/abs/2604.27182)|null|
+|**2026-04-29**|**Step-level Optimization for Efficient Computer-use Agents**|Jinbiao Wei et.al.|[2604.27151](https://arxiv.org/abs/2604.27151)|null|
+|**2026-04-29**|**Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling**|Zhen Zhang et.al.|[2604.27039](https://arxiv.org/abs/2604.27039)|null|
 |**2026-04-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al.|[2604.26868](https://arxiv.org/abs/2604.26868)|null|
 |**2026-04-29**|**GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents**|GLM-V Team et.al.|[2604.26752](https://arxiv.org/abs/2604.26752)|null|
 |**2026-04-29**|**SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts**|Yuan Xin et.al.|[2604.26506](https://arxiv.org/abs/2604.26506)|null|
