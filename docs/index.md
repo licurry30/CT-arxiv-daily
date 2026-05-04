@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](https://arxiv.org/abs/2605.00793)|null|
+|**2026-05-01**|**Learning from Compressed CT: Feature Attention Style Transfer and Structured Factorized Projections for Resource-Efficient Medical Image Analysis**|Shadid Yousuf et.al.|[2605.00448](https://arxiv.org/abs/2605.00448)|null|
+|**2026-05-01**|**CURE-OOD: Benchmarking Out-of-Distribution Detection for Survival Prediction**|Wenjie Zhao et.al.|[2605.00350](https://arxiv.org/abs/2605.00350)|null|
 |**2026-04-30**|**Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.|[2604.27552](https://arxiv.org/abs/2604.27552)|null|
 |**2026-04-29**|**Virtual-reality based patient-specific simulation of spine surgical procedures: A fast, highly automated and high-fidelity system for surgical education and planning**|Raj Kumar Ranabhat et.al.|[2604.26781](https://arxiv.org/abs/2604.26781)|null|
 |**2026-04-28**|**Unsupervised Physics-Informed Deep Learning for Dual-Energy CT Material Decomposition**|Laura Hellwege et.al.|[2604.25356](https://arxiv.org/abs/2604.25356)|null|
@@ -19,7 +22,7 @@ layout: default
 |**2026-04-24**|**Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients**|Jia-Mian Wu et.al.|[2604.22894](https://arxiv.org/abs/2604.22894)|null|
 |**2026-04-24**|**Catheter Monitoring in Intelligent Endovascular Navigation Systems: Interactive Simulations and Mixed Reality for Enhanced Navigational Awareness**|Veronica Ruozzi et.al.|[2604.22497](https://arxiv.org/abs/2604.22497)|null|
 |**2026-04-24**|**The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers**|Sabine Leroch et.al.|[2604.22434](https://arxiv.org/abs/2604.22434)|null|
-|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
+|**2026-05-01**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction**|Shiyan Su et.al.|[2604.21518](https://arxiv.org/abs/2604.21518)|null|
 |**2026-04-22**|**The Radon Transform, True Time Delay Beamforming, and Ultra-Wideband Antenna Arrays (Invited Paper)**|Tyler Ikehara et.al.|[2604.21022](https://arxiv.org/abs/2604.21022)|null|
 |**2026-04-22**|**PanGuide3D: Cohort-Robust Pancreas Tumor Segmentation via Probabilistic Pancreas Conditioning and a Transformer Bottleneck**|Sunny Joy Ma et.al.|[2604.20981](https://arxiv.org/abs/2604.20981)|null|
@@ -551,7 +554,7 @@ layout: default
 |**2026-04-28**|**Quantum Compressed Sensing Enables Image Classification with a Single Photon**|Yanshan Fan et.al.|[2604.25480](https://arxiv.org/abs/2604.25480)|null|
 |**2026-04-27**|**Stabilizers for Compiling Logical Circuits under Hardware Constraints**|Jack Weinberg et.al.|[2604.25042](https://arxiv.org/abs/2604.25042)|null|
 |**2026-04-24**|**Benchmarking Open-Source FDK Against Commercial and Iterative Reconstruction Methods for Preclinical Micro-CBCT**|Falk L Wiegmann et.al.|[2604.23047](https://arxiv.org/abs/2604.23047)|null|
-|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
+|**2026-05-01**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](https://arxiv.org/abs/2604.21960)|null|
 |**2026-04-23**|**Large values in time series and additive combinatorics**|Alex Iosevich et.al.|[2604.21292](https://arxiv.org/abs/2604.21292)|null|
 |**2026-04-22**|**Complex Approximate Message Passing with Non-separable Denoising**|Vishnu Teja Kunde et.al.|[2604.21115](https://arxiv.org/abs/2604.21115)|null|
 |**2026-04-22**|**Deep Reinforcement Learning for Optimizing Angle Selection and Dose Allocation in CT Reconstruction**|Tianyuan Wang et.al.|[2604.20939](https://arxiv.org/abs/2604.20939)|null|
@@ -839,6 +842,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](https://arxiv.org/abs/2605.00793)|null|
+|**2026-05-01**|**AdvNet: Revealing Performance Issues in Network Protocols by Generating Adversarial Environments**|Shehab Sarar Ahmed et.al.|[2605.00755](https://arxiv.org/abs/2605.00755)|null|
+|**2026-05-01**|**D-SHIFT: Transferring High Spatial Information from GRACE Monthly TWSA Mascon to Daily Products Using Generative Adversarial Networks**|Andreas Dombos et.al.|[2605.00652](https://arxiv.org/abs/2605.00652)|null|
+|**2026-05-01**|**Transformer-based End-to-End Control Filter Generation for Active Noise Control**|Ziyi Yang et.al.|[2605.00494](https://arxiv.org/abs/2605.00494)|null|
+|**2026-05-01**|**An Advanced Epitaxial Strategy Enabling Vertical GaN Devices on Silicon Wafers**|Fumio Kawamura et.al.|[2605.00464](https://arxiv.org/abs/2605.00464)|null|
+|**2026-05-01**|**Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration**|Chunlei Meng et.al.|[2605.00370](https://arxiv.org/abs/2605.00370)|null|
+|**2026-05-01**|**Flow matching for Sentinel-2 super-resolution: implementation, application, and implications**|Dakota Hester et.al.|[2605.00367](https://arxiv.org/abs/2605.00367)|null|
+|**2026-05-01**|**Beyond Visual Fidelity: Benchmarking Super-Resolution Models for Large-Scale Remote Sensing Imagery via Downstream Task Integration**|Zhili Li et.al.|[2605.00310](https://arxiv.org/abs/2605.00310)|null|
+|**2026-04-30**|**Caracal: Causal Architecture via Spectral Mixing**|Bingzheng Gan et.al.|[2605.00292](https://arxiv.org/abs/2605.00292)|null|
 |**2026-04-30**|**Size-Limited Room Temperature Single-Photon Emission from Sidewall-Treated Fractional Dimension InGaN Quantum Dots: Determined by Density-of-States-Corrected Ultrafast Carrier Dynamics and Improved Signal-to-Noise Ratio**|Pratim K. Saha et.al.|[2604.27718](https://arxiv.org/abs/2604.27718)|null|
 |**2026-04-29**|**Preserving Temporal Dynamics in Time Series Generation**|Ci Lin et.al.|[2604.27182](https://arxiv.org/abs/2604.27182)|null|
 |**2026-04-29**|**Step-level Optimization for Efficient Computer-use Agents**|Jinbiao Wei et.al.|[2604.27151](https://arxiv.org/abs/2604.27151)|null|
