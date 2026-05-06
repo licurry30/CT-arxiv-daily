@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Learning to Segment using Summary Statistics and Weak Supervision**|Omkar Kulkarni et.al.|[2605.03059](https://arxiv.org/abs/2605.03059)|null|
+|**2026-05-03**|**Adaptive Texture-aware Masking for Self-Supervised Learning in 3D Dental CBCT Analysis**|Xinquan Yang et.al.|[2605.01741](https://arxiv.org/abs/2605.01741)|null|
+|**2026-05-01**|**Patient-Specific Optimization for Mandibular Reconstruction Planning with Enhanced Bone Union**|Hamidreza Aftabi et.al.|[2605.01084](https://arxiv.org/abs/2605.01084)|null|
+|**2026-05-01**|**Neighbor2Inverse: Self-Supervised Denoising for Low-Dose Region-of-Interest Phase Contrast CT**|Johannes B. Thalhammer et.al.|[2605.01075](https://arxiv.org/abs/2605.01075)|null|
+|**2026-04-30**|**A Proof-of-Concept Study of Multitask Learning for Cranial Synthetic CT Generation Across Heterogeneous MRI Field Strengths**|Zhuoyao Xin et.al.|[2605.00923](https://arxiv.org/abs/2605.00923)|null|
 |**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](https://arxiv.org/abs/2605.00793)|null|
 |**2026-05-01**|**Learning from Compressed CT: Feature Attention Style Transfer and Structured Factorized Projections for Resource-Efficient Medical Image Analysis**|Shadid Yousuf et.al.|[2605.00448](https://arxiv.org/abs/2605.00448)|null|
 |**2026-05-01**|**CURE-OOD: Benchmarking Out-of-Distribution Detection for Survival Prediction**|Wenjie Zhao et.al.|[2605.00350](https://arxiv.org/abs/2605.00350)|null|
@@ -551,12 +556,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-03**|**Coherence-Minimized Sensing Matrix Design for MRI Reconstruction via Dual-Space Projection Optimization**|Siyuan Feng et.al.|[2605.01753](https://arxiv.org/abs/2605.01753)|null|
+|**2026-05-02**|**CSGuard: Toward Forgery-Resistant Watermarking in Diffusion Models via Compressed Sensing Constraint**|Jiewei Lai et.al.|[2605.01479](https://arxiv.org/abs/2605.01479)|null|
 |**2026-04-30**|**Low-cost passive single-shot ultrafast imaging at 685 Gfps**|Dilem Eşlik et.al.|[2604.27898](https://arxiv.org/abs/2604.27898)|null|
 |**2026-04-30**|**Compressed Sensing for Efficient Fidelity Estimation of GHZ States**|Farrokh Labib et.al.|[2604.27824](https://arxiv.org/abs/2604.27824)|null|
 |**2026-04-28**|**Quantum Compressed Sensing Enables Image Classification with a Single Photon**|Yanshan Fan et.al.|[2604.25480](https://arxiv.org/abs/2604.25480)|null|
@@ -566,7 +573,7 @@
 |**2026-04-23**|**Large values in time series and additive combinatorics**|Alex Iosevich et.al.|[2604.21292](https://arxiv.org/abs/2604.21292)|null|
 |**2026-04-22**|**Complex Approximate Message Passing with Non-separable Denoising**|Vishnu Teja Kunde et.al.|[2604.21115](https://arxiv.org/abs/2604.21115)|null|
 |**2026-04-22**|**Deep Reinforcement Learning for Optimizing Angle Selection and Dose Allocation in CT Reconstruction**|Tianyuan Wang et.al.|[2604.20939](https://arxiv.org/abs/2604.20939)|null|
-|**2026-04-21**|**Algebraic Diversity: Principles of a Group-Theoretic Approach to Signal Processing**|Mitchell A. Thornton et.al.|[2604.19983](https://arxiv.org/abs/2604.19983)|null|
+|**2026-05-04**|**Algebraic Diversity: Principles of a Group-Theoretic Approach to Signal Processing**|Mitchell A. Thornton et.al.|[2604.19983](https://arxiv.org/abs/2604.19983)|null|
 |**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](https://arxiv.org/abs/2604.19736)|null|
 |**2026-04-21**|**DUSG-Tomo-Net: A Deep Unfolded Neural Network for Super-Resolving Gridless Spaceborne SAR Tomography via Learned Toeplitz-Structured Covariance Representation**|Kun Qian et.al.|[2604.19084](https://arxiv.org/abs/2604.19084)|null|
 |**2026-04-20**|**Safety-Certified CRT Sparse FFT:  $Ω(k^2)$  Lower Bound and  $O(N \log N)$  Worst-Case**|Aaron R. Flouro et.al.|[2604.18911](https://arxiv.org/abs/2604.18911)|null|
@@ -846,14 +853,22 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Neural-network reconstruction of THz transmission spectra using electrically tunable AlGaN/GaN plasmonic-crystal analyzer**|A. Witkowska et.al.|[2605.03778](https://arxiv.org/abs/2605.03778)|null|
+|**2026-05-05**|**SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition**|Ruichu Cai et.al.|[2605.03706](https://arxiv.org/abs/2605.03706)|null|
+|**2026-05-05**|**WGAN based Inverse Design of Active Dual Band FSS with Switchable Transmission**|Rui Xi et.al.|[2605.03335](https://arxiv.org/abs/2605.03335)|null|
+|**2026-05-04**|**Information Theory and Statistical Learning**|Abbas El Gamal et.al.|[2605.02989](https://arxiv.org/abs/2605.02989)|null|
+|**2026-05-04**|**Virtual Scanning for NSCLC Histology: Investigating the Discriminatory Power of Synthetic PET**|Fatih Aksu et.al.|[2605.02746](https://arxiv.org/abs/2605.02746)|null|
+|**2026-05-03**|**Cross-Domain Adversarial Augmentation: Stabilizing GANs for Medical and Handwriting Data Scarcity**|Md. Sohanuzzaman Soad et.al.|[2605.01815](https://arxiv.org/abs/2605.01815)|null|
+|**2026-05-02**|**MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech**|Yutong Jin et.al.|[2605.01515](https://arxiv.org/abs/2605.01515)|null|
+|**2026-05-02**|**Phase-map synthesis from magnitude-only MR images using conditional score-based diffusion models with application in training of accelerated MRI reconstruction models**|M. Berk Sahin et.al.|[2605.01185](https://arxiv.org/abs/2605.01185)|null|
 |**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[2605.00793](https://arxiv.org/abs/2605.00793)|null|
-|**2026-05-01**|**AdvNet: Revealing Performance Issues in Network Protocols by Generating Adversarial Environments**|Shehab Sarar Ahmed et.al.|[2605.00755](https://arxiv.org/abs/2605.00755)|null|
+|**2026-05-04**|**AdvNet: Revealing Performance Issues in Network Protocols by Generating Adversarial Environments**|Shehab Sarar Ahmed et.al.|[2605.00755](https://arxiv.org/abs/2605.00755)|null|
 |**2026-05-01**|**D-SHIFT: Transferring High Spatial Information from GRACE Monthly TWSA Mascon to Daily Products Using Generative Adversarial Networks**|Andreas Dombos et.al.|[2605.00652](https://arxiv.org/abs/2605.00652)|null|
 |**2026-05-01**|**Transformer-based End-to-End Control Filter Generation for Active Noise Control**|Ziyi Yang et.al.|[2605.00494](https://arxiv.org/abs/2605.00494)|null|
 |**2026-05-01**|**An Advanced Epitaxial Strategy Enabling Vertical GaN Devices on Silicon Wafers**|Fumio Kawamura et.al.|[2605.00464](https://arxiv.org/abs/2605.00464)|null|
@@ -2082,7 +2097,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2130,5 +2145,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
