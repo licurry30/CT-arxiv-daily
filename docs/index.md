@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.08
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](https://arxiv.org/abs/2605.06558)|null|
+|**2026-05-07**|**Nonlinear RMM-GKS for Large-Scale Dynamic and Streaming Inverse Problems with Uncertain Forward Operators**|Toluwani Okunola et.al.|[2605.06336](https://arxiv.org/abs/2605.06336)|null|
+|**2026-05-06**|**3D Ultrasound-Derived Pseudo-CT Synthesis Using a Transformer-Augmented Residual Network for Real-Time Operator Guidance**|Sapna Sachan et.al.|[2605.04856](https://arxiv.org/abs/2605.04856)|null|
 |**2026-05-04**|**Learning to Segment using Summary Statistics and Weak Supervision**|Omkar Kulkarni et.al.|[2605.03059](https://arxiv.org/abs/2605.03059)|null|
 |**2026-05-03**|**Adaptive Texture-aware Masking for Self-Supervised Learning in 3D Dental CBCT Analysis**|Xinquan Yang et.al.|[2605.01741](https://arxiv.org/abs/2605.01741)|null|
 |**2026-05-01**|**Patient-Specific Optimization for Mandibular Reconstruction Planning with Enhanced Bone Union**|Hamidreza Aftabi et.al.|[2605.01084](https://arxiv.org/abs/2605.01084)|null|
@@ -21,6 +24,7 @@ layout: default
 |**2026-04-29**|**Virtual-reality based patient-specific simulation of spine surgical procedures: A fast, highly automated and high-fidelity system for surgical education and planning**|Raj Kumar Ranabhat et.al.|[2604.26781](https://arxiv.org/abs/2604.26781)|null|
 |**2026-04-28**|**Unsupervised Physics-Informed Deep Learning for Dual-Energy CT Material Decomposition**|Laura Hellwege et.al.|[2604.25356](https://arxiv.org/abs/2604.25356)|null|
 |**2026-04-27**|**BifDet: A 3D Bifurcation Detection Dataset for Airway-Tree Modeling**|Ali Keshavarzi et.al.|[2604.24999](https://arxiv.org/abs/2604.24999)|null|
+|**2026-05-07**|**Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy**|Georgia Channing et.al.|[2604.24909](https://arxiv.org/abs/2604.24909)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524](https://arxiv.org/abs/2604.24524)|null|
 |**2026-04-27**|**EXACT: an explainable anomaly-aware vision foundation model for analysis of 3D chest CT**|Xuguang Bai et.al.|[2604.24146](https://arxiv.org/abs/2604.24146)|null|
 |**2026-04-27**|**CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation**|Ruifeng Yuan et.al.|[2604.24001](https://arxiv.org/abs/2604.24001)|null|
@@ -554,6 +558,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Active Learning for Conditional Generative Compressed Sensing**|Alexander DeLise et.al.|[2605.05435](https://arxiv.org/abs/2605.05435)|null|
+|**2026-05-06**|**On Unbiased Parameter Estimation and Signal Reconstruction**|Joonas Lahtinen et.al.|[2605.05276](https://arxiv.org/abs/2605.05276)|null|
 |**2026-05-03**|**Coherence-Minimized Sensing Matrix Design for MRI Reconstruction via Dual-Space Projection Optimization**|Siyuan Feng et.al.|[2605.01753](https://arxiv.org/abs/2605.01753)|null|
 |**2026-05-02**|**CSGuard: Toward Forgery-Resistant Watermarking in Diffusion Models via Compressed Sensing Constraint**|Jiewei Lai et.al.|[2605.01479](https://arxiv.org/abs/2605.01479)|null|
 |**2026-04-30**|**Low-cost passive single-shot ultrafast imaging at 685 Gfps**|Dilem Eşlik et.al.|[2604.27898](https://arxiv.org/abs/2604.27898)|null|
@@ -849,6 +855,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows**|Prateek Paudel et.al.|[2605.06629](https://arxiv.org/abs/2605.06629)|null|
+|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](https://arxiv.org/abs/2605.06376)|null|
+|**2026-05-07**|**ClawGuard: Out-of-Band Detection of LLM Agent Workflow Hijacking via EM Side Channel**|Leo Linqian Gan et.al.|[2605.06205](https://arxiv.org/abs/2605.06205)|null|
+|**2026-05-07**|**Generative AI-Based Monte Carlo Simulation for Method Evaluation Using Synthetic Multilevel Data**|Youmi Suk et.al.|[2605.05752](https://arxiv.org/abs/2605.05752)|null|
+|**2026-05-06**|**ViTok-v2: Scaling Native Resolution Auto-Encoders to 5 Billion Parameters**|Philippe Hansen-Estruch et.al.|[2605.05331](https://arxiv.org/abs/2605.05331)|null|
+|**2026-05-06**|**Seeing What Shouldn't Be There: Counterfactual GANs for Medical Image Attribution**|Shakeeb Murtaza et.al.|[2605.05283](https://arxiv.org/abs/2605.05283)|null|
+|**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](https://arxiv.org/abs/2605.05206)|null|
+|**2026-05-06**|**On the Wasserstein Gradient Flow Interpretation of Drifting Models**|Arthur Gretton et.al.|[2605.05118](https://arxiv.org/abs/2605.05118)|null|
+|**2026-05-06**|**Efficient Quasi-Resonant, Polarization-Selective Excitation of GaN Quantum Emitters**|Nilesh Dalla et.al.|[2605.04927](https://arxiv.org/abs/2605.04927)|null|
+|**2026-05-06**|**423.7 + 426.5 Tb/s GMI Bi-Directional HCF Transmission**|Jiaqian Yang et.al.|[2605.04924](https://arxiv.org/abs/2605.04924)|null|
+|**2026-05-06**|**Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games**|Yidong He et.al.|[2605.04906](https://arxiv.org/abs/2605.04906)|null|
+|**2026-05-06**|**Efficient estimators for power spectrum and bispectrum multipole measurements**|Yunchen Xie et.al.|[2605.04864](https://arxiv.org/abs/2605.04864)|null|
+|**2026-05-06**|**SAMIC: A Lightweight Semantic-Aware Mamba for Efficient Perceptual Image Compression**|Jiaqian Zhang et.al.|[2605.04560](https://arxiv.org/abs/2605.04560)|null|
+|**2026-05-06**|**From Priors to Perception: Grounding Video-LLMs in Physical Reality**|Zicheng Zhao et.al.|[2605.04515](https://arxiv.org/abs/2605.04515)|null|
+|**2026-05-06**|**Special periods and some non-tempered cases of the Gan-Gross-Prasad conjecture**|Jaeho Haan et.al.|[2605.04389](https://arxiv.org/abs/2605.04389)|null|
+|**2026-05-05**|**TOI-159 b: an eccentric hot-Jupiter planet around a young, pulsating  $γ$  Doradus star**|G. Mantovan et.al.|[2605.04149](https://arxiv.org/abs/2605.04149)|null|
 |**2026-05-05**|**Neural-network reconstruction of THz transmission spectra using electrically tunable AlGaN/GaN plasmonic-crystal analyzer**|A. Witkowska et.al.|[2605.03778](https://arxiv.org/abs/2605.03778)|null|
 |**2026-05-05**|**SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition**|Ruichu Cai et.al.|[2605.03706](https://arxiv.org/abs/2605.03706)|null|
 |**2026-05-05**|**WGAN based Inverse Design of Active Dual Band FSS with Switchable Transmission**|Rui Xi et.al.|[2605.03335](https://arxiv.org/abs/2605.03335)|null|
