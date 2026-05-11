@@ -15,7 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](https://arxiv.org/abs/2605.06558)|null|
+|**2026-05-07**|**Overcoming data scarcity through multi-center federated learning for organs-at-risk segmentation in pediatric upper abdominal radiotherapy**|Mianyong Ding et.al.|[2605.06820](https://arxiv.org/abs/2605.06820)|null|
+|**2026-05-08**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](https://arxiv.org/abs/2605.06558)|null|
 |**2026-05-07**|**Nonlinear RMM-GKS for Large-Scale Dynamic and Streaming Inverse Problems with Uncertain Forward Operators**|Toluwani Okunola et.al.|[2605.06336](https://arxiv.org/abs/2605.06336)|null|
 |**2026-05-06**|**3D Ultrasound-Derived Pseudo-CT Synthesis Using a Transformer-Augmented Residual Network for Real-Time Operator Guidance**|Sapna Sachan et.al.|[2605.04856](https://arxiv.org/abs/2605.04856)|null|
 |**2026-05-04**|**Learning to Segment using Summary Statistics and Weak Supervision**|Omkar Kulkarni et.al.|[2605.03059](https://arxiv.org/abs/2605.03059)|null|
@@ -566,6 +567,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Exploring the non-convexity in machine learning using quantum-inspired optimization**|Kandula Eswara Sai Kumar et.al.|[2605.07947](https://arxiv.org/abs/2605.07947)|null|
 |**2026-05-06**|**Active Learning for Conditional Generative Compressed Sensing**|Alexander DeLise et.al.|[2605.05435](https://arxiv.org/abs/2605.05435)|null|
 |**2026-05-06**|**On Unbiased Parameter Estimation and Signal Reconstruction**|Joonas Lahtinen et.al.|[2605.05276](https://arxiv.org/abs/2605.05276)|null|
 |**2026-05-03**|**Coherence-Minimized Sensing Matrix Design for MRI Reconstruction via Dual-Space Projection Optimization**|Siyuan Feng et.al.|[2605.01753](https://arxiv.org/abs/2605.01753)|null|
@@ -865,6 +867,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**On the Tradeoffs of On-Device Generative Models in Federated Predictive Maintenance Systems**|Usevalad Milasheuski et.al.|[2605.07860](https://arxiv.org/abs/2605.07860)|null|
+|**2026-05-08**|**Retrieve, Integrate, and Synthesize: Spatial-Semantic Grounded Latent Visual Reasoning**|Jin Cui et.al.|[2605.07106](https://arxiv.org/abs/2605.07106)|null|
+|**2026-05-08**|**Decoupling Semantics and Fingerprints: A Universal Representation for AI-Generated Image Detection**|Zhiyuan Wang et.al.|[2605.07074](https://arxiv.org/abs/2605.07074)|null|
+|**2026-05-08**|**Integrating Causal DAGs in Deep RL: Activating Minimal Markovian States with Multi-Order Exposure**|Jiamin Xu et.al.|[2605.07057](https://arxiv.org/abs/2605.07057)|null|
+|**2026-05-07**|**LensVLM: Selective Context Expansion for Compressed Visual Representation of Text**|Roy Xie et.al.|[2605.07019](https://arxiv.org/abs/2605.07019)|null|
 |**2026-05-07**|**Hybrid Quantum-Classical GANs for the Generation of Adversarial Network Flows**|Prateek Paudel et.al.|[2605.06629](https://arxiv.org/abs/2605.06629)|null|
 |**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](https://arxiv.org/abs/2605.06376)|null|
 |**2026-05-07**|**ClawGuard: Out-of-Band Detection of LLM Agent Workflow Hijacking via EM Side Channel**|Leo Linqian Gan et.al.|[2605.06205](https://arxiv.org/abs/2605.06205)|null|
