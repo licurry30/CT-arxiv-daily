@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks**|Lingfei Kong et.al.|[2605.13560](https://arxiv.org/abs/2605.13560)|null|
+|**2026-05-13**|**Generating synthetic computed tomography for radiotherapy: SynthRAD2025 challenge report**|Viktor Rogowski et.al.|[2605.13555](https://arxiv.org/abs/2605.13555)|null|
+|**2026-05-09**|**Dual-Correction Physics-Informed Neural Networks for Hemodynamic Reconstruction from Sparse Data**|Jingtai Song et.al.|[2605.12544](https://arxiv.org/abs/2605.12544)|null|
+|**2026-05-12**|**Fluctuation spectra of embryonic cell-cell interfaces reveal inverse-square scaling**|Brian Huynh et.al.|[2605.12402](https://arxiv.org/abs/2605.12402)|null|
+|**2026-05-12**|**H3D-MarNet: Wavelet-Guided Dual-Path Learning for Metal Artifact Suppression and CT Modality Transformation for Radiotherapy Workflows**|Mubashara Rehman et.al.|[2605.12252](https://arxiv.org/abs/2605.12252)|null|
+|**2026-05-12**|**A Comparative Analysis of CT Degradation for LDCT Nodule Classification using Radiomics**|Jiaying Liu et.al.|[2605.12164](https://arxiv.org/abs/2605.12164)|null|
+|**2026-05-12**|**A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography**|Tatiana A. Bubba et.al.|[2605.12085](https://arxiv.org/abs/2605.12085)|null|
+|**2026-05-12**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
+|**2026-05-11**|**FrequencyCT: Frequency domain pseudo-label generation for self-supervised low-dose CT denoising**|Guoquan Wei et.al.|[2605.10583](https://arxiv.org/abs/2605.10583)|null|
+|**2026-05-13**|**The Direct Integration Theorem: A Rigorous Framework for Consistent Discrete Solutions of the Inverse Radon Problem**|Mikhail G. Mozerov et.al.|[2605.09020](https://arxiv.org/abs/2605.09020)|null|
+|**2026-05-08**|**A Deep Risk Estimator for Known Operator Learning**|Andreas Maier et.al.|[2605.08517](https://arxiv.org/abs/2605.08517)|null|
 |**2026-05-07**|**Overcoming data scarcity through multi-center federated learning for organs-at-risk segmentation in pediatric upper abdominal radiotherapy**|Mianyong Ding et.al.|[2605.06820](https://arxiv.org/abs/2605.06820)|null|
 |**2026-05-08**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](https://arxiv.org/abs/2605.06558)|null|
 |**2026-05-07**|**Nonlinear RMM-GKS for Large-Scale Dynamic and Streaming Inverse Problems with Uncertain Forward Operators**|Toluwani Okunola et.al.|[2605.06336](https://arxiv.org/abs/2605.06336)|null|
@@ -561,12 +572,20 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Electromagnetic Signal and Information Theory: A Continuous-Aperture Array Perspective**|Zhaolin Wang et.al.|[2605.12910](https://arxiv.org/abs/2605.12910)|null|
+|**2026-05-12**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
+|**2026-05-12**|**Deep Probabilistic Unfolding for Quantized Compressive Sensing**|Gang Qu et.al.|[2605.11475](https://arxiv.org/abs/2605.11475)|null|
+|**2026-05-10**|**Fast Voxelwise SNR Estimation for Iterative MRI Reconstructions**|Onat Dalmaz et.al.|[2605.09590](https://arxiv.org/abs/2605.09590)|null|
+|**2026-05-10**|**Dual-Path Hyperprior Informed Deep Unfolding Network for Image Compressive Sensing**|Tianyi Lu et.al.|[2605.09566](https://arxiv.org/abs/2605.09566)|null|
+|**2026-05-09**|**Path-Level Radio Map-Aided Fast and Robust Channel Estimation for Pilot-Starved MIMO-OFDM Systems**|Xiucheng Wang et.al.|[2605.08720](https://arxiv.org/abs/2605.08720)|null|
+|**2026-05-08**|**A Deep Risk Estimator for Known Operator Learning**|Andreas Maier et.al.|[2605.08517](https://arxiv.org/abs/2605.08517)|null|
+|**2026-05-05**|**Information Density as a Quantitative Measure for AI-enabled Virtual Sensing: Feasibility and Limits**|Hrishikesh Dutta et.al.|[2605.08180](https://arxiv.org/abs/2605.08180)|null|
 |**2026-05-08**|**Exploring the non-convexity in machine learning using quantum-inspired optimization**|Kandula Eswara Sai Kumar et.al.|[2605.07947](https://arxiv.org/abs/2605.07947)|null|
 |**2026-05-06**|**Active Learning for Conditional Generative Compressed Sensing**|Alexander DeLise et.al.|[2605.05435](https://arxiv.org/abs/2605.05435)|null|
 |**2026-05-06**|**On Unbiased Parameter Estimation and Signal Reconstruction**|Joonas Lahtinen et.al.|[2605.05276](https://arxiv.org/abs/2605.05276)|null|
@@ -861,12 +880,31 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Cross Modality Image Translation In Medical Imaging Using Generative Frameworks**|Giulia Romoli et.al.|[2605.13686](https://arxiv.org/abs/2605.13686)|null|
+|**2026-05-13**|**FlowCompile: An Optimizing Compiler for Structured LLM Workflows**|Junyan Li et.al.|[2605.13647](https://arxiv.org/abs/2605.13647)|null|
+|**2026-05-12**|**Correcting Influence: Unboxing LLM Outputs with Orthogonal Latent Spaces**|Shixing Yu et.al.|[2605.12809](https://arxiv.org/abs/2605.12809)|null|
+|**2026-05-12**|**Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry**|Yanyu Duan et.al.|[2605.12489](https://arxiv.org/abs/2605.12489)|null|
+|**2026-05-12**|**Machine Learning for neutron source distributions**|Jose Ignacio Robledo et.al.|[2605.12165](https://arxiv.org/abs/2605.12165)|null|
+|**2026-05-13**|**Assessment of cloud and associated radiation fields from a GAN stochastic cloud subcolumn generator**|Dongmin Lee et.al.|[2605.11968](https://arxiv.org/abs/2605.11968)|null|
+|**2026-05-09**|**LEAP: Unlocking dLLM Parallelism via Lookahead Early-Convergence Token Detection**|Haohui Zhang et.al.|[2605.10980](https://arxiv.org/abs/2605.10980)|null|
+|**2026-05-11**|**Data-driven body-centered cubic phase prediction in cobalt free high-entropy alloys**|Xuliang Luo et.al.|[2605.10539](https://arxiv.org/abs/2605.10539)|null|
+|**2026-05-11**|**Extended Wasserstein-GAN Approach to Causal Distribution Learning: Density-Free Estimation and Minimax Optimality**|Shu Tamano et.al.|[2605.10206](https://arxiv.org/abs/2605.10206)|null|
+|**2026-05-11**|**MFVLR: Multi-domain Fine-grained Vision-Language Reconstruction for Generalizable Diffusion Face Forgery Detection and Localization**|Yaning Zhang et.al.|[2605.10071](https://arxiv.org/abs/2605.10071)|null|
+|**2026-05-11**|**Novel GPU Boruta algorithms for feature selection from high-dimensional data**|Xurui Li et.al.|[2605.09950](https://arxiv.org/abs/2605.09950)|null|
+|**2026-05-10**|**Noise-Started One-Step Real-World Super-Resolution via LR-Conditioned SplitMeanFlow and GAN Refinement**|Wei Zhu et.al.|[2605.09328](https://arxiv.org/abs/2605.09328)|null|
+|**2026-05-09**|**Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al2O3**|Tsung-Han Tsai et.al.|[2605.09108](https://arxiv.org/abs/2605.09108)|null|
+|**2026-05-09**|**BiAxisAudit: A Novel Framework to Evaluate LLM Bias Across Prompt Sensitivity and Response-Layer Divergence**|Jialing Gan et.al.|[2605.09041](https://arxiv.org/abs/2605.09041)|null|
+|**2026-05-09**|**Separate Universe Super-Resolution Emulator**|Dennis Fremstad et.al.|[2605.09004](https://arxiv.org/abs/2605.09004)|null|
+|**2026-05-12**|**Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion**|Jianhui Chen et.al.|[2605.08804](https://arxiv.org/abs/2605.08804)|null|
+|**2026-05-09**|**Improving Generative Adversarial Networks with Self-Distillation**|Antoni Nowinowski et.al.|[2605.08577](https://arxiv.org/abs/2605.08577)|null|
+|**2026-05-08**|**NeuroGAN-3D: Enhancing Intrinsic Functional Brain Networks via High-Fidelity 3D Generative Super-Resolution**|M. Moein Esfahani et.al.|[2605.08373](https://arxiv.org/abs/2605.08373)|null|
+|**2026-05-08**|**A Paired Point-of-Care Ultrasound Dataset for Image Quality Enhancement and Benchmarking via a cGAN Baseline**|Lennard M. van Karnenbeek et.al.|[2605.08282](https://arxiv.org/abs/2605.08282)|null|
 |**2026-05-08**|**On the Tradeoffs of On-Device Generative Models in Federated Predictive Maintenance Systems**|Usevalad Milasheuski et.al.|[2605.07860](https://arxiv.org/abs/2605.07860)|null|
 |**2026-05-08**|**Retrieve, Integrate, and Synthesize: Spatial-Semantic Grounded Latent Visual Reasoning**|Jin Cui et.al.|[2605.07106](https://arxiv.org/abs/2605.07106)|null|
 |**2026-05-08**|**Decoupling Semantics and Fingerprints: A Universal Representation for AI-Generated Image Detection**|Zhiyuan Wang et.al.|[2605.07074](https://arxiv.org/abs/2605.07074)|null|
@@ -2126,7 +2164,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2174,5 +2212,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
