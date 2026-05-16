@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -570,6 +570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU**|Thorben Wegner et.al.|[2605.14839](https://arxiv.org/abs/2605.14839)|null|
 |**2026-05-13**|**Electromagnetic Signal and Information Theory: A Continuous-Aperture Array Perspective**|Zhaolin Wang et.al.|[2605.12910](https://arxiv.org/abs/2605.12910)|null|
 |**2026-05-12**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
 |**2026-05-12**|**Deep Probabilistic Unfolding for Quantized Compressive Sensing**|Gang Qu et.al.|[2605.11475](https://arxiv.org/abs/2605.11475)|null|
@@ -876,6 +877,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](https://arxiv.org/abs/2605.14799)|null|
+|**2026-05-14**|**Beyond What to Select: A Plug-and-play Oscillatory Data-Volume Scheduling for Efficient Model Training**|Suorong Yang et.al.|[2605.14773](https://arxiv.org/abs/2605.14773)|null|
+|**2026-05-14**|**LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications**|Gan Zheng et.al.|[2605.14661](https://arxiv.org/abs/2605.14661)|null|
+|**2026-05-14**|**Reduce the Artifacts Bias for More Generalizable AI-Generated Image Detection**|Yiheng Li et.al.|[2605.14486](https://arxiv.org/abs/2605.14486)|null|
+|**2026-05-14**|**Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios**|Xu Yang et.al.|[2605.14329](https://arxiv.org/abs/2605.14329)|null|
+|**2026-05-14**|**Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings**|Wenxin Chen et.al.|[2605.14284](https://arxiv.org/abs/2605.14284)|null|
+|**2026-05-14**|**Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images**|Aarushi Kulkarni et.al.|[2605.14251](https://arxiv.org/abs/2605.14251)|null|
 |**2026-05-13**|**Cross Modality Image Translation In Medical Imaging Using Generative Frameworks**|Giulia Romoli et.al.|[2605.13686](https://arxiv.org/abs/2605.13686)|null|
 |**2026-05-13**|**FlowCompile: An Optimizing Compiler for Structured LLM Workflows**|Junyan Li et.al.|[2605.13647](https://arxiv.org/abs/2605.13647)|null|
 |**2026-05-12**|**Correcting Influence: Unboxing LLM Outputs with Orthogonal Latent Spaces**|Shixing Yu et.al.|[2605.12809](https://arxiv.org/abs/2605.12809)|null|
