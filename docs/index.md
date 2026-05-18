@@ -570,6 +570,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Quantum compressed sensing**|Jianyong Hu et.al.|[2605.15784](https://arxiv.org/abs/2605.15784)|null|
+|**2026-05-14**|**DIPA: Distilled Preconditioned Algorithms for Solving Imaging Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2605.15456](https://arxiv.org/abs/2605.15456)|null|
 |**2026-05-14**|**GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU**|Thorben Wegner et.al.|[2605.14839](https://arxiv.org/abs/2605.14839)|null|
 |**2026-05-13**|**Electromagnetic Signal and Information Theory: A Continuous-Aperture Array Perspective**|Zhaolin Wang et.al.|[2605.12910](https://arxiv.org/abs/2605.12910)|null|
 |**2026-05-12**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
@@ -877,6 +879,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**PCDM: A Diffusion-Based Data Poisoning Attack Against Federated Learning Systems**|Wei Sun et.al.|[2605.16098](https://arxiv.org/abs/2605.16098)|null|
+|**2026-05-15**|**When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective**|Yuan-dong Cao et.al.|[2605.15959](https://arxiv.org/abs/2605.15959)|null|
+|**2026-05-15**|**Optimized near-field optical response via adaptive tip illumination**|Tao Chen et.al.|[2605.15900](https://arxiv.org/abs/2605.15900)|null|
+|**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](https://arxiv.org/abs/2605.15880)|null|
+|**2026-05-15**|**Agent-Native Wireless Communications: Architecture, Opportunities, and the Road Ahead**|Yuanwei Liu et.al.|[2605.15873](https://arxiv.org/abs/2605.15873)|null|
+|**2026-05-14**|**Privacy Evaluation of Generative Models for Trajectory Generation**|Stavros Bouras et.al.|[2605.15246](https://arxiv.org/abs/2605.15246)|null|
 |**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](https://arxiv.org/abs/2605.14799)|null|
 |**2026-05-14**|**Beyond What to Select: A Plug-and-play Oscillatory Data-Volume Scheduling for Efficient Model Training**|Suorong Yang et.al.|[2605.14773](https://arxiv.org/abs/2605.14773)|null|
 |**2026-05-14**|**LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications**|Gan Zheng et.al.|[2605.14661](https://arxiv.org/abs/2605.14661)|null|
