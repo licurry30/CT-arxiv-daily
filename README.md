@@ -1,4 +1,4 @@
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al.|[2605.20159](https://arxiv.org/abs/2605.20159)|null|
+|**2026-05-19**|**Cardiac fat segmentation using computed tomography and an image-to-image conditional generative adversarial neural network**|Guilherme Santos da Silva et.al.|[2605.20064](https://arxiv.org/abs/2605.20064)|null|
 |**2026-05-17**|**GraphMAR: Geometry-Aware Graph Learning Framework for Spatially Adaptive CT Metal Artifact Reduction**|Zilong Li et.al.|[2605.17343](https://arxiv.org/abs/2605.17343)|null|
 |**2026-05-16**|**RDDM: A Residual-Driven Drifting Model for High-Fidelity Low-Dose CT Denoising**|Jianxu Wang et.al.|[2605.17188](https://arxiv.org/abs/2605.17188)|null|
 |**2026-05-16**|**The Learnability Gap in Medical Latent Diffusion**|Mischa Dombrowski et.al.|[2605.17087](https://arxiv.org/abs/2605.17087)|null|
@@ -580,7 +582,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## SVCT
 
@@ -893,12 +895,17 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**OpenComputer: Verifiable Software Worlds for Computer-Use Agents**|Jinbiao Wei et.al.|[2605.19769](https://arxiv.org/abs/2605.19769)|null|
+|**2026-05-19**|**Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach**|Yi Feng et.al.|[2605.19392](https://arxiv.org/abs/2605.19392)|null|
+|**2026-05-19**|**Harnessing hidden quantum metric response in a 2D magnet via nonlocal photovoltaic effect**|Yong Tan et.al.|[2605.19238](https://arxiv.org/abs/2605.19238)|null|
+|**2026-05-18**|**Heterogeneity-Aware Dataset Scheduling for Efficient Audio Large Language Model Training**|Yanru Wu et.al.|[2605.19101](https://arxiv.org/abs/2605.19101)|null|
+|**2026-05-18**|**Exoplanets in ancient stellar populations: occurrence constraints and hot-Jupiter candidates in the Galactic halo**|Dolev Bashi et.al.|[2605.19000](https://arxiv.org/abs/2605.19000)|null|
 |**2026-05-18**|**Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis**|Yixuan Yang et.al.|[2605.18451](https://arxiv.org/abs/2605.18451)|null|
 |**2026-05-18**|**Generative Adversarial Learning from Deterministic Processes**|Joris C. Kühl et.al.|[2605.18425](https://arxiv.org/abs/2605.18425)|null|
 |**2026-05-18**|**Privacy Preserving Reinforcement Learning with One-Sided Feedback**|Lin William Cong et.al.|[2605.18246](https://arxiv.org/abs/2605.18246)|null|
@@ -907,7 +914,7 @@
 |**2026-05-18**|**Bridging the Gap: Converting Read Text to Conversational Dialogue**|Parshav Singla et.al.|[2605.18001](https://arxiv.org/abs/2605.18001)|null|
 |**2026-05-18**|**Note on the codegree version of the Erdős--Ko--Rado theorem**|Luyining Gan et.al.|[2605.17945](https://arxiv.org/abs/2605.17945)|null|
 |**2026-05-17**|**Giant nonlinear optical chirality in twisted heterobilayers**|Xiang Zhang et.al.|[2605.17695](https://arxiv.org/abs/2605.17695)|null|
-|**2026-05-17**|**ML-based Fast Simulation of FARICH Responses**|Foma Shipilov et.al.|[2605.17635](https://arxiv.org/abs/2605.17635)|null|
+|**2026-05-19**|**ML-based Fast Simulation of FARICH Responses**|Foma Shipilov et.al.|[2605.17635](https://arxiv.org/abs/2605.17635)|null|
 |**2026-05-17**|**Venom: A PyTorch Generative Modeling Toolkit**|Liang Yan et.al.|[2605.17605](https://arxiv.org/abs/2605.17605)|null|
 |**2026-05-17**|**Deepfake Detection in Social Media: A Temporal Artifact Analysis Using 3D Convolutional Neural Networks**|Mohammadreza Rashidi et.al.|[2605.17573](https://arxiv.org/abs/2605.17573)|null|
 |**2026-05-17**|**A Conditional U-Net Pipeline with Pre- and Post-Processing for Aerial RGB-to-Thermal Image Translation**|Tseten Sherpa et.al.|[2605.17564](https://arxiv.org/abs/2605.17564)|null|
@@ -2208,7 +2215,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2256,5 +2263,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
