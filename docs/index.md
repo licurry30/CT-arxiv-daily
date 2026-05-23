@@ -2,15 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.05.20
+## Updated on 2026.05.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**VEELA: A Clinically-Constrained Benchmark for Liver Vessel Segmentation in Computed Tomography Angiography**|Ziya Ata Yazıcı et.al.|[2605.22357](https://arxiv.org/abs/2605.22357)|null|
+|**2026-05-21**|**Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining**|Yuheng Li et.al.|[2605.21906](https://arxiv.org/abs/2605.21906)|null|
+|**2026-05-20**|**An Open Multi-Center Whole-Body FDG PET/CT Foundation Model for Tumor Segmentation**|Xiaofeng Liu et.al.|[2605.21835](https://arxiv.org/abs/2605.21835)|null|
+|**2026-05-20**|**Machine learning prediction of obstructive coronary artery disease using opportunistic coronary calcium and epicardial fat assessments from CT calcium scoring scans**|Juhwan Lee et.al.|[2605.21762](https://arxiv.org/abs/2605.21762)|null|
+|**2026-05-20**|**Quantitative coronary calcification analysis for prediction of myocardial ischemia using non-contrast CT calcium scoring**|Juhwan Lee et.al.|[2605.21745](https://arxiv.org/abs/2605.21745)|null|
+|**2026-05-20**|**HyDAR-Pano3D: A Hybrid Disentangled Anatomical Recovery Framework for Panoramic-to-3D Reconstruction**|Yaoyao Yue et.al.|[2605.20827](https://arxiv.org/abs/2605.20827)|null|
+|**2026-05-20**|**SpineContextResUNet: A Computationally Efficient Residual UNet for Spine CT Segmentation**|K S Nithurshen et.al.|[2605.20760](https://arxiv.org/abs/2605.20760)|null|
+|**2026-05-19**|**A Comprehensive Comparison of Deep Learning Architectures for COVID-19 Classification on CT & X-ray Imagery**|Sarmad Khan et.al.|[2605.20445](https://arxiv.org/abs/2605.20445)|null|
+|**2026-05-19**|**Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis**|Tianwei Lin et.al.|[2605.20277](https://arxiv.org/abs/2605.20277)|null|
 |**2026-05-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al.|[2605.20159](https://arxiv.org/abs/2605.20159)|null|
 |**2026-05-19**|**Cardiac fat segmentation using computed tomography and an image-to-image conditional generative adversarial neural network**|Guilherme Santos da Silva et.al.|[2605.20064](https://arxiv.org/abs/2605.20064)|null|
+|**2026-05-20**|**PromptRad: Knowledge-Enhanced Multi-Label Prompt-Tuning for Low-Resource Radiology Report Labeling**|Ying-Jia Lin et.al.|[2605.20052](https://arxiv.org/abs/2605.20052)|null|
 |**2026-05-17**|**GraphMAR: Geometry-Aware Graph Learning Framework for Spatially Adaptive CT Metal Artifact Reduction**|Zilong Li et.al.|[2605.17343](https://arxiv.org/abs/2605.17343)|null|
 |**2026-05-16**|**RDDM: A Residual-Driven Drifting Model for High-Fidelity Low-Dose CT Denoising**|Jianxu Wang et.al.|[2605.17188](https://arxiv.org/abs/2605.17188)|null|
 |**2026-05-16**|**The Learnability Gap in Medical Latent Diffusion**|Mischa Dombrowski et.al.|[2605.17087](https://arxiv.org/abs/2605.17087)|null|
@@ -580,6 +590,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Mid-infrared temporal ghost imaging via two-photon structured encoding**|Ziyu He et.al.|[2605.22298](https://arxiv.org/abs/2605.22298)|null|
 |**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](https://arxiv.org/abs/2605.18221)|null|
 |**2026-05-17**|**A Framework of Near-Field Communication with Different Array Geometries: Analysis, Optimization, and General Channel Estimation Algorithms Based on Deep Learning**|Kangda Zhi et.al.|[2605.17690](https://arxiv.org/abs/2605.17690)|null|
 |**2026-05-15**|**Quantum compressed sensing**|Jianyong Hu et.al.|[2605.15784](https://arxiv.org/abs/2605.15784)|null|
@@ -891,6 +902,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding**|Yandi Wang et.al.|[2605.22413](https://arxiv.org/abs/2605.22413)|null|
+|**2026-05-21**|**Simultaneously monitoring Ga adsorption and desorption kinetics on GaN(0001) using four in situ techniques**|Huaide Zhang et.al.|[2605.22279](https://arxiv.org/abs/2605.22279)|null|
+|**2026-05-21**|**A Generative Adversarial Graph Neural Network for Synthetic Time Series Data**|Marco Gregnanin et.al.|[2605.22215](https://arxiv.org/abs/2605.22215)|null|
+|**2026-05-21**|**Learning A Unified Risk Map for Autonomous Driving in Partially Observable Environments**|Jie Jia et.al.|[2605.22189](https://arxiv.org/abs/2605.22189)|null|
+|**2026-05-21**|**Active Evidence-Seeking and Diagnostic Reasoning in Large Language Models for Clinical Decision Support**|Chen Zhan et.al.|[2605.22047](https://arxiv.org/abs/2605.22047)|null|
+|**2026-05-20**|**UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation**|Jiayun Wang et.al.|[2605.21611](https://arxiv.org/abs/2605.21611)|null|
+|**2026-05-20**|**Learning Structural Latent Points for Efficient Visual Representations in Robotic Manipulation**|Yicheng Jiang et.al.|[2605.21258](https://arxiv.org/abs/2605.21258)|null|
+|**2026-05-20**|**The Team Order Problem: Maximizing the Probability of Matching Being Large Enough**|Haris Aziz et.al.|[2605.21234](https://arxiv.org/abs/2605.21234)|null|
+|**2026-05-20**|**PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection**|Xiaoyu Zhou et.al.|[2605.21207](https://arxiv.org/abs/2605.21207)|null|
+|**2026-05-20**|**Q-SYNTH: Hybrid Quantum-Classical Adversarial Augmentation for Imbalanced Fraud Detection**|Adam Innan et.al.|[2605.21164](https://arxiv.org/abs/2605.21164)|null|
+|**2026-05-20**|**Partially Observable Restless Bandits for Age-Optimal Scheduling over Markov Channels**|Xijun Wang et.al.|[2605.21016](https://arxiv.org/abs/2605.21016)|null|
+|**2026-05-20**|**Comparative Evaluation of Deep Learning Models for Fake Image Detection**|Akhitha Pakala et.al.|[2605.20971](https://arxiv.org/abs/2605.20971)|null|
+|**2026-05-20**|**Sketch2MinSurf: Vision-Language Guided Generation of Editable Minimal Surfaces from Hand-Drawn Sketches**|Wenda Wang et.al.|[2605.20733](https://arxiv.org/abs/2605.20733)|null|
+|**2026-05-19**|**Complementing reinforcement learning with SFT through logit averaging in the post training of LLMs**|Xingwei Gan et.al.|[2605.20555](https://arxiv.org/abs/2605.20555)|null|
 |**2026-05-19**|**OpenComputer: Verifiable Software Worlds for Computer-Use Agents**|Jinbiao Wei et.al.|[2605.19769](https://arxiv.org/abs/2605.19769)|null|
 |**2026-05-19**|**Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach**|Yi Feng et.al.|[2605.19392](https://arxiv.org/abs/2605.19392)|null|
 |**2026-05-19**|**Harnessing hidden quantum metric response in a 2D magnet via nonlocal photovoltaic effect**|Yong Tan et.al.|[2605.19238](https://arxiv.org/abs/2605.19238)|null|
