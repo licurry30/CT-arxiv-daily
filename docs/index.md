@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.27
+## Updated on 2026.05.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy**|Nisar Nellikunnummel et.al.|[2605.29975](https://arxiv.org/abs/2605.29975)|null|
+|**2026-05-28**|**CT Imaging with Helium and Carbon Ions for Hadron Therapy**|Zsófia Jólesz et.al.|[2605.29593](https://arxiv.org/abs/2605.29593)|null|
+|**2026-05-28**|**High-Fidelity ROI CT Reconstruction with Limited Quantum Resources via Hybrid Classical-Quantum Refinement**|Hyunju Lee et.al.|[2605.29472](https://arxiv.org/abs/2605.29472)|null|
+|**2026-05-27**|**A Patient-Specific Pulmonary Arterial Tree Digital Twin to Extract Pulmonary Embolism Biomarkers**|Morgane des Ligneris et.al.|[2605.28217](https://arxiv.org/abs/2605.28217)|null|
+|**2026-05-27**|**Gradient Step Plug-and-Play Model for Dental Cone-Beam CT Reconstruction**|Idris Tatachak et.al.|[2605.28124](https://arxiv.org/abs/2605.28124)|null|
+|**2026-05-25**|**NL-MambaXCT: Self-Supervised Nested-Learning Mamba for Nomex Honeycomb X-ray CT Defect Classification**|Ghaleb Aldoboni et.al.|[2605.27454](https://arxiv.org/abs/2605.27454)|null|
 |**2026-05-25**|**Parameter-Efficient CT Reconstruction via Deep Graph Laplacian Regularization**|Veera Varuni Radhakrishnan et.al.|[2605.25348](https://arxiv.org/abs/2605.25348)|null|
 |**2026-05-24**|**Hybrid Full Waveform Inversion Assisted by Rytov Approximation for Musculoskeletal Ultrasound Computed Tomography**|Yifei Sun et.al.|[2605.25139](https://arxiv.org/abs/2605.25139)|null|
 |**2026-05-24**|**DA-UCT: Self-Supervised Domain-Adaptive Ultrasound Computed Tomography for Rapid Musculoskeletal Sound Speed Reconstruction**|Tianyu Liu et.al.|[2605.25024](https://arxiv.org/abs/2605.25024)|null|
-|**2026-05-23**|**Fractional-gradient Sparsity with Autoencoding Sequential Deep Image Prior for 3D CT Reconstruction**|Haijie Yuan et.al.|[2605.24670](https://arxiv.org/abs/2605.24670)|null|
+|**2026-05-27**|**Fractional-gradient Sparsity with Autoencoding Sequential Deep Image Prior for 3D CT Reconstruction**|Haijie Yuan et.al.|[2605.24670](https://arxiv.org/abs/2605.24670)|null|
 |**2026-05-21**|**VEELA: A Clinically-Constrained Benchmark for Liver Vessel Segmentation in Computed Tomography Angiography**|Ziya Ata Yazıcı et.al.|[2605.22357](https://arxiv.org/abs/2605.22357)|null|
 |**2026-05-22**|**Universal CT Representations from Anatomy to Disease Phenotype through Agglomerative Pretraining**|Yuheng Li et.al.|[2605.21906](https://arxiv.org/abs/2605.21906)|null|
 |**2026-05-20**|**An Open Multi-Center Whole-Body FDG PET/CT Foundation Model for Tumor Segmentation**|Xiaofeng Liu et.al.|[2605.21835](https://arxiv.org/abs/2605.21835)|null|
@@ -594,6 +600,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**High-Fidelity ROI CT Reconstruction with Limited Quantum Resources via Hybrid Classical-Quantum Refinement**|Hyunju Lee et.al.|[2605.29472](https://arxiv.org/abs/2605.29472)|null|
+|**2026-05-27**|**Gradient Step Plug-and-Play Model for Dental Cone-Beam CT Reconstruction**|Idris Tatachak et.al.|[2605.28124](https://arxiv.org/abs/2605.28124)|null|
+|**2026-05-27**|**Mid-Infrared Single-Photon Compressive Spectroscopy**|Ben Sun et.al.|[2605.27890](https://arxiv.org/abs/2605.27890)|null|
 |**2026-05-26**|**Statistical and Algorithmic Foundations of Probing Quantum Systems with Compressive Measurements: A Review**|Zhen Qin et.al.|[2605.27191](https://arxiv.org/abs/2605.27191)|null|
 |**2026-05-26**|**Analytical Singular-Value Structure of Analytic-Continuation Kernels from Slepian Information Theory**|Masayuki Ohzeki et.al.|[2605.26586](https://arxiv.org/abs/2605.26586)|null|
 |**2026-05-18**|**Rapid online deep artifact suppression for real-time spiral bSSFP CMR with blipped-CAIPI simultaneous multi-slice imaging at 1.5 T**|Julius Åkesson et.al.|[2605.26127](https://arxiv.org/abs/2605.26127)|null|
@@ -601,7 +610,7 @@ layout: default
 |**2026-05-25**|**Mid-infrared single-photon computational temporal ghost imaging**|Wen Zhang et.al.|[2605.25336](https://arxiv.org/abs/2605.25336)|null|
 |**2026-05-24**|**Recovery of directional wave spectrum from sparse data with compressed sensing**|Qingyu Jiang et.al.|[2605.25074](https://arxiv.org/abs/2605.25074)|null|
 |**2026-05-24**|**GRASP MRI: A Decade of Innovation from Bench to Bedside**|Li Feng et.al.|[2605.24815](https://arxiv.org/abs/2605.24815)|null|
-|**2026-05-23**|**Fractional-gradient Sparsity with Autoencoding Sequential Deep Image Prior for 3D CT Reconstruction**|Haijie Yuan et.al.|[2605.24670](https://arxiv.org/abs/2605.24670)|null|
+|**2026-05-27**|**Fractional-gradient Sparsity with Autoencoding Sequential Deep Image Prior for 3D CT Reconstruction**|Haijie Yuan et.al.|[2605.24670](https://arxiv.org/abs/2605.24670)|null|
 |**2026-05-22**|**Mid-infrared single-pixel imaging via two-photon optical encoding**|Huijie Ma et.al.|[2605.23153](https://arxiv.org/abs/2605.23153)|null|
 |**2026-05-21**|**Mid-infrared temporal ghost imaging via two-photon structured encoding**|Ziyu He et.al.|[2605.22298](https://arxiv.org/abs/2605.22298)|null|
 |**2026-05-18**|**SIREM: Speech-Informed MRI Reconstruction with Learned Sampling**|Md Hasan et.al.|[2605.18221](https://arxiv.org/abs/2605.18221)|null|
@@ -610,7 +619,7 @@ layout: default
 |**2026-05-14**|**DIPA: Distilled Preconditioned Algorithms for Solving Imaging Inverse Problems**|Romario Gualdrón-Hurtado et.al.|[2605.15456](https://arxiv.org/abs/2605.15456)|null|
 |**2026-05-14**|**GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU**|Thorben Wegner et.al.|[2605.14839](https://arxiv.org/abs/2605.14839)|null|
 |**2026-05-13**|**Electromagnetic Signal and Information Theory: A Continuous-Aperture Array Perspective**|Zhaolin Wang et.al.|[2605.12910](https://arxiv.org/abs/2605.12910)|null|
-|**2026-05-12**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
+|**2026-05-27**|**Computed Tomography Reconstruction Algorithm Using Markov Random Field Model**|Taiga Shimomiya et.al.|[2605.11637](https://arxiv.org/abs/2605.11637)|null|
 |**2026-05-12**|**Deep Probabilistic Unfolding for Quantized Compressive Sensing**|Gang Qu et.al.|[2605.11475](https://arxiv.org/abs/2605.11475)|null|
 |**2026-05-10**|**Fast Voxelwise SNR Estimation for Iterative MRI Reconstructions**|Onat Dalmaz et.al.|[2605.09590](https://arxiv.org/abs/2605.09590)|null|
 |**2026-05-10**|**Dual-Path Hyperprior Informed Deep Unfolding Network for Image Compressive Sensing**|Tianyi Lu et.al.|[2605.09566](https://arxiv.org/abs/2605.09566)|null|
@@ -915,11 +924,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326](https://arxiv.org/abs/2605.30326)|null|
+|**2026-05-28**|**A Radius-Sensitive Approximation Algorithm for Connected Submodular Maximization**|Philip Cervenjak et.al.|[2605.30053](https://arxiv.org/abs/2605.30053)|null|
+|**2026-05-28**|**On the Geometry of Games and their Solvers**|Yaqi Sun et.al.|[2605.29919](https://arxiv.org/abs/2605.29919)|null|
+|**2026-05-28**|**The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer**|Tianhua Chen et.al.|[2605.29713](https://arxiv.org/abs/2605.29713)|null|
+|**2026-05-28**|**DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform**|Naisha Minnah et.al.|[2605.29353](https://arxiv.org/abs/2605.29353)|null|
+|**2026-05-28**|**CapTalk: Text-Guided Stylization and Speech-Driven 3D Head Animation**|Xuangeng Chu et.al.|[2605.29316](https://arxiv.org/abs/2605.29316)|null|
+|**2026-05-28**|**LoopFM: Learning frOm HistOrical RePresentations of Foundation Model for Recommendation**|Shali Jiang et.al.|[2605.29280](https://arxiv.org/abs/2605.29280)|null|
+|**2026-05-27**|**Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach**|James Sargant et.al.|[2605.29161](https://arxiv.org/abs/2605.29161)|null|
+|**2026-05-27**|**Security Metrics for Nonlinear Optical Light Sources from Interferometric Field Reconstruction**|Zijian Gan et.al.|[2605.28695](https://arxiv.org/abs/2605.28695)|null|
+|**2026-05-28**|**Optical cycling on thorium monoxide (ThO) for an improved test of fundamental symmetries**|Alexander Frenett et.al.|[2605.28509](https://arxiv.org/abs/2605.28509)|null|
+|**2026-05-27**|**SANTS: A State-Adaptive Scheduler for World Action Models**|Yirui Sun et.al.|[2605.27947](https://arxiv.org/abs/2605.27947)|null|
+|**2026-05-26**|**Grimlock: Guarding High-Agency Systems with eBPF and Attested Channels**|Qiancheng Wu et.al.|[2605.27488](https://arxiv.org/abs/2605.27488)|null|
 |**2026-05-26**|**High-Quality Synthetic Financial Time-Series using a GAN-Diffusion Framework**|Giuseppe Masi et.al.|[2605.27113](https://arxiv.org/abs/2605.27113)|null|
 |**2026-05-26**|**Defect engineering of ultrathin gallium nitride via electric fields for advanced electronic, magnetic, and gas sensing applications**|Yujia Tian et.al.|[2605.26817](https://arxiv.org/abs/2605.26817)|null|
 |**2026-05-26**|**PATE-TabTransGAN: Differentially Private Synthetic Tabular Data Generation via Transformer-Based Student Discrimination**|M. Youssef et.al.|[2605.26802](https://arxiv.org/abs/2605.26802)|null|
 |**2026-05-26**|**Mind the Tool Failures: Achieving Synergistic Tool Gains for Medical Agents**|Yunhui Gan et.al.|[2605.26691](https://arxiv.org/abs/2605.26691)|null|
-|**2026-05-26**|**Aligning Few-Step Generative Models by Amortizing Sample-based Variational Inference**|Jaewoo Lee et.al.|[2605.26552](https://arxiv.org/abs/2605.26552)|null|
+|**2026-05-27**|**Aligning Few-Step Generative Models by Amortizing Sample-based Variational Inference**|Jaewoo Lee et.al.|[2605.26552](https://arxiv.org/abs/2605.26552)|null|
 |**2026-05-26**|**Cross-scale Aligned Supervision for Training GANs**|Sangeek Hyun et.al.|[2605.26449](https://arxiv.org/abs/2605.26449)|null|
 |**2026-05-26**|**FM-fMRI: Event Conditioned Flow Matching for Rest-to-Task fMRI Time-Series Synthesis**|Peiyu Duan et.al.|[2605.26423](https://arxiv.org/abs/2605.26423)|null|
 |**2026-05-25**|**Sentinel: Embodied Cooperative Spatial Reasoning and Planning**|Xiangye Lin et.al.|[2605.26239](https://arxiv.org/abs/2605.26239)|null|
