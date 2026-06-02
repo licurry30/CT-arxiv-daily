@@ -1,4 +1,4 @@
-## Updated on 2026.06.01
+## Updated on 2026.06.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Automated Prediction of Postoperative Pancreatic Fistula Using Preoperative Computed Tomography**|Ashok Choudhary et.al.|[2605.31539](https://arxiv.org/abs/2605.31539)|null|
+|**2026-06-01**|**Astra: a generalizable report generation foundation model for 3D computed tomography**|Zhuhao Wang et.al.|[2605.31437](https://arxiv.org/abs/2605.31437)|null|
+|**2026-05-29**|**LegSegNet: A Public Deep Learning System for Lower Extremity CT Tissue Segmentation and Quantification**|Yuwen Chen et.al.|[2605.30829](https://arxiv.org/abs/2605.30829)|null|
+|**2026-05-28**|**Controllable Lung Nodule Synthesis via Histogram-Regularized Latent Diffusion Models**|Arunkumar Kannan et.al.|[2605.30631](https://arxiv.org/abs/2605.30631)|null|
 |**2026-05-28**|**A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy**|Nisar Nellikunnummel et.al.|[2605.29975](https://arxiv.org/abs/2605.29975)|null|
 |**2026-05-28**|**CT Imaging with Helium and Carbon Ions for Hadron Therapy**|Zsófia Jólesz et.al.|[2605.29593](https://arxiv.org/abs/2605.29593)|null|
 |**2026-05-28**|**High-Fidelity ROI CT Reconstruction with Limited Quantum Resources via Hybrid Classical-Quantum Refinement**|Hyunju Lee et.al.|[2605.29472](https://arxiv.org/abs/2605.29472)|null|
@@ -602,12 +606,18 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**Physics-Aware Linearized ADMM and Its Unrolling**|Satoshi Takabe et.al.|[2606.01652](https://arxiv.org/abs/2606.01652)|null|
+|**2026-05-30**|**Computational Phase Transitions in Binary Compressed Sensing: Quantum Annealing Inside the Relaxation Gap**|William Hahn et.al.|[2606.00806](https://arxiv.org/abs/2606.00806)|null|
+|**2026-05-22**|**Flow-Based Generative Modeling for Optimizing Sampling Policies in Compressed Sensing Applications**|Roman Pavelkin et.al.|[2606.00078](https://arxiv.org/abs/2606.00078)|null|
+|**2026-05-29**|**Combining Cartesian and non-Cartesian acceleration techniques with SPARKLING for 1mm isotropic whole-brain MPRAGE in a minute**|Chaithya Giliyar Radhakrishna et.al.|[2605.31017](https://arxiv.org/abs/2605.31017)|null|
+|**2026-05-29**|**Foundation VAEs for 3D CT Reconstruction, Augmentation, and Generation**|Qi Chen et.al.|[2605.30893](https://arxiv.org/abs/2605.30893)|null|
+|**2026-05-29**|**Mid-infrared single-pixel imaging at the single-photon level**|Yinqi Wang et.al.|[2605.30703](https://arxiv.org/abs/2605.30703)|null|
 |**2026-05-28**|**High-Fidelity ROI CT Reconstruction with Limited Quantum Resources via Hybrid Classical-Quantum Refinement**|Hyunju Lee et.al.|[2605.29472](https://arxiv.org/abs/2605.29472)|null|
 |**2026-05-27**|**Gradient Step Plug-and-Play Model for Dental Cone-Beam CT Reconstruction**|Idris Tatachak et.al.|[2605.28124](https://arxiv.org/abs/2605.28124)|null|
 |**2026-05-27**|**Mid-Infrared Single-Photon Compressive Spectroscopy**|Ben Sun et.al.|[2605.27890](https://arxiv.org/abs/2605.27890)|null|
@@ -928,12 +938,32 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**Bridging the Sim-to-Real Gap in Semiconductor Visual Program Synthesis via Input Binarization**|Yusuke Ohtsubo et.al.|[2606.02434](https://arxiv.org/abs/2606.02434)|null|
+|**2026-06-01**|**Less Is More? When Dataset Context Hurts LLM-Generated Dataset Descriptions**|Lisa-Yao Gan et.al.|[2606.02334](https://arxiv.org/abs/2606.02334)|null|
+|**2026-06-01**|**CityTrajBench: A Unified Benchmark for City-Scale Vehicle Trajectory Generation**|Shibo Zhu et.al.|[2606.02287](https://arxiv.org/abs/2606.02287)|null|
+|**2026-06-01**|**C2GA: A Class-Controllable Generative Augmentation Framework for Respiratory Sound Classification**|Ziqi Ma et.al.|[2606.02212](https://arxiv.org/abs/2606.02212)|null|
+|**2026-06-01**|**Stability of nontrivial graph pairs**|Xiaomeng Wang et.al.|[2606.02203](https://arxiv.org/abs/2606.02203)|null|
+|**2026-06-01**|**CRAFTQA: A Code-Driven Adaptive Framework for Complex Structured Data Reasoning**|Chengtao Gan et.al.|[2606.02170](https://arxiv.org/abs/2606.02170)|null|
+|**2026-06-01**|**InfoMerge: Information-aware Token Compression for Efficient Video Large Language Models**|Xinxin Liu et.al.|[2606.02161](https://arxiv.org/abs/2606.02161)|null|
+|**2026-06-01**|**WALL-WM: Carving World Action Modeling at the Event Joints**|Shalfun Li et.al.|[2606.01955](https://arxiv.org/abs/2606.01955)|null|
+|**2026-06-01**|**Deep Learning for Generating Computational PIN-4 Immunohistochemistry Staining from Prostate Biopsy H&E Images**|Vietbao Tran et.al.|[2606.01871](https://arxiv.org/abs/2606.01871)|null|
+|**2026-06-01**|**ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?**|Peihan Liu et.al.|[2606.01849](https://arxiv.org/abs/2606.01849)|null|
+|**2026-06-01**|**The Murchison Widefield Array Phase III upgrade: Sensitivity Doubled, Number of Baselines Quadrupled, Flexibility Enhanced, and EoR Observations Optimised**|S. J. Tingay et.al.|[2606.01644](https://arxiv.org/abs/2606.01644)|null|
+|**2026-05-31**|**DiffuSent: Towards a Unified Diffusion Framework for Aspect-Based Sentiment Analysis**|Shu Long et.al.|[2606.01323](https://arxiv.org/abs/2606.01323)|null|
+|**2026-05-31**|**FAiT: Frequency-Aware Inverted Transformer for Multivariate Time Series Forecasting**|Peng He et.al.|[2606.01306](https://arxiv.org/abs/2606.01306)|null|
+|**2026-05-31**|**GLIDE: Graph-guided Leap Inference for Diffusion Estimation of Spatio-Temporal Point Processes**|Guanyu Zhou et.al.|[2606.01273](https://arxiv.org/abs/2606.01273)|null|
+|**2026-05-31**|**PALTO: Physics-Informed Active Learning for Tri-Gate FinFET Design Optimization for Vertical Power Delivery**|Ayoub Sadeghi et.al.|[2606.01265](https://arxiv.org/abs/2606.01265)|null|
+|**2026-05-30**|**Enhancing LLM Metacognition via Cognitive Pairwise Training**|Weitao Li et.al.|[2606.00869](https://arxiv.org/abs/2606.00869)|null|
+|**2026-05-30**|**The Pan-Pacific Planet Search -- IX. A menagerie of companions orbiting evolved stars**|Robert A. Wittenmyer et.al.|[2606.00787](https://arxiv.org/abs/2606.00787)|null|
+|**2026-05-30**|**A Systematic Benchmark of Intraoperative Ultrasound-to-MR Synthesis for Brain Tumour Surgery**|Olga Esteban-Sinovas et.al.|[2606.00630](https://arxiv.org/abs/2606.00630)|null|
+|**2026-05-29**|**AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle**|Weitong Qian et.al.|[2605.31468](https://arxiv.org/abs/2605.31468)|null|
+|**2026-05-29**|**VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching**|Tuan Duc Ngo et.al.|[2605.31466](https://arxiv.org/abs/2605.31466)|null|
 |**2026-05-28**|**RoboWits: Unexpected Challenges for Robotic Creative Problem Solving**|Chunru Lin et.al.|[2605.30326](https://arxiv.org/abs/2605.30326)|null|
 |**2026-05-28**|**A Radius-Sensitive Approximation Algorithm for Connected Submodular Maximization**|Philip Cervenjak et.al.|[2605.30053](https://arxiv.org/abs/2605.30053)|null|
 |**2026-05-28**|**On the Geometry of Games and their Solvers**|Yaqi Sun et.al.|[2605.29919](https://arxiv.org/abs/2605.29919)|null|
@@ -2294,7 +2324,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2342,5 +2372,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
 
