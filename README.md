@@ -954,6 +954,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism**|Cong Chen et.al.|[2606.07512](https://arxiv.org/abs/2606.07512)|null|
+|**2026-06-05**|**Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment**|Yibo Liu et.al.|[2606.07117](https://arxiv.org/abs/2606.07117)|null|
+|**2026-06-05**|**Optimized Sampling of Angle-Resolved Scatterometry Data Using End-to-End Compressed Learning Model for Nanograss Deficiency Detection**|Mehdi Abdollahpour et.al.|[2606.07050](https://arxiv.org/abs/2606.07050)|null|
+|**2026-06-05**|**ForensicConcept: Transferable Forensic Concepts for AIGI Detection**|Menyanshu Zhou et.al.|[2606.07034](https://arxiv.org/abs/2606.07034)|null|
+|**2026-06-05**|**Accelerating Reproducible Research in Synthetic EHR Generation**|Jalen Jiang et.al.|[2606.06990](https://arxiv.org/abs/2606.06990)|null|
+|**2026-06-05**|**Weighted Sum-Rate Enhancement for Flexible Intelligent Metasurface-Assisted Multicell Systems**|Hanwen Hu et.al.|[2606.06845](https://arxiv.org/abs/2606.06845)|null|
+|**2026-06-05**|**Passive all-optical synchronization for polarization-maintaining ultrafast fiber lasers**|Kun Huang et.al.|[2606.06799](https://arxiv.org/abs/2606.06799)|null|
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri et.al.|[2606.06448](https://arxiv.org/abs/2606.06448)|null|
 |**2026-06-04**|**Diff-CA: Separating Common and Salient Factors with Diffusion Models**|Michaël Soumm et.al.|[2606.06120](https://arxiv.org/abs/2606.06120)|null|
 |**2026-06-04**|**3D Underwater Path Planning via Generative Flow Field Surrogates**|Zachary Cooper-Baldock et.al.|[2606.06077](https://arxiv.org/abs/2606.06077)|null|
