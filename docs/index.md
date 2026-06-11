@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Time-Conditioned and Multi-Time Survival Prediction from 2D PET/CT Projections in Lung Cancer**|Ashish Chauhan et.al.|[2606.12140](https://arxiv.org/abs/2606.12140)|null|
+|**2026-06-10**|**In Situ Dynamics of the Microscopic Crystallographic Dehydration Pathway in a Model Channel Hydrate, Theophylline**|Natalia Koniuch et.al.|[2606.12029](https://arxiv.org/abs/2606.12029)|null|
 |**2026-06-09**|**UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors**|Zhiwen Yang et.al.|[2606.11131](https://arxiv.org/abs/2606.11131)|null|
 |**2026-06-09**|**Low-Dose 3D Bonding Mapping Through "Soft" Core-Loss EELS Tomography and Unsupervised Deep Learning**|Mario Pelaez-Fernandez et.al.|[2606.10893](https://arxiv.org/abs/2606.10893)|null|
 |**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](https://arxiv.org/abs/2606.10547)|null|
@@ -619,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Coherent Multiband OFDM Sensing via Low-Complexity Gap Reconstruction**|Lorenzo Pucci et.al.|[2606.11449](https://arxiv.org/abs/2606.11449)|null|
 |**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](https://arxiv.org/abs/2606.10547)|null|
 |**2026-06-08**|**Vendor-agnostic 4D Phase Contrast MRI: a complete open-source pipeline for velocities, displacement, and strain analysis**|Marta B. Maggioni et.al.|[2606.09444](https://arxiv.org/abs/2606.09444)|null|
 |**2026-06-04**|**Tracing the Oracle: Improving Diffusion Timestep Scheduling for 3D CT Reconstruction**|Yujia Wu et.al.|[2606.06236](https://arxiv.org/abs/2606.06236)|null|
@@ -955,14 +958,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models**|Chunlin Qiu et.al.|[2606.12263](https://arxiv.org/abs/2606.12263)|null|
+|**2026-06-10**|**DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation**|Kangning Zhang et.al.|[2606.12245](https://arxiv.org/abs/2606.12245)|null|
+|**2026-06-10**|**Non-frontal face recognition using GANs and memristor-based classifiers**|Semih Vazgecen et.al.|[2606.12074](https://arxiv.org/abs/2606.12074)|null|
 |**2026-06-08**|**An Improved Generative Adversarial Network for Micro-Resistivity Imaging Logging Restoration**|Ahmed Faizul Haque et.al.|[2606.10200](https://arxiv.org/abs/2606.10200)|null|
-|**2026-06-08**|**BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression**|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
+|**2026-06-10**|**BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression**|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
 |**2026-06-08**|**GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation**|Sriram Krishna et.al.|[2606.10025](https://arxiv.org/abs/2606.10025)|null|
 |**2026-06-08**|**Disentanglement with Holographic Reduced Representations**|Jhonny J. Velasquez Olivera et.al.|[2606.09725](https://arxiv.org/abs/2606.09725)|null|
 |**2026-06-08**|**Star Formation Drives Production of Low Energy Cosmic Rays**|Ningyu Tang et.al.|[2606.09651](https://arxiv.org/abs/2606.09651)|null|
 |**2026-06-08**|**Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy**|Fatemeh Kiani et.al.|[2606.09612](https://arxiv.org/abs/2606.09612)|null|
 |**2026-06-08**|**TUDSR: Twice Upsampling-Diffusion for Higher Super-Resolution**|Zhiqiang Wu et.al.|[2606.09608](https://arxiv.org/abs/2606.09608)|null|
-|**2026-06-08**|**Intention Driven Identification of In-Possession Match Phases in Association Football through Temporal Graph Learning**|Yuesen Li et.al.|[2606.09289](https://arxiv.org/abs/2606.09289)|null|
+|**2026-06-10**|**Intention Driven Identification of In-Possession Match Phases in Association Football through Temporal Graph Learning**|Yuesen Li et.al.|[2606.09289](https://arxiv.org/abs/2606.09289)|null|
 |**2026-06-09**|**Wavefront sets and descent method for finite classical groups**|Zhicheng Wang et.al.|[2606.09230](https://arxiv.org/abs/2606.09230)|null|
 |**2026-06-08**|**A Hybrid Generative Reduced-Order Model for the Minimal Flow Unit**|Niccolò Tonioni et.al.|[2606.09044](https://arxiv.org/abs/2606.09044)|null|
 |**2026-06-08**|**Self-Consistent Generative Paths via Admissible Random Variational Transport**|Lei Luo et.al.|[2606.08953](https://arxiv.org/abs/2606.08953)|null|
