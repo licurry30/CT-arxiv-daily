@@ -1,4 +1,4 @@
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites**|Jonas Welsch et.al.|[2606.12695](https://arxiv.org/abs/2606.12695)|null|
 |**2026-06-10**|**Time-Conditioned and Multi-Time Survival Prediction from 2D PET/CT Projections in Lung Cancer**|Ashish Chauhan et.al.|[2606.12140](https://arxiv.org/abs/2606.12140)|null|
 |**2026-06-10**|**In Situ Dynamics of the Microscopic Crystallographic Dehydration Pathway in a Model Channel Hydrate, Theophylline**|Natalia Koniuch et.al.|[2606.12029](https://arxiv.org/abs/2606.12029)|null|
 |**2026-06-09**|**UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors**|Zhiwen Yang et.al.|[2606.11131](https://arxiv.org/abs/2606.11131)|null|
@@ -623,7 +624,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## SVCT
 
@@ -962,16 +963,24 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-10**|**VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models**|Chunlin Qiu et.al.|[2606.12263](https://arxiv.org/abs/2606.12263)|null|
+|**2026-06-11**|**Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches**|Kyuil Lee et.al.|[2606.13626](https://arxiv.org/abs/2606.13626)|null|
+|**2026-06-11**|**Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models**|Jialin Gan et.al.|[2606.13624](https://arxiv.org/abs/2606.13624)|null|
+|**2026-06-11**|**Dual-Domain Equivariant Generative Adversarial Network for Multimodal CT-PET Synthesis**|Gabriel Steele et.al.|[2606.13341](https://arxiv.org/abs/2606.13341)|null|
+|**2026-06-11**|**To GAN or Not To GAN: Segmentation Analysis on Mars DEM**|Douglas Dziedzorm Agbeve et.al.|[2606.13252](https://arxiv.org/abs/2606.13252)|null|
+|**2026-06-11**|**Q-Backbone: A Quantum-Enhanced Control Plane for Future Communication Networks**|Mahdi Chehimi et.al.|[2606.13248](https://arxiv.org/abs/2606.13248)|null|
+|**2026-06-11**|**Leveraging rapid sintering to retain metastable zirconia in copper**|Wangshu Zheng et.al.|[2606.12860](https://arxiv.org/abs/2606.12860)|null|
+|**2026-06-11**|**High-Order Spectral Element Methods for Wave Propagation on ARM Multicore CPU with SME: Optimizations and Implications**|Yinuo Wang et.al.|[2606.12850](https://arxiv.org/abs/2606.12850)|null|
+|**2026-06-10**|**High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation**|Dongyang Liu et.al.|[2606.12575](https://arxiv.org/abs/2606.12575)|null|
+|**2026-06-11**|**VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models**|Chunlin Qiu et.al.|[2606.12263](https://arxiv.org/abs/2606.12263)|null|
 |**2026-06-10**|**DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation**|Kangning Zhang et.al.|[2606.12245](https://arxiv.org/abs/2606.12245)|null|
 |**2026-06-10**|**Non-frontal face recognition using GANs and memristor-based classifiers**|Semih Vazgecen et.al.|[2606.12074](https://arxiv.org/abs/2606.12074)|null|
-|**2026-06-08**|**An Improved Generative Adversarial Network for Micro-Resistivity Imaging Logging Restoration**|Ahmed Faizul Haque et.al.|[2606.10200](https://arxiv.org/abs/2606.10200)|null|
+|**2026-06-11**|**An Improved Generative Adversarial Network for Micro-Resistivity Imaging Logging Restoration**|Ahmed Faizul Haque et.al.|[2606.10200](https://arxiv.org/abs/2606.10200)|null|
 |**2026-06-10**|**BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression**|Shaohao Rui et.al.|[2606.10135](https://arxiv.org/abs/2606.10135)|null|
 |**2026-06-08**|**GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation**|Sriram Krishna et.al.|[2606.10025](https://arxiv.org/abs/2606.10025)|null|
 |**2026-06-08**|**Disentanglement with Holographic Reduced Representations**|Jhonny J. Velasquez Olivera et.al.|[2606.09725](https://arxiv.org/abs/2606.09725)|null|
@@ -2394,7 +2403,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2442,5 +2451,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
