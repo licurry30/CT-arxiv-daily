@@ -630,6 +630,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**Vision-Based Efficient Joint Trajectory and Channel Tracking in Near-Field XL-MIMO Systems**|Mengyuan Li et.al.|[2606.14067](https://arxiv.org/abs/2606.14067)|null|
+|**2026-06-11**|**Approximating Whittle-Matern Fields over Discretized Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
 |**2026-06-09**|**Coherent Multiband OFDM Sensing via Low-Complexity Gap Reconstruction**|Lorenzo Pucci et.al.|[2606.11449](https://arxiv.org/abs/2606.11449)|null|
 |**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](https://arxiv.org/abs/2606.10547)|null|
 |**2026-06-08**|**Vendor-agnostic 4D Phase Contrast MRI: a complete open-source pipeline for velocities, displacement, and strain analysis**|Marta B. Maggioni et.al.|[2606.09444](https://arxiv.org/abs/2606.09444)|null|
@@ -969,7 +971,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-11**|**Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches**|Kyuil Lee et.al.|[2606.13626](https://arxiv.org/abs/2606.13626)|null|
+|**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](https://arxiv.org/abs/2606.14297)|null|
+|**2026-06-12**|**A Multi-Domain Feature Fusion Framework for Generalizable Deepfake Detection Across Different Generators**|Amna Amjid et.al.|[2606.14230](https://arxiv.org/abs/2606.14230)|null|
+|**2026-06-11**|**Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations**|Yu Zhang et.al.|[2606.13917](https://arxiv.org/abs/2606.13917)|null|
+|**2026-06-12**|**Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches**|Dezhi Yu et.al.|[2606.13626](https://arxiv.org/abs/2606.13626)|null|
 |**2026-06-11**|**Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models**|Jialin Gan et.al.|[2606.13624](https://arxiv.org/abs/2606.13624)|null|
 |**2026-06-11**|**Dual-Domain Equivariant Generative Adversarial Network for Multimodal CT-PET Synthesis**|Gabriel Steele et.al.|[2606.13341](https://arxiv.org/abs/2606.13341)|null|
 |**2026-06-11**|**To GAN or Not To GAN: Segmentation Analysis on Mars DEM**|Douglas Dziedzorm Agbeve et.al.|[2606.13252](https://arxiv.org/abs/2606.13252)|null|
