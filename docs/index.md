@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-14**|**Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images**|Changwoo Song et.al.|[2606.15604](https://arxiv.org/abs/2606.15604)|null|
+|**2026-06-13**|**Inexact Warped Resolvent iterations**|Raul T. Marcavillaca et.al.|[2606.15426](https://arxiv.org/abs/2606.15426)|null|
 |**2026-06-10**|**Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites**|Jonas Welsch et.al.|[2606.12695](https://arxiv.org/abs/2606.12695)|null|
 |**2026-06-10**|**Time-Conditioned and Multi-Time Survival Prediction from 2D PET/CT Projections in Lung Cancer**|Ashish Chauhan et.al.|[2606.12140](https://arxiv.org/abs/2606.12140)|null|
 |**2026-06-10**|**In Situ Dynamics of the Microscopic Crystallographic Dehydration Pathway in a Model Channel Hydrate, Theophylline**|Natalia Koniuch et.al.|[2606.12029](https://arxiv.org/abs/2606.12029)|null|
@@ -622,6 +624,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
+|**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
+|**2026-06-13**|**Graph recovery from partial information**|Vishal Gupta et.al.|[2606.15475](https://arxiv.org/abs/2606.15475)|null|
+|**2026-06-13**|**Variational Network with Wavelet-based UNET in Accelerated MRI Reconstruction from Under Sampled K-space Data**|Yasir Arafat Prodhan et.al.|[2606.15167](https://arxiv.org/abs/2606.15167)|null|
 |**2026-06-12**|**Vision-Based Efficient Joint Trajectory and Channel Tracking in Near-Field XL-MIMO Systems**|Mengyuan Li et.al.|[2606.14067](https://arxiv.org/abs/2606.14067)|null|
 |**2026-06-11**|**Approximating Whittle-Matern Fields over Discretized Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
 |**2026-06-09**|**Coherent Multiband OFDM Sensing via Low-Complexity Gap Reconstruction**|Lorenzo Pucci et.al.|[2606.11449](https://arxiv.org/abs/2606.11449)|null|
@@ -961,6 +967,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**A HINSA view of cosmic-ray ionization in IC 348 and NGC 1333: evidence for a strong low-energy cosmic-ray disparity**|Gan Luo et.al.|[2606.16796](https://arxiv.org/abs/2606.16796)|null|
+|**2026-06-15**|**Generative Predictive Distributions for Time Series**|Jordi Llorens-Terrazas et.al.|[2606.16773](https://arxiv.org/abs/2606.16773)|null|
+|**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](https://arxiv.org/abs/2606.16742)|null|
+|**2026-06-15**|**GaN Nucleation Landscape on Patterned Sapphire Shaped by the Growth Temperature of Directly Grown Boron-Compound Masks**|Yunjin Heo et.al.|[2606.16706](https://arxiv.org/abs/2606.16706)|null|
+|**2026-06-15**|**XL-ChannelDiff: An Efficient Diffusion-Based Multi-Domain Near-Field Channel Extrapolation Framework for XL-MIMO Systems**|Mengyuan Li et.al.|[2606.16628](https://arxiv.org/abs/2606.16628)|null|
+|**2026-06-15**|**Wavelength-Multiplexed 2D Beam Steering via a Passive Diffractive Network**|Che-Yung Shen et.al.|[2606.16261](https://arxiv.org/abs/2606.16261)|null|
+|**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
+|**2026-06-14**|**Service-Induced Congestion in Memory-Constrained LLM Serving**|Ruicheng Ao et.al.|[2606.15555](https://arxiv.org/abs/2606.15555)|null|
+|**2026-06-14**|**A Bifurcation Theory Framework for Gradient Descent on the Edge of Stability**|Eric Gan et.al.|[2606.15551](https://arxiv.org/abs/2606.15551)|null|
+|**2026-06-13**|**Lesion-DDPM: Lesion-Enhanced 3D Diffusion for MS MRI Synthesis**|Weidong Zhang et.al.|[2606.15457](https://arxiv.org/abs/2606.15457)|null|
+|**2026-06-13**|**Generative modelling powered by room-temperature polariton condensates**|Yuan Wang et.al.|[2606.15344](https://arxiv.org/abs/2606.15344)|null|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](https://arxiv.org/abs/2606.14297)|null|
 |**2026-06-12**|**A Multi-Domain Feature Fusion Framework for Generalizable Deepfake Detection Across Different Generators**|Amna Amjid et.al.|[2606.14230](https://arxiv.org/abs/2606.14230)|null|
 |**2026-06-11**|**Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations**|Yu Zhang et.al.|[2606.13917](https://arxiv.org/abs/2606.13917)|null|
