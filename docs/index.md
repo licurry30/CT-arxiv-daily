@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Accuracy, Repeatability, and Reproducibility of a Radiographic Technique to Assess Spinal Cord Stimulation Lead Position: A Validation Study**|Andrew Thoreson et.al.|[2606.17277](https://arxiv.org/abs/2606.17277)|null|
 |**2026-06-14**|**Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images**|Changwoo Song et.al.|[2606.15604](https://arxiv.org/abs/2606.15604)|null|
 |**2026-06-13**|**Inexact Warped Resolvent iterations**|Raul T. Marcavillaca et.al.|[2606.15426](https://arxiv.org/abs/2606.15426)|null|
 |**2026-06-10**|**Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites**|Jonas Welsch et.al.|[2606.12695](https://arxiv.org/abs/2606.12695)|null|
@@ -624,12 +625,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Bayesian Magnetic Resonance Joint Image Reconstruction and Uncertainty Quantification using Sparsity Prior Models and Markov Chain Monte Carlo Sampling**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
 |**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
 |**2026-06-13**|**Graph recovery from partial information**|Vishal Gupta et.al.|[2606.15475](https://arxiv.org/abs/2606.15475)|null|
 |**2026-06-13**|**Variational Network with Wavelet-based UNET in Accelerated MRI Reconstruction from Under Sampled K-space Data**|Yasir Arafat Prodhan et.al.|[2606.15167](https://arxiv.org/abs/2606.15167)|null|
 |**2026-06-12**|**Vision-Based Efficient Joint Trajectory and Channel Tracking in Near-Field XL-MIMO Systems**|Mengyuan Li et.al.|[2606.14067](https://arxiv.org/abs/2606.14067)|null|
-|**2026-06-11**|**Approximating Whittle-Matern Fields over Discretized Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
+|**2026-06-15**|**Approximating Gaussian Whittle-Matern Fields over Well-Centered Triangulations of Riemannian Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
 |**2026-06-09**|**Coherent Multiband OFDM Sensing via Low-Complexity Gap Reconstruction**|Lorenzo Pucci et.al.|[2606.11449](https://arxiv.org/abs/2606.11449)|null|
 |**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](https://arxiv.org/abs/2606.10547)|null|
 |**2026-06-08**|**Vendor-agnostic 4D Phase Contrast MRI: a complete open-source pipeline for velocities, displacement, and strain analysis**|Marta B. Maggioni et.al.|[2606.09444](https://arxiv.org/abs/2606.09444)|null|
@@ -967,6 +969,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation**|Rick Fritschek et.al.|[2606.17893](https://arxiv.org/abs/2606.17893)|null|
+|**2026-06-16**|**Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery**|Huan-Ming Chang et.al.|[2606.17852](https://arxiv.org/abs/2606.17852)|null|
+|**2026-06-15**|**Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3**|Jay Jung et.al.|[2606.17127](https://arxiv.org/abs/2606.17127)|null|
 |**2026-06-15**|**A HINSA view of cosmic-ray ionization in IC 348 and NGC 1333: evidence for a strong low-energy cosmic-ray disparity**|Gan Luo et.al.|[2606.16796](https://arxiv.org/abs/2606.16796)|null|
 |**2026-06-15**|**Generative Predictive Distributions for Time Series**|Jordi Llorens-Terrazas et.al.|[2606.16773](https://arxiv.org/abs/2606.16773)|null|
 |**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](https://arxiv.org/abs/2606.16742)|null|

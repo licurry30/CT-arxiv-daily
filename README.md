@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Accuracy, Repeatability, and Reproducibility of a Radiographic Technique to Assess Spinal Cord Stimulation Lead Position: A Validation Study**|Andrew Thoreson et.al.|[2606.17277](https://arxiv.org/abs/2606.17277)|null|
 |**2026-06-14**|**Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images**|Changwoo Song et.al.|[2606.15604](https://arxiv.org/abs/2606.15604)|null|
 |**2026-06-13**|**Inexact Warped Resolvent iterations**|Raul T. Marcavillaca et.al.|[2606.15426](https://arxiv.org/abs/2606.15426)|null|
 |**2026-06-10**|**Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites**|Jonas Welsch et.al.|[2606.12695](https://arxiv.org/abs/2606.12695)|null|
@@ -626,18 +627,19 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Bayesian Magnetic Resonance Joint Image Reconstruction and Uncertainty Quantification using Sparsity Prior Models and Markov Chain Monte Carlo Sampling**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
 |**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
 |**2026-06-13**|**Graph recovery from partial information**|Vishal Gupta et.al.|[2606.15475](https://arxiv.org/abs/2606.15475)|null|
 |**2026-06-13**|**Variational Network with Wavelet-based UNET in Accelerated MRI Reconstruction from Under Sampled K-space Data**|Yasir Arafat Prodhan et.al.|[2606.15167](https://arxiv.org/abs/2606.15167)|null|
 |**2026-06-12**|**Vision-Based Efficient Joint Trajectory and Channel Tracking in Near-Field XL-MIMO Systems**|Mengyuan Li et.al.|[2606.14067](https://arxiv.org/abs/2606.14067)|null|
-|**2026-06-11**|**Approximating Whittle-Matern Fields over Discretized Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
+|**2026-06-15**|**Approximating Gaussian Whittle-Matern Fields over Well-Centered Triangulations of Riemannian Manifolds**|Srinivas Nambirajan et.al.|[2606.13827](https://arxiv.org/abs/2606.13827)|null|
 |**2026-06-09**|**Coherent Multiband OFDM Sensing via Low-Complexity Gap Reconstruction**|Lorenzo Pucci et.al.|[2606.11449](https://arxiv.org/abs/2606.11449)|null|
 |**2026-06-09**|**Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices**|Daniel del Pozo Bueno et.al.|[2606.10547](https://arxiv.org/abs/2606.10547)|null|
 |**2026-06-08**|**Vendor-agnostic 4D Phase Contrast MRI: a complete open-source pipeline for velocities, displacement, and strain analysis**|Marta B. Maggioni et.al.|[2606.09444](https://arxiv.org/abs/2606.09444)|null|
@@ -971,12 +973,15 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation**|Rick Fritschek et.al.|[2606.17893](https://arxiv.org/abs/2606.17893)|null|
+|**2026-06-16**|**Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery**|Huan-Ming Chang et.al.|[2606.17852](https://arxiv.org/abs/2606.17852)|null|
+|**2026-06-15**|**Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3**|Jay Jung et.al.|[2606.17127](https://arxiv.org/abs/2606.17127)|null|
 |**2026-06-15**|**A HINSA view of cosmic-ray ionization in IC 348 and NGC 1333: evidence for a strong low-energy cosmic-ray disparity**|Gan Luo et.al.|[2606.16796](https://arxiv.org/abs/2606.16796)|null|
 |**2026-06-15**|**Generative Predictive Distributions for Time Series**|Jordi Llorens-Terrazas et.al.|[2606.16773](https://arxiv.org/abs/2606.16773)|null|
 |**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](https://arxiv.org/abs/2606.16742)|null|
@@ -2425,7 +2430,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2473,5 +2478,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
