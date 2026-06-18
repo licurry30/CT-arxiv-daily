@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -625,6 +625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds**|Vu Khac Ky et.al.|[2606.18306](https://arxiv.org/abs/2606.18306)|null|
 |**2026-06-15**|**Bayesian Magnetic Resonance Joint Image Reconstruction and Uncertainty Quantification using Sparsity Prior Models and Markov Chain Monte Carlo Sampling**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
 |**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
@@ -969,6 +970,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI**|Syed Mujtaba Haider et.al.|[2606.18970](https://arxiv.org/abs/2606.18970)|null|
+|**2026-06-17**|**QC-GAN: A Parameter-Efficient Quaternion Conformer GAN for High-Fidelity Speech Enhancement**|Shogo Yamauchi et.al.|[2606.18611](https://arxiv.org/abs/2606.18611)|null|
+|**2026-06-17**|**Correcting Sensor-Induced Distribution Drift with Wasserstein Adversarial Learning**|Saraa Ali et.al.|[2606.18561](https://arxiv.org/abs/2606.18561)|null|
+|**2026-06-16**|**Deep Learning-Driven Inverse Design of Doherty Power Amplifiers Using Pixelated Combiners and Dual-State Impedance Synthesis**|Han Zhou et.al.|[2606.18395](https://arxiv.org/abs/2606.18395)|null|
 |**2026-06-16**|**Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation**|Rick Fritschek et.al.|[2606.17893](https://arxiv.org/abs/2606.17893)|null|
 |**2026-06-16**|**Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery**|Huan-Ming Chang et.al.|[2606.17852](https://arxiv.org/abs/2606.17852)|null|
 |**2026-06-15**|**Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3**|Jay Jung et.al.|[2606.17127](https://arxiv.org/abs/2606.17127)|null|
