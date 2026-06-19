@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Efficient and Accurate Image Reconstruction for Geometric-Inconsistent Multispectral CT with Ray-Dependent Energy Spectra**|Ziqiang Zhang et.al.|[2606.20395](https://arxiv.org/abs/2606.20395)|null|
+|**2026-06-18**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-15**|**Accuracy, Repeatability, and Reproducibility of a Radiographic Technique to Assess Spinal Cord Stimulation Lead Position: A Validation Study**|Andrew Thoreson et.al.|[2606.17277](https://arxiv.org/abs/2606.17277)|null|
 |**2026-06-14**|**Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images**|Changwoo Song et.al.|[2606.15604](https://arxiv.org/abs/2606.15604)|null|
 |**2026-06-13**|**Inexact Warped Resolvent iterations**|Raul T. Marcavillaca et.al.|[2606.15426](https://arxiv.org/abs/2606.15426)|null|
@@ -625,6 +627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-16**|**Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds**|Vu Khac Ky et.al.|[2606.18306](https://arxiv.org/abs/2606.18306)|null|
 |**2026-06-15**|**Bayesian Magnetic Resonance Joint Image Reconstruction and Uncertainty Quantification using Sparsity Prior Models and Markov Chain Monte Carlo Sampling**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
@@ -970,8 +973,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-17**|**A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI**|Syed Mujtaba Haider et.al.|[2606.18970](https://arxiv.org/abs/2606.18970)|null|
-|**2026-06-17**|**QC-GAN: A Parameter-Efficient Quaternion Conformer GAN for High-Fidelity Speech Enhancement**|Shogo Yamauchi et.al.|[2606.18611](https://arxiv.org/abs/2606.18611)|null|
+|**2026-06-18**|**Pixel-Level Residual Diffusion Transformer: Scalable 3D CT Volume Generation**|Zhenkai Zhang et.al.|[2606.20112](https://arxiv.org/abs/2606.20112)|null|
+|**2026-06-18**|**A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI**|Syed Mujtaba Haider et.al.|[2606.18970](https://arxiv.org/abs/2606.18970)|null|
+|**2026-06-18**|**QC-GAN: A Parameter-Efficient Quaternion Conformer GAN for High-Fidelity Speech Enhancement**|Shogo Yamauchi et.al.|[2606.18611](https://arxiv.org/abs/2606.18611)|null|
 |**2026-06-17**|**Correcting Sensor-Induced Distribution Drift with Wasserstein Adversarial Learning**|Saraa Ali et.al.|[2606.18561](https://arxiv.org/abs/2606.18561)|null|
 |**2026-06-16**|**Deep Learning-Driven Inverse Design of Doherty Power Amplifiers Using Pixelated Combiners and Dual-State Impedance Synthesis**|Han Zhou et.al.|[2606.18395](https://arxiv.org/abs/2606.18395)|null|
 |**2026-06-16**|**Condition-Wise Sinkhorn Drifting for One-Shot Learned Channel Simulation**|Rick Fritschek et.al.|[2606.17893](https://arxiv.org/abs/2606.17893)|null|
