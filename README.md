@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Dosimetric Quantification of a Commercial Dual-Tube kV X-Ray System for Preclinical FLASH Research**|Luka Matej Devenica et.al.|[2606.23401](https://arxiv.org/abs/2606.23401)|null|
+|**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
+|**2026-06-21**|**Biological Sex Determination in Cadavers Using Deep Learning Algorithms from Computed Tomography Images of Pelvis and Skull**|Giovanna Herculano Tormena et.al.|[2606.22515](https://arxiv.org/abs/2606.22515)|null|
+|**2026-06-21**|**Efficient Multimodal Clinical Question Answering for Pulmonary Embolism Risk Assessment**|Xiangyuan Xue et.al.|[2606.22442](https://arxiv.org/abs/2606.22442)|null|
+|**2026-06-21**|**Multi-cancer detection using a computationally efficient CNN with transfer learning**|Vasileios E. Papageorgiou et.al.|[2606.22400](https://arxiv.org/abs/2606.22400)|null|
+|**2026-06-19**|**Scaling up fine-grained intracranial vessel annotations in computed tomography angiography**|Chu-Hsuan Lin et.al.|[2606.21756](https://arxiv.org/abs/2606.21756)|null|
+|**2026-06-19**|** $μ$ Match: Foundation Models for Semi-supervised Learning and Domain Adaptation in EM**|Marei Freitag et.al.|[2606.21605](https://arxiv.org/abs/2606.21605)|null|
+|**2026-06-19**|**OpenPINT: Open-source Planning for Isoeffective Nuclear Treatments in BNCT research**|Ian Postuma et.al.|[2606.21476](https://arxiv.org/abs/2606.21476)|null|
 |**2026-06-18**|**Efficient and Accurate Image Reconstruction for Geometric-Inconsistent Multispectral CT with Ray-Dependent Energy Spectra**|Ziqiang Zhang et.al.|[2606.20395](https://arxiv.org/abs/2606.20395)|null|
 |**2026-06-18**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-15**|**Accuracy, Repeatability, and Reproducibility of a Radiographic Technique to Assess Spinal Cord Stimulation Lead Position: A Validation Study**|Andrew Thoreson et.al.|[2606.17277](https://arxiv.org/abs/2606.17277)|null|
@@ -629,15 +637,18 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
+|**2026-06-21**|**Single-photon time-stretch computational ghost spectroscopy**|Zhibin Zhao et.al.|[2606.22367](https://arxiv.org/abs/2606.22367)|null|
+|**2026-06-18**|**From Sparse X-rays to 3D CT: Training-Free Reconstruction with Diffusion Priors**|Zhenkai Zhang et.al.|[2606.20763](https://arxiv.org/abs/2606.20763)|null|
 |**2026-06-18**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-16**|**Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds**|Vu Khac Ky et.al.|[2606.18306](https://arxiv.org/abs/2606.18306)|null|
-|**2026-06-15**|**Bayesian Magnetic Resonance Joint Image Reconstruction and Uncertainty Quantification using Sparsity Prior Models and Markov Chain Monte Carlo Sampling**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
+|**2026-06-21**|**Trustworthy MRI Reconstruction via Bayesian Uncertainty Quantification with Sparsity Prior Models**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
 |**2026-06-14**|**Sparse Channel Estimation for SIM-based mmWave Near-Field Communications**|Jiancheng An et.al.|[2606.15634](https://arxiv.org/abs/2606.15634)|null|
 |**2026-06-13**|**Graph recovery from partial information**|Vishal Gupta et.al.|[2606.15475](https://arxiv.org/abs/2606.15475)|null|
@@ -977,12 +988,28 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](https://arxiv.org/abs/2606.23521)|null|
+|**2026-06-22**|**Scaling LLM Knowledge Boundaries via Distribution-Optimized Synthesis**|Songze Li et.al.|[2606.23271](https://arxiv.org/abs/2606.23271)|null|
+|**2026-06-22**|**FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**|Wenlong Cheng et.al.|[2606.22875](https://arxiv.org/abs/2606.22875)|null|
+|**2026-06-22**|**Explainable AI for Mental Health Prediction in Drug-Affected Populations with Dragonfly Algorithm and GAN Oversampling**|Ahnaf Atef Choudhury et.al.|[2606.22780](https://arxiv.org/abs/2606.22780)|null|
+|**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](https://arxiv.org/abs/2606.22756)|null|
+|**2026-06-22**|**Endogenous Randomness from Adversarial Market Learning**|Jian Sun et.al.|[2606.22743](https://arxiv.org/abs/2606.22743)|null|
+|**2026-06-21**|**One-Prompt Censorship Evasion via Generative Diffusion Models**|Shiyi Ling et.al.|[2606.22717](https://arxiv.org/abs/2606.22717)|null|
+|**2026-06-21**|**SCRUB-FL: Sanitizing and Cleansing Representations via Unlearning of Backdoors**|Osama Wehbi et.al.|[2606.22700](https://arxiv.org/abs/2606.22700)|null|
+|**2026-06-21**|**Escaping the Variance Trap: Jacobian-Free Dynamics for Root-Finding Bilevel Optimization**|Zhiyu Li et.al.|[2606.22433](https://arxiv.org/abs/2606.22433)|null|
+|**2026-06-21**|**Theorist Toolbox: Tools for Agent Based LLM-assisted economic theory Research**|Moran Koren et.al.|[2606.22337](https://arxiv.org/abs/2606.22337)|null|
+|**2026-06-20**|**Do Prompt Gamma-ray Burst Fireball Composition Impact on Afterglow Emission? Cases Study for Long GRBs 080916C/090902B and Short GRBs 090510/130603B**|Yu Gan et.al.|[2606.21827](https://arxiv.org/abs/2606.21827)|null|
+|**2026-06-19**|**LISE : Listenable Interpretable Speaker Embeddings**|Xiaoliang Wu et.al.|[2606.21305](https://arxiv.org/abs/2606.21305)|null|
+|**2026-06-19**|**Few-Shot Hyperspectral Aphid Detection via FastGAN Synthetic Data Generation, Transformer-Based Classification and Explainable AI**|Ali Saeidan et.al.|[2606.21267](https://arxiv.org/abs/2606.21267)|null|
+|**2026-06-18**|**Exploiting Neural Audio Codec Latents for Adversarial Audio Attacks**|Sameek Bhattacharya et.al.|[2606.20893](https://arxiv.org/abs/2606.20893)|null|
+|**2026-06-18**|**Synthetic Network Packet Generation through Statistical Learning and Genetic Algorithms**|Mayank Raj et.al.|[2606.20864](https://arxiv.org/abs/2606.20864)|null|
+|**2026-06-18**|**One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception**|Keqin Zeng et.al.|[2606.20764](https://arxiv.org/abs/2606.20764)|null|
 |**2026-06-18**|**Pixel-Level Residual Diffusion Transformer: Scalable 3D CT Volume Generation**|Zhenkai Zhang et.al.|[2606.20112](https://arxiv.org/abs/2606.20112)|null|
 |**2026-06-18**|**A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI**|Syed Mujtaba Haider et.al.|[2606.18970](https://arxiv.org/abs/2606.18970)|null|
 |**2026-06-18**|**QC-GAN: A Parameter-Efficient Quaternion Conformer GAN for High-Fidelity Speech Enhancement**|Shogo Yamauchi et.al.|[2606.18611](https://arxiv.org/abs/2606.18611)|null|
@@ -2439,7 +2466,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2487,5 +2514,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
