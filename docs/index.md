@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction**|Antoine De Paepe et.al.|[2606.24567](https://arxiv.org/abs/2606.24567)|null|
+|**2026-06-23**|**Quantum CT via Dynamic Interval Encoding and Prior-Balanced QUBO Reconstruction**|Ao Wang et.al.|[2606.24561](https://arxiv.org/abs/2606.24561)|null|
+|**2026-06-23**|**Unpaired Deep Learning Synthesis of Photon-Counting CT Material Basis Maps from Non-contrast Energy-Integrating Abdominal CT Images**|Ruihan Huang et.al.|[2606.24317](https://arxiv.org/abs/2606.24317)|null|
 |**2026-06-22**|**Dosimetric Quantification of a Commercial Dual-Tube kV X-Ray System for Preclinical FLASH Research**|Luka Matej Devenica et.al.|[2606.23401](https://arxiv.org/abs/2606.23401)|null|
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
 |**2026-06-21**|**Biological Sex Determination in Cadavers Using Deep Learning Algorithms from Computed Tomography Images of Pelvis and Skull**|Giovanna Herculano Tormena et.al.|[2606.22515](https://arxiv.org/abs/2606.22515)|null|
@@ -635,6 +638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction**|Antoine De Paepe et.al.|[2606.24567](https://arxiv.org/abs/2606.24567)|null|
+|**2026-06-23**|**Quantum CT via Dynamic Interval Encoding and Prior-Balanced QUBO Reconstruction**|Ao Wang et.al.|[2606.24561](https://arxiv.org/abs/2606.24561)|null|
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
 |**2026-06-21**|**Single-photon time-stretch computational ghost spectroscopy**|Zhibin Zhao et.al.|[2606.22367](https://arxiv.org/abs/2606.22367)|null|
 |**2026-06-18**|**From Sparse X-rays to 3D CT: Training-Free Reconstruction with Diffusion Priors**|Zhenkai Zhang et.al.|[2606.20763](https://arxiv.org/abs/2606.20763)|null|
@@ -984,6 +989,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**NeuroSonic: Conditional Flow Matching for EEG-to-Speech Reconstruction**|Wenhao Gao et.al.|[2606.24087](https://arxiv.org/abs/2606.24087)|null|
+|**2026-06-22**|**Generative Modeling for Physiological Signals**|Xinqi Bao et.al.|[2606.23864](https://arxiv.org/abs/2606.23864)|null|
 |**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](https://arxiv.org/abs/2606.23521)|null|
 |**2026-06-22**|**Scaling LLM Knowledge Boundaries via Distribution-Optimized Synthesis**|Songze Li et.al.|[2606.23271](https://arxiv.org/abs/2606.23271)|null|
 |**2026-06-22**|**FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**|Wenlong Cheng et.al.|[2606.22875](https://arxiv.org/abs/2606.22875)|null|
@@ -993,7 +1000,7 @@ layout: default
 |**2026-06-21**|**One-Prompt Censorship Evasion via Generative Diffusion Models**|Shiyi Ling et.al.|[2606.22717](https://arxiv.org/abs/2606.22717)|null|
 |**2026-06-21**|**SCRUB-FL: Sanitizing and Cleansing Representations via Unlearning of Backdoors**|Osama Wehbi et.al.|[2606.22700](https://arxiv.org/abs/2606.22700)|null|
 |**2026-06-21**|**Escaping the Variance Trap: Jacobian-Free Dynamics for Root-Finding Bilevel Optimization**|Zhiyu Li et.al.|[2606.22433](https://arxiv.org/abs/2606.22433)|null|
-|**2026-06-21**|**Theorist Toolbox: Tools for Agent Based LLM-assisted economic theory Research**|Moran Koren et.al.|[2606.22337](https://arxiv.org/abs/2606.22337)|null|
+|**2026-06-23**|**Theorist Toolbox: Tools for Agent Based LLM-assisted economic theory Research**|Moran Koren et.al.|[2606.22337](https://arxiv.org/abs/2606.22337)|null|
 |**2026-06-20**|**Do Prompt Gamma-ray Burst Fireball Composition Impact on Afterglow Emission? Cases Study for Long GRBs 080916C/090902B and Short GRBs 090510/130603B**|Yu Gan et.al.|[2606.21827](https://arxiv.org/abs/2606.21827)|null|
 |**2026-06-19**|**LISE : Listenable Interpretable Speaker Embeddings**|Xiaoliang Wu et.al.|[2606.21305](https://arxiv.org/abs/2606.21305)|null|
 |**2026-06-19**|**Few-Shot Hyperspectral Aphid Detection via FastGAN Synthetic Data Generation, Transformer-Based Classification and Explainable AI**|Ali Saeidan et.al.|[2606.21267](https://arxiv.org/abs/2606.21267)|null|
