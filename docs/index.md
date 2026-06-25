@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](https://arxiv.org/abs/2606.25956)|null|
+|**2026-06-24**|**Cross-Attention Multimodal Learning for Predicting Response to Neoadjuvant Imatinib in Gastrointestinal Stromal Tumors: A Multicenter Retrospective Study**|Fariba Tohidinezhad et.al.|[2606.25579](https://arxiv.org/abs/2606.25579)|null|
+|**2026-06-24**|**Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography**|Bowen Shi et.al.|[2606.25546](https://arxiv.org/abs/2606.25546)|null|
 |**2026-06-23**|**Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction**|Antoine De Paepe et.al.|[2606.24567](https://arxiv.org/abs/2606.24567)|null|
 |**2026-06-23**|**Quantum CT via Dynamic Interval Encoding and Prior-Balanced QUBO Reconstruction**|Ao Wang et.al.|[2606.24561](https://arxiv.org/abs/2606.24561)|null|
 |**2026-06-23**|**Unpaired Deep Learning Synthesis of Photon-Counting CT Material Basis Maps from Non-contrast Energy-Integrating Abdominal CT Images**|Ruihan Huang et.al.|[2606.24317](https://arxiv.org/abs/2606.24317)|null|
@@ -638,6 +641,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**An Integrated Hardware-Software Design for Low-Data Spatial Defect Detection in Robotic Visual Inspection with Hybrid Optoelectronic Neural Networks**|Chaoqing Tang et.al.|[2606.25277](https://arxiv.org/abs/2606.25277)|null|
 |**2026-06-23**|**Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction**|Antoine De Paepe et.al.|[2606.24567](https://arxiv.org/abs/2606.24567)|null|
 |**2026-06-23**|**Quantum CT via Dynamic Interval Encoding and Prior-Balanced QUBO Reconstruction**|Ao Wang et.al.|[2606.24561](https://arxiv.org/abs/2606.24561)|null|
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
@@ -989,6 +993,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**A Simple Numerical Method for Non-Gaussian Signal Ensembles in Nonlinear Power Amplifiers**|Cameron M. Pike et.al.|[2606.26020](https://arxiv.org/abs/2606.26020)|null|
+|**2026-06-24**|**Event-Aware Loss Design for Forecasting of Convective Precipitation and Lightning**|ChangJae Lee et.al.|[2606.25937](https://arxiv.org/abs/2606.25937)|null|
+|**2026-06-24**|**Center-Fed Pinching Antenna System for Uplink Environment Sensing**|Cong Yu et.al.|[2606.25423](https://arxiv.org/abs/2606.25423)|null|
+|**2026-06-24**|**Anatomically-conditioned Latent Diffusion Model for Data-Efficient Few-Shot Cross-Domain 3D Glioma MRI Synthesis**|Salman Shaik et.al.|[2606.25390](https://arxiv.org/abs/2606.25390)|null|
+|**2026-06-24**|**Transferable Attack against Face Swapping in an Extended Space**|Mingzhi Lyu et.al.|[2606.25376](https://arxiv.org/abs/2606.25376)|null|
+|**2026-06-24**|**GaN Power Devices and Converter Architectures for AI Data Centers: Efficiency, Reliability, and Deployment Pathways**|Donald Intal et.al.|[2606.25281](https://arxiv.org/abs/2606.25281)|null|
 |**2026-06-23**|**NeuroSonic: Conditional Flow Matching for EEG-to-Speech Reconstruction**|Wenhao Gao et.al.|[2606.24087](https://arxiv.org/abs/2606.24087)|null|
 |**2026-06-22**|**Generative Modeling for Physiological Signals**|Xinqi Bao et.al.|[2606.23864](https://arxiv.org/abs/2606.23864)|null|
 |**2026-06-22**|**Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference**|Yuhang Gan et.al.|[2606.23521](https://arxiv.org/abs/2606.23521)|null|
