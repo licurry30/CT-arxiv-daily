@@ -18,7 +18,7 @@
 |**2026-06-25**|**GPU-accelerated superiorization on constrained physical problems with SupPy**|Tobias Becher et.al.|[2606.27086](https://arxiv.org/abs/2606.27086)|null|
 |**2026-06-25**|**Enabling self-supervised learned primal dual with Noise2Inverse**|Antti Sällinen et.al.|[2606.26991](https://arxiv.org/abs/2606.26991)|null|
 |**2026-06-25**|**LayersReg: A Layer-by-Layer Progressive Regressor for Reliable Intraoperative 3D/2D Registration**|Xiyuan Wang et.al.|[2606.26647](https://arxiv.org/abs/2606.26647)|null|
-|**2026-06-24**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](https://arxiv.org/abs/2606.25956)|null|
+|**2026-06-26**|**Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need**|Nathan Painchaud et.al.|[2606.25956](https://arxiv.org/abs/2606.25956)|null|
 |**2026-06-24**|**Cross-Attention Multimodal Learning for Predicting Response to Neoadjuvant Imatinib in Gastrointestinal Stromal Tumors: A Multicenter Retrospective Study**|Fariba Tohidinezhad et.al.|[2606.25579](https://arxiv.org/abs/2606.25579)|null|
 |**2026-06-24**|**Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography**|Bowen Shi et.al.|[2606.25546](https://arxiv.org/abs/2606.25546)|null|
 |**2026-06-23**|**Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction**|Antoine De Paepe et.al.|[2606.24567](https://arxiv.org/abs/2606.24567)|null|
@@ -1008,10 +1008,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior**|Qinhong Zhou et.al.|[2606.28182](https://arxiv.org/abs/2606.28182)|null|
+|**2026-06-26**|**Porosity Effects on Cyclic Gas Invasion and Trapping in Deformable Porous Media**|Haiyi Zhong et.al.|[2606.28003](https://arxiv.org/abs/2606.28003)|null|
+|**2026-06-26**|**Effect of an aligned current on the stability of oscillatory incompressible flow past a circular cylinder**|Geng Chen et.al.|[2606.27921](https://arxiv.org/abs/2606.27921)|null|
+|**2026-06-26**|**Three-dimensional visualization of threading dislocation in GaN by polarized-light microscopy**|Yukari Ishikawa et.al.|[2606.27744](https://arxiv.org/abs/2606.27744)|null|
 |**2026-06-25**|**Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN**|Archer Moore et.al.|[2606.27305](https://arxiv.org/abs/2606.27305)|null|
 |**2026-06-25**|**Generative Models on Analog Hardware with Dynamics**|Yu-Neng Wang et.al.|[2606.27294](https://arxiv.org/abs/2606.27294)|null|
 |**2026-06-25**|**Effective Covariance Dynamics in Solvable High-Dimensional GANs**|Andrew Bond et.al.|[2606.27246](https://arxiv.org/abs/2606.27246)|null|
-|**2026-06-25**|**Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks**|Tom Dooney et.al.|[2606.27227](https://arxiv.org/abs/2606.27227)|null|
+|**2026-06-26**|**Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks**|Tom Dooney et.al.|[2606.27227](https://arxiv.org/abs/2606.27227)|null|
 |**2026-06-25**|**TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference**|Tinghao Wang et.al.|[2606.27161](https://arxiv.org/abs/2606.27161)|null|
 |**2026-06-25**|**DMuon: Efficient Distributed Muon Training with Near-Adam Overhead**|Vincent Chen et.al.|[2606.27153](https://arxiv.org/abs/2606.27153)|null|
 |**2026-06-25**|**Inverse Design of Compact and Wideband Inverted Doherty Power Amplifiers Using Deep Learning**|Han Zhou et.al.|[2606.27002](https://arxiv.org/abs/2606.27002)|null|
