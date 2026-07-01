@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation**|Yuan Wang et.al.|[2606.31292](https://arxiv.org/abs/2606.31292)|null|
+|**2026-06-30**|**GKB Methods for X-Ray Computed Tomography with an Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2606.31153](https://arxiv.org/abs/2606.31153)|null|
 |**2026-06-29**|**Compact deep learning pipeline for particle track reconstruction in the pCT detector system**|B. Dudás et.al.|[2606.30158](https://arxiv.org/abs/2606.30158)|null|
 |**2026-06-29**|**Adversarial robustness of a U-Net-based model observer for CT protocol optimization**|Filippo Maria Balli et.al.|[2606.30115](https://arxiv.org/abs/2606.30115)|null|
 |**2026-06-27**|**On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks**|Pharindra Pathak et.al.|[2606.28996](https://arxiv.org/abs/2606.28996)|null|
@@ -649,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Spectral DiffuserScope: a compact snapshot hyperspectral microscope**|Neerja Aggarwal et.al.|[2606.30915](https://arxiv.org/abs/2606.30915)|null|
 |**2026-06-29**|**A Distributionally Robust Framework for Learned Reconstructions in Inverse Problems**|Floor van Maarschalkerwaart et.al.|[2606.30230](https://arxiv.org/abs/2606.30230)|null|
 |**2026-06-29**|**Binary Signal Recovery in Undersampling: Iterative SDP with Majority Voting and Successive Interference Cancellation**|Ece Abay et.al.|[2606.30100](https://arxiv.org/abs/2606.30100)|null|
 |**2026-06-29**|**New families of asymptotically optimal codebooks from vectorial dual-bent functions**|Yadi Wei et.al.|[2606.29950](https://arxiv.org/abs/2606.29950)|null|
@@ -660,7 +663,7 @@ layout: default
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
 |**2026-06-21**|**Single-photon time-stretch computational ghost spectroscopy**|Zhibin Zhao et.al.|[2606.22367](https://arxiv.org/abs/2606.22367)|null|
 |**2026-06-18**|**From Sparse X-rays to 3D CT: Training-Free Reconstruction with Diffusion Priors**|Zhenkai Zhang et.al.|[2606.20763](https://arxiv.org/abs/2606.20763)|null|
-|**2026-06-18**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
+|**2026-06-30**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-16**|**Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds**|Vu Khac Ky et.al.|[2606.18306](https://arxiv.org/abs/2606.18306)|null|
 |**2026-06-21**|**Trustworthy MRI Reconstruction via Bayesian Uncertainty Quantification with Sparsity Prior Models**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
@@ -1006,6 +1009,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis**|Baiyu Chen et.al.|[2606.31535](https://arxiv.org/abs/2606.31535)|null|
+|**2026-06-30**|**Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping**|Tao Chen et.al.|[2606.31200](https://arxiv.org/abs/2606.31200)|null|
+|**2026-06-30**|**Quantum work extraction of an accelerated battery as an indicator of trajectory-modified vacuum fluctuations in Minkowski spacetime**|Xiang Hao et.al.|[2606.31120](https://arxiv.org/abs/2606.31120)|null|
+|**2026-06-30**|**Attacking UTMOS: Probing the Robustness of a Speech Quality Assessment Model**|Wen-Chin Huang et.al.|[2606.31105](https://arxiv.org/abs/2606.31105)|null|
+|**2026-06-30**|**Rate-Splitting Multiple Access Enabled Probabilistic Semantic Communication in UAV Networks**|Sicheng Wang et.al.|[2606.30993](https://arxiv.org/abs/2606.30993)|null|
+|**2026-06-29**|**Role of polarity in the growth of cubic GaN within silicon inverted pyramids**|David Lister et.al.|[2606.30924](https://arxiv.org/abs/2606.30924)|null|
+|**2026-06-29**|**From Search to Synthesis: Training LLMs as Zero-Shot Workflow Generators**|Gan Luo et.al.|[2606.30704](https://arxiv.org/abs/2606.30704)|null|
 |**2026-06-29**|** $μ$ Flow: Leveraging Average Images for Improving Generalisation of Deepfake Faces Detectors**|Orazio Pontorno et.al.|[2606.30528](https://arxiv.org/abs/2606.30528)|null|
 |**2026-06-29**|**CORTEX: High-Quality Cross-Domain Organization of Web-Scale Corpora through Ontological Corpus Graph**|Chengtao Gan et.al.|[2606.30175](https://arxiv.org/abs/2606.30175)|null|
 |**2026-06-29**|**Latent-CURE for Breast Cancer Diagnosis**|Weiyi Zhao et.al.|[2606.29928](https://arxiv.org/abs/2606.29928)|null|
