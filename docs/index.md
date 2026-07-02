@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Foundation Models vs. Radiomics for Lung Computed Tomography: A Benchmark of Feature Extractors, Classification Heads, and Segmentation Choices**|Nils Neukirch et.al.|[2607.01001](https://arxiv.org/abs/2607.01001)|null|
+|**2026-07-01**|**Stacked Ensemble Learning for Abdominal Aortic Aneurysm Segmentation in CT Angiography**|Joshua Fry et.al.|[2607.00633](https://arxiv.org/abs/2607.00633)|null|
+|**2026-07-01**|**AnF-DiffPET: Anatomy- and Frequency-Guided Diffusion for PET/CT Denoising**|Xuepeng Liu et.al.|[2607.00509](https://arxiv.org/abs/2607.00509)|null|
+|**2026-06-30**|**Trust the Prior (or Not): Uncertainty-Aware Abdominal Aortic Aneurysm Segmentation**|Erich Robbi et.al.|[2607.00201](https://arxiv.org/abs/2607.00201)|null|
 |**2026-06-30**|**AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation**|Yuan Wang et.al.|[2606.31292](https://arxiv.org/abs/2606.31292)|null|
 |**2026-06-30**|**GKB Methods for X-Ray Computed Tomography with an Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2606.31153](https://arxiv.org/abs/2606.31153)|null|
 |**2026-06-29**|**Compact deep learning pipeline for particle track reconstruction in the pCT detector system**|B. Dudás et.al.|[2606.30158](https://arxiv.org/abs/2606.30158)|null|
@@ -663,7 +667,7 @@ layout: default
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](https://arxiv.org/abs/2606.22525)|null|
 |**2026-06-21**|**Single-photon time-stretch computational ghost spectroscopy**|Zhibin Zhao et.al.|[2606.22367](https://arxiv.org/abs/2606.22367)|null|
 |**2026-06-18**|**From Sparse X-rays to 3D CT: Training-Free Reconstruction with Diffusion Priors**|Zhenkai Zhang et.al.|[2606.20763](https://arxiv.org/abs/2606.20763)|null|
-|**2026-06-30**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
+|**2026-07-01**|**PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement**|Dong Yeong Kim et.al.|[2606.19867](https://arxiv.org/abs/2606.19867)|null|
 |**2026-06-16**|**Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds**|Vu Khac Ky et.al.|[2606.18306](https://arxiv.org/abs/2606.18306)|null|
 |**2026-06-21**|**Trustworthy MRI Reconstruction via Bayesian Uncertainty Quantification with Sparsity Prior Models**|Ahmed Karam Eldaly et.al.|[2606.17343](https://arxiv.org/abs/2606.17343)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
@@ -1009,6 +1013,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Electric-field effects on defect migration energetics in GaN**|Farshid Reza et.al.|[2607.01160](https://arxiv.org/abs/2607.01160)|null|
+|**2026-07-01**|**AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation**|Qingda Hu et.al.|[2607.01051](https://arxiv.org/abs/2607.01051)|null|
+|**2026-07-01**|**Generative Model Proposal based Particle Filtering for Data Assimilation**|Chandni Nagda et.al.|[2607.01012](https://arxiv.org/abs/2607.01012)|null|
+|**2026-07-01**|**LSR-Net: Long-Short-Range Operator Learning for Pattern Dynamics on Manifolds**|Qian Serena Hou et.al.|[2607.00750](https://arxiv.org/abs/2607.00750)|null|
+|**2026-07-01**|**Linguistic Relative Policy Optimization for Video Anomaly Reasoning**|Jiaxu Leng et.al.|[2607.00654](https://arxiv.org/abs/2607.00654)|null|
+|**2026-07-01**|**B2X Networks: Joint Design of Communication and Control for Embodied Intelligence**|Yuanwei Liu et.al.|[2607.00537](https://arxiv.org/abs/2607.00537)|null|
+|**2026-07-01**|**Online Matching with Size-Based and Convex Delays**|Junhao Gan et.al.|[2607.00536](https://arxiv.org/abs/2607.00536)|null|
+|**2026-07-01**|**AnF-DiffPET: Anatomy- and Frequency-Guided Diffusion for PET/CT Denoising**|Xuepeng Liu et.al.|[2607.00509](https://arxiv.org/abs/2607.00509)|null|
+|**2026-07-01**|**Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning**|Shijie Li et.al.|[2607.00461](https://arxiv.org/abs/2607.00461)|null|
+|**2026-07-01**|**When AI meets quantum information: A comprehensive review**|Min Chen et.al.|[2607.00365](https://arxiv.org/abs/2607.00365)|null|
 |**2026-06-30**|**PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis**|Baiyu Chen et.al.|[2606.31535](https://arxiv.org/abs/2606.31535)|null|
 |**2026-06-30**|**Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping**|Tao Chen et.al.|[2606.31200](https://arxiv.org/abs/2606.31200)|null|
 |**2026-06-30**|**Quantum work extraction of an accelerated battery as an indicator of trajectory-modified vacuum fluctuations in Minkowski spacetime**|Xiang Hao et.al.|[2606.31120](https://arxiv.org/abs/2606.31120)|null|
