@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](https://arxiv.org/abs/2607.02099)|null|
+|**2026-07-02**|**ProSAC-CT: Progressive Spectral-Anatomical Co-Guided Multi-Stage Diffusion Model for Low-Dose CT Denoising**|Xuepeng Liu et.al.|[2607.01756](https://arxiv.org/abs/2607.01756)|null|
 |**2026-07-01**|**Foundation Models vs. Radiomics for Lung Computed Tomography: A Benchmark of Feature Extractors, Classification Heads, and Segmentation Choices**|Nils Neukirch et.al.|[2607.01001](https://arxiv.org/abs/2607.01001)|null|
 |**2026-07-01**|**Stacked Ensemble Learning for Abdominal Aortic Aneurysm Segmentation in CT Angiography**|Joshua Fry et.al.|[2607.00633](https://arxiv.org/abs/2607.00633)|null|
 |**2026-07-01**|**AnF-DiffPET: Anatomy- and Frequency-Guided Diffusion for PET/CT Denoising**|Xuepeng Liu et.al.|[2607.00509](https://arxiv.org/abs/2607.00509)|null|
@@ -655,6 +657,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Compressive Spectrum Sensing via Spectral Multiplexing in Rydberg Atomic Receiver**|Jun-Rong Chen et.al.|[2607.02001](https://arxiv.org/abs/2607.02001)|null|
+|**2026-07-02**|**Expander Sparse Autoencoders: Parameter-Efficient Dictionaries for Mechanistic Interpretability**|Rodrigo Mendoza-Smith et.al.|[2607.01799](https://arxiv.org/abs/2607.01799)|null|
+|**2026-07-02**|**Plug-and-Play Volumetric Reconstruction for Compressive Sensing Light-Sheet Microscopy**|Jianqing Jia et.al.|[2607.01654](https://arxiv.org/abs/2607.01654)|null|
 |**2026-06-29**|**Spectral DiffuserScope: a compact snapshot hyperspectral microscope**|Neerja Aggarwal et.al.|[2606.30915](https://arxiv.org/abs/2606.30915)|null|
 |**2026-06-29**|**A Distributionally Robust Framework for Learned Reconstructions in Inverse Problems**|Floor van Maarschalkerwaart et.al.|[2606.30230](https://arxiv.org/abs/2606.30230)|null|
 |**2026-06-29**|**Binary Signal Recovery in Undersampling: Iterative SDP with Majority Voting and Successive Interference Cancellation**|Ece Abay et.al.|[2606.30100](https://arxiv.org/abs/2606.30100)|null|
@@ -1013,6 +1018,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation**|Zijun Li et.al.|[2607.02220](https://arxiv.org/abs/2607.02220)|null|
+|**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](https://arxiv.org/abs/2607.02099)|null|
+|**2026-07-02**|**Population-Based Multi-Objective Training of Discriminators for Semi-Supervised GANs**|Francisco Sedeño et.al.|[2607.01907](https://arxiv.org/abs/2607.01907)|null|
+|**2026-07-02**|**Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling**|Xingyu Zheng et.al.|[2607.01642](https://arxiv.org/abs/2607.01642)|null|
+|**2026-07-02**|**MxGLUT: A Reconfigurable LUT-Centric Broadcast Dataflow Accelerator for Mixed-Precision GEMM**|Weiyu Zhou et.al.|[2607.01607](https://arxiv.org/abs/2607.01607)|null|
+|**2026-07-01**|**A spectral-subspace-augmented POD-Galerkin method for parametrized PDEs with limited snapshot data**|Tianhao Hu et.al.|[2607.01534](https://arxiv.org/abs/2607.01534)|null|
+|**2026-07-01**|**Microscopic origins of inertial magnetization dynamics**|Caleb Webb et.al.|[2607.01398](https://arxiv.org/abs/2607.01398)|null|
+|**2026-07-01**|**Discovery of an Inflated Hot Neptune and Its Formation from Jovian Mass Loss**|Grant C. Weldon et.al.|[2607.01315](https://arxiv.org/abs/2607.01315)|null|
+|**2026-07-01**|**Generative AI and Federated Learning for Intrusion Detection Systems: A Survey**|Jiefei Liu et.al.|[2607.01305](https://arxiv.org/abs/2607.01305)|null|
 |**2026-07-01**|**Electric-field effects on defect migration energetics in GaN**|Farshid Reza et.al.|[2607.01160](https://arxiv.org/abs/2607.01160)|null|
 |**2026-07-01**|**AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation**|Qingda Hu et.al.|[2607.01051](https://arxiv.org/abs/2607.01051)|null|
 |**2026-07-01**|**Generative Model Proposal based Particle Filtering for Data Assimilation**|Chandni Nagda et.al.|[2607.01012](https://arxiv.org/abs/2607.01012)|null|
