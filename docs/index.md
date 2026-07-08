@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Decoupled Single-Mask Annotation Noise Detection via Cross-Sectional Patch Self-Consistency**|Yinheng Zhu et.al.|[2607.05965](https://arxiv.org/abs/2607.05965)|null|
 |**2026-07-05**|**Spatial Graph Representation and Morphometric Analysis of the Pulmonary Vascular Tree From Computed Tomography Using Multi-Scale Hessian-Based Filter Fusion and TEASAR Skeletonization**|Piotr Mackiewicz et.al.|[2607.04457](https://arxiv.org/abs/2607.04457)|null|
 |**2026-07-04**|**GLOW-FDG: Generalized cancer LesiOn Whole-body segmentation model for  $^{18}$ F-FDG-PET/CT**|Maksym Fritsak et.al.|[2607.03931](https://arxiv.org/abs/2607.03931)|null|
 |**2026-07-04**|**ArcheoLab: A hands-on course to engage students in applied mathematics**|Denise Schmutz et.al.|[2607.03778](https://arxiv.org/abs/2607.03778)|null|
 |**2026-07-04**|**SAVER: Stochastic Adaptive Variance-Driven Exploration and Reconstruction for Low-Dose Computed Tomography**|Shunta Nonaga et.al.|[2607.03761](https://arxiv.org/abs/2607.03761)|null|
-|**2026-07-03**|**CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](https://arxiv.org/abs/2607.02998)|null|
+|**2026-07-07**|**CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](https://arxiv.org/abs/2607.02998)|null|
 |**2026-07-03**|**A Proximal Point Semismooth Newton Algorithm for Structural Composite Cardinality Optimization**|Penghe Zhang et.al.|[2607.02926](https://arxiv.org/abs/2607.02926)|null|
 |**2026-07-03**|**Geometry-Consistent Discretization of Local Correlation Equations for the Radon Transform in Clinical CT**|Xuanqing Mou et.al.|[2607.02837](https://arxiv.org/abs/2607.02837)|null|
 |**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](https://arxiv.org/abs/2607.02099)|null|
@@ -664,6 +665,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](https://arxiv.org/abs/2607.05636)|null|
+|**2026-07-02**|**Grover-Based PLS: AUD and Beamforming with Artificial Noise in CD-NOMA**|Deemah H. Tashman et.al.|[2607.05429](https://arxiv.org/abs/2607.05429)|null|
 |**2026-07-06**|**Estimation of a sparse multi-qubit Hamiltonian via compressed sensing**|Juntao Tu et.al.|[2607.04669](https://arxiv.org/abs/2607.04669)|null|
 |**2026-07-03**|**Two-dimensional Fourier compressed sensing under a fixed readout budget per channel**|Nitin Jonathan Myers et.al.|[2607.03611](https://arxiv.org/abs/2607.03611)|null|
 |**2026-07-02**|**Compressive Spectrum Sensing via Spectral Multiplexing in Rydberg Atomic Receiver**|Jun-Rong Chen et.al.|[2607.02001](https://arxiv.org/abs/2607.02001)|null|
@@ -1027,6 +1030,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles**|Marwan Lazrag et.al.|[2607.06484](https://arxiv.org/abs/2607.06484)|null|
+|**2026-07-07**|**Anomalous Piezoelectricity from Polarization-Dependent Electrostriction in Wurtzites**|Guo-Dong Zhao et.al.|[2607.05854](https://arxiv.org/abs/2607.05854)|null|
+|**2026-07-07**|**Decision-Focused Scenario Generation and Selection for Efficient and Robust Grid Dispatch**|Yangze Zhou et.al.|[2607.05830](https://arxiv.org/abs/2607.05830)|null|
 |**2026-07-05**|**Purcell effect and quantum Zeno effect suppressed self-discharging of quantum battery**|Da-Wei Liu et.al.|[2607.04363](https://arxiv.org/abs/2607.04363)|null|
 |**2026-07-04**|**A regularization method for quantum neural networks using data symmetry**|Hiroshi Ohno et.al.|[2607.03805](https://arxiv.org/abs/2607.03805)|null|
 |**2026-07-03**|**Awakening Diffusion Transformers: Eliciting Stronger Generation and Understanding via Massive Activation Modulation**|Chaofan Gan et.al.|[2607.02968](https://arxiv.org/abs/2607.02968)|null|
