@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Statistical inverse learning and  $\ell^1$ -regularization**|Abhishake Rastogi et.al.|[2607.07468](https://arxiv.org/abs/2607.07468)|null|
+|**2026-07-08**|**From Data Completeness to Data Sufficiency: A Task-Driven Imaging Framework for Intraoperative CBCT under Quality-Time-Dose Trade-offs**|Yi Jia et.al.|[2607.07039](https://arxiv.org/abs/2607.07039)|null|
 |**2026-07-07**|**Decoupled Single-Mask Annotation Noise Detection via Cross-Sectional Patch Self-Consistency**|Yinheng Zhu et.al.|[2607.05965](https://arxiv.org/abs/2607.05965)|null|
 |**2026-07-05**|**Spatial Graph Representation and Morphometric Analysis of the Pulmonary Vascular Tree From Computed Tomography Using Multi-Scale Hessian-Based Filter Fusion and TEASAR Skeletonization**|Piotr Mackiewicz et.al.|[2607.04457](https://arxiv.org/abs/2607.04457)|null|
 |**2026-07-04**|**GLOW-FDG: Generalized cancer LesiOn Whole-body segmentation model for  $^{18}$ F-FDG-PET/CT**|Maksym Fritsak et.al.|[2607.03931](https://arxiv.org/abs/2607.03931)|null|
@@ -665,6 +667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Near-Optimal Lower Bounds on One-Bit Compressed Sensing of Approximately Sparse Signals**|Junren Chen et.al.|[2607.06750](https://arxiv.org/abs/2607.06750)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](https://arxiv.org/abs/2607.05636)|null|
 |**2026-07-02**|**Grover-Based PLS: AUD and Beamforming with Artificial Noise in CD-NOMA**|Deemah H. Tashman et.al.|[2607.05429](https://arxiv.org/abs/2607.05429)|null|
 |**2026-07-06**|**Estimation of a sparse multi-qubit Hamiltonian via compressed sensing**|Juntao Tu et.al.|[2607.04669](https://arxiv.org/abs/2607.04669)|null|
@@ -1030,6 +1033,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](https://arxiv.org/abs/2607.07675)|null|
+|**2026-07-08**|**Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks**|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
+|**2026-07-08**|**Improving feature resolution and pore back effect in focused ion beam tomography of porous GaN thin films**|Ben Thornley et.al.|[2607.07273](https://arxiv.org/abs/2607.07273)|null|
+|**2026-07-08**|**Flow-PIN: A Two-Stage Power-Flow-Guided Method for System-Wide Multivariate Profile Inpainting in Distribution Networks**|Zhenghao Zhou et.al.|[2607.07250](https://arxiv.org/abs/2607.07250)|null|
+|**2026-07-08**|**Improved Algorithms and Lower Bounds for Parametrized Metrical Service Systems**|Junhao Gan et.al.|[2607.07098](https://arxiv.org/abs/2607.07098)|null|
+|**2026-07-08**|**Latent graph encoding of multimodal neuroimaging features with generative AI architectures**|Ishaan Batta et.al.|[2607.07027](https://arxiv.org/abs/2607.07027)|null|
+|**2026-07-08**|**SpiS-GAN: Spiral-Modulated Handwriting Synthesis with Star Operation**|Nguyen Duy Hieu et.al.|[2607.06949](https://arxiv.org/abs/2607.06949)|null|
+|**2026-07-08**|**Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery**|Chuyao Zhang et.al.|[2607.06930](https://arxiv.org/abs/2607.06930)|null|
+|**2026-07-07**|**Creating Power Distribution Network Layouts Using Generative Adversarial Networks and Image-Based Representations**|Juan Manuel Garcia-Perez et.al.|[2607.06622](https://arxiv.org/abs/2607.06622)|null|
 |**2026-07-07**|**Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles**|Marwan Lazrag et.al.|[2607.06484](https://arxiv.org/abs/2607.06484)|null|
 |**2026-07-07**|**Anomalous Piezoelectricity from Polarization-Dependent Electrostriction in Wurtzites**|Guo-Dong Zhao et.al.|[2607.05854](https://arxiv.org/abs/2607.05854)|null|
 |**2026-07-07**|**Decision-Focused Scenario Generation and Selection for Efficient and Robust Grid Dispatch**|Yangze Zhou et.al.|[2607.05830](https://arxiv.org/abs/2607.05830)|null|
