@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**CT-CLIP Representations for Multimodal Lung Cancer Survival Prediction**|Sofie Allgöwer et.al.|[2607.08503](https://arxiv.org/abs/2607.08503)|null|
 |**2026-07-08**|**Statistical inverse learning and  $\ell^1$ -regularization**|Abhishake Rastogi et.al.|[2607.07468](https://arxiv.org/abs/2607.07468)|null|
 |**2026-07-08**|**From Data Completeness to Data Sufficiency: A Task-Driven Imaging Framework for Intraoperative CBCT under Quality-Time-Dose Trade-offs**|Yi Jia et.al.|[2607.07039](https://arxiv.org/abs/2607.07039)|null|
 |**2026-07-07**|**Decoupled Single-Mask Annotation Noise Detection via Cross-Sectional Patch Self-Consistency**|Yinheng Zhu et.al.|[2607.05965](https://arxiv.org/abs/2607.05965)|null|
@@ -667,6 +668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems**|Emmanouil Kavvousanos et.al.|[2607.08717](https://arxiv.org/abs/2607.08717)|null|
 |**2026-07-07**|**Near-Optimal Lower Bounds on One-Bit Compressed Sensing of Approximately Sparse Signals**|Junren Chen et.al.|[2607.06750](https://arxiv.org/abs/2607.06750)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](https://arxiv.org/abs/2607.05636)|null|
 |**2026-07-02**|**Grover-Based PLS: AUD and Beamforming with Artificial Noise in CD-NOMA**|Deemah H. Tashman et.al.|[2607.05429](https://arxiv.org/abs/2607.05429)|null|
@@ -1033,8 +1035,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism**|Kushin Mukherjee et.al.|[2607.08533](https://arxiv.org/abs/2607.08533)|null|
+|**2026-07-09**|**Probing Quadratically Coupled Ultralight Dark Matter with the Laser Interferometer Space Antenna**|Xucheng Gan et.al.|[2607.08248](https://arxiv.org/abs/2607.08248)|null|
+|**2026-07-09**|**GenAI-Enhanced Digital Twins for Predictive Interference Management in Ultra-Dense Networks**|Afan Ali et.al.|[2607.08141](https://arxiv.org/abs/2607.08141)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](https://arxiv.org/abs/2607.07675)|null|
-|**2026-07-08**|**Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks**|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
+|**2026-07-09**|**Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks**|Hyeong Jun Joo et.al.|[2607.07577](https://arxiv.org/abs/2607.07577)|null|
 |**2026-07-08**|**Improving feature resolution and pore back effect in focused ion beam tomography of porous GaN thin films**|Ben Thornley et.al.|[2607.07273](https://arxiv.org/abs/2607.07273)|null|
 |**2026-07-08**|**Flow-PIN: A Two-Stage Power-Flow-Guided Method for System-Wide Multivariate Profile Inpainting in Distribution Networks**|Zhenghao Zhou et.al.|[2607.07250](https://arxiv.org/abs/2607.07250)|null|
 |**2026-07-08**|**Improved Algorithms and Lower Bounds for Parametrized Metrical Service Systems**|Junhao Gan et.al.|[2607.07098](https://arxiv.org/abs/2607.07098)|null|
