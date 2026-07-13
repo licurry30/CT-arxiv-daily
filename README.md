@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Vascular Geometry Characterization for AI-Based Endovascular Navigation**|Han-Ru Wu et.al.|[2607.09130](https://arxiv.org/abs/2607.09130)|null|
 |**2026-07-09**|**CT-CLIP Representations for Multimodal Lung Cancer Survival Prediction**|Sofie Allgöwer et.al.|[2607.08503](https://arxiv.org/abs/2607.08503)|null|
 |**2026-07-08**|**Statistical inverse learning and  $\ell^1$ -regularization**|Abhishake Rastogi et.al.|[2607.07468](https://arxiv.org/abs/2607.07468)|null|
 |**2026-07-08**|**From Data Completeness to Data Sufficiency: A Task-Driven Imaging Framework for Intraoperative CBCT under Quality-Time-Dose Trade-offs**|Yi Jia et.al.|[2607.07039](https://arxiv.org/abs/2607.07039)|null|
@@ -1045,6 +1046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**On the codegree threshold for Hamilton  $\ell$ -cycles in  $k$ -uniform hypergraphs**|Hongliang Lu et.al.|[2607.09245](https://arxiv.org/abs/2607.09245)|null|
+|**2026-07-10**|**Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness**|Daomin Ji et.al.|[2607.09149](https://arxiv.org/abs/2607.09149)|null|
 |**2026-07-09**|**AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism**|Kushin Mukherjee et.al.|[2607.08533](https://arxiv.org/abs/2607.08533)|null|
 |**2026-07-09**|**Probing Quadratically Coupled Ultralight Dark Matter with the Laser Interferometer Space Antenna**|Xucheng Gan et.al.|[2607.08248](https://arxiv.org/abs/2607.08248)|null|
 |**2026-07-09**|**GenAI-Enhanced Digital Twins for Predictive Interference Management in Ultra-Dense Networks**|Afan Ali et.al.|[2607.08141](https://arxiv.org/abs/2607.08141)|null|
