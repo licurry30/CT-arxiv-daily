@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**GB-SVFBP: Gaussian-Based Shift-Variant FBP neural network**|Chengze Ye et.al.|[2607.11584](https://arxiv.org/abs/2607.11584)|null|
+|**2026-07-13**|**A Unified Framework for Comprehensive Cardiac CT Segmentation and Phenotyping: Human-in-the-Loop Data Annotation, Vision Foundation Model Development, Multicenter Evaluation and Clinical Validation**|Pooya Mohammadi Kazaj et.al.|[2607.11287](https://arxiv.org/abs/2607.11287)|null|
+|**2026-07-12**|**Policy-Driven CT-Agent: Modeling Phase-Aware Diagnostic Control for Clinically Consistent CT Reasoning**|Yanmeng Dong et.al.|[2607.10748](https://arxiv.org/abs/2607.10748)|null|
+|**2026-07-12**|**MUX-USCT: A Noise-Robust Neural Network for Ultrasound Computed Tomography**|Yuchen Yuan et.al.|[2607.10648](https://arxiv.org/abs/2607.10648)|null|
+|**2026-07-12**|**Quantum Compressed Sensing CT Reconstruction Algorithm Based on Penalized Weighted Least Squares and Guided Total Variation**|Yuwen Zhang et.al.|[2607.10566](https://arxiv.org/abs/2607.10566)|null|
+|**2026-07-11**|**GRC-ProbNet: Uncertainty-aware Feature Extraction for Cardiovascular Disease Classification**|Yash Shah et.al.|[2607.10357](https://arxiv.org/abs/2607.10357)|null|
+|**2026-07-11**|**Rotating ULA-Enabled Computed Tomography for Efficient 3D Spatial Power Spectrum Synthesis: Architecture and Principled Orientation Design**|Haocheng Hua et.al.|[2607.10270](https://arxiv.org/abs/2607.10270)|null|
 |**2026-07-10**|**Vascular Geometry Characterization for AI-Based Endovascular Navigation**|Han-Ru Wu et.al.|[2607.09130](https://arxiv.org/abs/2607.09130)|null|
 |**2026-07-09**|**CT-CLIP Representations for Multimodal Lung Cancer Survival Prediction**|Sofie Allgöwer et.al.|[2607.08503](https://arxiv.org/abs/2607.08503)|null|
 |**2026-07-08**|**Statistical inverse learning and  $\ell^1$ -regularization**|Abhishake Rastogi et.al.|[2607.07468](https://arxiv.org/abs/2607.07468)|null|
@@ -669,6 +676,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Design Choices in Splitting-Based Self-Supervised Sparse-View CT Reconstruction**|Nadja Gruber et.al.|[2607.10898](https://arxiv.org/abs/2607.10898)|null|
+|**2026-07-12**|**Quantum Compressed Sensing CT Reconstruction Algorithm Based on Penalized Weighted Least Squares and Guided Total Variation**|Yuwen Zhang et.al.|[2607.10566](https://arxiv.org/abs/2607.10566)|null|
+|**2026-07-10**|**Robustness and Stability Analysis of Differentiable Shift-Variant FBP for Cone-Beam CT under Challenging Acquisition Settings**|Chengze Ye et.al.|[2607.09828](https://arxiv.org/abs/2607.09828)|null|
 |**2026-07-09**|**Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems**|Emmanouil Kavvousanos et.al.|[2607.08717](https://arxiv.org/abs/2607.08717)|null|
 |**2026-07-07**|**Near-Optimal Lower Bounds on One-Bit Compressed Sensing of Approximately Sparse Signals**|Junren Chen et.al.|[2607.06750](https://arxiv.org/abs/2607.06750)|null|
 |**2026-07-06**|**Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors**|Alireza Siyavashi et.al.|[2607.05636](https://arxiv.org/abs/2607.05636)|null|
@@ -1036,6 +1046,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Decision problem for Hamilton  $2$ -cycles in  $4$ -graphs**|Luyining Gan et.al.|[2607.11872](https://arxiv.org/abs/2607.11872)|null|
+|**2026-07-13**|**IG-GAN: A Generative Adversarial Network for Aerodynamic Data Generation Based on Intrinsic Geometry**|Ying Yan et.al.|[2607.11497](https://arxiv.org/abs/2607.11497)|null|
+|**2026-07-13**|**Mode-locking instability and multiple soliton formation in GaN polariton waveguide cavities**|O. Bahrova et.al.|[2607.11278](https://arxiv.org/abs/2607.11278)|null|
+|**2026-07-13**|**Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions**|Tetsuji Kuboyama et.al.|[2607.11105](https://arxiv.org/abs/2607.11105)|null|
+|**2026-07-11**|** $L^{2}$ -Supercritical Nonlinear Klein-Gordon System with Quadratic Asymmetric Interaction**|Xiaojing Dong et.al.|[2607.10382](https://arxiv.org/abs/2607.10382)|null|
+|**2026-07-11**|**Stellar Multiplicity of M Dwarfs with Short-period Giant Planets, and the Characterization of TOI-5628Ab**|Tianjun Gan et.al.|[2607.10177](https://arxiv.org/abs/2607.10177)|null|
+|**2026-07-11**|**MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation**|Chengguang Gan et.al.|[2607.10079](https://arxiv.org/abs/2607.10079)|null|
+|**2026-07-10**|**Quantitative Analysis of Exciton Composition and Dynamics in Y6 Films for Single-Component Solar Cells**|Saba Mahmoodpour et.al.|[2607.10009](https://arxiv.org/abs/2607.10009)|null|
 |**2026-07-10**|**On the codegree threshold for Hamilton  $\ell$ -cycles in  $k$ -uniform hypergraphs**|Hongliang Lu et.al.|[2607.09245](https://arxiv.org/abs/2607.09245)|null|
 |**2026-07-10**|**Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness**|Daomin Ji et.al.|[2607.09149](https://arxiv.org/abs/2607.09149)|null|
 |**2026-07-09**|**AI-guided stimuli discovery and generation to optimize facial emotion perception studies in autism**|Kushin Mukherjee et.al.|[2607.08533](https://arxiv.org/abs/2607.08533)|null|
