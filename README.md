@@ -1,4 +1,4 @@
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Exact and Calibrated Diffusion Reconstruction for Digital Breast Tomosynthesis**|Imade Bouftini et.al.|[2607.12937](https://arxiv.org/abs/2607.12937)|null|
+|**2026-07-14**|**Decouple and Reason: Anatomically Guided Two-Stage Voxel-Level Grounding of Free-Text Findings in 3D Chest CT**|Kwang-Hyun Uhm et.al.|[2607.12602](https://arxiv.org/abs/2607.12602)|null|
+|**2026-07-11**|**GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization**|Md Imam Ahasan et.al.|[2607.11941](https://arxiv.org/abs/2607.11941)|null|
 |**2026-07-13**|**GB-SVFBP: Gaussian-Based Shift-Variant FBP neural network**|Chengze Ye et.al.|[2607.11584](https://arxiv.org/abs/2607.11584)|null|
 |**2026-07-13**|**A Unified Framework for Comprehensive Cardiac CT Segmentation and Phenotyping: Human-in-the-Loop Data Annotation, Vision Foundation Model Development, Multicenter Evaluation and Clinical Validation**|Pooya Mohammadi Kazaj et.al.|[2607.11287](https://arxiv.org/abs/2607.11287)|null|
 |**2026-07-12**|**Policy-Driven CT-Agent: Modeling Phase-Aware Diagnostic Control for Clinically Consistent CT Reasoning**|Yanmeng Dong et.al.|[2607.10748](https://arxiv.org/abs/2607.10748)|null|
@@ -678,12 +681,15 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Optimal photostimulation selection for iterative activity maps**|Jacob J. Morra et.al.|[2607.12930](https://arxiv.org/abs/2607.12930)|null|
+|**2026-07-11**|**GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization**|Md Imam Ahasan et.al.|[2607.11941](https://arxiv.org/abs/2607.11941)|null|
+|**2026-07-11**|**Mathematics of Data Science**|Afonso S. Bandeira et.al.|[2607.11938](https://arxiv.org/abs/2607.11938)|null|
 |**2026-07-12**|**Design Choices in Splitting-Based Self-Supervised Sparse-View CT Reconstruction**|Nadja Gruber et.al.|[2607.10898](https://arxiv.org/abs/2607.10898)|null|
 |**2026-07-12**|**Quantum Compressed Sensing CT Reconstruction Algorithm Based on Penalized Weighted Least Squares and Guided Total Variation**|Yuwen Zhang et.al.|[2607.10566](https://arxiv.org/abs/2607.10566)|null|
 |**2026-07-10**|**Robustness and Stability Analysis of Differentiable Shift-Variant FBP for Cone-Beam CT under Challenging Acquisition Settings**|Chengze Ye et.al.|[2607.09828](https://arxiv.org/abs/2607.09828)|null|
@@ -1050,19 +1056,23 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data**|Mengxiao Gao et.al.|[2607.12830](https://arxiv.org/abs/2607.12830)|null|
+|**2026-07-14**|**Spatial-Frequency Cued Generative Fixed-Filter Active Noise Control Based on Deep Learning in Reverberant Environments**|Boxiang Wang et.al.|[2607.12807](https://arxiv.org/abs/2607.12807)|null|
+|**2026-07-14**|**A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism**|Chengguang Gan et.al.|[2607.12640](https://arxiv.org/abs/2607.12640)|null|
+|**2026-07-13**|**Generating Physically Plausible Parachute Dynamics with Deep Generative Modeling**|Yulong Yang et.al.|[2607.12143](https://arxiv.org/abs/2607.12143)|null|
 |**2026-07-13**|**Decision problem for Hamilton  $2$ -cycles in  $4$ -graphs**|Luyining Gan et.al.|[2607.11872](https://arxiv.org/abs/2607.11872)|null|
 |**2026-07-13**|**IG-GAN: A Generative Adversarial Network for Aerodynamic Data Generation Based on Intrinsic Geometry**|Ying Yan et.al.|[2607.11497](https://arxiv.org/abs/2607.11497)|null|
 |**2026-07-13**|**Mode-locking instability and multiple soliton formation in GaN polariton waveguide cavities**|O. Bahrova et.al.|[2607.11278](https://arxiv.org/abs/2607.11278)|null|
 |**2026-07-13**|**Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions**|Tetsuji Kuboyama et.al.|[2607.11105](https://arxiv.org/abs/2607.11105)|null|
 |**2026-07-11**|** $L^{2}$ -Supercritical Nonlinear Klein-Gordon System with Quadratic Asymmetric Interaction**|Xiaojing Dong et.al.|[2607.10382](https://arxiv.org/abs/2607.10382)|null|
 |**2026-07-11**|**Stellar Multiplicity of M Dwarfs with Short-period Giant Planets, and the Characterization of TOI-5628Ab**|Tianjun Gan et.al.|[2607.10177](https://arxiv.org/abs/2607.10177)|null|
-|**2026-07-11**|**MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation**|Chengguang Gan et.al.|[2607.10079](https://arxiv.org/abs/2607.10079)|null|
+|**2026-07-14**|**MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation**|Chengguang Gan et.al.|[2607.10079](https://arxiv.org/abs/2607.10079)|null|
 |**2026-07-10**|**Quantitative Analysis of Exciton Composition and Dynamics in Y6 Films for Single-Component Solar Cells**|Saba Mahmoodpour et.al.|[2607.10009](https://arxiv.org/abs/2607.10009)|null|
 |**2026-07-10**|**On the codegree threshold for Hamilton  $\ell$ -cycles in  $k$ -uniform hypergraphs**|Hongliang Lu et.al.|[2607.09245](https://arxiv.org/abs/2607.09245)|null|
 |**2026-07-10**|**Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness**|Daomin Ji et.al.|[2607.09149](https://arxiv.org/abs/2607.09149)|null|
@@ -2616,7 +2626,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2664,5 +2674,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
