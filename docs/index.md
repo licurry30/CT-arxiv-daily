@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892](https://arxiv.org/abs/2607.13892)|null|
+|**2026-07-15**|**Neural-network-based material identification in photon-counting computed tomography using region-of-interest spectral features**|A. Miadzvetski et.al.|[2607.13835](https://arxiv.org/abs/2607.13835)|null|
+|**2026-07-15**|**Hybrid GKB Methods for X-Ray Tomography Problems with Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2607.13381](https://arxiv.org/abs/2607.13381)|null|
+|**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](https://arxiv.org/abs/2607.13323)|null|
 |**2026-07-14**|**Exact and Calibrated Diffusion Reconstruction for Digital Breast Tomosynthesis**|Imade Bouftini et.al.|[2607.12937](https://arxiv.org/abs/2607.12937)|null|
 |**2026-07-14**|**Decouple and Reason: Anatomically Guided Two-Stage Voxel-Level Grounding of Free-Text Findings in 3D Chest CT**|Kwang-Hyun Uhm et.al.|[2607.12602](https://arxiv.org/abs/2607.12602)|null|
 |**2026-07-11**|**GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization**|Md Imam Ahasan et.al.|[2607.11941](https://arxiv.org/abs/2607.11941)|null|
@@ -679,6 +683,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](https://arxiv.org/abs/2607.13682)|null|
+|**2026-07-15**|**Hybrid GKB Methods for X-Ray Tomography Problems with Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2607.13381](https://arxiv.org/abs/2607.13381)|null|
 |**2026-07-14**|**Optimal photostimulation selection for iterative activity maps**|Jacob J. Morra et.al.|[2607.12930](https://arxiv.org/abs/2607.12930)|null|
 |**2026-07-11**|**GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization**|Md Imam Ahasan et.al.|[2607.11941](https://arxiv.org/abs/2607.11941)|null|
 |**2026-07-11**|**Mathematics of Data Science**|Afonso S. Bandeira et.al.|[2607.11938](https://arxiv.org/abs/2607.11938)|null|
@@ -1052,6 +1058,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](https://arxiv.org/abs/2607.13891)|null|
+|**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](https://arxiv.org/abs/2607.13812)|null|
+|**2026-07-15**|**Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations**|Wenxuan Miao et.al.|[2607.13770](https://arxiv.org/abs/2607.13770)|null|
+|**2026-07-15**|**Towards quantum machine learning for assessing the resilience of post-quantum cryptography**|Jarosław A. Miszczak et.al.|[2607.13722](https://arxiv.org/abs/2607.13722)|null|
+|**2026-07-15**|**SRB Measures for  $C^{1+\mathrm{Dini}}$  Diffeomorphisms**|Nan Ding et.al.|[2607.13530](https://arxiv.org/abs/2607.13530)|null|
 |**2026-07-14**|**MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data**|Mengxiao Gao et.al.|[2607.12830](https://arxiv.org/abs/2607.12830)|null|
 |**2026-07-14**|**Spatial-Frequency Cued Generative Fixed-Filter Active Noise Control Based on Deep Learning in Reverberant Environments**|Boxiang Wang et.al.|[2607.12807](https://arxiv.org/abs/2607.12807)|null|
 |**2026-07-14**|**A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism**|Chengguang Gan et.al.|[2607.12640](https://arxiv.org/abs/2607.12640)|null|
