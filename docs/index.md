@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
+|**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](https://arxiv.org/abs/2607.14287)|null|
 |**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892](https://arxiv.org/abs/2607.13892)|null|
 |**2026-07-15**|**Neural-network-based material identification in photon-counting computed tomography using region-of-interest spectral features**|A. Miadzvetski et.al.|[2607.13835](https://arxiv.org/abs/2607.13835)|null|
 |**2026-07-15**|**Hybrid GKB Methods for X-Ray Tomography Problems with Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2607.13381](https://arxiv.org/abs/2607.13381)|null|
@@ -683,6 +685,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM**|Siqi Na et.al.|[2607.14597](https://arxiv.org/abs/2607.14597)|null|
+|**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](https://arxiv.org/abs/2607.14504)|null|
+|**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
 |**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](https://arxiv.org/abs/2607.13682)|null|
 |**2026-07-15**|**Hybrid GKB Methods for X-Ray Tomography Problems with Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2607.13381](https://arxiv.org/abs/2607.13381)|null|
 |**2026-07-14**|**Optimal photostimulation selection for iterative activity maps**|Jacob J. Morra et.al.|[2607.12930](https://arxiv.org/abs/2607.12930)|null|
@@ -1058,6 +1063,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852](https://arxiv.org/abs/2607.14852)|null|
+|**2026-07-16**|**Boson peak and medium-range elastic heterogeneity in calcium silicate hydrate probed by terahertz spectroscopy and low-temperature calorimetry**|Xiangyu Li et.al.|[2607.14764](https://arxiv.org/abs/2607.14764)|null|
+|**2026-07-16**|**Second-Order Optical Nonlinearity of AlScN Films Grown By Molecular Beam Epitaxy**|Joongwon Lee et.al.|[2607.14590](https://arxiv.org/abs/2607.14590)|null|
+|**2026-07-16**|**RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning**|Yanqiao Zhu et.al.|[2607.14512](https://arxiv.org/abs/2607.14512)|null|
 |**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](https://arxiv.org/abs/2607.13891)|null|
 |**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](https://arxiv.org/abs/2607.13812)|null|
 |**2026-07-15**|**Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations**|Wenxuan Miao et.al.|[2607.13770](https://arxiv.org/abs/2607.13770)|null|
@@ -1073,7 +1082,7 @@ layout: default
 |**2026-07-13**|**Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions**|Tetsuji Kuboyama et.al.|[2607.11105](https://arxiv.org/abs/2607.11105)|null|
 |**2026-07-11**|** $L^{2}$ -Supercritical Nonlinear Klein-Gordon System with Quadratic Asymmetric Interaction**|Xiaojing Dong et.al.|[2607.10382](https://arxiv.org/abs/2607.10382)|null|
 |**2026-07-11**|**Stellar Multiplicity of M Dwarfs with Short-period Giant Planets, and the Characterization of TOI-5628Ab**|Tianjun Gan et.al.|[2607.10177](https://arxiv.org/abs/2607.10177)|null|
-|**2026-07-14**|**MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation**|Chengguang Gan et.al.|[2607.10079](https://arxiv.org/abs/2607.10079)|null|
+|**2026-07-16**|**MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation**|Chengguang Gan et.al.|[2607.10079](https://arxiv.org/abs/2607.10079)|null|
 |**2026-07-10**|**Quantitative Analysis of Exciton Composition and Dynamics in Y6 Films for Single-Component Solar Cells**|Saba Mahmoodpour et.al.|[2607.10009](https://arxiv.org/abs/2607.10009)|null|
 |**2026-07-10**|**On the codegree threshold for Hamilton  $\ell$ -cycles in  $k$ -uniform hypergraphs**|Hongliang Lu et.al.|[2607.09245](https://arxiv.org/abs/2607.09245)|null|
 |**2026-07-10**|**Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness**|Daomin Ji et.al.|[2607.09149](https://arxiv.org/abs/2607.09149)|null|
