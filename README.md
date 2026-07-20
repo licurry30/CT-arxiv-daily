@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction**|Jianing Sun et.al.|[2607.15812](https://arxiv.org/abs/2607.15812)|null|
 |**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
 |**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](https://arxiv.org/abs/2607.14287)|null|
 |**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892](https://arxiv.org/abs/2607.13892)|null|
@@ -693,6 +694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**On the Role of Normalization in Binary Iterative Hard Thresholding for 1-bit Compressed Sensing**|Arya Mazumdar et.al.|[2607.15530](https://arxiv.org/abs/2607.15530)|null|
 |**2026-07-16**|**Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM**|Siqi Na et.al.|[2607.14597](https://arxiv.org/abs/2607.14597)|null|
 |**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](https://arxiv.org/abs/2607.14504)|null|
 |**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
@@ -1073,6 +1075,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Operation and performance of ProtoDUNE Dual Phase liquid argon time projection chamber**| DUNE Collaboration et.al.|[2607.15927](https://arxiv.org/abs/2607.15927)|null|
+|**2026-07-17**|**Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular beam epitaxy**|Huaide Zhang et.al.|[2607.15748](https://arxiv.org/abs/2607.15748)|null|
 |**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852](https://arxiv.org/abs/2607.14852)|null|
 |**2026-07-16**|**Boson peak and medium-range elastic heterogeneity in calcium silicate hydrate probed by terahertz spectroscopy and low-temperature calorimetry**|Xiangyu Li et.al.|[2607.14764](https://arxiv.org/abs/2607.14764)|null|
 |**2026-07-16**|**Second-Order Optical Nonlinearity of AlScN Films Grown By Molecular Beam Epitaxy**|Joongwon Lee et.al.|[2607.14590](https://arxiv.org/abs/2607.14590)|null|
