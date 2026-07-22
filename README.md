@@ -1,4 +1,4 @@
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Anatomy-Aware 3D Mesh Refinement of Pericardium Segmentations on Computed Tomography**|Andreas W. Aspe et.al.|[2607.19210](https://arxiv.org/abs/2607.19210)|null|
 |**2026-07-19**|**Iterated graph Laplacian for image restoration problems**|Stefano Aleotti et.al.|[2607.17313](https://arxiv.org/abs/2607.17313)|null|
 |**2026-07-19**|**Stability and Robustness Analysis of Regularized Reconstruction Methods for Low-Dose Computed Tomography in Parallel-Beam Geometry**|Mohamed Berrada et.al.|[2607.17298](https://arxiv.org/abs/2607.17298)|null|
 |**2026-07-18**|**Automated Cardiac Adipose Tissue Segmentation in Computed Tomography: A Literature Review**|Andreas W. Aspe et.al.|[2607.16992](https://arxiv.org/abs/2607.16992)|null|
@@ -694,12 +695,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Structured Spectral Compression based Low-Bitrate Secure Speech Communications for Internet of Things assisted Non-Terrestrial Networks**|Li Ping Qian et.al.|[2607.19092](https://arxiv.org/abs/2607.19092)|null|
 |**2026-07-17**|**Continuous 3-D Latent Diffusion for Medical Generation and Reconstruction**|Youness Mellak et.al.|[2607.16491](https://arxiv.org/abs/2607.16491)|null|
 |**2026-07-17**|**On the Role of Normalization in Binary Iterative Hard Thresholding for 1-bit Compressed Sensing**|Arya Mazumdar et.al.|[2607.15530](https://arxiv.org/abs/2607.15530)|null|
 |**2026-07-16**|**Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM**|Siqi Na et.al.|[2607.14597](https://arxiv.org/abs/2607.14597)|null|
@@ -1076,24 +1078,31 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](https://arxiv.org/abs/2607.19332)|null|
+|**2026-07-21**|**Breaking the Homogeneity Assumption: Specialized Multi-Generator Adversarial Learning for Rare Failure Detection in Predictive Maintenance**|Alexis Lazanas et.al.|[2607.19153](https://arxiv.org/abs/2607.19153)|null|
+|**2026-07-21**|**Incomplete Observations Boost Evolutionary Performance in Ocean Modeling**|Yangyang Kong et.al.|[2607.19147](https://arxiv.org/abs/2607.19147)|null|
+|**2026-07-21**|**Local Label-Informed Feature Transfer for Generating Ground-Truth Medical Images: A Comparison of GAN- and Diffusion-Based Approaches**|Rick Wilming et.al.|[2607.18882](https://arxiv.org/abs/2607.18882)|null|
+|**2026-07-21**|**Searching for  $γ$ -ray emission from a bona fide Compact Symmetric Object sample: a  $γ$ -ray signal near GB6 J0906+4124**|Ying-Ying Gan et.al.|[2607.18810](https://arxiv.org/abs/2607.18810)|null|
+|**2026-07-21**|**GLID: Gated Local Intrinsic Dimension Repairs the Blind Spots of Face-Forgery Detectors**|Guang Yang et.al.|[2607.18770](https://arxiv.org/abs/2607.18770)|null|
+|**2026-07-20**|**Electron escape probability in high-efficiency photocathodes measured by reverse-injection photovoltage**|S. A. Rozhkov et.al.|[2607.18420](https://arxiv.org/abs/2607.18420)|null|
 |**2026-07-20**|**Three-Body Scattering for Generative Modeling**|Peng Sun et.al.|[2607.18198](https://arxiv.org/abs/2607.18198)|null|
 |**2026-07-20**|**Anomalously high deuterium fractionation in a galactic translucent cloud: a challenge to chemical models**|Gan Luo et.al.|[2607.17529](https://arxiv.org/abs/2607.17529)|null|
 |**2026-07-19**|**EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation**|Zilong Huang et.al.|[2607.17366](https://arxiv.org/abs/2607.17366)|null|
 |**2026-07-19**|**Self-Modifying Lean Proof Agents with Verifier-Grounded Benchmark Coevolution**|Yuqing Li et.al.|[2607.17352](https://arxiv.org/abs/2607.17352)|null|
 |**2026-07-19**|**Adaptive Momentum Enhanced Distributed Multichannel Active Noise Control for Faster Convergence under Communication Delays**|Junwei Ji et.al.|[2607.17165](https://arxiv.org/abs/2607.17165)|null|
 |**2026-07-17**|**Boundary-Seeking GAN-Augmented TabTransformer for Adversarially Robust Intrusion Detection**|Raihan Sultan Pasha Basuki et.al.|[2607.16348](https://arxiv.org/abs/2607.16348)|null|
-|**2026-07-20**|**Operation and performance of ProtoDUNE Dual Phase liquid argon time projection chamber**| DUNE Collaboration et.al.|[2607.15927](https://arxiv.org/abs/2607.15927)|null|
+|**2026-07-21**|**Operation and performance of ProtoDUNE Dual Phase liquid argon time projection chamber**| DUNE Collaboration et.al.|[2607.15927](https://arxiv.org/abs/2607.15927)|null|
 |**2026-07-17**|**Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular beam epitaxy**|Huaide Zhang et.al.|[2607.15748](https://arxiv.org/abs/2607.15748)|null|
-|**2026-07-16**|**Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852](https://arxiv.org/abs/2607.14852)|null|
+|**2026-07-21**|**Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation**|Yao He et.al.|[2607.14852](https://arxiv.org/abs/2607.14852)|null|
 |**2026-07-16**|**Boson peak and medium-range elastic heterogeneity in calcium silicate hydrate probed by terahertz spectroscopy and low-temperature calorimetry**|Xiangyu Li et.al.|[2607.14764](https://arxiv.org/abs/2607.14764)|null|
 |**2026-07-16**|**Second-Order Optical Nonlinearity of AlScN Films Grown By Molecular Beam Epitaxy**|Joongwon Lee et.al.|[2607.14590](https://arxiv.org/abs/2607.14590)|null|
-|**2026-07-16**|**RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning**|Yanqiao Zhu et.al.|[2607.14512](https://arxiv.org/abs/2607.14512)|null|
+|**2026-07-21**|**RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning**|Yanqiao Zhu et.al.|[2607.14512](https://arxiv.org/abs/2607.14512)|null|
 |**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](https://arxiv.org/abs/2607.13891)|null|
 |**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](https://arxiv.org/abs/2607.13812)|null|
 |**2026-07-15**|**Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations**|Wenxuan Miao et.al.|[2607.13770](https://arxiv.org/abs/2607.13770)|null|
@@ -2663,7 +2672,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2711,5 +2720,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
