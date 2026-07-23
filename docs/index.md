@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**COBRA2026: a large-scale multicenter pelvic cone-beam computed tomography projection dataset**|Adrian Thummerer et.al.|[2607.20037](https://arxiv.org/abs/2607.20037)|null|
+|**2026-07-17**|**Auditing Retrieval-Augmented LLM Hypotheses for Longitudinal Cell Painting Morphology**|Gilchan Park et.al.|[2607.19415](https://arxiv.org/abs/2607.19415)|null|
 |**2026-07-21**|**Anatomy-Aware 3D Mesh Refinement of Pericardium Segmentations on Computed Tomography**|Andreas W. Aspe et.al.|[2607.19210](https://arxiv.org/abs/2607.19210)|null|
 |**2026-07-19**|**Iterated graph Laplacian for image restoration problems**|Stefano Aleotti et.al.|[2607.17313](https://arxiv.org/abs/2607.17313)|null|
 |**2026-07-19**|**Stability and Robustness Analysis of Regularized Reconstruction Methods for Low-Dose Computed Tomography in Parallel-Beam Geometry**|Mohamed Berrada et.al.|[2607.17298](https://arxiv.org/abs/2607.17298)|null|
@@ -693,9 +695,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**On the sample complexity of Fourier compressed sensing: wavelets versus shearlets**|Giovanni S. Alberti et.al.|[2607.20020](https://arxiv.org/abs/2607.20020)|null|
+|**2026-07-22**|**ST-DDA: Dynamic Channel Estimation in the Doppler-Delay-Angle Domain via Sparse Subspace Tracking for TDD Systems**|Xu Zhu et.al.|[2607.19677](https://arxiv.org/abs/2607.19677)|null|
+|**2026-07-21**|**Bounds and Limitations on Codes Achieving List Recovery Capacity**|Joshua Brakensiek et.al.|[2607.19576](https://arxiv.org/abs/2607.19576)|null|
 |**2026-07-21**|**Structured Spectral Compression based Low-Bitrate Secure Speech Communications for Internet of Things assisted Non-Terrestrial Networks**|Li Ping Qian et.al.|[2607.19092](https://arxiv.org/abs/2607.19092)|null|
 |**2026-07-17**|**Continuous 3-D Latent Diffusion for Medical Generation and Reconstruction**|Youness Mellak et.al.|[2607.16491](https://arxiv.org/abs/2607.16491)|null|
-|**2026-07-17**|**On the Role of Normalization in Binary Iterative Hard Thresholding for 1-bit Compressed Sensing**|Arya Mazumdar et.al.|[2607.15530](https://arxiv.org/abs/2607.15530)|null|
+|**2026-07-22**|**On the Role of Normalization in Binary Iterative Hard Thresholding for 1-bit Compressed Sensing**|Arya Mazumdar et.al.|[2607.15530](https://arxiv.org/abs/2607.15530)|null|
 |**2026-07-16**|**Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM**|Siqi Na et.al.|[2607.14597](https://arxiv.org/abs/2607.14597)|null|
 |**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](https://arxiv.org/abs/2607.14504)|null|
 |**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
@@ -1074,6 +1079,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Robots Acquire Manipulation Skills in Seconds from a Single Human Video**|Guangyan Chen et.al.|[2607.20033](https://arxiv.org/abs/2607.20033)|null|
+|**2026-07-22**|**Towards Ultra-High Reliability in Wi-Fi 8: IEEE 802.11bn Core Mechanisms, mmWave Integration, and Performance Verification**|Xiaoqian Liu et.al.|[2607.19931](https://arxiv.org/abs/2607.19931)|null|
+|**2026-07-22**|**MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation**|Zhiyuan Xia et.al.|[2607.19886](https://arxiv.org/abs/2607.19886)|null|
+|**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](https://arxiv.org/abs/2607.19830)|null|
+|**2026-07-21**|**Generating Bearing Vibration Signals at User-Specified Fault Probabilities Using PR-GAN and Counterfactual Methods**|Seyed Mohammadreza Alavi et.al.|[2607.19455](https://arxiv.org/abs/2607.19455)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](https://arxiv.org/abs/2607.19332)|null|
 |**2026-07-21**|**Breaking the Homogeneity Assumption: Specialized Multi-Generator Adversarial Learning for Rare Failure Detection in Predictive Maintenance**|Alexis Lazanas et.al.|[2607.19153](https://arxiv.org/abs/2607.19153)|null|
 |**2026-07-21**|**Incomplete Observations Boost Evolutionary Performance in Ocean Modeling**|Yangyang Kong et.al.|[2607.19147](https://arxiv.org/abs/2607.19147)|null|
