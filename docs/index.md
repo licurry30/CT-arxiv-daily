@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions**|Arthur Dantas Mangussi et.al.|[2607.21904](https://arxiv.org/abs/2607.21904)|null|
 |**2026-07-23**|**ASTRA-Net: Anatomy-Specific Transfer and Representation Alignment for Drug-Induced Sleep Endoscopy Segmentation**|Suhua Sun et.al.|[2607.21370](https://arxiv.org/abs/2607.21370)|null|
 |**2026-07-23**|**Unsupervised Metal Artifact Reduction in Dental CBCT using Fine-tuned Cycle-Consistent Adversarial Networks**|G. L. T. Chamika et.al.|[2607.20977](https://arxiv.org/abs/2607.20977)|null|
 |**2026-07-23**|**FSB-Net: Frequency-Spatial Boundary Network for Brain Stroke Lesion Segmentation in Non-Contrast CT**|Linke Fan et.al.|[2607.20955](https://arxiv.org/abs/2607.20955)|null|
@@ -698,6 +699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Quantum Adaptive Sensing for Accelerated MRI**|Asmit Ganguly et.al.|[2607.21737](https://arxiv.org/abs/2607.21737)|null|
 |**2026-07-23**|**Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery**|Amirhossein Nouranizadeh et.al.|[2607.20857](https://arxiv.org/abs/2607.20857)|null|
 |**2026-07-22**|**On the sample complexity of Fourier compressed sensing: wavelets versus shearlets**|Giovanni S. Alberti et.al.|[2607.20020](https://arxiv.org/abs/2607.20020)|null|
 |**2026-07-22**|**ST-DDA: Dynamic Channel Estimation in the Doppler-Delay-Angle Domain via Sparse Subspace Tracking for TDD Systems**|Xu Zhu et.al.|[2607.19677](https://arxiv.org/abs/2607.19677)|null|
@@ -1083,6 +1085,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Graph-Based Correlation Matrix Generation: A Convex Optimization Approach**|Ali Fakhar et.al.|[2607.22436](https://arxiv.org/abs/2607.22436)|null|
+|**2026-07-24**|**Learning Spatiotemporal Decision Priors for Efficient Path Planning under Partial Observability**|Yi Liu et.al.|[2607.22166](https://arxiv.org/abs/2607.22166)|null|
+|**2026-07-24**|**Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents**|Krishan Rajaratnam et.al.|[2607.21887](https://arxiv.org/abs/2607.21887)|null|
+|**2026-07-23**|**A Dual Path Framework with Hotspot Guided Fusion for Three Dimensional CT to PET Synthesis in Head and Neck Cancer**|Mohd Maaz Khan et.al.|[2607.21800](https://arxiv.org/abs/2607.21800)|null|
 |**2026-07-23**|**GS-Agent: Creating 4D Physical Worlds With Generative Simulation**|Hongxin Zhang et.al.|[2607.21522](https://arxiv.org/abs/2607.21522)|null|
 |**2026-07-23**|**M $^3$ -Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data**|Francesca Pia Panaccione et.al.|[2607.21343](https://arxiv.org/abs/2607.21343)|null|
 |**2026-07-23**|**Tailoring optical Schrödinger cat states via orientation-dependent high-harmonic generation in  $\rm{H}_2^+$ **|Ziyang Gan et.al.|[2607.21248](https://arxiv.org/abs/2607.21248)|null|
