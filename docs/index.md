@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**|Zihan Li et.al.|[2607.25108](https://arxiv.org/abs/2607.25108)|null|
 |**2026-07-27**|**Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives**|Sajad Amiri et.al.|[2607.24727](https://arxiv.org/abs/2607.24727)|null|
 |**2026-07-27**|**Effect of User-Prompted Priors on Semi-Automated Cancer Lesion Segmentation in Whole-Body Computed Tomography**|Isac Stark et.al.|[2607.24210](https://arxiv.org/abs/2607.24210)|null|
 |**2026-07-27**|**Randomized Krylov-Projected Iterated Tikhonov Regularization for Large-Scale Ill-posed Problems Under A Posteriori Stopping Rule**|Ravi Verma et.al.|[2607.24138](https://arxiv.org/abs/2607.24138)|null|
@@ -704,6 +705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Matrix-Free Photoacoustic Image Reconstruction via Sensor-Token Self-Attention**|Mary John et.al.|[2607.25576](https://arxiv.org/abs/2607.25576)|null|
 |**2026-07-24**|**Agentic Autoresearch for CT Reconstruction**|Andreas Maier et.al.|[2607.22824](https://arxiv.org/abs/2607.22824)|null|
 |**2026-07-24**|**Small, Bias-Free, Blind and Convolutional Denoiser: A compact ConvNeXt U-Net for blind Gaussian color-image denoising**|Nikolas Markou et.al.|[2607.22793](https://arxiv.org/abs/2607.22793)|null|
 |**2026-07-23**|**Quantum Adaptive Sensing for Accelerated MRI**|Asmit Ganguly et.al.|[2607.21737](https://arxiv.org/abs/2607.21737)|null|
@@ -1092,6 +1094,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications**|Xianghao Zang et.al.|[2607.25642](https://arxiv.org/abs/2607.25642)|null|
+|**2026-07-28**|**Group Equivariant Diffusion for Anomaly Detection in Computational Cytology**|Swarnadip Chatterjee et.al.|[2607.25503](https://arxiv.org/abs/2607.25503)|null|
+|**2026-07-28**|**Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation**|Xiang-Xiang Su et.al.|[2607.25432](https://arxiv.org/abs/2607.25432)|null|
+|**2026-07-28**|**Noise-Free One-Step LoRA for Task-Driven Image Restoration with Diffusion Priors**|Jaeha Kim et.al.|[2607.25390](https://arxiv.org/abs/2607.25390)|null|
+|**2026-07-27**|**Twisted automorphic descent to odd GSpin groups and applications**|Pan Yan et.al.|[2607.25127](https://arxiv.org/abs/2607.25127)|null|
+|**2026-07-27**|**A flexible kinetic Monte Carlo framework for GaN molecular beam epitaxy with adaptive on-the-fly barrier evaluation**|Sajid Ali et.al.|[2607.24871](https://arxiv.org/abs/2607.24871)|null|
 |**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](https://arxiv.org/abs/2607.24359)|null|
 |**2026-07-27**|**Ultranarrow-linewidth self-injection-locked tunable blue GaN DFB laser**|Georges Perin et.al.|[2607.24240](https://arxiv.org/abs/2607.24240)|null|
 |**2026-07-27**|**Towards High-Level Semantic Intelligence**|Xiujie Song et.al.|[2607.24082](https://arxiv.org/abs/2607.24082)|null|
