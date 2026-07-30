@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography**|Quoc-Huy Trinh et.al.|[2607.26196](https://arxiv.org/abs/2607.26196)|null|
 |**2026-07-27**|**OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**|Zihan Li et.al.|[2607.25108](https://arxiv.org/abs/2607.25108)|null|
 |**2026-07-27**|**Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives**|Sajad Amiri et.al.|[2607.24727](https://arxiv.org/abs/2607.24727)|null|
 |**2026-07-27**|**Effect of User-Prompted Priors on Semi-Automated Cancer Lesion Segmentation in Whole-Body Computed Tomography**|Isac Stark et.al.|[2607.24210](https://arxiv.org/abs/2607.24210)|null|
@@ -1094,6 +1095,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**What Does It Take to Detect an AI Agent? Minimal Feature Sets for Behavioral Detection under Browser Automation**|Vishisht Choudhary et.al.|[2607.26935](https://arxiv.org/abs/2607.26935)|null|
+|**2026-07-29**|**DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models**|Yilei Wang et.al.|[2607.26891](https://arxiv.org/abs/2607.26891)|null|
+|**2026-07-29**|**ActSWM: Action-Sensitive World Models for Long-Horizon Planning in Open-World Games**|Zhenfeng Gan et.al.|[2607.26712](https://arxiv.org/abs/2607.26712)|null|
+|**2026-07-29**|**Calibrating the Digital Twin Channel: Statistics-Consistent Sim-to-Lab Adaptation for W-Band Industrial OFDM Links**|Pulok Tarafder et.al.|[2607.26501](https://arxiv.org/abs/2607.26501)|null|
+|**2026-07-28**|**Do Code Language Models Use Tests? A Behavioral and Representational Study of Test-Driven Code Generation**|Yunhao Liang et.al.|[2607.26244](https://arxiv.org/abs/2607.26244)|null|
 |**2026-07-28**|**Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications**|Xianghao Zang et.al.|[2607.25642](https://arxiv.org/abs/2607.25642)|null|
 |**2026-07-28**|**Group Equivariant Diffusion for Anomaly Detection in Computational Cytology**|Swarnadip Chatterjee et.al.|[2607.25503](https://arxiv.org/abs/2607.25503)|null|
 |**2026-07-28**|**Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation**|Xiang-Xiang Su et.al.|[2607.25432](https://arxiv.org/abs/2607.25432)|null|
