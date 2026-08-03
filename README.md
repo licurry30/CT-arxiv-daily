@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[2607.29568](https://arxiv.org/abs/2607.29568)|null|
+|**2026-07-31**|**CBCT-IQ: A Publicly Available Annotated Cone-Beam CT Dataset for Image Quality Assessment and Benchmarking**|Sepideh Hatamikia et.al.|[2607.29253](https://arxiv.org/abs/2607.29253)|null|
+|**2026-07-31**|**TAVI-TEC: An AI-Based Tool for Procedural Planning of Transcatheter Aortic Valve Implantation**|Alessandra Zerillo et.al.|[2607.29243](https://arxiv.org/abs/2607.29243)|null|
+|**2026-07-30**|**SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction**|Heran Wang et.al.|[2607.28759](https://arxiv.org/abs/2607.28759)|null|
 |**2026-07-30**|**A Query-Efficient Stochastic Volume Rendering Framework for Time-Varying Implicit Neural Volumes**|Alper Sahistan et.al.|[2607.28047](https://arxiv.org/abs/2607.28047)|null|
 |**2026-07-24**|**RadHarmony: Radiological Data Handling in the Era of Agentic AI**|Frank Li et.al.|[2607.27235](https://arxiv.org/abs/2607.27235)|null|
 |**2026-07-28**|**Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography**|Quoc-Huy Trinh et.al.|[2607.26196](https://arxiv.org/abs/2607.26196)|null|
@@ -730,7 +734,7 @@
 |**2026-07-16**|**Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM**|Siqi Na et.al.|[2607.14597](https://arxiv.org/abs/2607.14597)|null|
 |**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](https://arxiv.org/abs/2607.14504)|null|
 |**2026-07-15**|** $K$ -NeAS: Scalable Multi-Material CT Reconstruction Using Neural SDFs**|Daksh K. Shah et.al.|[2607.14415](https://arxiv.org/abs/2607.14415)|null|
-|**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](https://arxiv.org/abs/2607.13682)|null|
+|**2026-07-31**|**Posterior Variance Is a Constraint Map, Not an Error Map: Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](https://arxiv.org/abs/2607.13682)|null|
 |**2026-07-15**|**Hybrid GKB Methods for X-Ray Tomography Problems with Unmatched Back Projector**|Abdulmajeed Alsubhi et.al.|[2607.13381](https://arxiv.org/abs/2607.13381)|null|
 |**2026-07-14**|**Optimal photostimulation selection for iterative activity maps**|Jacob J. Morra et.al.|[2607.12930](https://arxiv.org/abs/2607.12930)|null|
 |**2026-07-11**|**GenDiff: A Dose and Anatomy Aware Diffusion Model with Structural Prior Refinement for Low-Dose CT Reconstruction and Generalization**|Md Imam Ahasan et.al.|[2607.11941](https://arxiv.org/abs/2607.11941)|null|
@@ -1107,6 +1111,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Extremizers for a trilinear Stein-Weiss inequality with nonnegative weights**|Chengcheng Wu et.al.|[2607.29448](https://arxiv.org/abs/2607.29448)|null|
+|**2026-07-31**|**Data-Driven Batteryless Channel Sounding for Wi-Fi 8-Inspired Downlink MU-MIMO**|Muhan Zhang et.al.|[2607.29288](https://arxiv.org/abs/2607.29288)|null|
+|**2026-07-31**|**Model-Agnostic Meta-Learning Initialization for Distributed Multichannel Active Noise Control**|Xiaoyi Shen et.al.|[2607.29117](https://arxiv.org/abs/2607.29117)|null|
 |**2026-07-30**|**Sign Language Question Answering: A New Task, Benchmark, and Baseline for Sign Language Understanding**|Shiwei Gan et.al.|[2607.27826](https://arxiv.org/abs/2607.27826)|null|
 |**2026-07-30**|**Physics to Circuit Analysis of GaN RF Integrated Circuits versus GaAs and Silicon**|Harkirat Kaur et.al.|[2607.27625](https://arxiv.org/abs/2607.27625)|null|
 |**2026-07-29**|**What Does It Take to Detect an AI Agent? Minimal Feature Sets for Behavioral Detection under Browser Automation**|Vishisht Choudhary et.al.|[2607.26935](https://arxiv.org/abs/2607.26935)|null|
