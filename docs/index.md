@@ -2,17 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins**|Minjee Seo et.al.|[2608.01839](https://arxiv.org/abs/2608.01839)|null|
+|**2026-08-02**|**CT-PrepAgent: Bounded Policy and Controlled Execution for Adaptive CT Data Preparation**|Xiaolin Fan et.al.|[2608.01233](https://arxiv.org/abs/2608.01233)|null|
+|**2026-08-01**|**Structured Proxy Features for Multimodal NSCLC Survival Prediction from Pretreatment CT**|Huu Phong Nguyen et.al.|[2608.00446](https://arxiv.org/abs/2608.00446)|null|
+|**2026-07-31**|**SCALP: Semi-Supervised Statistical Shape Modeling from Imperfect 3D Photogrammetry via Landmark-Anchored Spectral Warp**|Nawazish Khan et.al.|[2608.00187](https://arxiv.org/abs/2608.00187)|null|
+|**2026-07-27**|**ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction**|Ge Wang et.al.|[2608.00060](https://arxiv.org/abs/2608.00060)|null|
 |**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[2607.29568](https://arxiv.org/abs/2607.29568)|null|
 |**2026-07-31**|**CBCT-IQ: A Publicly Available Annotated Cone-Beam CT Dataset for Image Quality Assessment and Benchmarking**|Sepideh Hatamikia et.al.|[2607.29253](https://arxiv.org/abs/2607.29253)|null|
 |**2026-07-31**|**TAVI-TEC: An AI-Based Tool for Procedural Planning of Transcatheter Aortic Valve Implantation**|Alessandra Zerillo et.al.|[2607.29243](https://arxiv.org/abs/2607.29243)|null|
-|**2026-07-30**|**SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction**|Heran Wang et.al.|[2607.28759](https://arxiv.org/abs/2607.28759)|null|
+|**2026-08-03**|**SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction**|Heran Wang et.al.|[2607.28759](https://arxiv.org/abs/2607.28759)|null|
 |**2026-07-30**|**A Query-Efficient Stochastic Volume Rendering Framework for Time-Varying Implicit Neural Volumes**|Alper Sahistan et.al.|[2607.28047](https://arxiv.org/abs/2607.28047)|null|
 |**2026-07-24**|**RadHarmony: Radiological Data Handling in the Era of Agentic AI**|Frank Li et.al.|[2607.27235](https://arxiv.org/abs/2607.27235)|null|
 |**2026-07-28**|**Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography**|Quoc-Huy Trinh et.al.|[2607.26196](https://arxiv.org/abs/2607.26196)|null|
@@ -712,6 +717,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Temporal Channel Estimation for Generalized CSI Feedback**|Minwoo Kim et.al.|[2608.01713](https://arxiv.org/abs/2608.01713)|null|
+|**2026-08-03**|**Physics-Informed Neural Networks for Sparse Strain-Field Reconstruction in 4D-STEM**|Roberto dos Reis et.al.|[2608.01601](https://arxiv.org/abs/2608.01601)|null|
+|**2026-07-27**|**ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction**|Ge Wang et.al.|[2608.00060](https://arxiv.org/abs/2608.00060)|null|
 |**2026-07-28**|**Matrix-Free Photoacoustic Image Reconstruction via Sensor-Token Self-Attention**|Mary John et.al.|[2607.25576](https://arxiv.org/abs/2607.25576)|null|
 |**2026-07-24**|**Agentic Autoresearch for CT Reconstruction**|Andreas Maier et.al.|[2607.22824](https://arxiv.org/abs/2607.22824)|null|
 |**2026-07-24**|**Small, Bias-Free, Blind and Convolutional Denoiser: A compact ConvNeXt U-Net for blind Gaussian color-image denoising**|Nikolas Markou et.al.|[2607.22793](https://arxiv.org/abs/2607.22793)|null|
@@ -1101,6 +1109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Deep Learning-Based Active Trim Panels for Enhanced Aircraft Interior Noise Control**|Boxiang Wang et.al.|[2608.02421](https://arxiv.org/abs/2608.02421)|null|
+|**2026-08-03**|**Extended Field of View Analysis for VideoGAN-based Trajectory Generation**|Annajoyce Mariani et.al.|[2608.02289](https://arxiv.org/abs/2608.02289)|null|
+|**2026-08-03**|**TS-MAMP: A Remanufactured Agricultural Robot Powered by Second-Life EV Components and NMS-Free On-Device Weed Detection**|Weijie Shi et.al.|[2608.02270](https://arxiv.org/abs/2608.02270)|null|
+|**2026-08-03**|**On the Impact of Gas-Line Absorption in Long-Haul C+L-Band Hollow-Core Fibre Transmission**|Zelin Gan et.al.|[2608.02228](https://arxiv.org/abs/2608.02228)|null|
+|**2026-08-02**|**Active Passivation Tunes Hotspot Locations in GaN Transistors with In Situ Thermal Mechanical Visualization**|Yicheng Wei et.al.|[2608.01257](https://arxiv.org/abs/2608.01257)|null|
+|**2026-08-02**|**Generative Adversarial Reconstruction with Adaptive Thresholding for Obstructed Targets in Computational Microwave Imaging**|Jiaming Zhang et.al.|[2608.01177](https://arxiv.org/abs/2608.01177)|null|
+|**2026-08-02**|**Toward Compact Fiber In-line Nonlinear Devices via Highly Efficient Nanophotonic Cavity Interface**|Mahsa Haddadi Moghaddam et.al.|[2608.01084](https://arxiv.org/abs/2608.01084)|null|
+|**2026-08-01**|**High-speed and high-gain graphene photovoltaic phototransistor gated by a van der Waals heterojunction**|Yihan Yin et.al.|[2608.00771](https://arxiv.org/abs/2608.00771)|null|
+|**2026-07-31**|**LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations**|Yan Fang et.al.|[2608.00123](https://arxiv.org/abs/2608.00123)|null|
+|**2026-07-31**|**EEG-JEPA: Structured Latent Prediction for EEG Foundation Models**|Jinhao Li et.al.|[2608.00114](https://arxiv.org/abs/2608.00114)|null|
 |**2026-07-31**|**Extremizers for a trilinear Stein-Weiss inequality with nonnegative weights**|Chengcheng Wu et.al.|[2607.29448](https://arxiv.org/abs/2607.29448)|null|
 |**2026-07-31**|**Data-Driven Batteryless Channel Sounding for Wi-Fi 8-Inspired Downlink MU-MIMO**|Muhan Zhang et.al.|[2607.29288](https://arxiv.org/abs/2607.29288)|null|
 |**2026-07-31**|**Model-Agnostic Meta-Learning Initialization for Distributed Multichannel Active Noise Control**|Xiaoyi Shen et.al.|[2607.29117](https://arxiv.org/abs/2607.29117)|null|
