@@ -1,4 +1,4 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**LocAnyMed: Vision-Language Grounding for Multimodal Medical Images**|Zihan Wang et.al.|[2608.03322](https://arxiv.org/abs/2608.03322)|null|
 |**2026-08-03**|**tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins**|Minjee Seo et.al.|[2608.01839](https://arxiv.org/abs/2608.01839)|null|
 |**2026-08-02**|**CT-PrepAgent: Bounded Policy and Controlled Execution for Adaptive CT Data Preparation**|Xiaolin Fan et.al.|[2608.01233](https://arxiv.org/abs/2608.01233)|null|
 |**2026-08-01**|**Structured Proxy Features for Multimodal NSCLC Survival Prediction from Pretreatment CT**|Huu Phong Nguyen et.al.|[2608.00446](https://arxiv.org/abs/2608.00446)|null|
@@ -719,12 +720,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access**|Yao Ge et.al.|[2608.03896](https://arxiv.org/abs/2608.03896)|null|
 |**2026-08-03**|**Temporal Channel Estimation for Generalized CSI Feedback**|Minwoo Kim et.al.|[2608.01713](https://arxiv.org/abs/2608.01713)|null|
 |**2026-08-03**|**Physics-Informed Neural Networks for Sparse Strain-Field Reconstruction in 4D-STEM**|Roberto dos Reis et.al.|[2608.01601](https://arxiv.org/abs/2608.01601)|null|
 |**2026-07-27**|**ELECTRIC: Evidential Learning-Enhanced CT Reconstruction via Iterative Correction**|Ge Wang et.al.|[2608.00060](https://arxiv.org/abs/2608.00060)|null|
@@ -1113,12 +1115,14 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration**|Lu Gan et.al.|[2608.03923](https://arxiv.org/abs/2608.03923)|null|
+|**2026-08-04**|**Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations**|Chunlei Meng et.al.|[2608.03611](https://arxiv.org/abs/2608.03611)|null|
 |**2026-08-03**|**Deep Learning-Based Active Trim Panels for Enhanced Aircraft Interior Noise Control**|Boxiang Wang et.al.|[2608.02421](https://arxiv.org/abs/2608.02421)|null|
 |**2026-08-03**|**Extended Field of View Analysis for VideoGAN-based Trajectory Generation**|Annajoyce Mariani et.al.|[2608.02289](https://arxiv.org/abs/2608.02289)|null|
 |**2026-08-03**|**TS-MAMP: A Remanufactured Agricultural Robot Powered by Second-Life EV Components and NMS-Free On-Device Weed Detection**|Weijie Shi et.al.|[2608.02270](https://arxiv.org/abs/2608.02270)|null|
@@ -1127,7 +1131,7 @@
 |**2026-08-02**|**Generative Adversarial Reconstruction with Adaptive Thresholding for Obstructed Targets in Computational Microwave Imaging**|Jiaming Zhang et.al.|[2608.01177](https://arxiv.org/abs/2608.01177)|null|
 |**2026-08-02**|**Toward Compact Fiber In-line Nonlinear Devices via Highly Efficient Nanophotonic Cavity Interface**|Mahsa Haddadi Moghaddam et.al.|[2608.01084](https://arxiv.org/abs/2608.01084)|null|
 |**2026-08-01**|**High-speed and high-gain graphene photovoltaic phototransistor gated by a van der Waals heterojunction**|Yihan Yin et.al.|[2608.00771](https://arxiv.org/abs/2608.00771)|null|
-|**2026-07-31**|**LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations**|Yan Fang et.al.|[2608.00123](https://arxiv.org/abs/2608.00123)|null|
+|**2026-08-04**|**LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations**|Yan Fang et.al.|[2608.00123](https://arxiv.org/abs/2608.00123)|null|
 |**2026-07-31**|**EEG-JEPA: Structured Latent Prediction for EEG Foundation Models**|Jinhao Li et.al.|[2608.00114](https://arxiv.org/abs/2608.00114)|null|
 |**2026-07-31**|**Extremizers for a trilinear Stein-Weiss inequality with nonnegative weights**|Chengcheng Wu et.al.|[2607.29448](https://arxiv.org/abs/2607.29448)|null|
 |**2026-07-31**|**Data-Driven Batteryless Channel Sounding for Wi-Fi 8-Inspired Downlink MU-MIMO**|Muhan Zhang et.al.|[2607.29288](https://arxiv.org/abs/2607.29288)|null|
@@ -2759,7 +2763,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2807,5 +2811,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
