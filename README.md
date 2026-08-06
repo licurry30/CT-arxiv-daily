@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling**|Kiseok Choi et.al.|[2608.04764](https://arxiv.org/abs/2608.04764)|null|
+|**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**LocAnyMed: Vision-Language Grounding for Multimodal Medical Images**|Zihan Wang et.al.|[2608.03322](https://arxiv.org/abs/2608.03322)|null|
 |**2026-08-03**|**tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins**|Minjee Seo et.al.|[2608.01839](https://arxiv.org/abs/2608.01839)|null|
 |**2026-08-02**|**CT-PrepAgent: Bounded Policy and Controlled Execution for Adaptive CT Data Preparation**|Xiaolin Fan et.al.|[2608.01233](https://arxiv.org/abs/2608.01233)|null|
@@ -720,12 +722,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Multi-frequency far-field data enrichment for electromagnetic source reconstruction**|Atyab Khalifa Al-Shaqsi et.al.|[2608.04829](https://arxiv.org/abs/2608.04829)|null|
+|**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access**|Yao Ge et.al.|[2608.03896](https://arxiv.org/abs/2608.03896)|null|
 |**2026-08-03**|**Temporal Channel Estimation for Generalized CSI Feedback**|Minwoo Kim et.al.|[2608.01713](https://arxiv.org/abs/2608.01713)|null|
 |**2026-08-03**|**Physics-Informed Neural Networks for Sparse Strain-Field Reconstruction in 4D-STEM**|Roberto dos Reis et.al.|[2608.01601](https://arxiv.org/abs/2608.01601)|null|
@@ -1115,12 +1119,18 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes**|Orazio Pontorno et.al.|[2608.05101](https://arxiv.org/abs/2608.05101)|null|
+|**2026-08-05**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al.|[2608.05069](https://arxiv.org/abs/2608.05069)|null|
+|**2026-08-05**|**Towards a satellite image manipulation and deepfake localization benchmark dataset**|Jacob Arndt et.al.|[2608.04840](https://arxiv.org/abs/2608.04840)|null|
+|**2026-08-05**|**Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics**|Edgars Butanovs et.al.|[2608.04813](https://arxiv.org/abs/2608.04813)|null|
+|**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](https://arxiv.org/abs/2608.04428)|null|
+|**2026-08-04**|**A Bayesian approach to the long-baseline neutrino oscillation sensitivity of DUNE**| DUNE Collaboration et.al.|[2608.04059](https://arxiv.org/abs/2608.04059)|null|
 |**2026-08-04**|**GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration**|Lu Gan et.al.|[2608.03923](https://arxiv.org/abs/2608.03923)|null|
 |**2026-08-04**|**Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations**|Chunlei Meng et.al.|[2608.03611](https://arxiv.org/abs/2608.03611)|null|
 |**2026-08-03**|**Deep Learning-Based Active Trim Panels for Enhanced Aircraft Interior Noise Control**|Boxiang Wang et.al.|[2608.02421](https://arxiv.org/abs/2608.02421)|null|
@@ -2763,7 +2773,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2811,5 +2821,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 

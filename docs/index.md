@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling**|Kiseok Choi et.al.|[2608.04764](https://arxiv.org/abs/2608.04764)|null|
+|**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**LocAnyMed: Vision-Language Grounding for Multimodal Medical Images**|Zihan Wang et.al.|[2608.03322](https://arxiv.org/abs/2608.03322)|null|
 |**2026-08-03**|**tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins**|Minjee Seo et.al.|[2608.01839](https://arxiv.org/abs/2608.01839)|null|
 |**2026-08-02**|**CT-PrepAgent: Bounded Policy and Controlled Execution for Adaptive CT Data Preparation**|Xiaolin Fan et.al.|[2608.01233](https://arxiv.org/abs/2608.01233)|null|
@@ -718,6 +720,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Multi-frequency far-field data enrichment for electromagnetic source reconstruction**|Atyab Khalifa Al-Shaqsi et.al.|[2608.04829](https://arxiv.org/abs/2608.04829)|null|
+|**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access**|Yao Ge et.al.|[2608.03896](https://arxiv.org/abs/2608.03896)|null|
 |**2026-08-03**|**Temporal Channel Estimation for Generalized CSI Feedback**|Minwoo Kim et.al.|[2608.01713](https://arxiv.org/abs/2608.01713)|null|
 |**2026-08-03**|**Physics-Informed Neural Networks for Sparse Strain-Field Reconstruction in 4D-STEM**|Roberto dos Reis et.al.|[2608.01601](https://arxiv.org/abs/2608.01601)|null|
@@ -1111,6 +1115,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes**|Orazio Pontorno et.al.|[2608.05101](https://arxiv.org/abs/2608.05101)|null|
+|**2026-08-05**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al.|[2608.05069](https://arxiv.org/abs/2608.05069)|null|
+|**2026-08-05**|**Towards a satellite image manipulation and deepfake localization benchmark dataset**|Jacob Arndt et.al.|[2608.04840](https://arxiv.org/abs/2608.04840)|null|
+|**2026-08-05**|**Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics**|Edgars Butanovs et.al.|[2608.04813](https://arxiv.org/abs/2608.04813)|null|
+|**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](https://arxiv.org/abs/2608.04428)|null|
+|**2026-08-04**|**A Bayesian approach to the long-baseline neutrino oscillation sensitivity of DUNE**| DUNE Collaboration et.al.|[2608.04059](https://arxiv.org/abs/2608.04059)|null|
 |**2026-08-04**|**GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration**|Lu Gan et.al.|[2608.03923](https://arxiv.org/abs/2608.03923)|null|
 |**2026-08-04**|**Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations**|Chunlei Meng et.al.|[2608.03611](https://arxiv.org/abs/2608.03611)|null|
 |**2026-08-03**|**Deep Learning-Based Active Trim Panels for Enhanced Aircraft Interior Noise Control**|Boxiang Wang et.al.|[2608.02421](https://arxiv.org/abs/2608.02421)|null|
