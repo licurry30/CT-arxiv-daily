@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Patient Pose Assessment Using a CT-Based Framework for Synthetic Data Generation**|Manuel Laufer et.al.|[2608.06126](https://arxiv.org/abs/2608.06126)|null|
+|**2026-08-06**|**ALTER: Modeling Longitudinal Changes via Regional Differencing for 3D CT Report Generation**|Dongchen Li et.al.|[2608.05615](https://arxiv.org/abs/2608.05615)|null|
 |**2026-08-05**|**Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling**|Kiseok Choi et.al.|[2608.04764](https://arxiv.org/abs/2608.04764)|null|
 |**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**LocAnyMed: Vision-Language Grounding for Multimodal Medical Images**|Zihan Wang et.al.|[2608.03322](https://arxiv.org/abs/2608.03322)|null|
@@ -720,6 +722,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**A neural operator view on U-Nets for inverse imaging problems**|Alexander Auras et.al.|[2608.05839](https://arxiv.org/abs/2608.05839)|null|
+|**2026-08-05**|**Multi-Target Micro-Motion Parameter Estimation using MIMO-FMCW Radar with Limited Measurements**|Chandrashekhar Rai et.al.|[2608.05216](https://arxiv.org/abs/2608.05216)|null|
+|**2026-08-05**|**Marchenko Theory, Algorithms, and Applications: A Review**|Hammed A. Oyekan et.al.|[2608.05214](https://arxiv.org/abs/2608.05214)|null|
 |**2026-08-05**|**Multi-frequency far-field data enrichment for electromagnetic source reconstruction**|Atyab Khalifa Al-Shaqsi et.al.|[2608.04829](https://arxiv.org/abs/2608.04829)|null|
 |**2026-08-05**|**Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction**|Kiseok Choi et.al.|[2608.04752](https://arxiv.org/abs/2608.04752)|null|
 |**2026-08-04**|**Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access**|Yao Ge et.al.|[2608.03896](https://arxiv.org/abs/2608.03896)|null|
@@ -1115,12 +1120,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation**|Elad Yoshai et.al.|[2608.06240](https://arxiv.org/abs/2608.06240)|null|
+|**2026-08-06**|**A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization**|GuangXian Gan et.al.|[2608.06096](https://arxiv.org/abs/2608.06096)|null|
+|**2026-08-06**|**Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning**|Zezhong Jin et.al.|[2608.05549](https://arxiv.org/abs/2608.05549)|null|
+|**2026-08-06**|**Strongly Enhanced Charge-Density Waves and Correlated Insulating State in Atomically Thin 1 $T$ -TaS $_2$ **|Gan Liu et.al.|[2608.05532](https://arxiv.org/abs/2608.05532)|null|
 |**2026-08-05**|**HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes**|Orazio Pontorno et.al.|[2608.05101](https://arxiv.org/abs/2608.05101)|null|
 |**2026-08-05**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al.|[2608.05069](https://arxiv.org/abs/2608.05069)|null|
 |**2026-08-05**|**Towards a satellite image manipulation and deepfake localization benchmark dataset**|Jacob Arndt et.al.|[2608.04840](https://arxiv.org/abs/2608.04840)|null|
 |**2026-08-05**|**Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics**|Edgars Butanovs et.al.|[2608.04813](https://arxiv.org/abs/2608.04813)|null|
 |**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](https://arxiv.org/abs/2608.04428)|null|
 |**2026-08-04**|**A Bayesian approach to the long-baseline neutrino oscillation sensitivity of DUNE**| DUNE Collaboration et.al.|[2608.04059](https://arxiv.org/abs/2608.04059)|null|
+|**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](https://arxiv.org/abs/2608.03964)|null|
 |**2026-08-04**|**GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration**|Lu Gan et.al.|[2608.03923](https://arxiv.org/abs/2608.03923)|null|
 |**2026-08-04**|**Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations**|Chunlei Meng et.al.|[2608.03611](https://arxiv.org/abs/2608.03611)|null|
 |**2026-08-03**|**Deep Learning-Based Active Trim Panels for Enhanced Aircraft Interior Noise Control**|Boxiang Wang et.al.|[2608.02421](https://arxiv.org/abs/2608.02421)|null|
