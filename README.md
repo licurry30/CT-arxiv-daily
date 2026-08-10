@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**Measurements Automatically Extracted from Zero Echo Time MRI Using Deep Learning Image Segmentation and Geometric Modeling Agree with Expert Manual Readings**|Jack Consolini et.al.|[2608.07368](https://arxiv.org/abs/2608.07368)|null|
+|**2026-08-07**|**Fast Ptychographic Near-Field Computed Tomography**|Sami Wirtensohn et.al.|[2608.07201](https://arxiv.org/abs/2608.07201)|null|
+|**2026-08-07**|**RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections**|Kabila Haile Soboka et.al.|[2608.06914](https://arxiv.org/abs/2608.06914)|null|
+|**2026-08-06**|**Toward surface-based registration of a virtual preoperative cutting guide onto the mandible for reconstruction surgery**|Yue Yang et.al.|[2608.06599](https://arxiv.org/abs/2608.06599)|null|
 |**2026-08-06**|**Patient Pose Assessment Using a CT-Based Framework for Synthetic Data Generation**|Manuel Laufer et.al.|[2608.06126](https://arxiv.org/abs/2608.06126)|null|
 |**2026-08-06**|**ALTER: Modeling Longitudinal Changes via Regional Differencing for 3D CT Report Generation**|Dongchen Li et.al.|[2608.05615](https://arxiv.org/abs/2608.05615)|null|
 |**2026-08-05**|**Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling**|Kiseok Choi et.al.|[2608.04764](https://arxiv.org/abs/2608.04764)|null|
@@ -1130,6 +1134,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**Certified High-Dimensional Wasserstein Robust Portfolio Optimization**|Chung-Han Hsieh et.al.|[2608.07032](https://arxiv.org/abs/2608.07032)|null|
+|**2026-08-07**|**StateFlow: Sequence Pipeline Parallelism for Long-Context Modeling with Linear Recurrence**|Wenxuan Zhao et.al.|[2608.06838](https://arxiv.org/abs/2608.06838)|null|
+|**2026-08-07**|**Beyond Starry Night: Shortcut-Aware Control-State Planning for Artist-Grounded Text to Image Generation**|Kuan Xing et.al.|[2608.06751](https://arxiv.org/abs/2608.06751)|null|
+|**2026-08-06**|**Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services**|Li Gan et.al.|[2608.06584](https://arxiv.org/abs/2608.06584)|null|
 |**2026-08-06**|**PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation**|Elad Yoshai et.al.|[2608.06240](https://arxiv.org/abs/2608.06240)|null|
 |**2026-08-06**|**A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization**|GuangXian Gan et.al.|[2608.06096](https://arxiv.org/abs/2608.06096)|null|
 |**2026-08-06**|**Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning**|Zezhong Jin et.al.|[2608.05549](https://arxiv.org/abs/2608.05549)|null|
