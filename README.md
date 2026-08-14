@@ -1,4 +1,4 @@
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](https://arxiv.org/abs/2608.13159)|null|
+|**2026-08-13**|**Scan-Coil Delay Causes Anisotropic Signal Loss in Fast 4D-STEM**|Vishal Kumar et.al.|[2608.13106](https://arxiv.org/abs/2608.13106)|null|
+|**2026-08-13**|**Optimizing Multi-Stakeholder Fairness in Computed Tomography Appointment Scheduling with Predicted Scan and Reporting Duration**|Ludovico Ambrosi et.al.|[2608.13059](https://arxiv.org/abs/2608.13059)|null|
+|**2026-08-13**|**HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation**|Yunhao Bai et.al.|[2608.12904](https://arxiv.org/abs/2608.12904)|null|
+|**2026-08-13**|**Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals**|Jinhao Jing et.al.|[2608.12892](https://arxiv.org/abs/2608.12892)|null|
 |**2026-08-12**|**CT- $Δ$ Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Kegeng Tang et.al.|[2608.11534](https://arxiv.org/abs/2608.11534)|null|
 |**2026-08-11**|**SinoDiff: Physics-Consistent Self-Supervised Diffusion for Unified Low-Dose to Standard-Dose PET Sinogram Recovery**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2608.11514](https://arxiv.org/abs/2608.11514)|null|
 |**2026-08-11**|**ENCORE: Efficient Noise Context-Aware Representation for Low-Dose CT Denoising**|Minwoo Yu et.al.|[2608.10343](https://arxiv.org/abs/2608.10343)|null|
@@ -737,12 +742,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Learning the Mathematical Property for Designing Low Mutual Coherence Binary Sensing Matrices**| Rekha et.al.|[2608.12982](https://arxiv.org/abs/2608.12982)|null|
 |**2026-08-12**|**Model-Consistent Structured-Hankel Matrix Completion for 3D Sparse Multi-frequency Electromagnetic Source Reconstruction**|Shujaat Khan et.al.|[2608.12044](https://arxiv.org/abs/2608.12044)|null|
 |**2026-08-11**|**Physics-Constrained Compressed Sensing for Quantum Sensing in the Data-Starved Regime**|Amir Kalev et.al.|[2608.11092](https://arxiv.org/abs/2608.11092)|null|
 |**2026-08-10**|**Active Electronic Terahertz Imaging for Industrial Applications: From Hardware to the Paradigm Shift by Artificial Intelligence**|Aparajita Bandyopadhyay et.al.|[2608.10200](https://arxiv.org/abs/2608.10200)|null|
@@ -1140,16 +1146,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Intern-S2-Preview: Scientific Agentic Foundation Model**|Lei Bai et.al.|[2608.13505](https://arxiv.org/abs/2608.13505)|null|
+|**2026-08-13**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](https://arxiv.org/abs/2608.13368)|null|
+|**2026-08-13**|**Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data**|Francesca Pia Panaccione et.al.|[2608.13256](https://arxiv.org/abs/2608.13256)|null|
+|**2026-08-13**|**Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents**|Zechuan Wang et.al.|[2608.13179](https://arxiv.org/abs/2608.13179)|null|
 |**2026-08-12**|**CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation**|Xue Yang et.al.|[2608.11884](https://arxiv.org/abs/2608.11884)|null|
 |**2026-08-11**|**X2-Turn: Frame-Synchronous Dual-Head Modeling for Joint Streaming ASR and Turn State Prediction**|Kaiqi Fu et.al.|[2608.10878](https://arxiv.org/abs/2608.10878)|null|
 |**2026-08-11**|** $π$ -SUB: A Physics-Informed Synthetic Underwater Benchmark Dataset for Underwater Image Enhancement**|Namritha Lasyapriya Maddali et.al.|[2608.10589](https://arxiv.org/abs/2608.10589)|null|
-|**2026-08-11**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ziming Li et.al.|[2608.10383](https://arxiv.org/abs/2608.10383)|null|
+|**2026-08-13**|**Real-World Cooperative Bimanual Dexterous Grasp of Large Objects from Single-View Observations**|Ziming Li et.al.|[2608.10383](https://arxiv.org/abs/2608.10383)|null|
 |**2026-08-10**|**Deciding When to Switch: E-Processes for Adaptive Minimax Training for Generative Adversarial Nets**|Hyunjoo Kim et.al.|[2608.10096](https://arxiv.org/abs/2608.10096)|null|
 |**2026-08-10**|**Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation**|Gijung Lee et.al.|[2608.09914](https://arxiv.org/abs/2608.09914)|null|
 |**2026-08-11**|**Security Tests as Executable Specifications for LLM Code Generation: Benefits, Trade-offs, and Coverage Limits**|Yunhao Liang et.al.|[2608.09740](https://arxiv.org/abs/2608.09740)|null|
@@ -2821,7 +2831,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2869,5 +2879,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
