@@ -15,11 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](https://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](https://arxiv.org/abs/2608.13159)|null|
 |**2026-08-13**|**Scan-Coil Delay Causes Anisotropic Signal Loss in Fast 4D-STEM**|Vishal Kumar et.al.|[2608.13106](https://arxiv.org/abs/2608.13106)|null|
 |**2026-08-13**|**Optimizing Multi-Stakeholder Fairness in Computed Tomography Appointment Scheduling with Predicted Scan and Reporting Duration**|Ludovico Ambrosi et.al.|[2608.13059](https://arxiv.org/abs/2608.13059)|null|
 |**2026-08-13**|**HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation**|Yunhao Bai et.al.|[2608.12904](https://arxiv.org/abs/2608.12904)|null|
-|**2026-08-13**|**Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals**|Jinhao Jing et.al.|[2608.12892](https://arxiv.org/abs/2608.12892)|null|
+|**2026-08-14**|**Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals**|Jinhao Jing et.al.|[2608.12892](https://arxiv.org/abs/2608.12892)|null|
 |**2026-08-12**|**CT- $Δ$ Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Kegeng Tang et.al.|[2608.11534](https://arxiv.org/abs/2608.11534)|null|
 |**2026-08-11**|**SinoDiff: Physics-Consistent Self-Supervised Diffusion for Unified Low-Dose to Standard-Dose PET Sinogram Recovery**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2608.11514](https://arxiv.org/abs/2608.11514)|null|
 |**2026-08-11**|**ENCORE: Efficient Noise Context-Aware Representation for Low-Dose CT Denoising**|Minwoo Yu et.al.|[2608.10343](https://arxiv.org/abs/2608.10343)|null|
@@ -1152,6 +1153,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows**|Sheng Hong et.al.|[2608.14126](https://arxiv.org/abs/2608.14126)|null|
+|**2026-08-14**|**FIRM: Fine-Grained Intra-Token Representation of Masks for Remote Sensing Reasoning Segmentation**|Weidong Tang et.al.|[2608.13980](https://arxiv.org/abs/2608.13980)|null|
+|**2026-08-14**|**XSA-MAD: Cross-modal Semantic Alignment for Morphing Attack Detection**|Jie Jin et.al.|[2608.13861](https://arxiv.org/abs/2608.13861)|null|
+|**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](https://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Intern-S2-Preview: Scientific Agentic Foundation Model**|Lei Bai et.al.|[2608.13505](https://arxiv.org/abs/2608.13505)|null|
 |**2026-08-13**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](https://arxiv.org/abs/2608.13368)|null|
 |**2026-08-13**|**Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data**|Francesca Pia Panaccione et.al.|[2608.13256](https://arxiv.org/abs/2608.13256)|null|
