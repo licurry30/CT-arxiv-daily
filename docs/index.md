@@ -2,17 +2,28 @@
 layout: default
 ---
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT**|Anna Mrukwa et.al.|[2608.16855](https://arxiv.org/abs/2608.16855)|null|
+|**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](https://arxiv.org/abs/2608.16832)|null|
+|**2026-08-17**|**GeoPose: Patient-agnostic CTA-to-DSA registration through projection-space calibration**|Rudolf L. M. van Herten et.al.|[2608.16600](https://arxiv.org/abs/2608.16600)|null|
+|**2026-08-17**|**Shared-Structure 4D Spectral Gaussian Representation for Sparse-View Spectral CT Reconstruction**|Jiancheng Fang et.al.|[2608.16463](https://arxiv.org/abs/2608.16463)|null|
+|**2026-08-17**|**Torus computed tomography for experimental data**|Ella Salo et.al.|[2608.16453](https://arxiv.org/abs/2608.16453)|null|
+|**2026-08-17**|**TR-GS: High-Fidelity Sparse-View CT Volumetric Rendering via t-Distribution Gaussian Splatting and Ray-Confidence Modeling**|Zedong Xiao et.al.|[2608.16042](https://arxiv.org/abs/2608.16042)|null|
+|**2026-08-16**|**Deep learning-based computed tomography (CT) derived body composition classifier for colorectal cancer patients**|Eve Harling et.al.|[2608.15712](https://arxiv.org/abs/2608.15712)|null|
+|**2026-08-15**|**Feed-Forward Hierarchical Gaussian Diffusion for Extreme CT Reconstruction**|Yuezhe Yang et.al.|[2608.15343](https://arxiv.org/abs/2608.15343)|null|
+|**2026-08-15**|**CG-GLORE: A Conjugate Gradient-Based Global-Local Regularization Network for Sparse-View CT Reconstruction**|Tran Xuan Hieu Le et.al.|[2608.15246](https://arxiv.org/abs/2608.15246)|null|
+|**2026-08-15**|**DINO4DSTEM: A self-supervised framework for structural discovery in 4D-STEM**|Daniel Khaykelson et.al.|[2608.15098](https://arxiv.org/abs/2608.15098)|null|
+|**2026-08-15**|**FZ-VLM: A Two Stage Florence-Zephyr Vision Language Model Framework for Pulmonary Nodule Characterization and Clinical Decision Making**|Pramit Dutta et.al.|[2608.15004](https://arxiv.org/abs/2608.15004)|null|
 |**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](https://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](https://arxiv.org/abs/2608.13159)|null|
 |**2026-08-13**|**Scan-Coil Delay Causes Anisotropic Signal Loss in Fast 4D-STEM**|Vishal Kumar et.al.|[2608.13106](https://arxiv.org/abs/2608.13106)|null|
-|**2026-08-13**|**Optimizing Multi-Stakeholder Fairness in Computed Tomography Appointment Scheduling with Predicted Scan and Reporting Duration**|Ludovico Ambrosi et.al.|[2608.13059](https://arxiv.org/abs/2608.13059)|null|
+|**2026-08-16**|**A Predictive-Prescriptive Analytics Framework for Fair Computed Tomography Scheduling and Radiologist Workload Allocation**|Ludovico Ambrosi et.al.|[2608.13059](https://arxiv.org/abs/2608.13059)|null|
 |**2026-08-13**|**HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation**|Yunhao Bai et.al.|[2608.12904](https://arxiv.org/abs/2608.12904)|null|
 |**2026-08-14**|**Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals**|Jinhao Jing et.al.|[2608.12892](https://arxiv.org/abs/2608.12892)|null|
 |**2026-08-12**|**CT- $Δ$ Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Kegeng Tang et.al.|[2608.11534](https://arxiv.org/abs/2608.11534)|null|
@@ -741,6 +752,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Shared-Structure 4D Spectral Gaussian Representation for Sparse-View Spectral CT Reconstruction**|Jiancheng Fang et.al.|[2608.16463](https://arxiv.org/abs/2608.16463)|null|
+|**2026-08-17**|**TR-GS: High-Fidelity Sparse-View CT Volumetric Rendering via t-Distribution Gaussian Splatting and Ray-Confidence Modeling**|Zedong Xiao et.al.|[2608.16042](https://arxiv.org/abs/2608.16042)|null|
+|**2026-08-15**|**Feed-Forward Hierarchical Gaussian Diffusion for Extreme CT Reconstruction**|Yuezhe Yang et.al.|[2608.15343](https://arxiv.org/abs/2608.15343)|null|
+|**2026-08-15**|**CG-GLORE: A Conjugate Gradient-Based Global-Local Regularization Network for Sparse-View CT Reconstruction**|Tran Xuan Hieu Le et.al.|[2608.15246](https://arxiv.org/abs/2608.15246)|null|
+|**2026-08-11**|**PE-CSNet: An equivariant network architecture with learnable patch-based sparse representation**|Kai Li et.al.|[2608.14708](https://arxiv.org/abs/2608.14708)|null|
 |**2026-08-13**|**Learning the Mathematical Property for Designing Low Mutual Coherence Binary Sensing Matrices**| Rekha et.al.|[2608.12982](https://arxiv.org/abs/2608.12982)|null|
 |**2026-08-12**|**Model-Consistent Structured-Hankel Matrix Completion for 3D Sparse Multi-frequency Electromagnetic Source Reconstruction**|Shujaat Khan et.al.|[2608.12044](https://arxiv.org/abs/2608.12044)|null|
 |**2026-08-11**|**Physics-Constrained Compressed Sensing for Quantum Sensing in the Data-Starved Regime**|Amir Kalev et.al.|[2608.11092](https://arxiv.org/abs/2608.11092)|null|
@@ -1143,12 +1159,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Synthetic Data Augmentation for Satellite-Based Analysis of Battle-Damaged Agricultural Fields in Ukraine**|Marta Sumyk et.al.|[2608.16380](https://arxiv.org/abs/2608.16380)|null|
+|**2026-08-16**|**Feasible and Novel Synthetic Population Generation with Tabular and Sequential Travel Attributes**|Farbod Abbasi et.al.|[2608.15867](https://arxiv.org/abs/2608.15867)|null|
+|**2026-08-15**|**Dual-Branch State-Displacement Network for Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2608.15423](https://arxiv.org/abs/2608.15423)|null|
+|**2026-08-15**|**Physics-informed VAE-EVT for Tail Aware Radio Map Prediction**|Amanda Sheron Gamage et.al.|[2608.15314](https://arxiv.org/abs/2608.15314)|null|
+|**2026-08-15**|**Generation of Synthetic Fingerphotos with GANs**|Conor Miller-Lynch et.al.|[2608.15029](https://arxiv.org/abs/2608.15029)|null|
+|**2026-08-14**|**MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling**|Manwen Liao et.al.|[2608.14783](https://arxiv.org/abs/2608.14783)|null|
 |**2026-08-14**|**BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows**|Sheng Hong et.al.|[2608.14126](https://arxiv.org/abs/2608.14126)|null|
 |**2026-08-14**|**FIRM: Fine-Grained Intra-Token Representation of Masks for Remote Sensing Reasoning Segmentation**|Weidong Tang et.al.|[2608.13980](https://arxiv.org/abs/2608.13980)|null|
 |**2026-08-14**|**XSA-MAD: Cross-modal Semantic Alignment for Morphing Attack Detection**|Jie Jin et.al.|[2608.13861](https://arxiv.org/abs/2608.13861)|null|
 |**2026-08-13**|**VLM- and LLM-Driven Multi-Agent System for PET Image Denoising**|Boxiao Yu et.al.|[2608.13791](https://arxiv.org/abs/2608.13791)|null|
 |**2026-08-13**|**Intern-S2-Preview: Scientific Agentic Foundation Model**|Lei Bai et.al.|[2608.13505](https://arxiv.org/abs/2608.13505)|null|
-|**2026-08-13**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](https://arxiv.org/abs/2608.13368)|null|
+|**2026-08-17**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](https://arxiv.org/abs/2608.13368)|null|
 |**2026-08-13**|**Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data**|Francesca Pia Panaccione et.al.|[2608.13256](https://arxiv.org/abs/2608.13256)|null|
 |**2026-08-13**|**Teach the Magnitude, Not the Direction: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents**|Zechuan Wang et.al.|[2608.13179](https://arxiv.org/abs/2608.13179)|null|
 |**2026-08-12**|**CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation**|Xue Yang et.al.|[2608.11884](https://arxiv.org/abs/2608.11884)|null|
