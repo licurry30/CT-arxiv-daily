@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Picard Proximal Monte Carlo for Parallel Bayesian Imaging with Score-Based Generative Priors**|Deliang Wei et.al.|[2608.17666](https://arxiv.org/abs/2608.17666)|null|
+|**2026-08-17**|**TomoSphero: Fast Differentiable Projector for Planetary and Solar Tomography on Spherical Grids**|Evan Widloski et.al.|[2608.16960](https://arxiv.org/abs/2608.16960)|null|
 |**2026-08-17**|**Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT**|Anna Mrukwa et.al.|[2608.16855](https://arxiv.org/abs/2608.16855)|null|
 |**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](https://arxiv.org/abs/2608.16832)|null|
 |**2026-08-17**|**GeoPose: Patient-agnostic CTA-to-DSA registration through projection-space calibration**|Rudolf L. M. van Herten et.al.|[2608.16600](https://arxiv.org/abs/2608.16600)|null|
@@ -752,6 +754,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Channel Knowledge Map Enabled Low-Complexity Dynamic Radio Environment Reconstruction**|Yujun Lin et.al.|[2608.17322](https://arxiv.org/abs/2608.17322)|null|
+|**2026-08-18**|**Learning Where and What to Lift for Bi-planar X-ray-to-CT Reconstruction**|Yifei Wu et.al.|[2608.17255](https://arxiv.org/abs/2608.17255)|null|
 |**2026-08-17**|**Shared-Structure 4D Spectral Gaussian Representation for Sparse-View Spectral CT Reconstruction**|Jiancheng Fang et.al.|[2608.16463](https://arxiv.org/abs/2608.16463)|null|
 |**2026-08-17**|**TR-GS: High-Fidelity Sparse-View CT Volumetric Rendering via t-Distribution Gaussian Splatting and Ray-Confidence Modeling**|Zedong Xiao et.al.|[2608.16042](https://arxiv.org/abs/2608.16042)|null|
 |**2026-08-15**|**Feed-Forward Hierarchical Gaussian Diffusion for Extreme CT Reconstruction**|Yuezhe Yang et.al.|[2608.15343](https://arxiv.org/abs/2608.15343)|null|
@@ -1159,6 +1163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Dual Co-Train: Cross-Dataset Ultrasound Tongue Segmentation Under Extreme Data Scarcity**|Alisher Myrgyyassov et.al.|[2608.17983](https://arxiv.org/abs/2608.17983)|null|
+|**2026-08-18**|**Cognitive Graph Intelligence for Adaptive and Robust DDoS Attack Detection in Next Generation Networks**|Mohammad Arif Hossain et.al.|[2608.17352](https://arxiv.org/abs/2608.17352)|null|
 |**2026-08-17**|**Synthetic Data Augmentation for Satellite-Based Analysis of Battle-Damaged Agricultural Fields in Ukraine**|Marta Sumyk et.al.|[2608.16380](https://arxiv.org/abs/2608.16380)|null|
 |**2026-08-16**|**Feasible and Novel Synthetic Population Generation with Tabular and Sequential Travel Attributes**|Farbod Abbasi et.al.|[2608.15867](https://arxiv.org/abs/2608.15867)|null|
 |**2026-08-15**|**Dual-Branch State-Displacement Network for Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2608.15423](https://arxiv.org/abs/2608.15423)|null|
