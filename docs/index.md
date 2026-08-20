@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -1163,6 +1163,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks**|John Mangum et.al.|[2608.19117](https://arxiv.org/abs/2608.19117)|null|
+|**2026-08-19**|**EfficientSync: Real-Time Lip Synchronization via Deformation-Based Reference Texture Mixing**|Fa-Ting Hong et.al.|[2608.18832](https://arxiv.org/abs/2608.18832)|null|
+|**2026-08-19**|**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**|Rime Wen et.al.|[2608.18661](https://arxiv.org/abs/2608.18661)|null|
+|**2026-08-18**|**Model Card for OpenAI Privacy Filter**|Charles de Bourcy et.al.|[2608.18274](https://arxiv.org/abs/2608.18274)|null|
 |**2026-08-18**|**Dual Co-Train: Cross-Dataset Ultrasound Tongue Segmentation Under Extreme Data Scarcity**|Alisher Myrgyyassov et.al.|[2608.17983](https://arxiv.org/abs/2608.17983)|null|
 |**2026-08-18**|**Cognitive Graph Intelligence for Adaptive and Robust DDoS Attack Detection in Next Generation Networks**|Mohammad Arif Hossain et.al.|[2608.17352](https://arxiv.org/abs/2608.17352)|null|
 |**2026-08-17**|**Synthetic Data Augmentation for Satellite-Based Analysis of Battle-Damaged Agricultural Fields in Ukraine**|Marta Sumyk et.al.|[2608.16380](https://arxiv.org/abs/2608.16380)|null|
