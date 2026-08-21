@@ -1,4 +1,4 @@
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**A Strong Linear Baseline for Whole-Heart Cardiac Shape Completion on CT, with an Open Eleven-Structure Statistical Shape Model**|Matej Gazda et.al.|[2608.19932](https://arxiv.org/abs/2608.19932)|null|
+|**2026-08-20**|**Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography**|Yifei Sun et.al.|[2608.19828](https://arxiv.org/abs/2608.19828)|null|
+|**2026-08-19**|**Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection**|Hamed Javidi et.al.|[2608.19304](https://arxiv.org/abs/2608.19304)|null|
 |**2026-08-18**|**Picard Proximal Monte Carlo for Parallel Bayesian Imaging with Score-Based Generative Priors**|Deliang Wei et.al.|[2608.17666](https://arxiv.org/abs/2608.17666)|null|
 |**2026-08-17**|**TomoSphero: Fast Differentiable Projector for Planetary and Solar Tomography on Spherical Grids**|Evan Widloski et.al.|[2608.16960](https://arxiv.org/abs/2608.16960)|null|
 |**2026-08-17**|**Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT**|Anna Mrukwa et.al.|[2608.16855](https://arxiv.org/abs/2608.16855)|null|
@@ -756,12 +759,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**MOSAIC: A Self-supervised Dynamic Multi-encoding Reconstruction Framework for 3D Late Gadolinium Enhancement MRI**|Muhammad A. Sultan et.al.|[2608.19506](https://arxiv.org/abs/2608.19506)|null|
 |**2026-08-18**|**Channel Knowledge Map Enabled Low-Complexity Dynamic Radio Environment Reconstruction**|Yujun Lin et.al.|[2608.17322](https://arxiv.org/abs/2608.17322)|null|
 |**2026-08-18**|**Learning Where and What to Lift for Bi-planar X-ray-to-CT Reconstruction**|Yifei Wu et.al.|[2608.17255](https://arxiv.org/abs/2608.17255)|null|
 |**2026-08-17**|**Shared-Structure 4D Spectral Gaussian Representation for Sparse-View Spectral CT Reconstruction**|Jiancheng Fang et.al.|[2608.16463](https://arxiv.org/abs/2608.16463)|null|
@@ -1167,12 +1171,18 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**ALOHA IRDCs Molecular Line Follow-up: I. Gas properties and kinematics**|Jinjin Xie et.al.|[2608.20238](https://arxiv.org/abs/2608.20238)|null|
+|**2026-08-20**|**Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal**|Radim Spetlik et.al.|[2608.20212](https://arxiv.org/abs/2608.20212)|null|
+|**2026-08-20**|**Building atomistic models of heterointerfaces with optimal transport**|Yuxuan Tang et.al.|[2608.19933](https://arxiv.org/abs/2608.19933)|null|
+|**2026-08-20**|**TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs**|Michal A. Sterzel et.al.|[2608.19789](https://arxiv.org/abs/2608.19789)|null|
+|**2026-08-20**|**TextRefine: Improving Textual Fidelity, Spatial Placement, and Glyph Rendering for Text Editing in Product Posters**|Honglie Wang et.al.|[2608.19637](https://arxiv.org/abs/2608.19637)|null|
+|**2026-08-20**|**Auditing and Decomposing Feedback-Driven Evolution in LLM Test Generation under the Oracle Problem**|Yunhao Liang et.al.|[2608.19626](https://arxiv.org/abs/2608.19626)|null|
 |**2026-08-19**|**Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks**|John Mangum et.al.|[2608.19117](https://arxiv.org/abs/2608.19117)|null|
 |**2026-08-19**|**EfficientSync: Real-Time Lip Synchronization via Deformation-Based Reference Texture Mixing**|Fa-Ting Hong et.al.|[2608.18832](https://arxiv.org/abs/2608.18832)|null|
 |**2026-08-19**|**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**|Rime Wen et.al.|[2608.18661](https://arxiv.org/abs/2608.18661)|null|
@@ -2868,7 +2878,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2916,5 +2926,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
