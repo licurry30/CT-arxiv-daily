@@ -1177,6 +1177,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Denoising the Future: Context-Aware Spectral Diffusion for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[2608.20804](https://arxiv.org/abs/2608.20804)|null|
+|**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[2608.20580](https://arxiv.org/abs/2608.20580)|null|
+|**2026-08-20**|**Electrostatic Influence of Diamond Heat-Spreaders on GaN FET Performance**|Lincoln Hogan et.al.|[2608.20506](https://arxiv.org/abs/2608.20506)|null|
+|**2026-08-20**|**Carrier Capture at Defects from Finite-Temperature Lattice Dynamics**|Menglin Huang et.al.|[2608.20491](https://arxiv.org/abs/2608.20491)|null|
 |**2026-08-20**|**ALOHA IRDCs Molecular Line Follow-up: I. Gas properties and kinematics**|Jinjin Xie et.al.|[2608.20238](https://arxiv.org/abs/2608.20238)|null|
 |**2026-08-20**|**Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal**|Radim Spetlik et.al.|[2608.20212](https://arxiv.org/abs/2608.20212)|null|
 |**2026-08-20**|**Building atomistic models of heterointerfaces with optimal transport**|Yuxuan Tang et.al.|[2608.19933](https://arxiv.org/abs/2608.19933)|null|
