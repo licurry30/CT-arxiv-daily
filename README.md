@@ -1,4 +1,4 @@
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -25,7 +25,7 @@
 |**2026-08-20**|**Simulation-to-Real First-Break Segmentation for Efficient Inversion in Musculoskeletal Ultrasound Tomography**|Yifei Sun et.al.|[2608.19828](https://arxiv.org/abs/2608.19828)|null|
 |**2026-08-19**|**Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection**|Hamed Javidi et.al.|[2608.19304](https://arxiv.org/abs/2608.19304)|null|
 |**2026-08-18**|**Picard Proximal Monte Carlo for Parallel Bayesian Imaging with Score-Based Generative Priors**|Deliang Wei et.al.|[2608.17666](https://arxiv.org/abs/2608.17666)|null|
-|**2026-08-17**|**TomoSphero: Fast Differentiable Projector for Planetary and Solar Tomography on Spherical Grids**|Evan Widloski et.al.|[2608.16960](https://arxiv.org/abs/2608.16960)|null|
+|**2026-08-25**|**TomoSphero: Fast Differentiable Projector for Planetary and Solar Tomography on Spherical Grids**|Evan Widloski et.al.|[2608.16960](https://arxiv.org/abs/2608.16960)|null|
 |**2026-08-17**|**Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT**|Anna Mrukwa et.al.|[2608.16855](https://arxiv.org/abs/2608.16855)|null|
 |**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](https://arxiv.org/abs/2608.16832)|null|
 |**2026-08-17**|**GeoPose: Patient-agnostic CTA-to-DSA registration through projection-space calibration**|Rudolf L. M. van Herten et.al.|[2608.16600](https://arxiv.org/abs/2608.16600)|null|
@@ -765,12 +765,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Compressive Sensing - Introduction and Relations to Deep Learning**|Hung-Hsu Chou et.al.|[2608.24211](https://arxiv.org/abs/2608.24211)|null|
 |**2026-08-24**|**Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model**|Haley Duba-Sullivan et.al.|[2608.23190](https://arxiv.org/abs/2608.23190)|null|
 |**2026-08-24**|**Compressed sensing matrices from orthogonal spaces over finite fields of odd characteristic**|Kanittakorn Moonchaisook et.al.|[2608.23062](https://arxiv.org/abs/2608.23062)|null|
 |**2026-08-22**|**A scattering correction method for CT reconstruction based on the Wavelet Adaptive Material-dependent Boltzmann Transport Equation (WAM-BTE)**|Huiying Pan et.al.|[2608.21861](https://arxiv.org/abs/2608.21861)|null|
@@ -1181,12 +1182,17 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Deep Learning Super Resolution for Satellite Cloud Mask Downscaling**|Angelos Georgakis et.al.|[2608.24715](https://arxiv.org/abs/2608.24715)|null|
+|**2026-08-25**|**Towards Reliable AI-Based Histological Staining: A Systematic Study of Scaling and Uncertainty in Unpaired Generative Models**|Qasim Siddiqui et.al.|[2608.24626](https://arxiv.org/abs/2608.24626)|null|
+|**2026-08-24**|**Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks**|Daniel Manu et.al.|[2608.24610](https://arxiv.org/abs/2608.24610)|null|
+|**2026-08-25**|**Anatomy of a Scam Call: What 10,000 real scam and spam calls reveal about how phone scammers operate**|Ethan Traister et.al.|[2608.24127](https://arxiv.org/abs/2608.24127)|null|
+|**2026-08-25**|**Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments**|Guo Gan et.al.|[2608.24099](https://arxiv.org/abs/2608.24099)|null|
 |**2026-08-24**|**Neighbor-Aware View Synthesis for Restoring Missing Views in Light-Field Camera Arrays**|Sakshi Goel et.al.|[2608.23175](https://arxiv.org/abs/2608.23175)|null|
 |**2026-08-24**|**Unsupervised Speech Recognition at the Syllable Level**|Liming Wang et.al.|[2608.22907](https://arxiv.org/abs/2608.22907)|null|
 |**2026-08-24**|**Adaptive Hierarchical Representation Alliance for Multimodal Learning**|Chunlei Meng et.al.|[2608.22863](https://arxiv.org/abs/2608.22863)|null|
@@ -1199,7 +1205,7 @@
 |**2026-08-22**|**Weighted Laplacian Flow: A Deterministic Particle Flow with Provable Convergence**|Weiye Gan et.al.|[2608.21831](https://arxiv.org/abs/2608.21831)|null|
 |**2026-08-22**|**Physics-Knowledge-Guided Hybrid Neural Learning for Arctic Sea Ice Concentration Evolution and Short-Range Prediction**|Maqun Zhang et.al.|[2608.21767](https://arxiv.org/abs/2608.21767)|null|
 |**2026-08-21**|**Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs**|Nijesh Upreti et.al.|[2608.21605](https://arxiv.org/abs/2608.21605)|null|
-|**2026-08-21**|**Denoising the Future: Context-Aware Spectral Diffusion for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[2608.20804](https://arxiv.org/abs/2608.20804)|null|
+|**2026-08-25**|**Denoising the Future: Context-Aware Spectral Diffusion for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[2608.20804](https://arxiv.org/abs/2608.20804)|null|
 |**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[2608.20580](https://arxiv.org/abs/2608.20580)|null|
 |**2026-08-20**|**Electrostatic Influence of Diamond Heat-Spreaders on GaN FET Performance**|Lincoln Hogan et.al.|[2608.20506](https://arxiv.org/abs/2608.20506)|null|
 |**2026-08-20**|**Carrier Capture at Defects from Finite-Temperature Lattice Dynamics**|Menglin Huang et.al.|[2608.20491](https://arxiv.org/abs/2608.20491)|null|
@@ -2904,7 +2910,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -2952,5 +2958,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
