@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](https://arxiv.org/abs/2608.25948)|null|
+|**2026-08-26**|**PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting**|Jiarui Ge et.al.|[2608.25472](https://arxiv.org/abs/2608.25472)|null|
+|**2026-08-26**|**Nanophotonic control of spatial information in scintillation detectors**|Joshua Chen et.al.|[2608.25294](https://arxiv.org/abs/2608.25294)|null|
 |**2026-08-24**|**Roles of vortices and turbulent eddies in particle preferential concentration and deposition in the human respiratory tract**|Mengtao Li et.al.|[2608.23278](https://arxiv.org/abs/2608.23278)|null|
 |**2026-08-24**|**Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model**|Haley Duba-Sullivan et.al.|[2608.23190](https://arxiv.org/abs/2608.23190)|null|
 |**2026-08-23**|**A Query-Time Framework for Transient 2D Pore-Scale Flow Prediction and Generative Design**|Yiming Wang et.al.|[2608.22235](https://arxiv.org/abs/2608.22235)|null|
@@ -1178,6 +1181,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Depth Control of Room-Temperature Quantum Emitters in Gallium Nitride**|Alexandros Bampis et.al.|[2608.26057](https://arxiv.org/abs/2608.26057)|null|
+|**2026-08-26**|**Electron spin resonance driven photogalvanic effect in graphene-based structures**|C. Bray et.al.|[2608.26026](https://arxiv.org/abs/2608.26026)|null|
+|**2026-08-26**|**An explicit refined Gan--Gross--Prasad identity for Fourier--Jacobi periods of degree 2 Siegel cusp forms**|Biplab Paul et.al.|[2608.26007](https://arxiv.org/abs/2608.26007)|null|
+|**2026-08-26**|**Watching a GaN Transistor Switch: Real-Time Nanoscale Strain and Heat Dynamics**|C. Corley-Wiciak et.al.|[2608.25980](https://arxiv.org/abs/2608.25980)|null|
+|**2026-08-26**|**Large Cliques and Clique Spectral Radius in the Erdős--Sós Problem**|XiaoJun Zhao et.al.|[2608.25746](https://arxiv.org/abs/2608.25746)|null|
+|**2026-08-26**|**CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation**|Zhiyuan Zhu et.al.|[2608.25404](https://arxiv.org/abs/2608.25404)|null|
 |**2026-08-25**|**Deep Learning Super Resolution for Satellite Cloud Mask Downscaling**|Angelos Georgakis et.al.|[2608.24715](https://arxiv.org/abs/2608.24715)|null|
 |**2026-08-25**|**Towards Reliable AI-Based Histological Staining: A Systematic Study of Scaling and Uncertainty in Unpaired Generative Models**|Qasim Siddiqui et.al.|[2608.24626](https://arxiv.org/abs/2608.24626)|null|
 |**2026-08-24**|**Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks**|Daniel Manu et.al.|[2608.24610](https://arxiv.org/abs/2608.24610)|null|
