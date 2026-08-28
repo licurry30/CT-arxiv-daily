@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**High-resolution in situ analysis of biomass pyrolysis by combining quantitative synchrotron  $μ$ CT and 3D particle-resolved simulations**|Emeric Boigné et.al.|[2608.27042](https://arxiv.org/abs/2608.27042)|null|
+|**2026-08-27**|**Differentiable Jitter Correction using Deep Learning-based Image Quality Metric for Phase-Contrast Micro-CT**|Junan Chen et.al.|[2608.27034](https://arxiv.org/abs/2608.27034)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](https://arxiv.org/abs/2608.25948)|null|
 |**2026-08-26**|**PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting**|Jiarui Ge et.al.|[2608.25472](https://arxiv.org/abs/2608.25472)|null|
 |**2026-08-26**|**Nanophotonic control of spatial information in scintillation detectors**|Joshua Chen et.al.|[2608.25294](https://arxiv.org/abs/2608.25294)|null|
@@ -1181,6 +1183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**On the approximation of posterior laws in compound loss models by conditional Wasserstein GANs**|Aleksandar Arandjelovic et.al.|[2608.27229](https://arxiv.org/abs/2608.27229)|null|
+|**2026-08-27**|**Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks**|Qifei Wang et.al.|[2608.27198](https://arxiv.org/abs/2608.27198)|null|
+|**2026-08-27**|**Giant bulk photovoltaic effect driven by interfacial symmetry breaking in MoS2/Ta2NiSe5 heterostructures**|Jianwen Ma et.al.|[2608.27064](https://arxiv.org/abs/2608.27064)|null|
+|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](https://arxiv.org/abs/2608.26971)|null|
+|**2026-08-27**|**AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator**|Yiming Zhao et.al.|[2608.26704](https://arxiv.org/abs/2608.26704)|null|
+|**2026-08-27**|**Accelerating Scientific Research with Gemini in the Real-World**|Samuel Schmidgall et.al.|[2608.26701](https://arxiv.org/abs/2608.26701)|null|
+|**2026-08-27**|**Hierarchical Channel Stacking: A Structured Decision Framework for AI-Generated Image Detection**|Saifullah Shoaib et.al.|[2608.26648](https://arxiv.org/abs/2608.26648)|null|
+|**2026-08-27**|**Closing the Loop on the Poppy Humanoid: Bipedal Locomotion with Linear-Quadratic Control and Learned Cost Functions**|Xulin Chen et.al.|[2608.26505](https://arxiv.org/abs/2608.26505)|null|
+|**2026-08-26**|**GAN-based Joint Dereverberation and Directional Filtering**|Weilong Huang et.al.|[2608.26403](https://arxiv.org/abs/2608.26403)|null|
+|**2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Maeve Zhang et.al.|[2608.26239](https://arxiv.org/abs/2608.26239)|null|
 |**2026-08-26**|**Depth Control of Room-Temperature Quantum Emitters in Gallium Nitride**|Alexandros Bampis et.al.|[2608.26057](https://arxiv.org/abs/2608.26057)|null|
 |**2026-08-26**|**Electron spin resonance driven photogalvanic effect in graphene-based structures**|C. Bray et.al.|[2608.26026](https://arxiv.org/abs/2608.26026)|null|
 |**2026-08-26**|**An explicit refined Gan--Gross--Prasad identity for Fourier--Jacobi periods of degree 2 Siegel cusp forms**|Biplab Paul et.al.|[2608.26007](https://arxiv.org/abs/2608.26007)|null|
