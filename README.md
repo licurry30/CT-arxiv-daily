@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry**|Thomas Zillhardt et.al.|[2608.28275](https://arxiv.org/abs/2608.28275)|null|
+|**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
+|**2026-08-27**|**CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT**|Roy Gabriel et.al.|[2608.27690](https://arxiv.org/abs/2608.27690)|null|
 |**2026-08-27**|**High-resolution in situ analysis of biomass pyrolysis by combining quantitative synchrotron  $μ$ CT and 3D particle-resolved simulations**|Emeric Boigné et.al.|[2608.27042](https://arxiv.org/abs/2608.27042)|null|
 |**2026-08-27**|**Differentiable Jitter Correction using Deep Learning-based Image Quality Metric for Phase-Contrast Micro-CT**|Junan Chen et.al.|[2608.27034](https://arxiv.org/abs/2608.27034)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](https://arxiv.org/abs/2608.25948)|null|
@@ -776,6 +779,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
+|**2026-08-27**|**Towards a mathematical theory of superposition**|Michael I. Ivanitskiy et.al.|[2608.27540](https://arxiv.org/abs/2608.27540)|null|
 |**2026-08-25**|**Compressive Sensing - Introduction and Relations to Deep Learning**|Hung-Hsu Chou et.al.|[2608.24211](https://arxiv.org/abs/2608.24211)|null|
 |**2026-08-24**|**Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model**|Haley Duba-Sullivan et.al.|[2608.23190](https://arxiv.org/abs/2608.23190)|null|
 |**2026-08-24**|**Compressed sensing matrices from orthogonal spaces over finite fields of odd characteristic**|Kanittakorn Moonchaisook et.al.|[2608.23062](https://arxiv.org/abs/2608.23062)|null|
@@ -1193,11 +1198,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Automated Dislocation Detection in Electron Channelling Contrast Imaging: A Comparative Study of Rule-Based, Neural Network, and Deep Learning Approaches**|A. Holmes et.al.|[2608.28495](https://arxiv.org/abs/2608.28495)|null|
+|**2026-08-28**|**MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry**|Mahdi Babaei et.al.|[2608.28315](https://arxiv.org/abs/2608.28315)|null|
+|**2026-08-28**|**Physics-Constrained Conditional Generative Learning for Quantum State and Process Tomography**|Daming Li et.al.|[2608.28035](https://arxiv.org/abs/2608.28035)|null|
+|**2026-08-28**|**GAN-Based Semantic Communication for Image Transmission in IoV**|Ruixing Ren et.al.|[2608.27989](https://arxiv.org/abs/2608.27989)|null|
+|**2026-08-28**|**Learning from Hard Prompts: Difficulty-aware Advantage Amplification in Dynamic Sampling**|Siyuan Gan et.al.|[2608.27982](https://arxiv.org/abs/2608.27982)|null|
+|**2026-08-28**|**openJiuwen: Beyond Static Harnesses for Long-Horizon Coding Agents**| openJiuwen Team et.al.|[2608.27969](https://arxiv.org/abs/2608.27969)|null|
+|**2026-08-28**|**When Teacher Guidance Misleads: Reward-Aligned On-Policy Distillation**|Siyuan Gan et.al.|[2608.27960](https://arxiv.org/abs/2608.27960)|null|
+|**2026-08-27**|**FVeinSyn: Synthetic Finger Vein Image Generator**|Yifan Wang et.al.|[2608.27527](https://arxiv.org/abs/2608.27527)|null|
+|**2026-08-27**|**Image Augmentation as Test Generation for Deep Learning-Based Image Retrieval Systems**|Yehan De Silva et.al.|[2608.27502](https://arxiv.org/abs/2608.27502)|null|
 |**2026-08-27**|**On the approximation of posterior laws in compound loss models by conditional Wasserstein GANs**|Aleksandar Arandjelovic et.al.|[2608.27229](https://arxiv.org/abs/2608.27229)|null|
 |**2026-08-27**|**Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks**|Qifei Wang et.al.|[2608.27198](https://arxiv.org/abs/2608.27198)|null|
 |**2026-08-27**|**Giant bulk photovoltaic effect driven by interfacial symmetry breaking in MoS2/Ta2NiSe5 heterostructures**|Jianwen Ma et.al.|[2608.27064](https://arxiv.org/abs/2608.27064)|null|
-|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](https://arxiv.org/abs/2608.26971)|null|
-|**2026-08-27**|**AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator**|Yiming Zhao et.al.|[2608.26704](https://arxiv.org/abs/2608.26704)|null|
+|**2026-08-28**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](https://arxiv.org/abs/2608.26971)|null|
+|**2026-08-28**|**AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator**|Yiming Zhao et.al.|[2608.26704](https://arxiv.org/abs/2608.26704)|null|
 |**2026-08-27**|**Accelerating Scientific Research with Gemini in the Real-World**|Samuel Schmidgall et.al.|[2608.26701](https://arxiv.org/abs/2608.26701)|null|
 |**2026-08-27**|**Hierarchical Channel Stacking: A Structured Decision Framework for AI-Generated Image Detection**|Saifullah Shoaib et.al.|[2608.26648](https://arxiv.org/abs/2608.26648)|null|
 |**2026-08-27**|**Closing the Loop on the Poppy Humanoid: Bipedal Locomotion with Linear-Quadratic Control and Learned Cost Functions**|Xulin Chen et.al.|[2608.26505](https://arxiv.org/abs/2608.26505)|null|
