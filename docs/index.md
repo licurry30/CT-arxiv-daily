@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[2608.31073](https://arxiv.org/abs/2608.31073)|null|
+|**2026-08-31**|**ImageCAS-X: a dataset and benchmark for coronary artery segmentation and centerline extraction in coronary CT angiography**|Kit M. Bransby et.al.|[2608.30404](https://arxiv.org/abs/2608.30404)|null|
+|**2026-08-28**|**Multimodal Deep Learning for Uncertainty-Aware Radiation Pneumonitis Risk Prediction**|Jin Yang et.al.|[2608.28937](https://arxiv.org/abs/2608.28937)|null|
+|**2026-08-28**|**Generative Translation Priors: Bayesian Imaging with Cross-Modality Image Translation**|Evan Bell et.al.|[2608.28872](https://arxiv.org/abs/2608.28872)|null|
+|**2026-08-28**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](https://arxiv.org/abs/2608.28773)|null|
 |**2026-08-28**|**Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry**|Thomas Zillhardt et.al.|[2608.28275](https://arxiv.org/abs/2608.28275)|null|
 |**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
 |**2026-08-27**|**CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT**|Roy Gabriel et.al.|[2608.27690](https://arxiv.org/abs/2608.27690)|null|
@@ -771,6 +776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Patch-Based Diffusion Reconstruction for Accelerated Cardiac Cine**|Xuan Lei et.al.|[2608.28927](https://arxiv.org/abs/2608.28927)|null|
+|**2026-08-28**|**A Reconfigurable Pipelined-SAR ADC with Embedded Compression for Temporal Compressed-Sensing Ultrasound Imaging**|Reza Pakdaman Zangabad et.al.|[2608.28847](https://arxiv.org/abs/2608.28847)|null|
 |**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
 |**2026-08-27**|**Towards a mathematical theory of superposition**|Michael I. Ivanitskiy et.al.|[2608.27540](https://arxiv.org/abs/2608.27540)|null|
 |**2026-08-25**|**Compressive Sensing - Introduction and Relations to Deep Learning**|Hung-Hsu Chou et.al.|[2608.24211](https://arxiv.org/abs/2608.24211)|null|
@@ -1188,6 +1195,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization**|Jingxiao Yang et.al.|[2608.31077](https://arxiv.org/abs/2608.31077)|null|
+|**2026-08-31**|**CogEvol: Towards Efficient and Reliable Learning Environment Generation**|Shangqing Tu et.al.|[2608.30968](https://arxiv.org/abs/2608.30968)|null|
+|**2026-08-31**|**Decoupled Latent Flow Matching for Few-Step Joint Vocal-Accompaniment Separation**|Lishi Zuo et.al.|[2608.30913](https://arxiv.org/abs/2608.30913)|null|
+|**2026-08-31**|**Generative multi-domain transfer learning for fault detection in data-scarce wind turbines**|Stefan Jonas et.al.|[2608.30323](https://arxiv.org/abs/2608.30323)|null|
+|**2026-08-31**|**Beyond Token-Level Guidance: Inference-Time Alignment of Specialized LLMs via Cross-Family Representation Steering**|Jin Gan et.al.|[2608.30319](https://arxiv.org/abs/2608.30319)|null|
+|**2026-08-31**|**A High-Resolution Synthetic EV Charging Dataset for Cold-Climate Distribution Grid Impact Analysis: Trondheim, Norway (2020-2030)**|Hanieh Taraghi Nazloo et.al.|[2608.30199](https://arxiv.org/abs/2608.30199)|null|
+|**2026-08-31**|**Spacelike reduction of the gravitational topological terms and associated helicity densities**|Hongxi Huang et.al.|[2608.30154](https://arxiv.org/abs/2608.30154)|null|
+|**2026-08-30**|**Last Step Matters: Early Uncertainty Cannot Predict Failure in Long-Horizon Agents**|Zongyue Li et.al.|[2608.29685](https://arxiv.org/abs/2608.29685)|null|
+|**2026-08-30**|**NepScript Genesis: Neural Architecture Search for Handwritten Devanagari Digit Synthesis**|Mausam Gurung et.al.|[2608.29540](https://arxiv.org/abs/2608.29540)|null|
+|**2026-08-29**|**sRGB Real Noise Modeling via Noise-Aware Sampling with Normalizing Flows**|Dongjin Kim et.al.|[2608.29038](https://arxiv.org/abs/2608.29038)|null|
+|**2026-08-28**|**Coarse to Fine: Iterative Adversarial Neural Cellular Automata for Medical Image Synthesis**|Anh Thi Luu et.al.|[2608.28909](https://arxiv.org/abs/2608.28909)|null|
+|**2026-08-28**|**A Large-scale Evaluation of Text-guided Models for Facial Editing**|Rahul Nair et.al.|[2608.28802](https://arxiv.org/abs/2608.28802)|null|
 |**2026-08-28**|**Automated Dislocation Detection in Electron Channelling Contrast Imaging: A Comparative Study of Rule-Based, Neural Network, and Deep Learning Approaches**|A. Holmes et.al.|[2608.28495](https://arxiv.org/abs/2608.28495)|null|
 |**2026-08-28**|**MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry**|Mahdi Babaei et.al.|[2608.28315](https://arxiv.org/abs/2608.28315)|null|
 |**2026-08-28**|**Physics-Constrained Conditional Generative Learning for Quantum State and Process Tomography**|Daming Li et.al.|[2608.28035](https://arxiv.org/abs/2608.28035)|null|
