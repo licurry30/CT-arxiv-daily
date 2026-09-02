@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Accurate Reconstruction of Gas Turbine Blade Geometry Using 3D/2D Rigid Registration and CT View Optimization**|Hristo Valtchanov et.al.|[2609.01368](https://arxiv.org/abs/2609.01368)|null|
+|**2026-09-01**|**A multicenter benchmark and clinically structured metric for coronary CTA report generation**|Zhiyu Ye et.al.|[2609.00909](https://arxiv.org/abs/2609.00909)|null|
 |**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[2608.31073](https://arxiv.org/abs/2608.31073)|null|
 |**2026-08-31**|**ImageCAS-X: a dataset and benchmark for coronary artery segmentation and centerline extraction in coronary CT angiography**|Kit M. Bransby et.al.|[2608.30404](https://arxiv.org/abs/2608.30404)|null|
 |**2026-08-28**|**Multimodal Deep Learning for Uncertainty-Aware Radiation Pneumonitis Risk Prediction**|Jin Yang et.al.|[2608.28937](https://arxiv.org/abs/2608.28937)|null|
@@ -776,6 +778,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Accurate Reconstruction of Gas Turbine Blade Geometry Using 3D/2D Rigid Registration and CT View Optimization**|Hristo Valtchanov et.al.|[2609.01368](https://arxiv.org/abs/2609.01368)|null|
+|**2026-09-01**|**OTFS Channel Estimation Utilizing Sparse Bayesian Generative Modelling**|Louis Anseaume et.al.|[2609.01074](https://arxiv.org/abs/2609.01074)|null|
+|**2026-09-01**|**A Bayesian Adaptive Spectral Surrogate Model for Efficient Probabilistic Optimal Power Flow Evaluation**|Xiaoting Wang et.al.|[2609.00547](https://arxiv.org/abs/2609.00547)|null|
 |**2026-08-28**|**Patch-Based Diffusion Reconstruction for Accelerated Cardiac Cine**|Xuan Lei et.al.|[2608.28927](https://arxiv.org/abs/2608.28927)|null|
 |**2026-08-28**|**A Reconfigurable Pipelined-SAR ADC with Embedded Compression for Temporal Compressed-Sensing Ultrasound Imaging**|Reza Pakdaman Zangabad et.al.|[2608.28847](https://arxiv.org/abs/2608.28847)|null|
 |**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
@@ -1195,6 +1200,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**A relational fabrication-to-modeling database for memristor devices**|Lai Gan et.al.|[2609.01500](https://arxiv.org/abs/2609.01500)|null|
+|**2026-09-01**|**On the Reliability of Generative Augmentation: A Wasserstein-Based Theoretical and Empirical Study**|Chathurika S Abeykoon et.al.|[2609.01410](https://arxiv.org/abs/2609.01410)|null|
+|**2026-09-01**|**Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading**|Vladyslav Kaliuzhnyi et.al.|[2609.01080](https://arxiv.org/abs/2609.01080)|null|
+|**2026-09-01**|**PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition**|Ziyan Gan et.al.|[2609.01024](https://arxiv.org/abs/2609.01024)|null|
+|**2026-09-01**|**Conditional Flow Matching for ML-Based Inverse Design Problems**|Juliana Felder et.al.|[2609.00863](https://arxiv.org/abs/2609.00863)|null|
+|**2026-09-01**|**Metastable defects in III-Nitrides**|A. E. Belyaev et.al.|[2609.00835](https://arxiv.org/abs/2609.00835)|null|
+|**2026-09-01**|**Aerodynamic Shape Design Space Exploration with Deep Latent Diffusion Model**|Zhen Wei et.al.|[2609.00812](https://arxiv.org/abs/2609.00812)|null|
+|**2026-09-01**|**Joint Training Is Not Enough: Conditioned Cross-Granularity Training for Multimodal Document Understanding**|Chengguang Gan et.al.|[2609.00756](https://arxiv.org/abs/2609.00756)|null|
+|**2026-09-01**|**GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting**|Mohammad Kian Golkar et.al.|[2609.00544](https://arxiv.org/abs/2609.00544)|null|
+|**2026-08-31**|**Latent-Space No-Arbitrage Geometry of Generative Models for Implied Volatility Surfaces**|Jing Wang et.al.|[2609.00332](https://arxiv.org/abs/2609.00332)|null|
+|**2026-08-30**|**GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments**|Lin Fu et.al.|[2609.00048](https://arxiv.org/abs/2609.00048)|null|
 |**2026-08-31**|**Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization**|Jingxiao Yang et.al.|[2608.31077](https://arxiv.org/abs/2608.31077)|null|
 |**2026-08-31**|**CogEvol: Towards Efficient and Reliable Learning Environment Generation**|Shangqing Tu et.al.|[2608.30968](https://arxiv.org/abs/2608.30968)|null|
 |**2026-08-31**|**Decoupled Latent Flow Matching for Few-Step Joint Vocal-Accompaniment Separation**|Lishi Zuo et.al.|[2608.30913](https://arxiv.org/abs/2608.30913)|null|
