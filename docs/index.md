@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation**|Fawad Ali et.al.|[2609.03644](https://arxiv.org/abs/2609.03644)|null|
+|**2026-09-03**|**Fast Patient-Specific Breast CT Dosimetry: 22-Fold Acceleration of Monte Carlo MGD Estimation**|Amir Entezam et.al.|[2609.03263](https://arxiv.org/abs/2609.03263)|null|
+|**2026-09-02**|**Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing**|Yulin Guo et.al.|[2609.03163](https://arxiv.org/abs/2609.03163)|null|
 |**2026-09-01**|**Physics-Driven Independent Pair Generation for Iterative Self-Supervised Low-Dose CT Denoising**|Xianlei Han et.al.|[2609.02654](https://arxiv.org/abs/2609.02654)|null|
 |**2026-09-02**|**Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing**|Satoshi Oota et.al.|[2609.02243](https://arxiv.org/abs/2609.02243)|null|
 |**2026-09-01**|**A mechanistic modeling framework to interpret ACTH stimulation tests across HPA axis adaptation states and glucocorticoid feedback dynamics**|Mamta Yadav et.al.|[2609.01684](https://arxiv.org/abs/2609.01684)|null|
@@ -1205,6 +1208,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Consensus time for asynchronous  $\ell^p$  relaxation: graph dependence**|Chenyu Gan et.al.|[2609.03856](https://arxiv.org/abs/2609.03856)|null|
+|**2026-09-03**|**Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets**|Xing-Yao Guo et.al.|[2609.03772](https://arxiv.org/abs/2609.03772)|null|
+|**2026-09-03**|**3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging**|Dennis Scheidt et.al.|[2609.03764](https://arxiv.org/abs/2609.03764)|null|
+|**2026-09-03**|**TabScope: Question-Adaptive Scope Selection for Table Question Answering**|Yuxiang Wang et.al.|[2609.03395](https://arxiv.org/abs/2609.03395)|null|
+|**2026-09-03**|**TIGPO: Temporal Instance-Graph Policy Optimization for Long-Horizon LLM Agents**|Jinwei Gan et.al.|[2609.03383](https://arxiv.org/abs/2609.03383)|null|
+|**2026-09-02**|**Portable Causal Fairness Across Synthetic Data Generator Families**|Steven Golob et.al.|[2609.03180](https://arxiv.org/abs/2609.03180)|null|
 |**2026-09-02**|**Generating Medical Image Counterfactuals using Causal Explanations**|David A. Kelly et.al.|[2609.02697](https://arxiv.org/abs/2609.02697)|null|
 |**2026-09-02**|**RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains**|Thijs A. Eker et.al.|[2609.02556](https://arxiv.org/abs/2609.02556)|null|
 |**2026-09-02**|**UnCapsTSR: An Unsupervised Transformer-based Image Super-Resolution Approach for Capsule Endoscopy Images**|Anjali Sarvaiya et.al.|[2609.02476](https://arxiv.org/abs/2609.02476)|null|
