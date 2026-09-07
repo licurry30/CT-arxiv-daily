@@ -1208,6 +1208,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**A Deep Generative Model for Synthesizing Labeled Wireless Signals**|Yuxiao Li et.al.|[2609.05396](https://arxiv.org/abs/2609.05396)|null|
+|**2026-09-04**|**A Unified Physics-Aware Quantum Machine Learning Framework across Power GaN HEMTs and Logic Nanowire FETs: Predicting Unseen Process Splits and Held-Out Geometry Combinations with Lower Error and Tighter Split-to-Split Variability**|Rushat Rai et.al.|[2609.05251](https://arxiv.org/abs/2609.05251)|null|
+|**2026-09-04**|**Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed GaN**|Shailesh Kalal et.al.|[2609.05000](https://arxiv.org/abs/2609.05000)|null|
+|**2026-09-04**|**BEAM3R: Beam's-eye-view architecture with Mamba-3 for implicit dose reconstruction**|Chen Cheng et.al.|[2609.04747](https://arxiv.org/abs/2609.04747)|null|
+|**2026-09-03**|**Memory as transformation: LETHE, a self-referential gan-inspired architecture**|Francesco Vitucci et.al.|[2609.04289](https://arxiv.org/abs/2609.04289)|null|
+|**2026-09-03**|**Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation**|Junlong Wu et.al.|[2609.04282](https://arxiv.org/abs/2609.04282)|null|
 |**2026-09-03**|**Consensus time for asynchronous  $\ell^p$  relaxation: graph dependence**|Chenyu Gan et.al.|[2609.03856](https://arxiv.org/abs/2609.03856)|null|
 |**2026-09-03**|**Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets**|Xing-Yao Guo et.al.|[2609.03772](https://arxiv.org/abs/2609.03772)|null|
 |**2026-09-03**|**3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging**|Dennis Scheidt et.al.|[2609.03764](https://arxiv.org/abs/2609.03764)|null|
