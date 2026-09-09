@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-07**|**Automated Chest CT Protocol Selection via Large Language Model Derived Text Embeddings from Imaging Request Text**|Zahra Hosseini et.al.|[2609.07986](https://arxiv.org/abs/2609.07986)|null|
+|**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
+|**2026-09-07**|**CT2Yarn: Yarn-Level Reconstruction of Crochet from Computed Tomography**|Chang Luo et.al.|[2609.06950](https://arxiv.org/abs/2609.06950)|null|
 |**2026-09-03**|**HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation**|Fawad Ali et.al.|[2609.03644](https://arxiv.org/abs/2609.03644)|null|
 |**2026-09-03**|**Fast Patient-Specific Breast CT Dosimetry: 22-Fold Acceleration of Monte Carlo MGD Estimation**|Amir Entezam et.al.|[2609.03263](https://arxiv.org/abs/2609.03263)|null|
 |**2026-09-02**|**Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing**|Yulin Guo et.al.|[2609.03163](https://arxiv.org/abs/2609.03163)|null|
@@ -27,7 +30,7 @@
 |**2026-08-31**|**ImageCAS-X: a dataset and benchmark for coronary artery segmentation and centerline extraction in coronary CT angiography**|Kit M. Bransby et.al.|[2608.30404](https://arxiv.org/abs/2608.30404)|null|
 |**2026-08-28**|**Multimodal Deep Learning for Uncertainty-Aware Radiation Pneumonitis Risk Prediction**|Jin Yang et.al.|[2608.28937](https://arxiv.org/abs/2608.28937)|null|
 |**2026-08-28**|**Generative Translation Priors: Bayesian Imaging with Cross-Modality Image Translation**|Evan Bell et.al.|[2608.28872](https://arxiv.org/abs/2608.28872)|null|
-|**2026-08-28**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](https://arxiv.org/abs/2608.28773)|null|
+|**2026-09-04**|**Medical Foundation Model Features as Perceptual Loss for Brain MRI Contrast Dose Simulation**|Changsheng Fang et.al.|[2608.28773](https://arxiv.org/abs/2608.28773)|null|
 |**2026-08-28**|**Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry**|Thomas Zillhardt et.al.|[2608.28275](https://arxiv.org/abs/2608.28275)|null|
 |**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](https://arxiv.org/abs/2608.28256)|null|
 |**2026-08-27**|**CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT**|Roy Gabriel et.al.|[2608.27690](https://arxiv.org/abs/2608.27690)|null|
@@ -786,12 +789,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-02**|**Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing**|Zhaoming Li et.al.|[2609.02790](https://arxiv.org/abs/2609.02790)|null|
 |**2026-09-02**|**Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework**|Junren Chen et.al.|[2609.02120](https://arxiv.org/abs/2609.02120)|null|
 |**2026-09-01**|**Accurate Reconstruction of Gas Turbine Blade Geometry Using 3D/2D Rigid Registration and CT View Optimization**|Hristo Valtchanov et.al.|[2609.01368](https://arxiv.org/abs/2609.01368)|null|
@@ -1212,12 +1216,31 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155](https://arxiv.org/abs/2609.09155)|null|
+|**2026-09-08**|**X2Streaming-ASR: wait when uncertain, emit when ready for streaming ASR**|Zhiwei Lin et.al.|[2609.08672](https://arxiv.org/abs/2609.08672)|null|
+|**2026-09-08**|**FedGenSC: Federated Generative Semantic Communication with Channel-Aware Adaptation**|Rita Abou Fares et.al.|[2609.08593](https://arxiv.org/abs/2609.08593)|null|
+|**2026-09-07**|**Reducing Hydrocephalus Shunt Revision Rates: A Computational Fluid Dynamics Study on Catheter Hole Design**|Omar Said et.al.|[2609.08030](https://arxiv.org/abs/2609.08030)|null|
+|**2026-09-07**|**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**|Lixing Fang et.al.|[2609.07933](https://arxiv.org/abs/2609.07933)|null|
+|**2026-09-07**|**M3-Tele: A Unified Multimodal Teleoperational Framework for Compliant Whole-Body Mobile Manipulation**|Hengxiang Chen et.al.|[2609.07859](https://arxiv.org/abs/2609.07859)|null|
+|**2026-09-07**|**Better Call CineCrew: Consistent Ultra-Long Narrative-to-Film Generation**|Jiaben Chen et.al.|[2609.07720](https://arxiv.org/abs/2609.07720)|null|
+|**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231](https://arxiv.org/abs/2609.07231)|null|
+|**2026-09-07**|**Direction-Preserving Active Noise Control with a Conditional Control-Filter Estimation Network**|Ziyi Yang et.al.|[2609.07173](https://arxiv.org/abs/2609.07173)|null|
+|**2026-09-07**|**Bounded Ratios of Lorentzian Polynomials II: The Complete Quadratic Local-to-Global Classification**|Dijia Chen et.al.|[2609.07098](https://arxiv.org/abs/2609.07098)|null|
+|**2026-09-06**|**ForgeStencil: Automating Per-Case Stencil Specialization from Kernels to 100+ Real Applications**|Yaojian Chen et.al.|[2609.06694](https://arxiv.org/abs/2609.06694)|null|
+|**2026-09-06**|**GAN-Blot: A Controllable Structure-Style Synthesis Benchmark for Western Blot Forensics**|Hao-Chiang Shao et.al.|[2609.06619](https://arxiv.org/abs/2609.06619)|null|
+|**2026-09-06**|**Coupling and decoupling between translational and rotational dynamics in a tetrahedral molecular liquid**|Gan Ren et.al.|[2609.06613](https://arxiv.org/abs/2609.06613)|null|
+|**2026-09-06**|**TaxoConf: Taxonomy-Guided Automatic Conference Program Organization**|Daomin Ji et.al.|[2609.06604](https://arxiv.org/abs/2609.06604)|null|
+|**2026-09-06**|**A Mean-Field Approach to the Dielectric Response of Bulk Superconductors for Light Dark Matter Direct Detection**|Chengyao Gan et.al.|[2609.06423](https://arxiv.org/abs/2609.06423)|null|
+|**2026-09-05**|**IM-ENGINE: Image Editing for Embodied Data Generation**|Yian Wang et.al.|[2609.06279](https://arxiv.org/abs/2609.06279)|null|
+|**2026-09-05**|**A Comparative Study of GAN-Based Deep Learning Models for Pneumonia Detection in Chest X-Rays**|Roshan Paudel et.al.|[2609.06276](https://arxiv.org/abs/2609.06276)|null|
+|**2026-09-05**|**Bounded Ratios and Optimal Bounding Constants for Ternary Lorentzian Polynomials**|Dijia Chen et.al.|[2609.06145](https://arxiv.org/abs/2609.06145)|null|
+|**2026-09-05**|**Correct Tests Are Not Enough: Measuring and Training Oracle Conversion in Specification-Based Test Generation**|Yunhao Liang et.al.|[2609.05879](https://arxiv.org/abs/2609.05879)|null|
 |**2026-09-04**|**A Deep Generative Model for Synthesizing Labeled Wireless Signals**|Yuxiao Li et.al.|[2609.05396](https://arxiv.org/abs/2609.05396)|null|
 |**2026-09-04**|**A Unified Physics-Aware Quantum Machine Learning Framework across Power GaN HEMTs and Logic Nanowire FETs: Predicting Unseen Process Splits and Held-Out Geometry Combinations with Lower Error and Tighter Split-to-Split Variability**|Rushat Rai et.al.|[2609.05251](https://arxiv.org/abs/2609.05251)|null|
 |**2026-09-04**|**Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed GaN**|Shailesh Kalal et.al.|[2609.05000](https://arxiv.org/abs/2609.05000)|null|
@@ -3005,7 +3028,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3053,5 +3076,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
