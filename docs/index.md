@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
+|**2026-09-09**|**Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion**|Zhichun Jin et.al.|[2609.09801](https://arxiv.org/abs/2609.09801)|null|
+|**2026-09-08**|**LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation**|Yi Luo et.al.|[2609.09477](https://arxiv.org/abs/2609.09477)|null|
 |**2026-09-07**|**Automated Chest CT Protocol Selection via Large Language Model Derived Text Embeddings from Imaging Request Text**|Zahra Hosseini et.al.|[2609.07986](https://arxiv.org/abs/2609.07986)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-07**|**CT2Yarn: Yarn-Level Reconstruction of Crochet from Computed Tomography**|Chang Luo et.al.|[2609.06950](https://arxiv.org/abs/2609.06950)|null|
@@ -787,6 +790,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
+|**2026-09-09**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-02**|**Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing**|Zhaoming Li et.al.|[2609.02790](https://arxiv.org/abs/2609.02790)|null|
 |**2026-09-02**|**Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework**|Junren Chen et.al.|[2609.02120](https://arxiv.org/abs/2609.02120)|null|
@@ -1212,6 +1217,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems**|Ian C. Guzmán et.al.|[2609.10479](https://arxiv.org/abs/2609.10479)|null|
+|**2026-09-09**|**Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under High-Temperature Annealing**|Quan-Shan Liu et.al.|[2609.10426](https://arxiv.org/abs/2609.10426)|null|
+|**2026-09-09**|**A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights**|Xinrui Xu et.al.|[2609.10099](https://arxiv.org/abs/2609.10099)|null|
+|**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](https://arxiv.org/abs/2609.10025)|null|
+|**2026-09-09**|**Critical Scalarization for a Self-Gravitating Bosonic Condensate**|Meng-Yun Lai et.al.|[2609.09991](https://arxiv.org/abs/2609.09991)|null|
+|**2026-09-09**|**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**|Zehan Liu et.al.|[2609.09677](https://arxiv.org/abs/2609.09677)|null|
+|**2026-09-09**|**The validity of the Stokes-Einstein relation in ionic liquids**|Gan Ren et.al.|[2609.09576](https://arxiv.org/abs/2609.09576)|null|
 |**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155](https://arxiv.org/abs/2609.09155)|null|
 |**2026-09-08**|**X2Streaming-ASR: wait when uncertain, emit when ready for streaming ASR**|Zhiwei Lin et.al.|[2609.08672](https://arxiv.org/abs/2609.08672)|null|
 |**2026-09-08**|**FedGenSC: Federated Generative Semantic Communication with Channel-Aware Adaptation**|Rita Abou Fares et.al.|[2609.08593](https://arxiv.org/abs/2609.08593)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
+|**2026-09-09**|**Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion**|Zhichun Jin et.al.|[2609.09801](https://arxiv.org/abs/2609.09801)|null|
+|**2026-09-08**|**LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation**|Yi Luo et.al.|[2609.09477](https://arxiv.org/abs/2609.09477)|null|
 |**2026-09-07**|**Automated Chest CT Protocol Selection via Large Language Model Derived Text Embeddings from Imaging Request Text**|Zahra Hosseini et.al.|[2609.07986](https://arxiv.org/abs/2609.07986)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-07**|**CT2Yarn: Yarn-Level Reconstruction of Crochet from Computed Tomography**|Chang Luo et.al.|[2609.06950](https://arxiv.org/abs/2609.06950)|null|
@@ -789,12 +792,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
+|**2026-09-09**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-02**|**Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing**|Zhaoming Li et.al.|[2609.02790](https://arxiv.org/abs/2609.02790)|null|
 |**2026-09-02**|**Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework**|Junren Chen et.al.|[2609.02120](https://arxiv.org/abs/2609.02120)|null|
@@ -1216,12 +1221,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems**|Ian C. Guzmán et.al.|[2609.10479](https://arxiv.org/abs/2609.10479)|null|
+|**2026-09-09**|**Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under High-Temperature Annealing**|Quan-Shan Liu et.al.|[2609.10426](https://arxiv.org/abs/2609.10426)|null|
+|**2026-09-09**|**A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights**|Xinrui Xu et.al.|[2609.10099](https://arxiv.org/abs/2609.10099)|null|
+|**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](https://arxiv.org/abs/2609.10025)|null|
+|**2026-09-09**|**Critical Scalarization for a Self-Gravitating Bosonic Condensate**|Meng-Yun Lai et.al.|[2609.09991](https://arxiv.org/abs/2609.09991)|null|
+|**2026-09-09**|**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**|Zehan Liu et.al.|[2609.09677](https://arxiv.org/abs/2609.09677)|null|
+|**2026-09-09**|**The validity of the Stokes-Einstein relation in ionic liquids**|Gan Ren et.al.|[2609.09576](https://arxiv.org/abs/2609.09576)|null|
 |**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155](https://arxiv.org/abs/2609.09155)|null|
 |**2026-09-08**|**X2Streaming-ASR: wait when uncertain, emit when ready for streaming ASR**|Zhiwei Lin et.al.|[2609.08672](https://arxiv.org/abs/2609.08672)|null|
 |**2026-09-08**|**FedGenSC: Federated Generative Semantic Communication with Channel-Aware Adaptation**|Rita Abou Fares et.al.|[2609.08593](https://arxiv.org/abs/2609.08593)|null|
@@ -3028,7 +3040,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3076,5 +3088,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
