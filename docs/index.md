@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Spectral Adapters for Segment Anything Model-based Segmentation of Colorectal Liver Metastases in Computed Tomography**|Ramtin Mojtahedi et.al.|[2609.11703](https://arxiv.org/abs/2609.11703)|null|
+|**2026-09-10**|**GRIPNet: Gaussian Radial Intensity Prior Guided Architecture for Pulmonary Nodule Detection in CT**|Haojie Yang et.al.|[2609.11312](https://arxiv.org/abs/2609.11312)|null|
+|**2026-09-10**|**Phase-contrast micro-CT for intra-operative breast tumour margin assessment using a microfocus x-ray source and photon-counting detector**|Michelle K. Croughan et.al.|[2609.11124](https://arxiv.org/abs/2609.11124)|null|
+|**2026-09-09**|**Annotating anatomy and pathology in the National Lung Screening Trial computed tomography images**|Deepa Krishnaswamy et.al.|[2609.10858](https://arxiv.org/abs/2609.10858)|null|
 |**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
 |**2026-09-09**|**Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion**|Zhichun Jin et.al.|[2609.09801](https://arxiv.org/abs/2609.09801)|null|
 |**2026-09-08**|**LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation**|Yi Luo et.al.|[2609.09477](https://arxiv.org/abs/2609.09477)|null|
@@ -790,6 +794,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Phase-contrast micro-CT for intra-operative breast tumour margin assessment using a microfocus x-ray source and photon-counting detector**|Michelle K. Croughan et.al.|[2609.11124](https://arxiv.org/abs/2609.11124)|null|
 |**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
 |**2026-09-09**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
@@ -1217,6 +1222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls**|Xingyu Shen et.al.|[2609.11137](https://arxiv.org/abs/2609.11137)|null|
+|**2026-09-10**|**LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos**|Achim von Stryk et.al.|[2609.11134](https://arxiv.org/abs/2609.11134)|null|
+|**2026-09-10**|**KuaiRP Series Role-playing Models Technical Report**|Yipeng Wang et.al.|[2609.11127](https://arxiv.org/abs/2609.11127)|null|
 |**2026-09-09**|**Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems**|Ian C. Guzmán et.al.|[2609.10479](https://arxiv.org/abs/2609.10479)|null|
 |**2026-09-09**|**Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under High-Temperature Annealing**|Quan-Shan Liu et.al.|[2609.10426](https://arxiv.org/abs/2609.10426)|null|
 |**2026-09-09**|**A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights**|Xinrui Xu et.al.|[2609.10099](https://arxiv.org/abs/2609.10099)|null|
