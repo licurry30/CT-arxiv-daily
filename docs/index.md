@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**A provably convergent MM-GKS variant for large-scale inverse problems**|Mirjeta Pasha et.al.|[2609.17229](https://arxiv.org/abs/2609.17229)|null|
+|**2026-09-15**|**Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl**|Tamazouzt Chennit et.al.|[2609.17208](https://arxiv.org/abs/2609.17208)|null|
+|**2026-09-15**|**Direct Trajectory Reconstruction for Fast 3D X-ray Particle Tracking Velocimetry in Porous Media**|Robert van der Merwe et.al.|[2609.16838](https://arxiv.org/abs/2609.16838)|null|
+|**2026-09-15**|**Efficient 3D Whole-Body PET Image Denoising via Conditional Rectified Flow With Optimized Sampling Strategy**|Jiale Shen et.al.|[2609.16690](https://arxiv.org/abs/2609.16690)|null|
+|**2026-09-11**|**A deep dictionary network-based foundation model for ultra-low-dose CT denoising**|Baoshun Shi et.al.|[2609.16031](https://arxiv.org/abs/2609.16031)|null|
+|**2026-09-14**|**TRACE: Two-Stage Detector-Response Estimation With Angular Cosine Expansion for Ring Artifact Correction in Photon-Counting CT**|Jigang Duan et.al.|[2609.15834](https://arxiv.org/abs/2609.15834)|null|
+|**2026-09-13**|**Mobile CT Services for Rural, Regional, and Remote Areas: Current Practice and Future Integration with Telehealth and Regulatory-Authorised AI**|Zhicheng Lu et.al.|[2609.14347](https://arxiv.org/abs/2609.14347)|null|
+|**2026-09-12**|**SONAR: A Structure-Consistent Neural Operator for Null-Space-Aware Sparse View CT Reconstruction**|Song Ni et.al.|[2609.13688](https://arxiv.org/abs/2609.13688)|null|
+|**2026-09-11**|**PiMiX 2.02: Toward AI-Driven Data Fusion in Radiographic Imaging and Tomography**|Zhehui Wang et.al.|[2609.13347](https://arxiv.org/abs/2609.13347)|null|
+|**2026-09-10**|**Task-Based CT Protocol Optimization Using Reinforcement Learning and Virtual Imaging Trials**|Jiaqi Zou et.al.|[2609.13309](https://arxiv.org/abs/2609.13309)|null|
+|**2026-09-11**|**Physically Consistent 2D to 3D Pore Space Synthesis: 1. Dynamic Grain Packing Under Strict Morphology Constraints**|Dmitry Kulygin et.al.|[2609.13020](https://arxiv.org/abs/2609.13020)|null|
+|**2026-09-11**|**3D CT-to-PET Translation via Latent Brownian Bridge Diffusion**|Sarita Mourya et.al.|[2609.12860](https://arxiv.org/abs/2609.12860)|null|
+|**2026-09-10**|**Robust POMDP Framework for Lung Cancer Screening Problems**|Tong Li et.al.|[2609.12007](https://arxiv.org/abs/2609.12007)|null|
 |**2026-09-10**|**Spectral Adapters for Segment Anything Model-based Segmentation of Colorectal Liver Metastases in Computed Tomography**|Ramtin Mojtahedi et.al.|[2609.11703](https://arxiv.org/abs/2609.11703)|null|
 |**2026-09-10**|**GRIPNet: Gaussian Radial Intensity Prior Guided Architecture for Pulmonary Nodule Detection in CT**|Haojie Yang et.al.|[2609.11312](https://arxiv.org/abs/2609.11312)|null|
 |**2026-09-10**|**Phase-contrast micro-CT for intra-operative breast tumour margin assessment using a microfocus x-ray source and photon-counting detector**|Michelle K. Croughan et.al.|[2609.11124](https://arxiv.org/abs/2609.11124)|null|
@@ -794,6 +807,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Direct Trajectory Reconstruction for Fast 3D X-ray Particle Tracking Velocimetry in Porous Media**|Robert van der Merwe et.al.|[2609.16838](https://arxiv.org/abs/2609.16838)|null|
+|**2026-09-15**|**Phase Transition in Binary Compressed Sensing via Annealing with Adaptive Regularization**|Xiaoxin Huang et.al.|[2609.16712](https://arxiv.org/abs/2609.16712)|null|
+|**2026-09-14**|**Backward SDEs-based Diffusion for Physics-Constrained Generation**|Zihao Wang et.al.|[2609.15702](https://arxiv.org/abs/2609.15702)|null|
+|**2026-09-13**|**Newton Deep Unfolding for Compressed Sensing**|Changhua He et.al.|[2609.14391](https://arxiv.org/abs/2609.14391)|null|
+|**2026-09-12**|**SONAR: A Structure-Consistent Neural Operator for Null-Space-Aware Sparse View CT Reconstruction**|Song Ni et.al.|[2609.13688](https://arxiv.org/abs/2609.13688)|null|
+|**2026-09-11**|**PiMiX 2.02: Toward AI-Driven Data Fusion in Radiographic Imaging and Tomography**|Zhehui Wang et.al.|[2609.13347](https://arxiv.org/abs/2609.13347)|null|
+|**2026-09-15**|**PyFLI: A Python Library for Simulation, Parameter Estimation, and Benchmarking in Fluorescence Lifetime Imaging**|Vikas Pandey et.al.|[2609.11994](https://arxiv.org/abs/2609.11994)|null|
 |**2026-09-10**|**Phase-contrast micro-CT for intra-operative breast tumour margin assessment using a microfocus x-ray source and photon-counting detector**|Michelle K. Croughan et.al.|[2609.11124](https://arxiv.org/abs/2609.11124)|null|
 |**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
 |**2026-09-09**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
@@ -1222,7 +1242,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-10**|**The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls**|Xingyu Shen et.al.|[2609.11137](https://arxiv.org/abs/2609.11137)|null|
+|**2026-09-15**|**Improved  $L^p$  bounds for the helical maximal function in dimensions  $n \geq 5$ **|Changkeun Oh et.al.|[2609.17466](https://arxiv.org/abs/2609.17466)|null|
+|**2026-09-15**|**Data-Driven Stress Testing of Intermodal Freight Networks Using GAN-Generated Disruption Scenarios**|Xudong Wang et.al.|[2609.17373](https://arxiv.org/abs/2609.17373)|null|
+|**2026-09-15**|**Sharp logarithmic Sobolev inequalities on free groups by variational comparison**|Gan Yao et.al.|[2609.17303](https://arxiv.org/abs/2609.17303)|null|
+|**2026-09-15**|**IRENE: A Convolutional GRU Ensemble Model for Radar Precipitation Nowcasting over Italy**|Alessandro Camilletti et.al.|[2609.17175](https://arxiv.org/abs/2609.17175)|null|
+|**2026-09-15**|**ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and infrared and Raman spectra calculations**|Xudong Zhu et.al.|[2609.16802](https://arxiv.org/abs/2609.16802)|null|
+|**2026-09-15**|**De-GAN - Dynamic Parameter Tuned GAN for 3D Medical Image Segmentation: A Step Towards Generalisation**|Zoha Usama et.al.|[2609.16755](https://arxiv.org/abs/2609.16755)|null|
+|**2026-09-13**|**Beyond Distribution Matching: Semantics-Consistent Tabular Diffusion with Weak Semantic Priors**|Yili Wang et.al.|[2609.16069](https://arxiv.org/abs/2609.16069)|null|
+|**2026-09-14**|**Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectronics**|Xiaoguang Luo et.al.|[2609.15771](https://arxiv.org/abs/2609.15771)|null|
+|**2026-09-14**|**Micro-transfer Printed Blue InGaN Lasers on Silicon Nitride Photonic Integrated Circuits**|Konstantinos Akritidis et.al.|[2609.15390](https://arxiv.org/abs/2609.15390)|null|
+|**2026-09-13**|**Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via Terahertz Polarimetry**|Kota Aikyo et.al.|[2609.14294](https://arxiv.org/abs/2609.14294)|null|
+|**2026-09-12**|**From Advertised Improvements to Measured Capabilities: Evaluating ChatGPT Images 2.5 on Forgery Tasks**|Ankit Raj et.al.|[2609.13617](https://arxiv.org/abs/2609.13617)|null|
+|**2026-09-11**|**Generative bootstrap processes**|Ziming Lin et.al.|[2609.13471](https://arxiv.org/abs/2609.13471)|null|
+|**2026-09-15**|**Diffusion models for dynamic volatility surface generation and data-driven hedging**|Yinbin Han et.al.|[2609.13402](https://arxiv.org/abs/2609.13402)|null|
+|**2026-09-15**|**ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC**|Zhenfeng Gan et.al.|[2609.13083](https://arxiv.org/abs/2609.13083)|null|
+|**2026-09-11**|**PhaseGAN: High-Fidelity Vocoder via Decoupled Amplitude and GAN-Driven Phase Reconstruction**|Wenzheng Zhang et.al.|[2609.12918](https://arxiv.org/abs/2609.12918)|null|
+|**2026-09-15**|**An End-to-End Automated Pipeline for Controllable Crack Data Synthesis**|Conghui Li et.al.|[2609.12431](https://arxiv.org/abs/2609.12431)|null|
+|**2026-09-11**|**GSO-Net: Visual State Machines for Hazardous Freight Transfer Compliance at Petrochemical Logistics Nodes**|Yu Xie et.al.|[2609.12408](https://arxiv.org/abs/2609.12408)|null|
+|**2026-09-10**|**Test-Driven Approaches to Software Engineering with Large Language Models: A Survey of Phases, Tasks, and Agent Skills**|Yunhao Liang et.al.|[2609.12012](https://arxiv.org/abs/2609.12012)|null|
+|**2026-09-15**|**The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls**|Xingyu Shen et.al.|[2609.11137](https://arxiv.org/abs/2609.11137)|null|
 |**2026-09-10**|**LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos**|Achim von Stryk et.al.|[2609.11134](https://arxiv.org/abs/2609.11134)|null|
 |**2026-09-10**|**KuaiRP Series Role-playing Models Technical Report**|Yipeng Wang et.al.|[2609.11127](https://arxiv.org/abs/2609.11127)|null|
 |**2026-09-09**|**Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems**|Ian C. Guzmán et.al.|[2609.10479](https://arxiv.org/abs/2609.10479)|null|
