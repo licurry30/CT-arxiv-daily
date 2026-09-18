@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation**|Linus Britt et.al.|[2609.20151](https://arxiv.org/abs/2609.20151)|null|
+|**2026-09-17**|**Federated Learning Framework for Privacy-Preserving Kidney Stone Detection**|Najiyya Younas et.al.|[2609.19740](https://arxiv.org/abs/2609.19740)|null|
 |**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](https://arxiv.org/abs/2609.18415)|null|
 |**2026-09-15**|**A provably convergent MM-GKS variant for large-scale inverse problems**|Mirjeta Pasha et.al.|[2609.17229](https://arxiv.org/abs/2609.17229)|null|
 |**2026-09-15**|**Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl**|Tamazouzt Chennit et.al.|[2609.17208](https://arxiv.org/abs/2609.17208)|null|
@@ -1244,6 +1246,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model**|Ali Aouf et.al.|[2609.20358](https://arxiv.org/abs/2609.20358)|null|
+|**2026-09-17**|**AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation**|Keshu Wu et.al.|[2609.19527](https://arxiv.org/abs/2609.19527)|null|
+|**2026-09-16**|**Endoscopic description of the local Langlands correspondence for  $\mathrm{G}_2$ **|Yugo Takanashi et.al.|[2609.19439](https://arxiv.org/abs/2609.19439)|null|
+|**2026-09-15**|**Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer**|Djardiel S. Gomes et.al.|[2609.19192](https://arxiv.org/abs/2609.19192)|null|
 |**2026-09-16**|**TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation**|Bohan Gan et.al.|[2609.18497](https://arxiv.org/abs/2609.18497)|null|
 |**2026-09-16**|**Graded Algebras of Modular Forms and Sign Changes of Fourier Coefficients for Eta Quotients**|Jianwen Gan et.al.|[2609.18339](https://arxiv.org/abs/2609.18339)|null|
 |**2026-09-16**|**Mode Switching in Two Blue Large Amplitude Pulsators observed by OGLE, KMTNet and DREAMS**|Hao Ma et.al.|[2609.18300](https://arxiv.org/abs/2609.18300)|null|
