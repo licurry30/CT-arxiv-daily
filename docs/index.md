@@ -9,7 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-17**|**Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation**|Linus Britt et.al.|[2609.20151](https://arxiv.org/abs/2609.20151)|null|
+|**2026-09-18**|**Model-Based Iterative Reconstruction with View-Dependent Detector Displacements for Cone-Beam CT**|Doga Topcicek et.al.|[2609.22032](https://arxiv.org/abs/2609.22032)|null|
+|**2026-09-17**|**Uncertainty-driven training for three-dimensional calibrated lung nodule classification**|Giuseppe Tripodi et.al.|[2609.20905](https://arxiv.org/abs/2609.20905)|null|
+|**2026-09-18**|**Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation**|Linus Britt et.al.|[2609.20151](https://arxiv.org/abs/2609.20151)|null|
 |**2026-09-17**|**Federated Learning Framework for Privacy-Preserving Kidney Stone Detection**|Najiyya Younas et.al.|[2609.19740](https://arxiv.org/abs/2609.19740)|null|
 |**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](https://arxiv.org/abs/2609.18415)|null|
 |**2026-09-15**|**A provably convergent MM-GKS variant for large-scale inverse problems**|Mirjeta Pasha et.al.|[2609.17229](https://arxiv.org/abs/2609.17229)|null|
@@ -810,6 +812,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Classification-oriented adaptive sensing via posterior sampling**|Andriy Enttsel et.al.|[2609.21812](https://arxiv.org/abs/2609.21812)|null|
+|**2026-09-17**|**Exploiting Mutual Coupling Structure for Channel Estimation of Active RIS-Assisted Links**|Simon Tarboush et.al.|[2609.21062](https://arxiv.org/abs/2609.21062)|null|
 |**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](https://arxiv.org/abs/2609.18415)|null|
 |**2026-09-15**|**Direct Trajectory Reconstruction for Fast 3D X-ray Particle Tracking Velocimetry in Porous Media**|Robert van der Merwe et.al.|[2609.16838](https://arxiv.org/abs/2609.16838)|null|
 |**2026-09-15**|**Phase Transition in Binary Compressed Sensing via Annealing with Adaptive Regularization**|Xiaoxin Huang et.al.|[2609.16712](https://arxiv.org/abs/2609.16712)|null|
@@ -820,7 +824,7 @@ layout: default
 |**2026-09-15**|**PyFLI: A Python Library for Simulation, Parameter Estimation, and Benchmarking in Fluorescence Lifetime Imaging**|Vikas Pandey et.al.|[2609.11994](https://arxiv.org/abs/2609.11994)|null|
 |**2026-09-10**|**Phase-contrast micro-CT for intra-operative breast tumour margin assessment using a microfocus x-ray source and photon-counting detector**|Michelle K. Croughan et.al.|[2609.11124](https://arxiv.org/abs/2609.11124)|null|
 |**2026-09-09**|**Multi-Pass, Multi-View Blended Learning for High-Fidelity Volumetric CT Synthesis from Chest X-Rays**|Ozer Can Devecioglu et.al.|[2609.09920](https://arxiv.org/abs/2609.09920)|null|
-|**2026-09-09**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
+|**2026-09-17**|**High-probability guarantees for linear accessibility in feature superposition**|Enrico Vompa et.al.|[2609.09556](https://arxiv.org/abs/2609.09556)|null|
 |**2026-09-07**|**An Efficient Out-of-Core Tomographic Imaging Framework for Edge Devices**|Xuetao Chen et.al.|[2609.07249](https://arxiv.org/abs/2609.07249)|null|
 |**2026-09-02**|**Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing**|Zhaoming Li et.al.|[2609.02790](https://arxiv.org/abs/2609.02790)|null|
 |**2026-09-02**|**Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework**|Junren Chen et.al.|[2609.02120](https://arxiv.org/abs/2609.02120)|null|
@@ -1246,6 +1250,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**LunaDrive: A Delay-Compensated High-Voltage GaN FET-Based Motor Driver for Dynamic Robots with Flat BLDC Motors**|Sota Yuzaki et.al.|[2609.21818](https://arxiv.org/abs/2609.21818)|null|
+|**2026-09-18**|**A Differential Form Description of Partial Entanglement Entropy: Testing a Killing Vector Construction in Covariant Phase Space**|Chuanjia Zhu et.al.|[2609.21398](https://arxiv.org/abs/2609.21398)|null|
+|**2026-09-17**|**HMB-GAN: Hybrid Multi-Bézier GAN for Vector Shape Synthesis**|Elian Hugh Thiele-Evans et.al.|[2609.21158](https://arxiv.org/abs/2609.21158)|null|
 |**2026-09-17**|**Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model**|Ali Aouf et.al.|[2609.20358](https://arxiv.org/abs/2609.20358)|null|
 |**2026-09-17**|**AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation**|Keshu Wu et.al.|[2609.19527](https://arxiv.org/abs/2609.19527)|null|
 |**2026-09-16**|**Endoscopic description of the local Langlands correspondence for  $\mathrm{G}_2$ **|Yugo Takanashi et.al.|[2609.19439](https://arxiv.org/abs/2609.19439)|null|
