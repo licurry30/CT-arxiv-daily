@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs**|Mrunmay Angaitkar et.al.|[2609.24937](https://arxiv.org/abs/2609.24937)|null|
+|**2026-09-20**|**ELIPPS: Exact Learning for Inverse Problems from Partial Self-supervision**|Benjamin Walder Markus Haltmeier et.al.|[2609.23683](https://arxiv.org/abs/2609.23683)|null|
+|**2026-09-19**|**Signal recovery in the polychromatic computed tomography model: Injectivity and complexity**|Xuanzhou Chen et.al.|[2609.23040](https://arxiv.org/abs/2609.23040)|null|
+|**2026-09-19**|**LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting**|Lifeng Xing et.al.|[2609.22849](https://arxiv.org/abs/2609.22849)|null|
+|**2026-09-17**|**A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data**|H. Dong et.al.|[2609.22376](https://arxiv.org/abs/2609.22376)|null|
+|**2026-09-15**|**Yarn tracking of large-scale 3D textile reinforcements using topological material features**|Hafsa El Herichi et.al.|[2609.22315](https://arxiv.org/abs/2609.22315)|null|
 |**2026-09-18**|**Model-Based Iterative Reconstruction with View-Dependent Detector Displacements for Cone-Beam CT**|Doga Topcicek et.al.|[2609.22032](https://arxiv.org/abs/2609.22032)|null|
 |**2026-09-17**|**Uncertainty-driven training for three-dimensional calibrated lung nodule classification**|Giuseppe Tripodi et.al.|[2609.20905](https://arxiv.org/abs/2609.20905)|null|
 |**2026-09-18**|**Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation**|Linus Britt et.al.|[2609.20151](https://arxiv.org/abs/2609.20151)|null|
@@ -812,6 +818,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-19**|**Signal recovery in the polychromatic computed tomography model: Injectivity and complexity**|Xuanzhou Chen et.al.|[2609.23040](https://arxiv.org/abs/2609.23040)|null|
+|**2026-09-19**|**CLEAR: Complex Learned Explicit Analytical Regularization for Ultra-Accelerated 4D Flow CMR Reconstruction**|German Shâma Wache et.al.|[2609.22950](https://arxiv.org/abs/2609.22950)|null|
+|**2026-09-19**|**LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting**|Lifeng Xing et.al.|[2609.22849](https://arxiv.org/abs/2609.22849)|null|
+|**2026-09-19**|**ARCGym: Benchmarking Deep Reinforcement Learning in Autonomous Robotic Colonoscopy**|Guanglin Ji et.al.|[2609.22803](https://arxiv.org/abs/2609.22803)|null|
+|**2026-09-19**|**Two-Stage Refinement Sparse Channel Estimation for Reconfigurable Intelligent Metasurface Antenna (RIMSA) Massive MIMO**|Yakun Ma et.al.|[2609.22756](https://arxiv.org/abs/2609.22756)|null|
 |**2026-09-18**|**Classification-oriented adaptive sensing via posterior sampling**|Andriy Enttsel et.al.|[2609.21812](https://arxiv.org/abs/2609.21812)|null|
 |**2026-09-17**|**Exploiting Mutual Coupling Structure for Channel Estimation of Active RIS-Assisted Links**|Simon Tarboush et.al.|[2609.21062](https://arxiv.org/abs/2609.21062)|null|
 |**2026-09-16**|**Informed Sinogram Interpolation for Sparse View Reconstruction**|Yuejie Liu et.al.|[2609.18415](https://arxiv.org/abs/2609.18415)|null|
@@ -1250,12 +1261,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics**|MVS Chandrashekhar et.al.|[2609.24856](https://arxiv.org/abs/2609.24856)|null|
+|**2026-09-21**|**Brain-Token Learning: Microstate-Based Tokenization and Multi-Scale Interaction for Long-Horizon EEG Sequence Modeling**|Weishan Ye et.al.|[2609.24324](https://arxiv.org/abs/2609.24324)|null|
+|**2026-09-21**|**Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects**|Zhenxing Dai et.al.|[2609.24293](https://arxiv.org/abs/2609.24293)|null|
+|**2026-09-20**|**AR-WAM: A Visual-Conditioned Agent-Ready World Action Model for Robotic Manipulation**|Yicheng Jiang et.al.|[2609.23578](https://arxiv.org/abs/2609.23578)|null|
+|**2026-09-20**|**Local theta correspondence and generalized Shalika models**|Chong Zhang et.al.|[2609.23349](https://arxiv.org/abs/2609.23349)|null|
+|**2026-09-19**|**When Does Adversarial Refinement Help? A Negative Result and Open Problem in Adapting R3GAN to Time Series Imputation**|Yufeng He et.al.|[2609.23102](https://arxiv.org/abs/2609.23102)|null|
+|**2026-09-19**|**Understanding Ideality Factor in Wide-Band Gap Semiconductor Devices with Strong Recombination Planes**|Iris Celupica-Liu et.al.|[2609.22727](https://arxiv.org/abs/2609.22727)|null|
+|**2026-09-18**|**Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in Ion-Implanted InGaN/GaN Quantum Wells**|Quan-Shan Liu et.al.|[2609.22648](https://arxiv.org/abs/2609.22648)|null|
+|**2026-09-18**|**EmbeddGAN: A Novel GAN Framework Using an Embedding Network and Gini Distance Correlation**|MaTais Caldwell et.al.|[2609.22508](https://arxiv.org/abs/2609.22508)|null|
 |**2026-09-18**|**LunaDrive: A Delay-Compensated High-Voltage GaN FET-Based Motor Driver for Dynamic Robots with Flat BLDC Motors**|Sota Yuzaki et.al.|[2609.21818](https://arxiv.org/abs/2609.21818)|null|
 |**2026-09-18**|**A Differential Form Description of Partial Entanglement Entropy: Testing a Killing Vector Construction in Covariant Phase Space**|Chuanjia Zhu et.al.|[2609.21398](https://arxiv.org/abs/2609.21398)|null|
 |**2026-09-17**|**HMB-GAN: Hybrid Multi-Bézier GAN for Vector Shape Synthesis**|Elian Hugh Thiele-Evans et.al.|[2609.21158](https://arxiv.org/abs/2609.21158)|null|
 |**2026-09-17**|**Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model**|Ali Aouf et.al.|[2609.20358](https://arxiv.org/abs/2609.20358)|null|
 |**2026-09-17**|**AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation**|Keshu Wu et.al.|[2609.19527](https://arxiv.org/abs/2609.19527)|null|
-|**2026-09-16**|**Endoscopic description of the local Langlands correspondence for  $\mathrm{G}_2$ **|Yugo Takanashi et.al.|[2609.19439](https://arxiv.org/abs/2609.19439)|null|
+|**2026-09-20**|**Endoscopic description of the local Langlands correspondence for  $\mathrm{G}_2$ **|Yugo Takanashi et.al.|[2609.19439](https://arxiv.org/abs/2609.19439)|null|
 |**2026-09-15**|**Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer**|Djardiel S. Gomes et.al.|[2609.19192](https://arxiv.org/abs/2609.19192)|null|
 |**2026-09-16**|**TAO-Force: Unifying Force-Aware Perception and Fast-Slow Control for Contact-Rich Manipulation**|Bohan Gan et.al.|[2609.18497](https://arxiv.org/abs/2609.18497)|null|
 |**2026-09-16**|**Graded Algebras of Modular Forms and Sign Changes of Fourier Coefficients for Eta Quotients**|Jianwen Gan et.al.|[2609.18339](https://arxiv.org/abs/2609.18339)|null|
