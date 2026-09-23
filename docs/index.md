@@ -2,15 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-21**|**Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs**|Mrunmay Angaitkar et.al.|[2609.24937](https://arxiv.org/abs/2609.24937)|null|
-|**2026-09-20**|**ELIPPS: Exact Learning for Inverse Problems from Partial Self-supervision**|Benjamin Walder Markus Haltmeier et.al.|[2609.23683](https://arxiv.org/abs/2609.23683)|null|
+|**2026-09-22**|**Radiomics-Conditioned Modulation of RenalCLIP Features for Clear Cell Renal Cell Carcinoma Classification**|Yuan Liang et.al.|[2609.26492](https://arxiv.org/abs/2609.26492)|null|
+|**2026-09-22**|**Complementary Roles of Radiomics and Foundation Representations in Renal Cell Carcinoma Classification: A Comparative Study of 2D and 3D CT Encodings**|Yuan Liang et.al.|[2609.26463](https://arxiv.org/abs/2609.26463)|null|
+|**2026-09-22**|**Enhanced attenuation modelling for multispectral computed tomography**|Jürgen Jeschke et.al.|[2609.25926](https://arxiv.org/abs/2609.25926)|null|
+|**2026-09-22**|**Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs**|Mrunmay Angaitkar et.al.|[2609.24937](https://arxiv.org/abs/2609.24937)|null|
+|**2026-09-22**|**ELIPPS: Exact Learning for Inverse Problems from Partial Self-supervision**|Benjamin Walder et.al.|[2609.23683](https://arxiv.org/abs/2609.23683)|null|
 |**2026-09-19**|**Signal recovery in the polychromatic computed tomography model: Injectivity and complexity**|Xuanzhou Chen et.al.|[2609.23040](https://arxiv.org/abs/2609.23040)|null|
 |**2026-09-19**|**LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting**|Lifeng Xing et.al.|[2609.22849](https://arxiv.org/abs/2609.22849)|null|
 |**2026-09-17**|**A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data**|H. Dong et.al.|[2609.22376](https://arxiv.org/abs/2609.22376)|null|
@@ -1261,6 +1264,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**High-Performance Sensorless Control for High-Speed PMSM with Current Source Inverters**|Nail Tosun et.al.|[2609.25878](https://arxiv.org/abs/2609.25878)|null|
+|**2026-09-22**|**Precursors, Pathways, and State-Dependent Reliability of Long-range ENSO Prediction in the CESM2 Seasonal-to-Multiyear Large Ensemble**|Yudi Mao et.al.|[2609.25706](https://arxiv.org/abs/2609.25706)|null|
+|**2026-09-21**|**X-Planner: Event-Structured Task Planning for Embodied Intelligence**|Howard Lu et.al.|[2609.25187](https://arxiv.org/abs/2609.25187)|null|
 |**2026-09-21**|**Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics**|MVS Chandrashekhar et.al.|[2609.24856](https://arxiv.org/abs/2609.24856)|null|
 |**2026-09-21**|**Brain-Token Learning: Microstate-Based Tokenization and Multi-Scale Interaction for Long-Horizon EEG Sequence Modeling**|Weishan Ye et.al.|[2609.24324](https://arxiv.org/abs/2609.24324)|null|
 |**2026-09-21**|**Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects**|Zhenxing Dai et.al.|[2609.24293](https://arxiv.org/abs/2609.24293)|null|
