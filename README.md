@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Deep Pseudo-Proximal Map: A Self-Supervised Data-Fitting Agent for Iterative Reconstruction**|Haley Duba-Sullivan et.al.|[2609.30727](https://arxiv.org/abs/2609.30727)|null|
+|**2026-09-25**|**Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding**|Enzhi Zhang et.al.|[2609.30682](https://arxiv.org/abs/2609.30682)|null|
 |**2026-09-24**|**Cone-beam artifact reduction in Gamma Knife CBCT images using a line-arc-line scan trajectory**|Alexandra Alain-Beaudoin et.al.|[2609.30169](https://arxiv.org/abs/2609.30169)|null|
 |**2026-09-24**|**CTrex: A Research-Oriented Framework for Kernel- and Projection-Level Algorithm Development in CT Reconstruction**|Karel Desplenter et.al.|[2609.30166](https://arxiv.org/abs/2609.30166)|null|
 |**2026-09-23**|**Non-circular scan trajectories for reducing cone-beam artifacts in Gamma Knife CBCT images: a simulation study**|Alexandra Alain-Beaudoin et.al.|[2609.28232](https://arxiv.org/abs/2609.28232)|null|
@@ -1283,6 +1285,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics**|Javier Muñoz-Haro et.al.|[2609.31514](https://arxiv.org/abs/2609.31514)|null|
+|**2026-09-25**|**ContraFM-S2O: Flow Matching-Based One-step SAR-to-Optical Image Translation Model with Contrastive Learning**|Mingqian Yu et.al.|[2609.31378](https://arxiv.org/abs/2609.31378)|null|
+|**2026-09-25**|**Seeing Semantic Shift: Difference-Aware Sentence-Level Temporal Segmentation of Sign Language Videos**|Bowen Guo et.al.|[2609.31148](https://arxiv.org/abs/2609.31148)|null|
+|**2026-09-25**|**Coupled Meta-Adaptive Filtering for Active Noise Control Under Time-Varying Acoustic Paths**|Boxiang Wang et.al.|[2609.30945](https://arxiv.org/abs/2609.30945)|null|
+|**2026-09-25**|**TS23/McDonald and FIES/NOT strike again. Two new warm Jupiter systems and outer companions in a third**|E. Knudstrup et.al.|[2609.30915](https://arxiv.org/abs/2609.30915)|null|
+|**2026-09-25**|**Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models**|Tianhang Guo et.al.|[2609.30783](https://arxiv.org/abs/2609.30783)|null|
+|**2026-09-24**|**Federated Targeted Maximum Likelihood Estimation**|Diyang Li et.al.|[2609.30503](https://arxiv.org/abs/2609.30503)|null|
+|**2026-09-24**|**PGDM-MRSRGAN: Physics-Guided Degradation Model with an SRGAN Framework for Magnetic Resonance Image Super-Resolution: Applications in Low-Field MRI**|Yashwant Kurmi et.al.|[2609.30431](https://arxiv.org/abs/2609.30431)|null|
 |**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](https://arxiv.org/abs/2609.30130)|null|
 |**2026-09-24**|**Self-Adaptive VLA for Robust Robot Deployment**|Hongxin Zhang et.al.|[2609.30092](https://arxiv.org/abs/2609.30092)|null|
 |**2026-09-24**|**EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation**|Panagiota Gatoula et.al.|[2609.29930](https://arxiv.org/abs/2609.29930)|null|
