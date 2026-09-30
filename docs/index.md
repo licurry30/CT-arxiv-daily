@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Periodicity and image registration for yarn path extraction in large 3D textiles**|Hafsa El Herichi et.al.|[2609.36991](https://arxiv.org/abs/2609.36991)|null|
+|**2026-09-29**|**Merlin Plus: A Large-Scale, Multi-Cancer, Image-Mask-Report Dataset**|Pedro R. A. S. Bassi et.al.|[2609.36436](https://arxiv.org/abs/2609.36436)|null|
 |**2026-09-28**|**An integrated geometric quantification and shape analysis framework for axillary lymph node metastasis in breast cancer patients**|Zixi Yi et.al.|[2609.35437](https://arxiv.org/abs/2609.35437)|null|
 |**2026-09-28**|**Disentangling Lung-Cancer CT/LDCT AI: A Systematic Evidence Map of Clinical Tasks, Evidence Chains, and Translational Gaps**|Surajit Das et.al.|[2609.35240](https://arxiv.org/abs/2609.35240)|null|
 |**2026-09-26**|**Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation**|Xuesong Li et.al.|[2609.32837](https://arxiv.org/abs/2609.32837)|null|
@@ -833,6 +835,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**TomoTransformer: Towards a Foundation Model for CT Reconstruction**|AmirEhsan Khorashadizadeh et.al.|[2609.37605](https://arxiv.org/abs/2609.37605)|null|
+|**2026-09-29**|**Compressed Sensing with Quantized Tensor Trains (QTTs)**|Jingchun Shao et.al.|[2609.36506](https://arxiv.org/abs/2609.36506)|null|
+|**2026-09-28**|**Fundamental Limits of Transferability and Equivariance in Algebraic Signal Models I: Finite Dimensions**|Alejandro Parada-Mayorga et.al.|[2609.36106](https://arxiv.org/abs/2609.36106)|null|
 |**2026-09-25**|**Finite-Data Error Bounds for Approximating the Koopman Operator: Sampling Measures, Super-Polynomial Convergence and Regularization**|Daniel Fassler et.al.|[2609.31817](https://arxiv.org/abs/2609.31817)|null|
 |**2026-09-24**|**CTrex: A Research-Oriented Framework for Kernel- and Projection-Level Algorithm Development in CT Reconstruction**|Karel Desplenter et.al.|[2609.30166](https://arxiv.org/abs/2609.30166)|null|
 |**2026-09-23**|**Non-circular scan trajectories for reducing cone-beam artifacts in Gamma Knife CBCT images: a simulation study**|Alexandra Alain-Beaudoin et.al.|[2609.28232](https://arxiv.org/abs/2609.28232)|null|
@@ -1280,6 +1285,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](https://arxiv.org/abs/2609.38170)|null|
+|**2026-09-29**|**Stochastic World Models for Verifying Vision-Based Neural Feedback Systems**|I. Samuel Akinwande et.al.|[2609.38120](https://arxiv.org/abs/2609.38120)|null|
+|**2026-09-29**|**The Domain Is a Residue: Adapting Self-Supervised Features, Not Generators**|Thomas Deixelberger et.al.|[2609.37330](https://arxiv.org/abs/2609.37330)|null|
+|**2026-09-29**|**Harness Evolution as Learning: Approximation, Generalization, and Optimization Limits of Self-Improving Personal Agents**|Zeyu Gan et.al.|[2609.36892](https://arxiv.org/abs/2609.36892)|null|
+|**2026-09-29**|**You Cannot Recover What Was Never Measured: Quantifying the Information Ceiling of Ultra-Low-Field MRI Super-Resolution**|Prathamesh Pradeep Khole et.al.|[2609.36837](https://arxiv.org/abs/2609.36837)|null|
+|**2026-09-29**|**XBDD: A Highly Optimized ROBDD with Per-Edge Variable-Flip Maps**|Yinglong Gan et.al.|[2609.36778](https://arxiv.org/abs/2609.36778)|null|
+|**2026-09-29**|**Quantum Fidelity Landscape-Guided Prior Calibration for Single-Circuit QGAN Image Generation**|Xue Yang et.al.|[2609.36702](https://arxiv.org/abs/2609.36702)|null|
+|**2026-09-29**|**Normalize-Then-Precondition: A Hierarchical Approach to Marginal Scale and Interaction Geometry for LLM Training**|Zixuan Gong et.al.|[2609.36692](https://arxiv.org/abs/2609.36692)|null|
+|**2026-09-29**|**FairDiff: Mitigating the Self-Reinforcing Matthew Effect in Diffusion Recommender Models**|Song-Li Wu et.al.|[2609.36671](https://arxiv.org/abs/2609.36671)|null|
+|**2026-09-29**|**FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation**|Song-Li Wu et.al.|[2609.36670](https://arxiv.org/abs/2609.36670)|null|
+|**2026-09-28**|**Mutually Adversarial Self-Training with Evolving Data for Unified Multimodal Models**|Wentao Zhou et.al.|[2609.36224](https://arxiv.org/abs/2609.36224)|null|
+|**2026-09-28**|**Adversarial Debiasing of Machine Learning Models for Enhanced Network Security against DDoS Attacks**|Aadith Sukumar et.al.|[2609.36167](https://arxiv.org/abs/2609.36167)|null|
 |**2026-09-28**|**Physics-informed self-supervised generation of digital brain MRI phantoms from weighted images using differentiable MRI simulation**|Kseniya Belousova et.al.|[2609.35273](https://arxiv.org/abs/2609.35273)|null|
 |**2026-09-28**|**Generative AI-Based Data Augmentation for Oral Lesion Classification: The PhotoMOCI Dataset and Benchmark**|Marco Parola et.al.|[2609.35226](https://arxiv.org/abs/2609.35226)|null|
 |**2026-09-28**|**ECHO: Event-Augmented Context with Hindsight and Outlook for Wrist-Only Manipulation**|Xinyue Wang et.al.|[2609.34893](https://arxiv.org/abs/2609.34893)|null|
