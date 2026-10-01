@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation**|Md Mushfiqur Rahaman et.al.|[2609.38811](https://arxiv.org/abs/2609.38811)|null|
+|**2026-09-29**|**Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT**|Namitha Narayanan et.al.|[2609.38271](https://arxiv.org/abs/2609.38271)|null|
 |**2026-09-29**|**Periodicity and image registration for yarn path extraction in large 3D textiles**|Hafsa El Herichi et.al.|[2609.36991](https://arxiv.org/abs/2609.36991)|null|
 |**2026-09-29**|**Merlin Plus: A Large-Scale, Multi-Cancer, Image-Mask-Report Dataset**|Pedro R. A. S. Bassi et.al.|[2609.36436](https://arxiv.org/abs/2609.36436)|null|
 |**2026-09-28**|**An integrated geometric quantification and shape analysis framework for axillary lymph node metastasis in breast cancer patients**|Zixi Yi et.al.|[2609.35437](https://arxiv.org/abs/2609.35437)|null|
@@ -25,7 +27,7 @@ layout: default
 |**2026-09-22**|**Cross-Modal Contrastive Learning from Histopathology and CT for Automated Renal Cell Carcinoma Grading**|Amit Das et.al.|[2609.26920](https://arxiv.org/abs/2609.26920)|null|
 |**2026-09-22**|**Radiomics-Conditioned Modulation of RenalCLIP Features for Clear Cell Renal Cell Carcinoma Classification**|Yuan Liang et.al.|[2609.26492](https://arxiv.org/abs/2609.26492)|null|
 |**2026-09-22**|**Complementary Roles of Radiomics and Foundation Representations in Renal Cell Carcinoma Classification: A Comparative Study of 2D and 3D CT Encodings**|Yuan Liang et.al.|[2609.26463](https://arxiv.org/abs/2609.26463)|null|
-|**2026-09-22**|**Enhanced attenuation modelling for multispectral computed tomography**|Jürgen Jeschke et.al.|[2609.25926](https://arxiv.org/abs/2609.25926)|null|
+|**2026-09-30**|**Enhanced attenuation modelling for multispectral computed tomography**|Jürgen Jeschke et.al.|[2609.25926](https://arxiv.org/abs/2609.25926)|null|
 |**2026-09-22**|**Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs**|Mrunmay Angaitkar et.al.|[2609.24937](https://arxiv.org/abs/2609.24937)|null|
 |**2026-09-22**|**ELIPPS: Exact Learning for Inverse Problems from Partial Self-supervision**|Benjamin Walder et.al.|[2609.23683](https://arxiv.org/abs/2609.23683)|null|
 |**2026-09-19**|**Signal recovery in the polychromatic computed tomography model: Injectivity and complexity**|Xuanzhou Chen et.al.|[2609.23040](https://arxiv.org/abs/2609.23040)|null|
@@ -1285,6 +1287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087](https://arxiv.org/abs/2609.40087)|null|
+|**2026-09-30**|**MyTm: An Automated Melting Temperature Calculation Toolkit**|Y. S. Huang et.al.|[2609.39686](https://arxiv.org/abs/2609.39686)|null|
+|**2026-09-30**|**Parameterization method of reservoir properties for ensemble-based data assimilation using intermediate latent space of StyleGAN**|Marcio A. Sampaio et.al.|[2609.39626](https://arxiv.org/abs/2609.39626)|null|
+|**2026-09-30**|**A Biophysically Detailed C. elegans Circuit as a Task-Agnostic Dynamical Core for Visually Robust Robot Manipulation**|Linrui Qian et.al.|[2609.39322](https://arxiv.org/abs/2609.39322)|null|
+|**2026-09-30**|**Nonlinear scalarization and thermodynamics in Einstein-Phantom scalar-Gauss-Bonnet theory**|Tian-Zhen Dai et.al.|[2609.39236](https://arxiv.org/abs/2609.39236)|null|
+|**2026-09-30**|**Learning Process Rewards via Reasoning State Propagation**|Kai Gan et.al.|[2609.39220](https://arxiv.org/abs/2609.39220)|null|
+|**2026-09-30**|**Visualizing Distribution Coverage in Generative Diffusion Models**|Yifei Wang et.al.|[2609.38853](https://arxiv.org/abs/2609.38853)|null|
+|**2026-09-30**|**Memory in Behavioral Models as Motion on a Slow Invariant Manifold**|Nicholas B. Tufillaro et.al.|[2609.38771](https://arxiv.org/abs/2609.38771)|null|
+|**2026-09-29**|**Migration and Evolution of giant ExoPlanets (MEEP). III. Twenty-Nine Giant Planets from the TESS Mission**|Jack Schulte et.al.|[2609.38468](https://arxiv.org/abs/2609.38468)|null|
+|**2026-09-29**|**Maintaining Human Verification Capacity under Automation**|Li Gan et.al.|[2609.38459](https://arxiv.org/abs/2609.38459)|null|
 |**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Xin Lin et.al.|[2609.38170](https://arxiv.org/abs/2609.38170)|null|
 |**2026-09-29**|**Stochastic World Models for Verifying Vision-Based Neural Feedback Systems**|I. Samuel Akinwande et.al.|[2609.38120](https://arxiv.org/abs/2609.38120)|null|
 |**2026-09-29**|**The Domain Is a Residue: Adapting Self-Supervised Features, Not Generators**|Thomas Deixelberger et.al.|[2609.37330](https://arxiv.org/abs/2609.37330)|null|
