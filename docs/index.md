@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography**|Luca A. Forte et.al.|[2610.01930](https://arxiv.org/abs/2610.01930)|null|
+|**2026-10-01**|**Parallax Depth Sectioning and 3D Reconstruction in 4D-STEM**|Desheng Ma et.al.|[2610.01057](https://arxiv.org/abs/2610.01057)|null|
+|**2026-10-01**|**Spatial Thickness Mapping in Heterogeneous Plate Using Wave Physics-Informed Regression**|Amanda Beck et.al.|[2610.00944](https://arxiv.org/abs/2610.00944)|null|
+|**2026-09-30**|**RIQE: a NIQE-style reference model for Computed Tomography**|Fabio Mattiussi et.al.|[2610.00384](https://arxiv.org/abs/2610.00384)|null|
 |**2026-09-30**|**DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation**|Md Mushfiqur Rahaman et.al.|[2609.38811](https://arxiv.org/abs/2609.38811)|null|
 |**2026-09-29**|**Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT**|Namitha Narayanan et.al.|[2609.38271](https://arxiv.org/abs/2609.38271)|null|
 |**2026-09-29**|**Periodicity and image registration for yarn path extraction in large 3D textiles**|Hafsa El Herichi et.al.|[2609.36991](https://arxiv.org/abs/2609.36991)|null|
@@ -1287,11 +1291,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**EndoLive: Real-Time Style Transfer for Endoscopic Endonasal Skull Base Surgical Video**|Griffin Hurt et.al.|[2610.01956](https://arxiv.org/abs/2610.01956)|null|
+|**2026-10-01**|**Vanishing orders of Dirichlet solutions to the Schrödinger equation in dimensions three and higher**|Shuowen Feng et.al.|[2610.01615](https://arxiv.org/abs/2610.01615)|null|
+|**2026-10-01**|**Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories**|Chengguang Gan et.al.|[2610.01491](https://arxiv.org/abs/2610.01491)|null|
+|**2026-09-30**|**Deep Learning for Anomaly Detection in Railway Systems: A Structured Survey**|Ammar Bouketta et.al.|[2610.00363](https://arxiv.org/abs/2610.00363)|null|
 |**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087](https://arxiv.org/abs/2609.40087)|null|
 |**2026-09-30**|**MyTm: An Automated Melting Temperature Calculation Toolkit**|Y. S. Huang et.al.|[2609.39686](https://arxiv.org/abs/2609.39686)|null|
 |**2026-09-30**|**Parameterization method of reservoir properties for ensemble-based data assimilation using intermediate latent space of StyleGAN**|Marcio A. Sampaio et.al.|[2609.39626](https://arxiv.org/abs/2609.39626)|null|
 |**2026-09-30**|**A Biophysically Detailed C. elegans Circuit as a Task-Agnostic Dynamical Core for Visually Robust Robot Manipulation**|Linrui Qian et.al.|[2609.39322](https://arxiv.org/abs/2609.39322)|null|
-|**2026-09-30**|**Nonlinear scalarization and thermodynamics in Einstein-Phantom scalar-Gauss-Bonnet theory**|Tian-Zhen Dai et.al.|[2609.39236](https://arxiv.org/abs/2609.39236)|null|
+|**2026-10-01**|**Nonlinear scalarization and thermodynamics in Einstein-Phantom scalar-Gauss-Bonnet theory**|Tian-Zhen Dai et.al.|[2609.39236](https://arxiv.org/abs/2609.39236)|null|
 |**2026-09-30**|**Learning Process Rewards via Reasoning State Propagation**|Kai Gan et.al.|[2609.39220](https://arxiv.org/abs/2609.39220)|null|
 |**2026-09-30**|**Visualizing Distribution Coverage in Generative Diffusion Models**|Yifei Wang et.al.|[2609.38853](https://arxiv.org/abs/2609.38853)|null|
 |**2026-09-30**|**Memory in Behavioral Models as Motion on a Slow Invariant Manifold**|Nicholas B. Tufillaro et.al.|[2609.38771](https://arxiv.org/abs/2609.38771)|null|
