@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Anatomy-preserving unpaired cone-beam CT refinement for image-guided radiotherapy using pseudo-label guided diffusion**|Qi Lai et.al.|[2610.06094](https://arxiv.org/abs/2610.06094)|null|
+|**2026-10-03**|**On randomized batch-sampling coordinate descent methods for solving linear least-squares problems**|Dong-Yue Xie et.al.|[2610.04685](https://arxiv.org/abs/2610.04685)|null|
+|**2026-10-02**|**Latent Score-Based Bayesian Cramér-Rao Bound Estimation for High-Dimensional Imaging Systems**|Evan Scope Crafts et.al.|[2610.03956](https://arxiv.org/abs/2610.03956)|null|
+|**2026-09-28**|**Efficient, Geometry-only Prediction of Advection-dominated Particle Transport through Saturated Soils**|Hao Liu et.al.|[2610.03767](https://arxiv.org/abs/2610.03767)|null|
+|**2026-10-02**|**Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures**|Elena Morotti et.al.|[2610.03261](https://arxiv.org/abs/2610.03261)|null|
 |**2026-10-01**|**Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography**|Luca A. Forte et.al.|[2610.01930](https://arxiv.org/abs/2610.01930)|null|
 |**2026-10-01**|**Parallax Depth Sectioning and 3D Reconstruction in 4D-STEM**|Desheng Ma et.al.|[2610.01057](https://arxiv.org/abs/2610.01057)|null|
 |**2026-10-01**|**Spatial Thickness Mapping in Heterogeneous Plate Using Wave Physics-Informed Regression**|Amanda Beck et.al.|[2610.00944](https://arxiv.org/abs/2610.00944)|null|
@@ -841,7 +846,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-29**|**TomoTransformer: Towards a Foundation Model for CT Reconstruction**|AmirEhsan Khorashadizadeh et.al.|[2609.37605](https://arxiv.org/abs/2609.37605)|null|
+|**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](https://arxiv.org/abs/2610.06107)|null|
+|**2026-10-04**|**Incoherent filter banks**|William J. Brinkley et.al.|[2610.05302](https://arxiv.org/abs/2610.05302)|null|
+|**2026-10-03**|**On randomized batch-sampling coordinate descent methods for solving linear least-squares problems**|Dong-Yue Xie et.al.|[2610.04685](https://arxiv.org/abs/2610.04685)|null|
+|**2026-10-02**|**TomoTransformer: Towards a Foundation Model for CT Reconstruction**|AmirEhsan Khorashadizadeh et.al.|[2609.37605](https://arxiv.org/abs/2609.37605)|null|
 |**2026-09-29**|**Compressed Sensing with Quantized Tensor Trains (QTTs)**|Jingchun Shao et.al.|[2609.36506](https://arxiv.org/abs/2609.36506)|null|
 |**2026-09-28**|**Fundamental Limits of Transferability and Equivariance in Algebraic Signal Models I: Finite Dimensions**|Alejandro Parada-Mayorga et.al.|[2609.36106](https://arxiv.org/abs/2609.36106)|null|
 |**2026-09-25**|**Finite-Data Error Bounds for Approximating the Koopman Operator: Sampling Measures, Super-Polynomial Convergence and Regularization**|Daniel Fassler et.al.|[2609.31817](https://arxiv.org/abs/2609.31817)|null|
@@ -1291,6 +1299,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**AI-assisted super-resolution cosmological simulations V: Cosmology-aware super-resolution**|Xiaowen Zhang et.al.|[2610.06710](https://arxiv.org/abs/2610.06710)|null|
+|**2026-10-05**|**Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs**|Manousos Linardakis et.al.|[2610.06703](https://arxiv.org/abs/2610.06703)|null|
+|**2026-10-05**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable T1\r{ho} and T2 Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](https://arxiv.org/abs/2610.06602)|null|
+|**2026-10-05**|**Anatomy-preserving unpaired cone-beam CT refinement for image-guided radiotherapy using pseudo-label guided diffusion**|Qi Lai et.al.|[2610.06094](https://arxiv.org/abs/2610.06094)|null|
+|**2026-10-05**|**Square-Root Regret for Adversarial Multiplayer Bandits without Collision Information or Shared Randomness**|Chenyu Gan et.al.|[2610.05688](https://arxiv.org/abs/2610.05688)|null|
+|**2026-10-04**|**Improved dimension bounds for Falconer's distance problem in the plane**|Alex Iosevich et.al.|[2610.05500](https://arxiv.org/abs/2610.05500)|null|
+|**2026-10-04**|**Lebesgue measure of distance sets and  $L^2$  ball inflation**|Shengwen Gan et.al.|[2610.05015](https://arxiv.org/abs/2610.05015)|null|
+|**2026-10-04**|**LLM-Based Test Generation: Information Sources, Generation Strategies, and Quality Evidence**|Yunhao Liang et.al.|[2610.05001](https://arxiv.org/abs/2610.05001)|null|
+|**2026-10-03**|**Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence**|Zongye Hu et.al.|[2610.04791](https://arxiv.org/abs/2610.04791)|null|
+|**2026-10-02**|**LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization**|Ziye Deng et.al.|[2610.03959](https://arxiv.org/abs/2610.03959)|null|
+|**2026-10-02**|**Sharp rational points counting near nondegenerate curves in  $\mathbb{R}^n$ **|Shengwen Gan et.al.|[2610.03231](https://arxiv.org/abs/2610.03231)|null|
+|**2026-10-01**|**Counterexamples for Rational Points Near Curves**|Mingfeng Chen et.al.|[2610.02443](https://arxiv.org/abs/2610.02443)|null|
 |**2026-10-01**|**EndoLive: Real-Time Style Transfer for Endoscopic Endonasal Skull Base Surgical Video**|Griffin Hurt et.al.|[2610.01956](https://arxiv.org/abs/2610.01956)|null|
 |**2026-10-01**|**Vanishing orders of Dirichlet solutions to the Schrödinger equation in dimensions three and higher**|Shuowen Feng et.al.|[2610.01615](https://arxiv.org/abs/2610.01615)|null|
 |**2026-10-01**|**Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories**|Chengguang Gan et.al.|[2610.01491](https://arxiv.org/abs/2610.01491)|null|
