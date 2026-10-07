@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Deformable CT-US Registration via Anatomy-Aware Implicit Neural Representations**|Agnieszka Lach et.al.|[2610.08419](https://arxiv.org/abs/2610.08419)|null|
+|**2026-10-06**|**A Time-Resolved Framework for Quantifying Neuronal Network State Transitions**|Ilya Auslender et.al.|[2610.08392](https://arxiv.org/abs/2610.08392)|null|
+|**2026-10-05**|**A BEMD-Based Quaternion Filtering Approach Sharp-to-Soft Kernel CT Image Conversion**|Mahmoud Nasr et.al.|[2610.07071](https://arxiv.org/abs/2610.07071)|null|
 |**2026-10-05**|**Anatomy-preserving unpaired cone-beam CT refinement for image-guided radiotherapy using pseudo-label guided diffusion**|Qi Lai et.al.|[2610.06094](https://arxiv.org/abs/2610.06094)|null|
 |**2026-10-03**|**On randomized batch-sampling coordinate descent methods for solving linear least-squares problems**|Dong-Yue Xie et.al.|[2610.04685](https://arxiv.org/abs/2610.04685)|null|
 |**2026-10-02**|**Latent Score-Based Bayesian Cramér-Rao Bound Estimation for High-Dimensional Imaging Systems**|Evan Scope Crafts et.al.|[2610.03956](https://arxiv.org/abs/2610.03956)|null|
@@ -848,12 +851,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**WM4ISAC: World Model for Proactive ISAC Under Dynamic Blockage**|Zichao Xiao et.al.|[2610.08267](https://arxiv.org/abs/2610.08267)|null|
+|**2026-10-06**|**Measurement Complexity of Quantum Compressed Sensing**|Jianyong Hu et.al.|[2610.08234](https://arxiv.org/abs/2610.08234)|null|
 |**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](https://arxiv.org/abs/2610.06107)|null|
 |**2026-10-04**|**Incoherent filter banks**|William J. Brinkley et.al.|[2610.05302](https://arxiv.org/abs/2610.05302)|null|
 |**2026-10-03**|**On randomized batch-sampling coordinate descent methods for solving linear least-squares problems**|Dong-Yue Xie et.al.|[2610.04685](https://arxiv.org/abs/2610.04685)|null|
@@ -1303,15 +1308,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Beyond Group Delay: Fundamental Limits of Achromatic Metasurfaces**|Roman Buisine et.al.|[2610.08047](https://arxiv.org/abs/2610.08047)|null|
+|**2026-10-06**|**A self-learning scientific agent for X-ray diffraction**|Bin Cao et.al.|[2610.07862](https://arxiv.org/abs/2610.07862)|null|
+|**2026-10-06**|**Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contrast microscopy**|Yukari Ishikawa et.al.|[2610.07837](https://arxiv.org/abs/2610.07837)|null|
+|**2026-10-06**|**SanSi: A Looped Typed Decision Model for System 1.5 Thinking**|Shuyu Gan et.al.|[2610.07730](https://arxiv.org/abs/2610.07730)|null|
+|**2026-10-04**|**A FAS Channel Fitting Strategy Using Extreme Value Distributions for Accurate Outage Performance Evaluation**|Rui Xu et.al.|[2610.07011](https://arxiv.org/abs/2610.07011)|null|
 |**2026-10-05**|**AI-assisted super-resolution cosmological simulations V: Cosmology-aware super-resolution**|Xiaowen Zhang et.al.|[2610.06710](https://arxiv.org/abs/2610.06710)|null|
 |**2026-10-05**|**Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs**|Manousos Linardakis et.al.|[2610.06703](https://arxiv.org/abs/2610.06703)|null|
-|**2026-10-05**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable T1\r{ho} and T2 Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](https://arxiv.org/abs/2610.06602)|null|
+|**2026-10-06**|**Multitask Conditional Generative Adversarial Network Enables Automatic Whole Knee Cartilage and Menisci Segmentation and Reliable  $T_{1ρ}$  and  $T_2$  Quantification Without High-Resolution Morphological Images**|Ahmed Tahseen Minhaz et.al.|[2610.06602](https://arxiv.org/abs/2610.06602)|null|
 |**2026-10-05**|**Anatomy-preserving unpaired cone-beam CT refinement for image-guided radiotherapy using pseudo-label guided diffusion**|Qi Lai et.al.|[2610.06094](https://arxiv.org/abs/2610.06094)|null|
 |**2026-10-05**|**Square-Root Regret for Adversarial Multiplayer Bandits without Collision Information or Shared Randomness**|Chenyu Gan et.al.|[2610.05688](https://arxiv.org/abs/2610.05688)|null|
 |**2026-10-04**|**Improved dimension bounds for Falconer's distance problem in the plane**|Alex Iosevich et.al.|[2610.05500](https://arxiv.org/abs/2610.05500)|null|
@@ -3247,7 +3257,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3295,5 +3305,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
