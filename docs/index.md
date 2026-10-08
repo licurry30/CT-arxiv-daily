@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Gradient-Based Trajectory Optimisation over Continuous Poses for Sparse-View Cone-Beam CT**|Linda-Sophie Schneider et.al.|[2610.09579](https://arxiv.org/abs/2610.09579)|null|
+|**2026-10-07**|**Gaussian Material Fields for Volumetric Multi-Energy CT Decomposition**|Jian Lin et.al.|[2610.09492](https://arxiv.org/abs/2610.09492)|null|
+|**2026-10-07**|**PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors**|Weicheng Dai et.al.|[2610.09253](https://arxiv.org/abs/2610.09253)|null|
+|**2026-10-05**|**Geometry-Aware Diffusion Approximate Posterior Sampling for Sparse-View and Limited-Angle CT**|Honglei Brinkmann et.al.|[2610.08866](https://arxiv.org/abs/2610.08866)|null|
 |**2026-10-06**|**Deformable CT-US Registration via Anatomy-Aware Implicit Neural Representations**|Agnieszka Lach et.al.|[2610.08419](https://arxiv.org/abs/2610.08419)|null|
 |**2026-10-06**|**A Time-Resolved Framework for Quantifying Neuronal Network State Transitions**|Ilya Auslender et.al.|[2610.08392](https://arxiv.org/abs/2610.08392)|null|
 |**2026-10-05**|**A BEMD-Based Quaternion Filtering Approach Sharp-to-Soft Kernel CT Image Conversion**|Mahmoud Nasr et.al.|[2610.07071](https://arxiv.org/abs/2610.07071)|null|
@@ -849,6 +853,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**The Silhouette Operator: Identifiability of Low-Rank Measures from One-Dimensional Projections**|Robert A. Vandermeulen et.al.|[2610.09687](https://arxiv.org/abs/2610.09687)|null|
+|**2026-10-07**|**PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors**|Weicheng Dai et.al.|[2610.09253](https://arxiv.org/abs/2610.09253)|null|
 |**2026-10-06**|**WM4ISAC: World Model for Proactive ISAC Under Dynamic Blockage**|Zichao Xiao et.al.|[2610.08267](https://arxiv.org/abs/2610.08267)|null|
 |**2026-10-06**|**Measurement Complexity of Quantum Compressed Sensing**|Jianyong Hu et.al.|[2610.08234](https://arxiv.org/abs/2610.08234)|null|
 |**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](https://arxiv.org/abs/2610.06107)|null|
@@ -1304,6 +1310,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Insights from Autoresearch for Solar Panel Segmentation**|Justinas Lekavicius et.al.|[2610.10491](https://arxiv.org/abs/2610.10491)|null|
+|**2026-10-07**|**How Private is Private? A Comparative Study for Face De-Identification**|Hui Wei et.al.|[2610.10334](https://arxiv.org/abs/2610.10334)|null|
+|**2026-10-07**|**Learning to Act with Task Progress: Distilling Small Agents from Compact Teacher Supervision**|Wenxi Gan et.al.|[2610.10332](https://arxiv.org/abs/2610.10332)|null|
+|**2026-10-07**|**VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding**|Yongchao Xu et.al.|[2610.10183](https://arxiv.org/abs/2610.10183)|null|
+|**2026-10-07**|**Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature**|Matthieu Meignin et.al.|[2610.09859](https://arxiv.org/abs/2610.09859)|null|
+|**2026-10-07**|**Why VLMs Miss Small Objects, and When Zooming In Is Safe**|Junzhe Shi et.al.|[2610.09313](https://arxiv.org/abs/2610.09313)|null|
 |**2026-10-06**|**Beyond Group Delay: Fundamental Limits of Achromatic Metasurfaces**|Roman Buisine et.al.|[2610.08047](https://arxiv.org/abs/2610.08047)|null|
 |**2026-10-06**|**A self-learning scientific agent for X-ray diffraction**|Bin Cao et.al.|[2610.07862](https://arxiv.org/abs/2610.07862)|null|
 |**2026-10-06**|**Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contrast microscopy**|Yukari Ishikawa et.al.|[2610.07837](https://arxiv.org/abs/2610.07837)|null|
