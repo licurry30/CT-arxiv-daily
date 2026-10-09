@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration**|Jialei He et.al.|[2610.12337](https://arxiv.org/abs/2610.12337)|null|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
+|**2026-10-07**|**Toward Reliable Patient-Specific Aortic Strain Mapping from 4D CTA: Validation, Spectral Structure, and Clinical Potential**|Tricia Lobo et.al.|[2610.10913](https://arxiv.org/abs/2610.10913)|null|
 |**2026-10-07**|**Gradient-Based Trajectory Optimisation over Continuous Poses for Sparse-View Cone-Beam CT**|Linda-Sophie Schneider et.al.|[2610.09579](https://arxiv.org/abs/2610.09579)|null|
 |**2026-10-07**|**Gaussian Material Fields for Volumetric Multi-Energy CT Decomposition**|Jian Lin et.al.|[2610.09492](https://arxiv.org/abs/2610.09492)|null|
 |**2026-10-07**|**PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors**|Weicheng Dai et.al.|[2610.09253](https://arxiv.org/abs/2610.09253)|null|
@@ -853,6 +856,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Recovery Guarantees for Posterior Sampling of One-Bit Compressed Sensing**|Jing Ma et.al.|[2610.11834](https://arxiv.org/abs/2610.11834)|null|
+|**2026-10-08**|**Certified Scalable Enclosures for Uncertain Underdetermined Systems**|Rudra Prakash et.al.|[2610.11660](https://arxiv.org/abs/2610.11660)|null|
 |**2026-10-07**|**The Silhouette Operator: Identifiability of Low-Rank Measures from One-Dimensional Projections**|Robert A. Vandermeulen et.al.|[2610.09687](https://arxiv.org/abs/2610.09687)|null|
 |**2026-10-07**|**PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors**|Weicheng Dai et.al.|[2610.09253](https://arxiv.org/abs/2610.09253)|null|
 |**2026-10-06**|**WM4ISAC: World Model for Proactive ISAC Under Dynamic Blockage**|Zichao Xiao et.al.|[2610.08267](https://arxiv.org/abs/2610.08267)|null|
@@ -1310,6 +1315,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Tell Robot What Not to Do: A Negation Understanding Perspective**|Fazeng Li et.al.|[2610.11952](https://arxiv.org/abs/2610.11952)|null|
+|**2026-10-08**|**Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries**|Lumou Weng et.al.|[2610.11232](https://arxiv.org/abs/2610.11232)|null|
+|**2026-10-08**|**Social Pain Disrupts Emotion-Action Brain-State Dynamics in Adolescents with Non-Suicidal Self-Injury**|Ying Xu et.al.|[2610.11155](https://arxiv.org/abs/2610.11155)|null|
+|**2026-10-08**|**Risk Ceilings and Development Deadlines: Pacing AI under Uncertain Safety Productivity**|Li Gan et.al.|[2610.11093](https://arxiv.org/abs/2610.11093)|null|
+|**2026-10-08**|**No Distillation Needed: Single-Pass Real-Time Talking Heads via Acausal Noise Shaping**|Yu Han et.al.|[2610.11070](https://arxiv.org/abs/2610.11070)|null|
+|**2026-10-07**|**Adaptive Multi-Discriminator WGAN Framework for Resource-Constrained Internet of Vehicles Using Reinforcement Learning and Game Theory**|Farhoud Jafari Kaleibar et.al.|[2610.10926](https://arxiv.org/abs/2610.10926)|null|
+|**2026-10-07**|**Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations**|Muhammad M. Akmal et.al.|[2610.10897](https://arxiv.org/abs/2610.10897)|null|
 |**2026-10-07**|**Insights from Autoresearch for Solar Panel Segmentation**|Justinas Lekavicius et.al.|[2610.10491](https://arxiv.org/abs/2610.10491)|null|
 |**2026-10-07**|**How Private is Private? A Comparative Study for Face De-Identification**|Hui Wei et.al.|[2610.10334](https://arxiv.org/abs/2610.10334)|null|
 |**2026-10-07**|**Learning to Act with Task Progress: Distilling Small Agents from Compact Teacher Supervision**|Wenxi Gan et.al.|[2610.10332](https://arxiv.org/abs/2610.10332)|null|
