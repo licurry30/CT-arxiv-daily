@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging**|Fabian Drexel et.al.|[2610.13237](https://arxiv.org/abs/2610.13237)|null|
 |**2026-10-08**|**ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration**|Jialei He et.al.|[2610.12337](https://arxiv.org/abs/2610.12337)|null|
 |**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
 |**2026-10-07**|**Toward Reliable Patient-Specific Aortic Strain Mapping from 4D CTA: Validation, Spectral Structure, and Clinical Potential**|Tricia Lobo et.al.|[2610.10913](https://arxiv.org/abs/2610.10913)|null|
@@ -1315,6 +1316,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Vocal Intensity Conversion with Continuous SPL Control via Adversarial Training**|Quentin Le Tellier et.al.|[2610.13608](https://arxiv.org/abs/2610.13608)|null|
+|**2026-10-09**|**Quantization-Tolerant Gradient Auditing for Active Inference-Attack Detection in Federated Learning**|Michael Kuehne-Schlinkert et.al.|[2610.13311](https://arxiv.org/abs/2610.13311)|null|
+|**2026-10-09**|**SharP: Soft and Hard Prompt-Guided Augmentation with LLM for Low Resource Fake News Detection**|Ziyu Luo et.al.|[2610.13207](https://arxiv.org/abs/2610.13207)|null|
+|**2026-10-09**|**Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers**|Rishabh Saraswat et.al.|[2610.12996](https://arxiv.org/abs/2610.12996)|null|
+|**2026-10-09**|**Hecke Eigenform Product Identities for Full-Level Hilbert Modular Forms**|Dijia Chen et.al.|[2610.12979](https://arxiv.org/abs/2610.12979)|null|
+|**2026-10-09**|**Controlled-Minimax: Stabilizing Adversarial Optimization via Control Theory**|Tianjiao Luo et.al.|[2610.12915](https://arxiv.org/abs/2610.12915)|null|
 |**2026-10-08**|**Tell Robot What Not to Do: A Negation Understanding Perspective**|Fazeng Li et.al.|[2610.11952](https://arxiv.org/abs/2610.11952)|null|
 |**2026-10-08**|**Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries**|Lumou Weng et.al.|[2610.11232](https://arxiv.org/abs/2610.11232)|null|
 |**2026-10-08**|**Social Pain Disrupts Emotion-Action Brain-State Dynamics in Adolescents with Non-Suicidal Self-Injury**|Ying Xu et.al.|[2610.11155](https://arxiv.org/abs/2610.11155)|null|
@@ -1323,7 +1330,7 @@ layout: default
 |**2026-10-07**|**Adaptive Multi-Discriminator WGAN Framework for Resource-Constrained Internet of Vehicles Using Reinforcement Learning and Game Theory**|Farhoud Jafari Kaleibar et.al.|[2610.10926](https://arxiv.org/abs/2610.10926)|null|
 |**2026-10-07**|**Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations**|Muhammad M. Akmal et.al.|[2610.10897](https://arxiv.org/abs/2610.10897)|null|
 |**2026-10-07**|**Insights from Autoresearch for Solar Panel Segmentation**|Justinas Lekavicius et.al.|[2610.10491](https://arxiv.org/abs/2610.10491)|null|
-|**2026-10-07**|**How Private is Private? A Comparative Study for Face De-Identification**|Hui Wei et.al.|[2610.10334](https://arxiv.org/abs/2610.10334)|null|
+|**2026-10-09**|**How Private is Private? A Comparative Study for Face De-Identification**|Hui Wei et.al.|[2610.10334](https://arxiv.org/abs/2610.10334)|null|
 |**2026-10-07**|**Learning to Act with Task Progress: Distilling Small Agents from Compact Teacher Supervision**|Wenxi Gan et.al.|[2610.10332](https://arxiv.org/abs/2610.10332)|null|
 |**2026-10-07**|**VideoEvolve: Co-Evolving Memory and Retrieval for Long Video Understanding**|Yongchao Xu et.al.|[2610.10183](https://arxiv.org/abs/2610.10183)|null|
 |**2026-10-07**|**Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature**|Matthieu Meignin et.al.|[2610.09859](https://arxiv.org/abs/2610.09859)|null|
