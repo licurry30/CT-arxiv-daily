@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[2610.18556](https://arxiv.org/abs/2610.18556)|null|
+|**2026-10-13**|**Dual-Domain Sparse-View 4D CBCT Reconstruction with Spatial-Temporal Consistency Learning**|Qi Lai et.al.|[2610.18518](https://arxiv.org/abs/2610.18518)|null|
+|**2026-10-13**|**Noise2Match: Self-Supervised Low-Dose CT Denoising via Adaptive Inter-Slice Matching**|Langrui Zhou et.al.|[2610.18379](https://arxiv.org/abs/2610.18379)|null|
+|**2026-10-13**|**LiFUSE: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT**|Hao Zhang et.al.|[2610.18243](https://arxiv.org/abs/2610.18243)|null|
+|**2026-10-13**|**Photoacoustic imaging of human brain function through intact adult skulls**|Yilin Luo et.al.|[2610.17504](https://arxiv.org/abs/2610.17504)|null|
+|**2026-10-12**|**NoduleFlow: Automatic 3D Lung Nodule Detection and Segmentation**|Giulia Romoli et.al.|[2610.16548](https://arxiv.org/abs/2610.16548)|null|
+|**2026-10-11**|**Robust Detection of Directional Adversarial Attacks in Deep Neural Networks for Radiological Imaging**|Tristan Malatyński et.al.|[2610.15628](https://arxiv.org/abs/2610.15628)|null|
+|**2026-10-10**|**AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction**|Zonglin Li et.al.|[2610.14963](https://arxiv.org/abs/2610.14963)|null|
+|**2026-10-08**|**RePrior: Measurement-Reconciled Prior Correction for Sparse-View CBCT Reconstruction**|Mengrui Yin et.al.|[2610.14102](https://arxiv.org/abs/2610.14102)|null|
 |**2026-10-09**|**The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging**|Fabian Drexel et.al.|[2610.13237](https://arxiv.org/abs/2610.13237)|null|
 |**2026-10-08**|**ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration**|Jialei He et.al.|[2610.12337](https://arxiv.org/abs/2610.12337)|null|
 |**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
@@ -857,7 +866,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**Recovery Guarantees for Posterior Sampling of One-Bit Compressed Sensing**|Jing Ma et.al.|[2610.11834](https://arxiv.org/abs/2610.11834)|null|
+|**2026-10-13**|**Lifted Restricted Isometry Property and Fast Algorithm for Spectral Compressed Sensing With Near-Optimal Sample Complexity**|Xunmeng Wu et.al.|[2610.18032](https://arxiv.org/abs/2610.18032)|null|
+|**2026-10-12**|**Recovery Guarantees for Posterior Sampling of One-Bit Compressed Sensing**|Jing Ma et.al.|[2610.11834](https://arxiv.org/abs/2610.11834)|null|
 |**2026-10-08**|**Certified Scalable Enclosures for Uncertain Underdetermined Systems**|Rudra Prakash et.al.|[2610.11660](https://arxiv.org/abs/2610.11660)|null|
 |**2026-10-07**|**The Silhouette Operator: Identifiability of Low-Rank Measures from One-Dimensional Projections**|Robert A. Vandermeulen et.al.|[2610.09687](https://arxiv.org/abs/2610.09687)|null|
 |**2026-10-07**|**PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors**|Weicheng Dai et.al.|[2610.09253](https://arxiv.org/abs/2610.09253)|null|
@@ -1316,6 +1326,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor**|Baikui Li et.al.|[2610.18550](https://arxiv.org/abs/2610.18550)|null|
+|**2026-10-13**|**Unsupervised and Supervised Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)**|Thierry Bouwmans et.al.|[2610.18291](https://arxiv.org/abs/2610.18291)|null|
+|**2026-10-13**|**Observation of stacked vortex structure with number controllable Majorana zero mode in Bi $_{2}$ Te $_{3}$ /FeTe heterojunction**|Xinru Han et.al.|[2610.17701](https://arxiv.org/abs/2610.17701)|null|
+|**2026-10-13**|**Toward Interpretable Quantum Generators for Financial Returns through Problem-Informed Circuit Design**|Huijie Guan et.al.|[2610.17632](https://arxiv.org/abs/2610.17632)|null|
+|**2026-10-13**|**Mobility-Budget-Constrained Submodular Maximization for Distributed Semantic Multi-Robot Exploration**|Changxuan Yao et.al.|[2610.17562](https://arxiv.org/abs/2610.17562)|null|
+|**2026-10-12**|**Statistical Downscaling of Daily Precipitation from ERA5 Atmospheric Fields to IMERG over West Africa**|David Sagna et.al.|[2610.16816](https://arxiv.org/abs/2610.16816)|null|
+|**2026-10-12**|**An Intermediate-orbit Brown Dwarf Confirmed with Astrometry+Radial Velocity Joint Analysis, and the Eccentricity Distribution of Brown Dwarfs Across Different Locations**|Lei Ren et.al.|[2610.16662](https://arxiv.org/abs/2610.16662)|null|
+|**2026-10-12**|**Weak Segmentation-Guided GAN for~Realistic Color Edition**|Vincent Auriau et.al.|[2610.16620](https://arxiv.org/abs/2610.16620)|null|
+|**2026-10-12**|**Towards Modality-Agnostic Seizure Classification: A Unified Deep Learning Framework for Heterogeneous EEG and Intracranial EEG Signals**|Ramya Sundaram et.al.|[2610.16596](https://arxiv.org/abs/2610.16596)|null|
+|**2026-10-12**|**Code-Interactive Visual Reasoning for Financial Candlestick Understanding**|Chenxi Zhang et.al.|[2610.16587](https://arxiv.org/abs/2610.16587)|null|
+|**2026-10-12**|**MPASCNet: Magnitude-Phase-Aware Adaptive Spectral Compression for Compressed Music Restoration**|Xinlong Deng et.al.|[2610.16416](https://arxiv.org/abs/2610.16416)|null|
+|**2026-10-12**|**ProGAN-Based Synthetic Image Generation for Industrial Visual Inspection of Metallic Parts**|Hossein Omid Beiki et.al.|[2610.16287](https://arxiv.org/abs/2610.16287)|null|
+|**2026-10-12**|**VGGA: Geometry-Grounded Autoencoder for Video Generation**|Chaofan Gan et.al.|[2610.16204](https://arxiv.org/abs/2610.16204)|null|
+|**2026-10-11**|**FlowGRPO for Vocal Separation: From Reward Analysis to Reward Design**|Lishi Zuo et.al.|[2610.15780](https://arxiv.org/abs/2610.15780)|null|
+|**2026-10-10**|**TRIG: Toward Measuring Texture Realism in Image Generation**|Zhiwei Xu et.al.|[2610.15164](https://arxiv.org/abs/2610.15164)|null|
+|**2026-10-10**|**Ultra-low-loss Ta2O5 waveguide for integrated nonlinear photonics**|Xiaotong Zhang et.al.|[2610.14878](https://arxiv.org/abs/2610.14878)|null|
+|**2026-10-10**|**Japanese Handwriting Generation Based on Human Preference Feedback Using Direct Preference Optimization**|Wakana Kuwata et.al.|[2610.14743](https://arxiv.org/abs/2610.14743)|null|
+|**2026-10-10**|**Integrating AIRL-Based Reward Estimation into a Control Method Using Fuzzy Inference and Policy Gradient**|Seiji Ishihara et.al.|[2610.14723](https://arxiv.org/abs/2610.14723)|null|
+|**2026-10-09**|**Safety Research and the Allocation of Frontier Compute**|Li Gan et.al.|[2610.14305](https://arxiv.org/abs/2610.14305)|null|
+|**2026-10-09**|**Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models**|Laura Yao et.al.|[2610.14190](https://arxiv.org/abs/2610.14190)|null|
 |**2026-10-09**|**Vocal Intensity Conversion with Continuous SPL Control via Adversarial Training**|Quentin Le Tellier et.al.|[2610.13608](https://arxiv.org/abs/2610.13608)|null|
 |**2026-10-09**|**Quantization-Tolerant Gradient Auditing for Active Inference-Attack Detection in Federated Learning**|Michael Kuehne-Schlinkert et.al.|[2610.13311](https://arxiv.org/abs/2610.13311)|null|
 |**2026-10-09**|**SharP: Soft and Hard Prompt-Guided Augmentation with LLM for Low Resource Fake News Detection**|Ziyu Luo et.al.|[2610.13207](https://arxiv.org/abs/2610.13207)|null|
