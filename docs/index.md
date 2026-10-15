@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution**|Hairong Ni et.al.|[2610.20509](https://arxiv.org/abs/2610.20509)|null|
 |**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[2610.18556](https://arxiv.org/abs/2610.18556)|null|
 |**2026-10-13**|**Dual-Domain Sparse-View 4D CBCT Reconstruction with Spatial-Temporal Consistency Learning**|Qi Lai et.al.|[2610.18518](https://arxiv.org/abs/2610.18518)|null|
 |**2026-10-13**|**Noise2Match: Self-Supervised Low-Dose CT Denoising via Adaptive Inter-Slice Matching**|Langrui Zhou et.al.|[2610.18379](https://arxiv.org/abs/2610.18379)|null|
@@ -866,6 +867,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Bilinear Compressive Security with Finitely Many Samples**|Axel Flinth et.al.|[2610.19898](https://arxiv.org/abs/2610.19898)|null|
+|**2026-10-14**|**Computational compressive imaging reconstruction with a simulated-annealing-based Ising solver**|Ze Zheng et.al.|[2610.19778](https://arxiv.org/abs/2610.19778)|null|
+|**2026-10-13**|**DoReMe: Dual optimization of Reconstruction and Motion estimation for self-navigated free-breathing abdominal MRI using Gaussian Splatting**|Majd Helo et.al.|[2610.19120](https://arxiv.org/abs/2610.19120)|null|
 |**2026-10-13**|**Lifted Restricted Isometry Property and Fast Algorithm for Spectral Compressed Sensing With Near-Optimal Sample Complexity**|Xunmeng Wu et.al.|[2610.18032](https://arxiv.org/abs/2610.18032)|null|
 |**2026-10-12**|**Recovery Guarantees for Posterior Sampling of One-Bit Compressed Sensing**|Jing Ma et.al.|[2610.11834](https://arxiv.org/abs/2610.11834)|null|
 |**2026-10-08**|**Certified Scalable Enclosures for Uncertain Underdetermined Systems**|Rudra Prakash et.al.|[2610.11660](https://arxiv.org/abs/2610.11660)|null|
@@ -1326,6 +1330,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring**|Nico Frederic Brosda et.al.|[2610.20304](https://arxiv.org/abs/2610.20304)|null|
+|**2026-10-14**|**Why Generate a Click? Plug-in Decision Heads for Web Agents**|Chengguang Gan et.al.|[2610.20107](https://arxiv.org/abs/2610.20107)|null|
+|**2026-10-14**|**Comparative Analysis and Behavioral Modelling of Power Amplifiers in FR3**|Cel Thys et.al.|[2610.19889](https://arxiv.org/abs/2610.19889)|null|
+|**2026-10-14**|**AdCoEvo: A Co-Evolving Multi-Agent Advertising Delivery System**|Tianzhu Hu et.al.|[2610.19454](https://arxiv.org/abs/2610.19454)|null|
+|**2026-10-13**|**Truthful and Expected-Payment-Optimal Model Routing in Graph-Based Agentic Workflows**|Jiayuan Liu et.al.|[2610.19316](https://arxiv.org/abs/2610.19316)|null|
+|**2026-10-13**|**Deep Learning for Atmospheric Turbulence Mitigation: A Comparison Between GANs and Transformers**|Juan S. Carrillo et.al.|[2610.19274](https://arxiv.org/abs/2610.19274)|null|
 |**2026-10-13**|**Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor**|Baikui Li et.al.|[2610.18550](https://arxiv.org/abs/2610.18550)|null|
 |**2026-10-13**|**Unsupervised and Supervised Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)**|Thierry Bouwmans et.al.|[2610.18291](https://arxiv.org/abs/2610.18291)|null|
 |**2026-10-13**|**Observation of stacked vortex structure with number controllable Majorana zero mode in Bi $_{2}$ Te $_{3}$ /FeTe heterojunction**|Xinru Han et.al.|[2610.17701](https://arxiv.org/abs/2610.17701)|null|
@@ -1334,7 +1344,7 @@ layout: default
 |**2026-10-12**|**Statistical Downscaling of Daily Precipitation from ERA5 Atmospheric Fields to IMERG over West Africa**|David Sagna et.al.|[2610.16816](https://arxiv.org/abs/2610.16816)|null|
 |**2026-10-12**|**An Intermediate-orbit Brown Dwarf Confirmed with Astrometry+Radial Velocity Joint Analysis, and the Eccentricity Distribution of Brown Dwarfs Across Different Locations**|Lei Ren et.al.|[2610.16662](https://arxiv.org/abs/2610.16662)|null|
 |**2026-10-12**|**Weak Segmentation-Guided GAN for~Realistic Color Edition**|Vincent Auriau et.al.|[2610.16620](https://arxiv.org/abs/2610.16620)|null|
-|**2026-10-12**|**Towards Modality-Agnostic Seizure Classification: A Unified Deep Learning Framework for Heterogeneous EEG and Intracranial EEG Signals**|Ramya Sundaram et.al.|[2610.16596](https://arxiv.org/abs/2610.16596)|null|
+|**2026-10-14**|**Towards Modality-Agnostic Seizure Classification: A Unified Deep Learning Framework for Heterogeneous EEG and Intracranial EEG Signals**|Ramya Sundaram et.al.|[2610.16596](https://arxiv.org/abs/2610.16596)|null|
 |**2026-10-12**|**Code-Interactive Visual Reasoning for Financial Candlestick Understanding**|Chenxi Zhang et.al.|[2610.16587](https://arxiv.org/abs/2610.16587)|null|
 |**2026-10-12**|**MPASCNet: Magnitude-Phase-Aware Adaptive Spectral Compression for Compressed Music Restoration**|Xinlong Deng et.al.|[2610.16416](https://arxiv.org/abs/2610.16416)|null|
 |**2026-10-12**|**ProGAN-Based Synthetic Image Generation for Industrial Visual Inspection of Metallic Parts**|Hossein Omid Beiki et.al.|[2610.16287](https://arxiv.org/abs/2610.16287)|null|
