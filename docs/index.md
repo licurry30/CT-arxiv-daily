@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Bayesian Joint Reconstruction and Uncertainty Quantification for Limited-Data Multi-Contrast X-Ray CT**|Hassan Yazdanian et.al.|[2610.21406](https://arxiv.org/abs/2610.21406)|null|
+|**2026-10-15**|**L2GSSL: Label-Efficient Local-to-Global Self-Supervised Learning for Volumetric Healthcare Data**|Po-Cheng Cheng et.al.|[2610.21356](https://arxiv.org/abs/2610.21356)|null|
 |**2026-10-14**|**VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution**|Hairong Ni et.al.|[2610.20509](https://arxiv.org/abs/2610.20509)|null|
 |**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[2610.18556](https://arxiv.org/abs/2610.18556)|null|
 |**2026-10-13**|**Dual-Domain Sparse-View 4D CBCT Reconstruction with Spatial-Temporal Consistency Learning**|Qi Lai et.al.|[2610.18518](https://arxiv.org/abs/2610.18518)|null|
@@ -867,6 +869,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Seeing Through Sparse Signals: CS-Enhanced Sensing With QoS Guarantees for 6G ISAC**|Yifei Wang et.al.|[2610.21905](https://arxiv.org/abs/2610.21905)|null|
+|**2026-10-15**|**Superfast Spectral Compressed Sensing with Quadratic Convergence**|Xunmeng Wu et.al.|[2610.21068](https://arxiv.org/abs/2610.21068)|null|
+|**2026-10-14**|**Complete or Sparse: A Tale of Two Identifiabilities**|Junze Zhou et.al.|[2610.20851](https://arxiv.org/abs/2610.20851)|null|
 |**2026-10-14**|**Bilinear Compressive Security with Finitely Many Samples**|Axel Flinth et.al.|[2610.19898](https://arxiv.org/abs/2610.19898)|null|
 |**2026-10-14**|**Computational compressive imaging reconstruction with a simulated-annealing-based Ising solver**|Ze Zheng et.al.|[2610.19778](https://arxiv.org/abs/2610.19778)|null|
 |**2026-10-13**|**DoReMe: Dual optimization of Reconstruction and Motion estimation for self-navigated free-breathing abdominal MRI using Gaussian Splatting**|Majd Helo et.al.|[2610.19120](https://arxiv.org/abs/2610.19120)|null|
@@ -1330,6 +1335,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Topology-Inspired Fine-Tuning for Wind-Field Super-Resolution**|Arjun Dadhwal et.al.|[2610.22262](https://arxiv.org/abs/2610.22262)|null|
+|**2026-10-15**|**Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning**|Lubin Gan et.al.|[2610.22091](https://arxiv.org/abs/2610.22091)|null|
+|**2026-10-15**|**Perception or Reasoning? Diagnosing and Tackling Reinforcement Learning Bottlenecks in VLMs**|Zeyuan Yang et.al.|[2610.21380](https://arxiv.org/abs/2610.21380)|null|
+|**2026-10-15**|**AdaLoop: Thinking with the Vision Encoder**|Xinran Nicole Han et.al.|[2610.21323](https://arxiv.org/abs/2610.21323)|null|
+|**2026-10-14**|**EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos**|Meng Cao et.al.|[2610.20904](https://arxiv.org/abs/2610.20904)|null|
 |**2026-10-14**|**A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring**|Nico Frederic Brosda et.al.|[2610.20304](https://arxiv.org/abs/2610.20304)|null|
 |**2026-10-14**|**Why Generate a Click? Plug-in Decision Heads for Web Agents**|Chengguang Gan et.al.|[2610.20107](https://arxiv.org/abs/2610.20107)|null|
 |**2026-10-14**|**Comparative Analysis and Behavioral Modelling of Power Amplifiers in FR3**|Cel Thys et.al.|[2610.19889](https://arxiv.org/abs/2610.19889)|null|
