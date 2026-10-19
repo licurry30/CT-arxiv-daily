@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**CRUX: Clinical-Text Anchoring for Cross-Institutional CT-Pathology Fusion in Non-Small Cell Lung Cancer Survival Prediction**|Kyungwon Kim et.al.|[2610.22419](https://arxiv.org/abs/2610.22419)|null|
 |**2026-10-15**|**Bayesian Joint Reconstruction and Uncertainty Quantification for Limited-Data Multi-Contrast X-Ray CT**|Hassan Yazdanian et.al.|[2610.21406](https://arxiv.org/abs/2610.21406)|null|
 |**2026-10-15**|**L2GSSL: Label-Efficient Local-to-Global Self-Supervised Learning for Volumetric Healthcare Data**|Po-Cheng Cheng et.al.|[2610.21356](https://arxiv.org/abs/2610.21356)|null|
 |**2026-10-14**|**VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution**|Hairong Ni et.al.|[2610.20509](https://arxiv.org/abs/2610.20509)|null|
@@ -1345,6 +1346,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**LiveSync: Iterative Self-Training for Lip-Sync Generation**|Huaishao Luo et.al.|[2610.23558](https://arxiv.org/abs/2610.23558)|null|
+|**2026-10-16**|**Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration**|Xuanyu Zhou et.al.|[2610.23433](https://arxiv.org/abs/2610.23433)|null|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419](https://arxiv.org/abs/2610.23419)|null|
+|**2026-10-16**|**Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz Control and Progressive Kernel Critic Strategy**|Najmieh Sadat Safarabadi et.al.|[2610.23394](https://arxiv.org/abs/2610.23394)|null|
+|**2026-10-16**|**From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images**|Zhiqing Guo et.al.|[2610.23144](https://arxiv.org/abs/2610.23144)|null|
+|**2026-10-15**|**Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft**|Alvaro Peiro et.al.|[2610.22436](https://arxiv.org/abs/2610.22436)|null|
+|**2026-10-15**|**BOLT: Multi-Bottleneck Bound-Guided Learning for Flexible Job-Shop Scheduling with Time Lags and Resource-Coupled Transport**|Ziheng Zhang et.al.|[2610.22433](https://arxiv.org/abs/2610.22433)|null|
 |**2026-10-15**|**Topology-Inspired Fine-Tuning for Wind-Field Super-Resolution**|Arjun Dadhwal et.al.|[2610.22262](https://arxiv.org/abs/2610.22262)|null|
 |**2026-10-15**|**Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning**|Lubin Gan et.al.|[2610.22091](https://arxiv.org/abs/2610.22091)|null|
 |**2026-10-15**|**Perception or Reasoning? Diagnosing and Tackling Reinforcement Learning Bottlenecks in VLMs**|Zeyuan Yang et.al.|[2610.21380](https://arxiv.org/abs/2610.21380)|null|
