@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**3D Diffusion Models for Medical Imaging**|Frank-Peter Schilling et.al.|[2610.26475](https://arxiv.org/abs/2610.26475)|null|
 |**2026-10-15**|**CRUX: Clinical-Text Anchoring for Cross-Institutional CT-Pathology Fusion in Non-Small Cell Lung Cancer Survival Prediction**|Kyungwon Kim et.al.|[2610.22419](https://arxiv.org/abs/2610.22419)|null|
 |**2026-10-15**|**Bayesian Joint Reconstruction and Uncertainty Quantification for Limited-Data Multi-Contrast X-Ray CT**|Hassan Yazdanian et.al.|[2610.21406](https://arxiv.org/abs/2610.21406)|null|
 |**2026-10-15**|**L2GSSL: Label-Efficient Local-to-Global Self-Supervised Learning for Volumetric Healthcare Data**|Po-Cheng Cheng et.al.|[2610.21356](https://arxiv.org/abs/2610.21356)|null|
@@ -27,7 +28,7 @@
 |**2026-10-12**|**NoduleFlow: Automatic 3D Lung Nodule Detection and Segmentation**|Giulia Romoli et.al.|[2610.16548](https://arxiv.org/abs/2610.16548)|null|
 |**2026-10-11**|**Robust Detection of Directional Adversarial Attacks in Deep Neural Networks for Radiological Imaging**|Tristan Malatyński et.al.|[2610.15628](https://arxiv.org/abs/2610.15628)|null|
 |**2026-10-10**|**AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction**|Zonglin Li et.al.|[2610.14963](https://arxiv.org/abs/2610.14963)|null|
-|**2026-10-08**|**RePrior: Measurement-Reconciled Prior Correction for Sparse-View CBCT Reconstruction**|Mengrui Yin et.al.|[2610.14102](https://arxiv.org/abs/2610.14102)|null|
+|**2026-10-17**|**RePrior: Measurement-Reconciled Prior Correction for Sparse-View CBCT Reconstruction**|Mengrui Yin et.al.|[2610.14102](https://arxiv.org/abs/2610.14102)|null|
 |**2026-10-09**|**The Predictability Bias of Joint-Embedding Predictive Learning in Medical Imaging**|Fabian Drexel et.al.|[2610.13237](https://arxiv.org/abs/2610.13237)|null|
 |**2026-10-08**|**ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration**|Jialei He et.al.|[2610.12337](https://arxiv.org/abs/2610.12337)|null|
 |**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](https://arxiv.org/abs/2610.11547)|null|
@@ -872,12 +873,13 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-17**|**Hexagonal Basis Projectors for Model-Based Iterative CT Reconstruction**|Ke Chen et.al.|[2610.24363](https://arxiv.org/abs/2610.24363)|null|
 |**2026-10-15**|**Seeing Through Sparse Signals: CS-Enhanced Sensing With QoS Guarantees for 6G ISAC**|Yifei Wang et.al.|[2610.21905](https://arxiv.org/abs/2610.21905)|null|
 |**2026-10-15**|**Superfast Spectral Compressed Sensing with Quadratic Convergence**|Xunmeng Wu et.al.|[2610.21068](https://arxiv.org/abs/2610.21068)|null|
 |**2026-10-14**|**Complete or Sparse: A Tale of Two Identifiabilities**|Junze Zhou et.al.|[2610.20851](https://arxiv.org/abs/2610.20851)|null|
@@ -1340,12 +1342,32 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**|Yu Zhou et.al.|[2610.26860](https://arxiv.org/abs/2610.26860)|null|
+|**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](https://arxiv.org/abs/2610.26711)|null|
+|**2026-10-19**|**Mal-AAEGAN: Adversarial Autoencoder with Double-Critic WGAN-GP for Malware Generation**|Nam Hoang Thanh et.al.|[2610.26488](https://arxiv.org/abs/2610.26488)|null|
+|**2026-10-19**|**3D Diffusion Models for Medical Imaging**|Frank-Peter Schilling et.al.|[2610.26475](https://arxiv.org/abs/2610.26475)|null|
+|**2026-10-19**|**Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)**|Brijmohan Paramanik et.al.|[2610.26158](https://arxiv.org/abs/2610.26158)|null|
+|**2026-10-19**|**Nash-MOPD: Optimizing Task Trade-offs in Multi-Teacher On-Policy Distillation**|Siyuan Gan et.al.|[2610.26124](https://arxiv.org/abs/2610.26124)|null|
+|**2026-10-19**|**GeoNaviDiff: Transferring Disentangled Semantic Controls to Diffusion Features via Local Riemannian Navigation**|Tao Sun et.al.|[2610.26091](https://arxiv.org/abs/2610.26091)|null|
+|**2026-10-19**|**Manifold-Constrained Residual Adaptation with Frame-Adaptive Layer Aggregation for Speaker Verification**|Zezhong Jin et.al.|[2610.25892](https://arxiv.org/abs/2610.25892)|null|
+|**2026-10-19**|**Adversarial Post-Training of Foundation Models for High-Frequency Trading**|Alexandre Bismuth et.al.|[2610.25604](https://arxiv.org/abs/2610.25604)|null|
+|**2026-10-18**|**From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models**|Junzhe Shi et.al.|[2610.25503](https://arxiv.org/abs/2610.25503)|null|
+|**2026-10-18**|**Quality-Controlled Reply and Summary Data for Post-Training Small Language Models in AI Call-Screening Agents**|Jiaqi Gan et.al.|[2610.25458](https://arxiv.org/abs/2610.25458)|null|
+|**2026-10-18**|**BrandEval: A Two-Track Multi-Agent Benchmark for Risk-Sensitive LLM Crisis Communication**|Haotian Gan et.al.|[2610.25208](https://arxiv.org/abs/2610.25208)|null|
+|**2026-10-18**|**ViCoR: Estimating Visual Necessity via Counterfactual Residuals for Multimodal Medical Data Selection**|Haotian Gan et.al.|[2610.25202](https://arxiv.org/abs/2610.25202)|null|
+|**2026-10-18**|**Sharp quantum logarithmic Sobolev inequalities via semigroup interpolation**|Gan Yao et.al.|[2610.25180](https://arxiv.org/abs/2610.25180)|null|
+|**2026-10-18**|**Scam Town: Can Scam Education Spread Like a Vaccine?**|Simiao Ren et.al.|[2610.25040](https://arxiv.org/abs/2610.25040)|null|
+|**2026-10-17**|**Rachev-Ratio Portfolio Optimization with TimeGAN Scenarios: Replacement versus Supplementation**|Yifan He et.al.|[2610.24544](https://arxiv.org/abs/2610.24544)|null|
+|**2026-10-17**|**SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection**|Chirantan Banerjee et.al.|[2610.24468](https://arxiv.org/abs/2610.24468)|null|
+|**2026-10-17**|**Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations**|Xiaowen Qiu et.al.|[2610.24392](https://arxiv.org/abs/2610.24392)|null|
+|**2026-10-16**|**TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU**|Claudio Basile et.al.|[2610.24161](https://arxiv.org/abs/2610.24161)|null|
+|**2026-10-16**|**Generative Text Modelling and Language-Guided Visual Attention for Deciphering Palimpsests**|Robin Hollifeldt et.al.|[2610.24060](https://arxiv.org/abs/2610.24060)|null|
 |**2026-10-16**|**LiveSync: Iterative Self-Training for Lip-Sync Generation**|Huaishao Luo et.al.|[2610.23558](https://arxiv.org/abs/2610.23558)|null|
 |**2026-10-16**|**Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration**|Xuanyu Zhou et.al.|[2610.23433](https://arxiv.org/abs/2610.23433)|null|
 |**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419](https://arxiv.org/abs/2610.23419)|null|
@@ -3346,7 +3368,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3394,5 +3416,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
