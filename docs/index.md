@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT**|Emma Sarfati et.al.|[2610.29616](https://arxiv.org/abs/2610.29616)|null|
 |**2026-10-20**|**Predicting silent failures of learned inference under restricted access: what measurement physics and prior information explain**|Mario Gianni et.al.|[2610.28155](https://arxiv.org/abs/2610.28155)|null|
 |**2026-10-20**|**Estimating the intrinsic error of 3D point clouds acquisition techniques: A comparative study on instruments of the violin family**|Philémon Beghin et.al.|[2610.28098](https://arxiv.org/abs/2610.28098)|null|
 |**2026-10-19**|**3D Diffusion Models for Medical Imaging**|Frank-Peter Schilling et.al.|[2610.26475](https://arxiv.org/abs/2610.26475)|null|
@@ -1340,6 +1341,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**LEAF-Mamba: Feature Adaptation and Fusion for Whole Slide Image Analysis**|Lubin Gan et.al.|[2610.29746](https://arxiv.org/abs/2610.29746)|null|
+|**2026-10-21**|**Large-size multivariate scale-free texture generation from small-size learning sets with self-attention Wasserstein-GAN**|Jhonatan Ancco Cerda et.al.|[2610.29535](https://arxiv.org/abs/2610.29535)|null|
+|**2026-10-21**|**Local Gan-Gross-Prasad conjecture for unitary groups: Trace formula approach for epsilon dichotomy**|Cheng Chen et.al.|[2610.29483](https://arxiv.org/abs/2610.29483)|null|
+|**2026-10-20**|**Experimental Characterization of SMD Inductors for Cryogenic Power Conversion at 4 K**|Rami Rasheedi et.al.|[2610.28923](https://arxiv.org/abs/2610.28923)|null|
 |**2026-10-20**|**CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding**|Om Shivam Verma et.al.|[2610.28530](https://arxiv.org/abs/2610.28530)|null|
 |**2026-10-20**|**Independent transversals in hypergraphs with low codegrees**|Hanle Dai et.al.|[2610.28468](https://arxiv.org/abs/2610.28468)|null|
 |**2026-10-20**|**Adaptive Pullback: Reweighting Supervision at Penalty Jumps in On-Policy Distillation**|Guangyu Liu et.al.|[2610.28194](https://arxiv.org/abs/2610.28194)|null|
