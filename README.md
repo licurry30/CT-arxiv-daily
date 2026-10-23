@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances**|Sidhart Sami et.al.|[2610.31253](https://arxiv.org/abs/2610.31253)|null|
+|**2026-10-21**|**Unified Projection-Domain Material Decomposition for Energy-Integrating and Photon-Counting CT**|Dale Black et.al.|[2610.30440](https://arxiv.org/abs/2610.30440)|null|
 |**2026-10-21**|**An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT**|Emma Sarfati et.al.|[2610.29616](https://arxiv.org/abs/2610.29616)|null|
 |**2026-10-20**|**Predicting silent failures of learned inference under restricted access: what measurement physics and prior information explain**|Mario Gianni et.al.|[2610.28155](https://arxiv.org/abs/2610.28155)|null|
 |**2026-10-20**|**Estimating the intrinsic error of 3D point clouds acquisition techniques: A comparative study on instruments of the violin family**|Philémon Beghin et.al.|[2610.28098](https://arxiv.org/abs/2610.28098)|null|
@@ -876,7 +878,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## SVCT
 
@@ -1345,12 +1347,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Jev-DLC: Decision-Level Continual Learning from Typed Feedback**|Yangyang Feng et.al.|[2610.31521](https://arxiv.org/abs/2610.31521)|null|
+|**2026-10-22**|**A sharp diameter-mass inequality on Einstein manifolds and ADM mass**|Xuezhang Chen et.al.|[2610.31343](https://arxiv.org/abs/2610.31343)|null|
+|**2026-10-22**|**Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models**|Jinwei Gan et.al.|[2610.31331](https://arxiv.org/abs/2610.31331)|null|
+|**2026-10-22**|**Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition**|Ihsan Ul Haq et.al.|[2610.31160](https://arxiv.org/abs/2610.31160)|null|
+|**2026-10-22**|**LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications**|Keshu Wu et.al.|[2610.30979](https://arxiv.org/abs/2610.30979)|null|
+|**2026-10-22**|**Cross-Spectral Feature Fusion for Multispectral Document Binarization**|Yasas Savinda et.al.|[2610.30863](https://arxiv.org/abs/2610.30863)|null|
+|**2026-10-22**|**Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency**|Arsineh Apelian et.al.|[2610.30741](https://arxiv.org/abs/2610.30741)|null|
+|**2026-10-21**|** $\SL_3$  dual pairs**|Petar Bakić et.al.|[2610.30479](https://arxiv.org/abs/2610.30479)|null|
 |**2026-10-21**|**LEAF-Mamba: Feature Adaptation and Fusion for Whole Slide Image Analysis**|Lubin Gan et.al.|[2610.29746](https://arxiv.org/abs/2610.29746)|null|
 |**2026-10-21**|**Large-size multivariate scale-free texture generation from small-size learning sets with self-attention Wasserstein-GAN**|Jhonatan Ancco Cerda et.al.|[2610.29535](https://arxiv.org/abs/2610.29535)|null|
 |**2026-10-21**|**Local Gan-Gross-Prasad conjecture for unitary groups: Trace formula approach for epsilon dichotomy**|Cheng Chen et.al.|[2610.29483](https://arxiv.org/abs/2610.29483)|null|
@@ -3382,7 +3392,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3430,5 +3440,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
