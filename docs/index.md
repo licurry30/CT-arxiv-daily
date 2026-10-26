@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**L0-Norm-Based CycleGAN for Unpaired Brain CT-to-MR Synthesis**|Yunxiao Zhang et.al.|[2610.32491](https://arxiv.org/abs/2610.32491)|null|
 |**2026-10-22**|**Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances**|Sidhart Sami et.al.|[2610.31253](https://arxiv.org/abs/2610.31253)|null|
 |**2026-10-21**|**Unified Projection-Domain Material Decomposition for Energy-Integrating and Photon-Counting CT**|Dale Black et.al.|[2610.30440](https://arxiv.org/abs/2610.30440)|null|
 |**2026-10-21**|**An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT**|Emma Sarfati et.al.|[2610.29616](https://arxiv.org/abs/2610.29616)|null|
@@ -876,6 +877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Low-Complexity Wideband Channel Estimation for ISAC in Analog Millimeter-Wave Systems**|Hamza Touati et.al.|[2610.32953](https://arxiv.org/abs/2610.32953)|null|
 |**2026-10-17**|**Hexagonal Basis Projectors for Model-Based Iterative CT Reconstruction**|Ke Chen et.al.|[2610.24363](https://arxiv.org/abs/2610.24363)|null|
 |**2026-10-15**|**Seeing Through Sparse Signals: CS-Enhanced Sensing With QoS Guarantees for 6G ISAC**|Yifei Wang et.al.|[2610.21905](https://arxiv.org/abs/2610.21905)|null|
 |**2026-10-15**|**Superfast Spectral Compressed Sensing with Quadratic Convergence**|Xunmeng Wu et.al.|[2610.21068](https://arxiv.org/abs/2610.21068)|null|
@@ -1343,9 +1345,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation**|Wenxin Chen et.al.|[2610.32863](https://arxiv.org/abs/2610.32863)|null|
+|**2026-10-23**|**Controlled Fabrication of Uniform Columnar Porous GaN Architectures by Electrochemical Etching**|Thom R. Harris-Lee et.al.|[2610.32722](https://arxiv.org/abs/2610.32722)|null|
+|**2026-10-23**|**EigenGradCAM with AugSmooth: Enhancing Explainability and Precision in Multi-Stage Alzheimer's Disease Detection**|Arsham Azam et.al.|[2610.32374](https://arxiv.org/abs/2610.32374)|null|
+|**2026-10-23**|**Forging Emotions: a deep learning experiment on emotions and art**|Amalia Foka et.al.|[2610.32163](https://arxiv.org/abs/2610.32163)|null|
+|**2026-10-22**|**Optimal Size in Market Making under State-Dependent Hawkes Process**|Jonathan Chávez Casillas et.al.|[2610.31903](https://arxiv.org/abs/2610.31903)|null|
 |**2026-10-22**|**Jev-DLC: Decision-Level Continual Learning from Typed Feedback**|Yangyang Feng et.al.|[2610.31521](https://arxiv.org/abs/2610.31521)|null|
 |**2026-10-22**|**A sharp diameter-mass inequality on Einstein manifolds and ADM mass**|Xuezhang Chen et.al.|[2610.31343](https://arxiv.org/abs/2610.31343)|null|
-|**2026-10-22**|**Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models**|Jinwei Gan et.al.|[2610.31331](https://arxiv.org/abs/2610.31331)|null|
+|**2026-10-23**|**Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models**|Jinwei Gan et.al.|[2610.31331](https://arxiv.org/abs/2610.31331)|null|
 |**2026-10-22**|**Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition**|Ihsan Ul Haq et.al.|[2610.31160](https://arxiv.org/abs/2610.31160)|null|
 |**2026-10-22**|**LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications**|Keshu Wu et.al.|[2610.30979](https://arxiv.org/abs/2610.30979)|null|
 |**2026-10-22**|**Cross-Spectral Feature Fusion for Multispectral Document Binarization**|Yasas Savinda et.al.|[2610.30863](https://arxiv.org/abs/2610.30863)|null|
