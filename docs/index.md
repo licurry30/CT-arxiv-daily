@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Quantum-Inspired and Optimization-Based CT Reconstruction Through Spin-Error**|Hyunju Lee et.al.|[2610.35657](https://arxiv.org/abs/2610.35657)|null|
+|**2026-10-26**|**Domain-Adapted Latent Diffusion Models for CT-to-PET Image Translation**|Yann Bourdé et.al.|[2610.35132](https://arxiv.org/abs/2610.35132)|null|
+|**2026-10-26**|**Regional prediction of hematoma expansion from non-contrast computed tomography in spontaneous intracerebral hemorrhage patients**|Natasha Ironside et.al.|[2610.34645](https://arxiv.org/abs/2610.34645)|null|
+|**2026-10-23**|**Matching Particle-Arrival Rates for Low-Count Image Denoising**|Huazhen Liu et.al.|[2610.33136](https://arxiv.org/abs/2610.33136)|null|
+|**2026-10-15**|**EviGround-CT: Sentence-to-Volume Grounding for Verifying LLM-Generated Chest CT Reports**|Ziyuan Li et.al.|[2610.33038](https://arxiv.org/abs/2610.33038)|null|
 |**2026-10-23**|**L0-Norm-Based CycleGAN for Unpaired Brain CT-to-MR Synthesis**|Yunxiao Zhang et.al.|[2610.32491](https://arxiv.org/abs/2610.32491)|null|
 |**2026-10-22**|**Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances**|Sidhart Sami et.al.|[2610.31253](https://arxiv.org/abs/2610.31253)|null|
 |**2026-10-21**|**Unified Projection-Domain Material Decomposition for Energy-Integrating and Photon-Counting CT**|Dale Black et.al.|[2610.30440](https://arxiv.org/abs/2610.30440)|null|
@@ -877,6 +882,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Quantum-Inspired and Optimization-Based CT Reconstruction Through Spin-Error**|Hyunju Lee et.al.|[2610.35657](https://arxiv.org/abs/2610.35657)|null|
+|**2026-10-24**|**Compressive microendoscopy in the presence of noise and misalignment: the translational correlation advantage of graded-index fibers**|M. S. Pochechuev et.al.|[2610.33933](https://arxiv.org/abs/2610.33933)|null|
+|**2026-10-24**|**Extended Target Imaging in Non-Ideal Distributed ISAC Systems: A Hierarchical Off-Grid Approach**|Xin Tong et.al.|[2610.33500](https://arxiv.org/abs/2610.33500)|null|
+|**2026-10-23**|**Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing**|Bryant Gipson et.al.|[2610.33224](https://arxiv.org/abs/2610.33224)|null|
 |**2026-10-23**|**Low-Complexity Wideband Channel Estimation for ISAC in Analog Millimeter-Wave Systems**|Hamza Touati et.al.|[2610.32953](https://arxiv.org/abs/2610.32953)|null|
 |**2026-10-17**|**Hexagonal Basis Projectors for Model-Based Iterative CT Reconstruction**|Ke Chen et.al.|[2610.24363](https://arxiv.org/abs/2610.24363)|null|
 |**2026-10-15**|**Seeing Through Sparse Signals: CS-Enhanced Sensing With QoS Guarantees for 6G ISAC**|Yifei Wang et.al.|[2610.21905](https://arxiv.org/abs/2610.21905)|null|
@@ -1345,6 +1354,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](https://arxiv.org/abs/2610.35679)|null|
+|**2026-10-26**|**NOEMA Observations of the Center of M33: A Parsec-scale Molecular Filament and an Ordered Gas-Star-Formation Sequence**|Zongnan Li et.al.|[2610.35278](https://arxiv.org/abs/2610.35278)|null|
+|**2026-10-24**|**DyHist: Query-Aware Historical Dynamics Modeling for Temporal Knowledge Graph Extrapolation**|Peiyuan Jiang et.al.|[2610.33473](https://arxiv.org/abs/2610.33473)|null|
+|**2026-10-24**|**Polarization-resolved haze in transparent wood - towards wooden glass**|Zheheng Song et.al.|[2610.33459](https://arxiv.org/abs/2610.33459)|null|
+|**2026-10-23**|**How AI Load Swings Reduce Datacenter Power Conversion Efficiency**|Heetarth Joshi et.al.|[2610.33300](https://arxiv.org/abs/2610.33300)|null|
 |**2026-10-23**|**A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation**|Wenxin Chen et.al.|[2610.32863](https://arxiv.org/abs/2610.32863)|null|
 |**2026-10-23**|**Controlled Fabrication of Uniform Columnar Porous GaN Architectures by Electrochemical Etching**|Thom R. Harris-Lee et.al.|[2610.32722](https://arxiv.org/abs/2610.32722)|null|
 |**2026-10-23**|**EigenGradCAM with AugSmooth: Enhancing Explainability and Precision in Multi-Stage Alzheimer's Disease Detection**|Arsham Azam et.al.|[2610.32374](https://arxiv.org/abs/2610.32374)|null|
@@ -1356,7 +1370,7 @@ layout: default
 |**2026-10-22**|**Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition**|Ihsan Ul Haq et.al.|[2610.31160](https://arxiv.org/abs/2610.31160)|null|
 |**2026-10-22**|**LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications**|Keshu Wu et.al.|[2610.30979](https://arxiv.org/abs/2610.30979)|null|
 |**2026-10-22**|**Cross-Spectral Feature Fusion for Multispectral Document Binarization**|Yasas Savinda et.al.|[2610.30863](https://arxiv.org/abs/2610.30863)|null|
-|**2026-10-22**|**Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency**|Arsineh Apelian et.al.|[2610.30741](https://arxiv.org/abs/2610.30741)|null|
+|**2026-10-24**|**Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency**|Arsineh Apelian et.al.|[2610.30741](https://arxiv.org/abs/2610.30741)|null|
 |**2026-10-21**|** $\SL_3$  dual pairs**|Petar Bakić et.al.|[2610.30479](https://arxiv.org/abs/2610.30479)|null|
 |**2026-10-21**|**LEAF-Mamba: Feature Adaptation and Fusion for Whole Slide Image Analysis**|Lubin Gan et.al.|[2610.29746](https://arxiv.org/abs/2610.29746)|null|
 |**2026-10-21**|**Large-size multivariate scale-free texture generation from small-size learning sets with self-attention Wasserstein-GAN**|Jhonatan Ancco Cerda et.al.|[2610.29535](https://arxiv.org/abs/2610.29535)|null|
