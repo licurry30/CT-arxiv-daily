@@ -1,4 +1,4 @@
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats**|Haruki Fukuda et.al.|[2610.37406](https://arxiv.org/abs/2610.37406)|null|
+|**2026-10-27**|**MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion**|Eduardo Nieto et.al.|[2610.37134](https://arxiv.org/abs/2610.37134)|null|
+|**2026-10-26**|**When Slides Met Scans: Cross-Attention for Renal Cancer Prognosis**|Anusha Krishnamoorthy et.al.|[2610.36364](https://arxiv.org/abs/2610.36364)|null|
+|**2026-10-26**|**Image-Domain CT Metal Artifact Reduction Using an Endpoint-Conditioned Diffusion Bridge**|Hang Yu et.al.|[2610.36319](https://arxiv.org/abs/2610.36319)|null|
 |**2026-10-26**|**Quantum-Inspired and Optimization-Based CT Reconstruction Through Spin-Error**|Hyunju Lee et.al.|[2610.35657](https://arxiv.org/abs/2610.35657)|null|
 |**2026-10-26**|**Domain-Adapted Latent Diffusion Models for CT-to-PET Image Translation**|Yann Bourdé et.al.|[2610.35132](https://arxiv.org/abs/2610.35132)|null|
 |**2026-10-26**|**Regional prediction of hematoma expansion from non-contrast computed tomography in spontaneous intracerebral hemorrhage patients**|Natasha Ironside et.al.|[2610.34645](https://arxiv.org/abs/2610.34645)|null|
@@ -884,7 +888,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
 ## SVCT
 
@@ -1358,12 +1362,22 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Ivan Shchekotov et.al.|[2610.37503](https://arxiv.org/abs/2610.37503)|null|
+|**2026-10-27**|**Optimal Order Placement under a State-Dependent Hawkes Process Limit Order Book model**|Jonathan Chávez Casillas et.al.|[2610.37324](https://arxiv.org/abs/2610.37324)|null|
+|**2026-10-27**|**Sharp helical maximal estimates in all dimensions**|Shengwen Gan et.al.|[2610.37250](https://arxiv.org/abs/2610.37250)|null|
+|**2026-10-27**|**Machine Learning Hamiltonians with Polarizations for Heterogeneous Systems**|Jia-Yu Zhou et.al.|[2610.36839](https://arxiv.org/abs/2610.36839)|null|
+|**2026-10-27**|**Select-TTT: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training**|Yue Wu et.al.|[2610.36794](https://arxiv.org/abs/2610.36794)|null|
+|**2026-10-27**|**Demonstration of high output power (3.75 W/mm) with 31.8% PAE in Ga-Polar AlGaN/GaN HEMTs on sapphire at 94 GHz**|Ruixin Bai et.al.|[2610.36492](https://arxiv.org/abs/2610.36492)|null|
+|**2026-10-27**|**JustGoal: With Only a Goal, the AI Baseline Is Above the Expert Kernels**|Yaojian Chen et.al.|[2610.36434](https://arxiv.org/abs/2610.36434)|null|
+|**2026-10-26**|**Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases**|Hicham El Akhal et.al.|[2610.35984](https://arxiv.org/abs/2610.35984)|null|
+|**2026-10-25**|**Generalization in Learning: Eyring Formula and Predator-prey Model**|S. V. Kozyrev et.al.|[2610.35965](https://arxiv.org/abs/2610.35965)|null|
+|**2026-10-25**|**Condition-Enhanced Generative Adversarial Network for Aerodynamic Configuration Design of Commercial Aircraft**|Youzheng Yu et.al.|[2610.35963](https://arxiv.org/abs/2610.35963)|null|
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](https://arxiv.org/abs/2610.35679)|null|
 |**2026-10-26**|**NOEMA Observations of the Center of M33: A Parsec-scale Molecular Filament and an Ordered Gas-Star-Formation Sequence**|Zongnan Li et.al.|[2610.35278](https://arxiv.org/abs/2610.35278)|null|
 |**2026-10-24**|**DyHist: Query-Aware Historical Dynamics Modeling for Temporal Knowledge Graph Extrapolation**|Peiyuan Jiang et.al.|[2610.33473](https://arxiv.org/abs/2610.33473)|null|
@@ -3413,7 +3427,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3461,5 +3475,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
