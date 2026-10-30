@@ -2,13 +2,27 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT**|Amartya Bhattacharya et.al.|[2610.40284](https://arxiv.org/abs/2610.40284)|null|
+|**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](https://arxiv.org/abs/2610.40085)|null|
+|**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](https://arxiv.org/abs/2610.40046)|null|
+|**2026-10-29**|**DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis**|Roxanne De Maeyer et.al.|[2610.40018](https://arxiv.org/abs/2610.40018)|null|
+|**2026-10-29**|**Evaluation of attenuation-based simulated X-ray images for image-guided radiotherapy**|Hannah Jungreuthmayer et.al.|[2610.39647](https://arxiv.org/abs/2610.39647)|null|
+|**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](https://arxiv.org/abs/2610.39517)|null|
+|**2026-10-29**|**Anatomical Prior-Guided Routing for 3D Lung Tumor Segmentation**|Uihyeon Maeng et.al.|[2610.39414](https://arxiv.org/abs/2610.39414)|null|
+|**2026-10-29**|**P^2-Gaussian: Prior-Driven and Projection-Guided Gaussian Splatting for Sparse-View Cone-Beam CT Reconstruction**|Jinqiu Xia et.al.|[2610.39359](https://arxiv.org/abs/2610.39359)|null|
+|**2026-10-28**|**Agentic AI Reasoning and Learned Sampling for Task-Aware Projection Selection in Sparse-View CT: Predicting Hemodynamics**|Mahmoud Elhadidy et.al.|[2610.39003](https://arxiv.org/abs/2610.39003)|null|
+|**2026-10-28**|**SparseTokenGS: Gaussian-based Sparse-View CBCT Reconstruction via Reusable Token Pool**|Zihan Deng et.al.|[2610.38360](https://arxiv.org/abs/2610.38360)|null|
+|**2026-10-28**|**Extremely Sparse-View Computed Tomography from 2D Projections via Pose-Aware Diffusion Priors**|Linrui Dai et.al.|[2610.38319](https://arxiv.org/abs/2610.38319)|null|
+|**2026-10-28**|**Data-driven stochastic asymptotic regularization for ill-posed inverse problems with a posteriori and heuristic stopping**|Simran Soni et.al.|[2610.38279](https://arxiv.org/abs/2610.38279)|null|
+|**2026-10-27**|**Vision Tomography: Towards Portable 3D Bidirectional Face-Skull Inference from Visual Data**|Zidu Wang et.al.|[2610.38065](https://arxiv.org/abs/2610.38065)|null|
+|**2026-10-27**|**EUReCA: End-to-End Unified CBCT Reconstruction Across Clinical Acquisitions**|Jiening Zhu et.al.|[2610.37740](https://arxiv.org/abs/2610.37740)|null|
 |**2026-10-27**|**CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats**|Haruki Fukuda et.al.|[2610.37406](https://arxiv.org/abs/2610.37406)|null|
 |**2026-10-27**|**MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion**|Eduardo Nieto et.al.|[2610.37134](https://arxiv.org/abs/2610.37134)|null|
 |**2026-10-26**|**When Slides Met Scans: Cross-Attention for Renal Cancer Prognosis**|Anusha Krishnamoorthy et.al.|[2610.36364](https://arxiv.org/abs/2610.36364)|null|
@@ -886,6 +900,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](https://arxiv.org/abs/2610.39517)|null|
+|**2026-10-29**|**P^2-Gaussian: Prior-Driven and Projection-Guided Gaussian Splatting for Sparse-View Cone-Beam CT Reconstruction**|Jinqiu Xia et.al.|[2610.39359](https://arxiv.org/abs/2610.39359)|null|
+|**2026-10-28**|**Agentic AI Reasoning and Learned Sampling for Task-Aware Projection Selection in Sparse-View CT: Predicting Hemodynamics**|Mahmoud Elhadidy et.al.|[2610.39003](https://arxiv.org/abs/2610.39003)|null|
+|**2026-10-28**|**Guidance-Coupled Nullspace Drifting for One-Step Medical Image Reconstruction**|M. Tuna Alatan et.al.|[2610.38953](https://arxiv.org/abs/2610.38953)|null|
 |**2026-10-26**|**Quantum-Inspired and Optimization-Based CT Reconstruction Through Spin-Error**|Hyunju Lee et.al.|[2610.35657](https://arxiv.org/abs/2610.35657)|null|
 |**2026-10-24**|**Compressive microendoscopy in the presence of noise and misalignment: the translational correlation advantage of graded-index fibers**|M. S. Pochechuev et.al.|[2610.33933](https://arxiv.org/abs/2610.33933)|null|
 |**2026-10-24**|**Extended Target Imaging in Non-Ideal Distributed ISAC Systems: A Hierarchical Off-Grid Approach**|Xin Tong et.al.|[2610.33500](https://arxiv.org/abs/2610.33500)|null|
@@ -1358,6 +1376,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning**|Xueyuan Wei et.al.|[2610.40207](https://arxiv.org/abs/2610.40207)|null|
+|**2026-10-29**|**Contact-free charge carrier density determination of doped sub-μm thin cubic GaN layers with terahertz time-domain spectroscopy**|Joshua Hennig et.al.|[2610.40142](https://arxiv.org/abs/2610.40142)|null|
+|**2026-10-29**|**AI Cosmos: An Agentic Infra for Situated Learning**| AI Cosmos Team et.al.|[2610.40031](https://arxiv.org/abs/2610.40031)|null|
+|**2026-10-29**|**Tracking analysis of compressed-communication distributed adaptive estimation for time-varying parameters**|Die Gan et.al.|[2610.39229](https://arxiv.org/abs/2610.39229)|null|
+|**2026-10-29**|**An Efficient SIM Beamforming Scheme Based on Physical-Empowered Projected Gradient**|Yuzhi Yang et.al.|[2610.39219](https://arxiv.org/abs/2610.39219)|null|
+|**2026-10-29**|**Distributed online learning with growing dimensions for stochastic large regression**|Die Gan et.al.|[2610.39197](https://arxiv.org/abs/2610.39197)|null|
+|**2026-10-29**|**A rhombic spin-1 interpretation of a room-temperature GaN emitter**|Daniel Hashemi et.al.|[2610.39081](https://arxiv.org/abs/2610.39081)|null|
+|**2026-10-28**|**800  $^\circ$ C Air-Ambient Operation of Extreme-Bandgap Al $_{x}$ Ga $_{1-x}$ N (x>0.6) Digital and Random-Alloy Channel HEMTs**|Abdullah Al Mamun Mazumder et.al.|[2610.39053](https://arxiv.org/abs/2610.39053)|null|
+|**2026-10-28**|**The Search for Statistical Indistinguishability Between Real and Fake Images**|Mohaimin Rafi et.al.|[2610.39014](https://arxiv.org/abs/2610.39014)|null|
+|**2026-10-27**|**FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision**|Wentao Zhang et.al.|[2610.37905](https://arxiv.org/abs/2610.37905)|null|
 |**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Ivan Shchekotov et.al.|[2610.37503](https://arxiv.org/abs/2610.37503)|null|
 |**2026-10-27**|**Optimal Order Placement under a State-Dependent Hawkes Process Limit Order Book model**|Jonathan Chávez Casillas et.al.|[2610.37324](https://arxiv.org/abs/2610.37324)|null|
 |**2026-10-27**|**Sharp helical maximal estimates in all dimensions**|Shengwen Gan et.al.|[2610.37250](https://arxiv.org/abs/2610.37250)|null|
