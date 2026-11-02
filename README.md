@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Roadmap: Image reconstruction in emission tomography for the era of fast Monte Carlo simulation**|Georg Schramm et.al.|[2610.41583](https://arxiv.org/abs/2610.41583)|null|
+|**2026-10-30**|**Bayesian PET Reconstruction with Learned Flow Matching Priors via Langevin Sampling**|Hengjia Ran et.al.|[2610.41337](https://arxiv.org/abs/2610.41337)|null|
 |**2026-10-29**|**LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT**|Amartya Bhattacharya et.al.|[2610.40284](https://arxiv.org/abs/2610.40284)|null|
 |**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](https://arxiv.org/abs/2610.40085)|null|
 |**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](https://arxiv.org/abs/2610.40046)|null|
@@ -1386,6 +1388,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. II. Adsorption of nonmetal atoms (N, P, As, and Sb) on Ga-terminated surfaces**|Pawel Strak et.al.|[2610.41571](https://arxiv.org/abs/2610.41571)|null|
+|**2026-10-30**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. I. Clean surface properties**|Pawel Strak et.al.|[2610.41559](https://arxiv.org/abs/2610.41559)|null|
+|**2026-10-30**|**STAR-FER: Adaptive Selective Restoration for Edge-Based Low-Resolution Facial Expression Recognition**|ZhongYang Wu et.al.|[2610.41310](https://arxiv.org/abs/2610.41310)|null|
 |**2026-10-29**|**RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning**|Xueyuan Wei et.al.|[2610.40207](https://arxiv.org/abs/2610.40207)|null|
 |**2026-10-29**|**Contact-free charge carrier density determination of doped sub-μm thin cubic GaN layers with terahertz time-domain spectroscopy**|Joshua Hennig et.al.|[2610.40142](https://arxiv.org/abs/2610.40142)|null|
 |**2026-10-29**|**AI Cosmos: An Agentic Infra for Situated Learning**| AI Cosmos Team et.al.|[2610.40031](https://arxiv.org/abs/2610.40031)|null|
