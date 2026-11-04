@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](https://arxiv.org/abs/2611.04604)|null|
 |**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](https://arxiv.org/abs/2611.03322)|null|
 |**2026-11-02**|**Findings-aware Language-Image Pretraining for CT Volume Interpretation**|Takuro Shimaya et.al.|[2611.02327](https://arxiv.org/abs/2611.02327)|null|
 |**2026-11-01**|**Learning from high-resolution 2D images to reconstruct 3D microstructures**|Wenbo Sui et.al.|[2611.02204](https://arxiv.org/abs/2611.02204)|null|
@@ -1388,9 +1389,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents**|Yaojian Chen et.al.|[2611.04998](https://arxiv.org/abs/2611.04998)|null|
+|**2026-11-03**|**Agreements Have a Clock: Compute Growth and the Verification of AI Restraint**|Li Gan et.al.|[2611.04272](https://arxiv.org/abs/2611.04272)|null|
+|**2026-11-03**|**Prizes, Shared Hazard, and the Speed of Frontier AI**|Li Gan et.al.|[2611.04266](https://arxiv.org/abs/2611.04266)|null|
+|**2026-11-03**|**Limit cycles of singular algebraic foliations on the real projective plane**|Tianwei Gan et.al.|[2611.04245](https://arxiv.org/abs/2611.04245)|null|
 |**2026-11-02**|**Hyperplane Furstenberg Sets in Higher Dimensions**|Peiqi Nie et.al.|[2611.03504](https://arxiv.org/abs/2611.03504)|null|
 |**2026-11-02**|**TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation**|Qijun Gan et.al.|[2611.03394](https://arxiv.org/abs/2611.03394)|null|
-|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](https://arxiv.org/abs/2611.03393)|null|
+|**2026-11-03**|**TaoMate-FVSR: Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](https://arxiv.org/abs/2611.03393)|null|
 |**2026-11-02**|**Performance evaluation of super-resolution techniques for characterization and phenotyping of commodity crops using multispectral imagery**|Abhiram Karukayil et.al.|[2611.02862](https://arxiv.org/abs/2611.02862)|null|
 |**2026-11-02**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics**|Pawel Strak et.al.|[2611.02735](https://arxiv.org/abs/2611.02735)|null|
 |**2026-11-02**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface**|Pawel Strak et.al.|[2611.02723](https://arxiv.org/abs/2611.02723)|null|

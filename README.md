@@ -1,4 +1,4 @@
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](https://arxiv.org/abs/2611.04604)|null|
 |**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](https://arxiv.org/abs/2611.03322)|null|
 |**2026-11-02**|**Findings-aware Language-Image Pretraining for CT Volume Interpretation**|Takuro Shimaya et.al.|[2611.02327](https://arxiv.org/abs/2611.02327)|null|
 |**2026-11-01**|**Learning from high-resolution 2D images to reconstruct 3D microstructures**|Wenbo Sui et.al.|[2611.02204](https://arxiv.org/abs/2611.02204)|null|
@@ -912,7 +913,7 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## SVCT
 
@@ -1392,15 +1393,19 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents**|Yaojian Chen et.al.|[2611.04998](https://arxiv.org/abs/2611.04998)|null|
+|**2026-11-03**|**Agreements Have a Clock: Compute Growth and the Verification of AI Restraint**|Li Gan et.al.|[2611.04272](https://arxiv.org/abs/2611.04272)|null|
+|**2026-11-03**|**Prizes, Shared Hazard, and the Speed of Frontier AI**|Li Gan et.al.|[2611.04266](https://arxiv.org/abs/2611.04266)|null|
+|**2026-11-03**|**Limit cycles of singular algebraic foliations on the real projective plane**|Tianwei Gan et.al.|[2611.04245](https://arxiv.org/abs/2611.04245)|null|
 |**2026-11-02**|**Hyperplane Furstenberg Sets in Higher Dimensions**|Peiqi Nie et.al.|[2611.03504](https://arxiv.org/abs/2611.03504)|null|
 |**2026-11-02**|**TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation**|Qijun Gan et.al.|[2611.03394](https://arxiv.org/abs/2611.03394)|null|
-|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](https://arxiv.org/abs/2611.03393)|null|
+|**2026-11-03**|**TaoMate-FVSR: Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](https://arxiv.org/abs/2611.03393)|null|
 |**2026-11-02**|**Performance evaluation of super-resolution techniques for characterization and phenotyping of commodity crops using multispectral imagery**|Abhiram Karukayil et.al.|[2611.02862](https://arxiv.org/abs/2611.02862)|null|
 |**2026-11-02**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics**|Pawel Strak et.al.|[2611.02735](https://arxiv.org/abs/2611.02735)|null|
 |**2026-11-02**|**Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface**|Pawel Strak et.al.|[2611.02723](https://arxiv.org/abs/2611.02723)|null|
@@ -3489,7 +3494,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3537,5 +3542,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
