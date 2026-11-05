@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**A 3D foundation model unifying CT interpretation and segmentation**|Yulu Xie et.al.|[2611.06471](https://arxiv.org/abs/2611.06471)|null|
 |**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](https://arxiv.org/abs/2611.04604)|null|
 |**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](https://arxiv.org/abs/2611.03322)|null|
 |**2026-11-02**|**Findings-aware Language-Image Pretraining for CT Volume Interpretation**|Takuro Shimaya et.al.|[2611.02327](https://arxiv.org/abs/2611.02327)|null|
@@ -911,6 +912,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Exact signal recovery from generative priors with sigmoid output activation**|Matthew S. Scott et.al.|[2611.05626](https://arxiv.org/abs/2611.05626)|null|
 |**2026-11-02**|**Bayesian Sequential Optimal Experimental Design for Single-Pixel Imaging using Reinforcement Learning**|Marcos Antonio Obando et.al.|[2611.03042](https://arxiv.org/abs/2611.03042)|null|
 |**2026-11-01**|**Prior-Guided Physics-Informed Deep Learning for Fast 4D MRI Reconstruction**|Mojtaba Safari et.al.|[2611.01888](https://arxiv.org/abs/2611.01888)|null|
 |**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](https://arxiv.org/abs/2610.39517)|null|
@@ -1389,6 +1391,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Energy-Accumulate-Then-Act Backscatter Communications With Retransmission Under Imperfect Feedback Detection**|Rui Xu et.al.|[2611.06499](https://arxiv.org/abs/2611.06499)|null|
+|**2026-11-04**|**NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation**|Xinhao Lou et.al.|[2611.06270](https://arxiv.org/abs/2611.06270)|null|
+|**2026-11-04**|**Neural Networks with Exciton-Polariton Waveguides**|Huawen Xu et.al.|[2611.05846](https://arxiv.org/abs/2611.05846)|null|
+|**2026-11-04**|**Noncrossing is All You Need: Beyond Identical Delay Functions in Online Matching with Delays on General Metrics**|Yossi Azar et.al.|[2611.05769](https://arxiv.org/abs/2611.05769)|null|
 |**2026-11-03**|**ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents**|Yaojian Chen et.al.|[2611.04998](https://arxiv.org/abs/2611.04998)|null|
 |**2026-11-03**|**Agreements Have a Clock: Compute Growth and the Verification of AI Restraint**|Li Gan et.al.|[2611.04272](https://arxiv.org/abs/2611.04272)|null|
 |**2026-11-03**|**Prizes, Shared Hazard, and the Speed of Frontier AI**|Li Gan et.al.|[2611.04266](https://arxiv.org/abs/2611.04266)|null|
