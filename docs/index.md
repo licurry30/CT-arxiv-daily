@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom**|Lucas McCullum et.al.|[2611.07357](https://arxiv.org/abs/2611.07357)|null|
 |**2026-11-04**|**A 3D foundation model unifying CT interpretation and segmentation**|Yulu Xie et.al.|[2611.06471](https://arxiv.org/abs/2611.06471)|null|
 |**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](https://arxiv.org/abs/2611.04604)|null|
 |**2026-11-02**|**View optimization in Computed Tomography**|Seemeen Karimi et.al.|[2611.03322](https://arxiv.org/abs/2611.03322)|null|
 |**2026-11-02**|**Findings-aware Language-Image Pretraining for CT Volume Interpretation**|Takuro Shimaya et.al.|[2611.02327](https://arxiv.org/abs/2611.02327)|null|
 |**2026-11-01**|**Learning from high-resolution 2D images to reconstruct 3D microstructures**|Wenbo Sui et.al.|[2611.02204](https://arxiv.org/abs/2611.02204)|null|
 |**2026-11-01**|**Task-driven sparse-view planar X-ray computed tomography for axial metrology**|Yibin Tian et.al.|[2611.01537](https://arxiv.org/abs/2611.01537)|null|
-|**2026-11-01**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](https://arxiv.org/abs/2611.01536)|null|
+|**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536](https://arxiv.org/abs/2611.01536)|null|
 |**2026-10-31**|**Simulation analysis of a direct/indirect conversion dual-layer X-ray detector for early identification of coronary artery calcium**|Akyl Swaby et.al.|[2611.00519](https://arxiv.org/abs/2611.00519)|null|
 |**2026-10-30**|**Sharp transitions between optimal therapy regimes reveal robust dosing strategies against drug-induced persistence**|Einar Bjarki Gunnarsson et.al.|[2611.00295](https://arxiv.org/abs/2611.00295)|null|
 |**2026-10-30**|**Decomposition Atlases of Brains and Kidneys from Postmortem CT: Shape and Topological Data Analysis**|Yanyan Zhan et.al.|[2611.00278](https://arxiv.org/abs/2611.00278)|null|
@@ -1391,6 +1392,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Leveraging deep generative modelling at the agent level in discrete-event simulations**|Margherita Molaro et.al.|[2611.07995](https://arxiv.org/abs/2611.07995)|null|
+|**2026-11-05**|**Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers**|Junkai Niu et.al.|[2611.07630](https://arxiv.org/abs/2611.07630)|null|
+|**2026-11-04**|**DMuon: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication**|Starrick Liu et.al.|[2611.07084](https://arxiv.org/abs/2611.07084)|null|
 |**2026-11-04**|**Energy-Accumulate-Then-Act Backscatter Communications With Retransmission Under Imperfect Feedback Detection**|Rui Xu et.al.|[2611.06499](https://arxiv.org/abs/2611.06499)|null|
 |**2026-11-04**|**NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation**|Xinhao Lou et.al.|[2611.06270](https://arxiv.org/abs/2611.06270)|null|
 |**2026-11-04**|**Neural Networks with Exciton-Polariton Waveguides**|Huawen Xu et.al.|[2611.05846](https://arxiv.org/abs/2611.05846)|null|
