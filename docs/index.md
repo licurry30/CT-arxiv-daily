@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](https://arxiv.org/abs/2611.09754)|null|
+|**2026-11-06**|**Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models**|Matteo Leccardi et.al.|[2611.09714](https://arxiv.org/abs/2611.09714)|null|
+|**2026-11-06**|**MSR-ABC: Complementary Feature Fusion for Clear Cell Renal Cell Carcinoma Classification**|Yuan Liang et.al.|[2611.09583](https://arxiv.org/abs/2611.09583)|null|
+|**2026-11-05**|**Measurement-Aware Multimodal LLM for No-Reference Low-Dose CT Quality Assessment**|Kerem Basim et.al.|[2611.08754](https://arxiv.org/abs/2611.08754)|null|
 |**2026-11-05**|**Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom**|Lucas McCullum et.al.|[2611.07357](https://arxiv.org/abs/2611.07357)|null|
 |**2026-11-04**|**A 3D foundation model unifying CT interpretation and segmentation**|Yulu Xie et.al.|[2611.06471](https://arxiv.org/abs/2611.06471)|null|
 |**2026-11-03**|**Sparse-View 3D Coronary Reconstruction from Vessel Segmentations Using a Diffusion Prior**|Tianyuan Wang et.al.|[2611.04604](https://arxiv.org/abs/2611.04604)|null|
@@ -913,6 +917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](https://arxiv.org/abs/2611.09754)|null|
 |**2026-11-03**|**Exact signal recovery from generative priors with sigmoid output activation**|Matthew S. Scott et.al.|[2611.05626](https://arxiv.org/abs/2611.05626)|null|
 |**2026-11-02**|**Bayesian Sequential Optimal Experimental Design for Single-Pixel Imaging using Reinforcement Learning**|Marcos Antonio Obando et.al.|[2611.03042](https://arxiv.org/abs/2611.03042)|null|
 |**2026-11-01**|**Prior-Guided Physics-Informed Deep Learning for Fast 4D MRI Reconstruction**|Mojtaba Safari et.al.|[2611.01888](https://arxiv.org/abs/2611.01888)|null|
@@ -1392,9 +1397,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint detection, privacy leakage, and synthetic medical image generation**|Alexandra-Georgiana Andrei et.al.|[2611.09455](https://arxiv.org/abs/2611.09455)|null|
+|**2026-11-06**|**AISHELL8-FISHEYE: A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines**|Peijun Yang et.al.|[2611.09368](https://arxiv.org/abs/2611.09368)|null|
+|**2026-11-06**|**Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control**|Sangjoon Yu et.al.|[2611.09074](https://arxiv.org/abs/2611.09074)|null|
+|**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](https://arxiv.org/abs/2611.09069)|null|
 |**2026-11-05**|**Leveraging deep generative modelling at the agent level in discrete-event simulations**|Margherita Molaro et.al.|[2611.07995](https://arxiv.org/abs/2611.07995)|null|
 |**2026-11-05**|**Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers**|Junkai Niu et.al.|[2611.07630](https://arxiv.org/abs/2611.07630)|null|
-|**2026-11-04**|**DMuon: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication**|Starrick Liu et.al.|[2611.07084](https://arxiv.org/abs/2611.07084)|null|
+|**2026-11-06**|**DMuon-2: Scaling Matrix Optimizers in Data Parallelism with Topology-Aware Matrix Ownership and Communication**|Starrick Liu et.al.|[2611.07084](https://arxiv.org/abs/2611.07084)|null|
 |**2026-11-04**|**Energy-Accumulate-Then-Act Backscatter Communications With Retransmission Under Imperfect Feedback Detection**|Rui Xu et.al.|[2611.06499](https://arxiv.org/abs/2611.06499)|null|
 |**2026-11-04**|**NextGAN: Towards Simple and Scalable GAN Training for Image and Video Generation**|Xinhao Lou et.al.|[2611.06270](https://arxiv.org/abs/2611.06270)|null|
 |**2026-11-04**|**Neural Networks with Exciton-Polariton Waveguides**|Huawen Xu et.al.|[2611.05846](https://arxiv.org/abs/2611.05846)|null|
