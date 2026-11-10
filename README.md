@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation**|Johanna Topalis et.al.|[2611.12817](https://arxiv.org/abs/2611.12817)|null|
+|**2026-11-09**|**Full-sphere emission and reception directivities of seven echolocating bat species**|Jan Steckel et.al.|[2611.12742](https://arxiv.org/abs/2611.12742)|null|
+|**2026-11-09**|**A four-step validation protocol for radiomic survival analysis in small cohorts: a body composition case study**|Mariela Talavera-Muñoz et.al.|[2611.12682](https://arxiv.org/abs/2611.12682)|null|
+|**2026-11-09**|**Stochastic Multilevel Sampling for Inverse Problems via Coarse-Space Identifiability**|Zichao Wendy Di et.al.|[2611.12667](https://arxiv.org/abs/2611.12667)|null|
+|**2026-11-09**|**Learning inexact alternating minimization for convex problems with quadratic coupling**|Paul Häusner et.al.|[2611.12544](https://arxiv.org/abs/2611.12544)|null|
+|**2026-11-08**|**AgentCT: A Vision-Language Agent for Universal CT Imaging**|Zhihao Chen et.al.|[2611.11503](https://arxiv.org/abs/2611.11503)|null|
+|**2026-11-08**|**DuSS-PET: Self-Supervised Low-Dose PET Reconstruction Using Pseudo-Dual-Domain Consistency Without Paired Data**|Shuijin Lin et.al.|[2611.11265](https://arxiv.org/abs/2611.11265)|null|
+|**2026-11-07**|**3D Segmentation in the Clinic: A Grand Challenge**|Bram van Ginneken et.al.|[2611.10728](https://arxiv.org/abs/2611.10728)|null|
+|**2026-11-07**|**Noise Propagation and Non-Uniqueness in Three-Material Dual Energy CT with a Path Length Constraint**|Andrew E. Ferretti et.al.|[2611.10460](https://arxiv.org/abs/2611.10460)|null|
 |**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](https://arxiv.org/abs/2611.09754)|null|
 |**2026-11-06**|**Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models**|Matteo Leccardi et.al.|[2611.09714](https://arxiv.org/abs/2611.09714)|null|
 |**2026-11-06**|**MSR-ABC: Complementary Feature Fusion for Clear Cell Renal Cell Carcinoma Classification**|Yuan Liang et.al.|[2611.09583](https://arxiv.org/abs/2611.09583)|null|
@@ -919,12 +928,15 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Learning inexact alternating minimization for convex problems with quadratic coupling**|Paul Häusner et.al.|[2611.12544](https://arxiv.org/abs/2611.12544)|null|
+|**2026-11-09**|**Near-Field Channel Estimation via Deep Unfolding for Extremely Large-Scale Antenna Arrays**|Nguyen The Khang et.al.|[2611.12021](https://arxiv.org/abs/2611.12021)|null|
+|**2026-11-08**|**AgentCT: A Vision-Language Agent for Universal CT Imaging**|Zhihao Chen et.al.|[2611.11503](https://arxiv.org/abs/2611.11503)|null|
 |**2026-11-06**|**Tomographic Sparse View Selection using the View Covariance Loss**|Jingsong Lin et.al.|[2611.09754](https://arxiv.org/abs/2611.09754)|null|
 |**2026-11-03**|**Exact signal recovery from generative priors with sigmoid output activation**|Matthew S. Scott et.al.|[2611.05626](https://arxiv.org/abs/2611.05626)|null|
 |**2026-11-02**|**Bayesian Sequential Optimal Experimental Design for Single-Pixel Imaging using Reinforcement Learning**|Marcos Antonio Obando et.al.|[2611.03042](https://arxiv.org/abs/2611.03042)|null|
@@ -1401,12 +1413,28 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**A relative trace formula for the orthogonal Gan-Gross-Prasad model and the proof of its fundamental lemma**|Zhengyu Mao et.al.|[2611.12724](https://arxiv.org/abs/2611.12724)|null|
+|**2026-11-09**|**Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading**|Guangyan Gan et.al.|[2611.12269](https://arxiv.org/abs/2611.12269)|null|
+|**2026-11-09**|**Environmental Assessment of GaN Current-Source and Voltage-Source AC-AC Variable Speed Drives**|Luc Imperiali et.al.|[2611.12211](https://arxiv.org/abs/2611.12211)|null|
+|**2026-11-09**|**CARE-PO: Controllable Tool-Call Efficiency for LLM Agents**|Xiaoyang Ye et.al.|[2611.12125](https://arxiv.org/abs/2611.12125)|null|
+|**2026-11-09**|**Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of Extremely Sparse Planar Images in Differentiated Thyroid Cancer**|Boyang Pan et.al.|[2611.12044](https://arxiv.org/abs/2611.12044)|null|
+|**2026-11-09**|**Rapid Heat Removal from Chip Cores: Near-Junction Active Cooling of Power Transistors via Electron Entropy Transport and Spatial Decoupling**|Xiangying Li et.al.|[2611.11716](https://arxiv.org/abs/2611.11716)|null|
+|**2026-11-08**|**HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model**|Ziwon Yoon et.al.|[2611.11665](https://arxiv.org/abs/2611.11665)|null|
+|**2026-11-08**|**Joint Design of Communication and Control in Center-Fed Pinching-Antenna Systems**|Xu Gan et.al.|[2611.11412](https://arxiv.org/abs/2611.11412)|null|
+|**2026-11-08**|**Uncertainty principle on  $\mathbb{T}^m \times \mathbb{R}^n$ **|Wenkai Gan et.al.|[2611.11361](https://arxiv.org/abs/2611.11361)|null|
+|**2026-11-08**|**Attacking Slide Puzzle CAPTCHAs Based on Time and Space Generative Adversarial Networks**|Rui Guo et.al.|[2611.11355](https://arxiv.org/abs/2611.11355)|null|
+|**2026-11-08**|**HARP-Bench: Benchmarking Robot Manipulation Around Active Humans**|Qinhong Zhou et.al.|[2611.11123](https://arxiv.org/abs/2611.11123)|null|
+|**2026-11-08**|**Statopia: A Prover--Library Ecosystem for Automated Formalization and Proof Discovery in Statistics**|Ziyuan Chen et.al.|[2611.11110](https://arxiv.org/abs/2611.11110)|null|
+|**2026-11-08**|**Efficient VLA Inference via Retrieval-Based Speculation and Hardware Acceleration**|Zhengyang Cheng et.al.|[2611.11098](https://arxiv.org/abs/2611.11098)|null|
+|**2026-11-07**|**Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G**|Wanlu Sun et.al.|[2611.11023](https://arxiv.org/abs/2611.11023)|null|
+|**2026-11-07**|**M3FT: Micro-Macro-Micro Reasoning for Multi-Agent Cryptocurrency Perpetual Futures Trading**|Jiashun Wang et.al.|[2611.10586](https://arxiv.org/abs/2611.10586)|null|
+|**2026-11-07**|**Track or Follow? A Jev-Compatible Multi-Agent Trading System When Web News Lags the Market**|Yebo Feng et.al.|[2611.10414](https://arxiv.org/abs/2611.10414)|null|
 |**2026-11-06**|**Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint detection, privacy leakage, and synthetic medical image generation**|Alexandra-Georgiana Andrei et.al.|[2611.09455](https://arxiv.org/abs/2611.09455)|null|
 |**2026-11-06**|**AISHELL8-FISHEYE: A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines**|Peijun Yang et.al.|[2611.09368](https://arxiv.org/abs/2611.09368)|null|
 |**2026-11-06**|**Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control**|Sangjoon Yu et.al.|[2611.09074](https://arxiv.org/abs/2611.09074)|null|
@@ -3513,7 +3541,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3561,5 +3589,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
