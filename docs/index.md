@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
@@ -1409,6 +1409,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383](https://arxiv.org/abs/2611.14383)|null|
+|**2026-11-10**|**TaoMate-R1: Temporal Role Specialization for Streaming Multi-Reference Video Generation**|Qijun Gan et.al.|[2611.14307](https://arxiv.org/abs/2611.14307)|null|
 |**2026-11-09**|**A relative trace formula for the orthogonal Gan-Gross-Prasad model and the proof of its fundamental lemma**|Zhengyu Mao et.al.|[2611.12724](https://arxiv.org/abs/2611.12724)|null|
 |**2026-11-09**|**Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading**|Guangyan Gan et.al.|[2611.12269](https://arxiv.org/abs/2611.12269)|null|
 |**2026-11-09**|**Environmental Assessment of GaN Current-Source and Voltage-Source AC-AC Variable Speed Drives**|Luc Imperiali et.al.|[2611.12211](https://arxiv.org/abs/2611.12211)|null|
