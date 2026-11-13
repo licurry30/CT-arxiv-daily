@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Taming Neural Fields with a Frequency-Lipschitz Curriculum for Sparse-View CT Reconstruction**|Songtao Hu et.al.|[2611.15652](https://arxiv.org/abs/2611.15652)|null|
+|**2026-11-11**|**PCLSegNet: Anatomy-Aware Deep Learning Framework for MRI-based Pancreatic Cyst Segmentation and Size Assessment**|Hanyi Zhang et.al.|[2611.15278](https://arxiv.org/abs/2611.15278)|null|
 |**2026-11-09**|**LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation**|Johanna Topalis et.al.|[2611.12817](https://arxiv.org/abs/2611.12817)|null|
 |**2026-11-09**|**Full-sphere emission and reception directivities of seven echolocating bat species**|Jan Steckel et.al.|[2611.12742](https://arxiv.org/abs/2611.12742)|null|
 |**2026-11-09**|**A four-step validation protocol for radiomic survival analysis in small cohorts: a body composition case study**|Mariela Talavera-Muñoz et.al.|[2611.12682](https://arxiv.org/abs/2611.12682)|null|
@@ -926,6 +928,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Taming Neural Fields with a Frequency-Lipschitz Curriculum for Sparse-View CT Reconstruction**|Songtao Hu et.al.|[2611.15652](https://arxiv.org/abs/2611.15652)|null|
 |**2026-11-09**|**Learning inexact alternating minimization for convex problems with quadratic coupling**|Paul Häusner et.al.|[2611.12544](https://arxiv.org/abs/2611.12544)|null|
 |**2026-11-09**|**Near-Field Channel Estimation via Deep Unfolding for Extremely Large-Scale Antenna Arrays**|Nguyen The Khang et.al.|[2611.12021](https://arxiv.org/abs/2611.12021)|null|
 |**2026-11-08**|**AgentCT: A Vision-Language Agent for Universal CT Imaging**|Zhihao Chen et.al.|[2611.11503](https://arxiv.org/abs/2611.11503)|null|
@@ -1409,6 +1412,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion**|Kamrul Hasan et.al.|[2611.17013](https://arxiv.org/abs/2611.17013)|null|
+|**2026-11-12**|**Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in VLMs on JRDB-Social**|Chengguang Gan et.al.|[2611.16581](https://arxiv.org/abs/2611.16581)|null|
+|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424](https://arxiv.org/abs/2611.16424)|null|
+|**2026-11-12**|**Flexible Intelligent Metasurfaces for Enhancing Secure MISO Communications**|Zihao Teng et.al.|[2611.16411](https://arxiv.org/abs/2611.16411)|null|
+|**2026-11-12**|**Beyond Compressing Everything: Contrastive Memory Learning for Selective Context Compression**|Sikui Zhang et.al.|[2611.16384](https://arxiv.org/abs/2611.16384)|null|
+|**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](https://arxiv.org/abs/2611.16257)|null|
+|**2026-11-11**|**Subsurface schematisation from sparse CPT data using the tabular foundation model TabPFN**|Taiga Saito et.al.|[2611.16088](https://arxiv.org/abs/2611.16088)|null|
+|**2026-11-11**|**Tests of Covariate Effects and Model Selection in Finite Mixture Regression Model**|Chong Gan et.al.|[2611.15978](https://arxiv.org/abs/2611.15978)|null|
+|**2026-11-11**|**Learning-Based Interpolation of Detector Gaps in Photon-Counting X-ray Imaging**|Johannes B. Thalhammer et.al.|[2611.15614](https://arxiv.org/abs/2611.15614)|null|
+|**2026-11-11**|**Physics-Informed Generative Augmentation for Open-Set UAV Classification**|Michel Kulhandjian et.al.|[2611.15612](https://arxiv.org/abs/2611.15612)|null|
+|**2026-11-11**|**Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance Throttling**|Chengguang Gan et.al.|[2611.15568](https://arxiv.org/abs/2611.15568)|null|
+|**2026-11-11**|**Stealthy, High-Impact False Data Injection Attacks in Smart Grid Using Physics-Constrained GAN**|Md. Mainul Islam et.al.|[2611.15162](https://arxiv.org/abs/2611.15162)|null|
+|**2026-11-11**|**High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors**|Gustavo Madrigal et.al.|[2611.15138](https://arxiv.org/abs/2611.15138)|null|
+|**2026-11-11**|**Federated Class Incremental Learning: A Pseudo Feature Based Approach Without Exemplars**|Min Kyoon Yoo et.al.|[2611.15025](https://arxiv.org/abs/2611.15025)|null|
+|**2026-11-11**|**Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving**|Wentao Zhang et.al.|[2611.14997](https://arxiv.org/abs/2611.14997)|null|
+|**2026-11-11**|**Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators**|Jiayun Wang et.al.|[2611.14979](https://arxiv.org/abs/2611.14979)|null|
+|**2026-11-11**|**Scaling VLA Serving Under Robotic Execution Constraints**|Yue Zhang et.al.|[2611.14969](https://arxiv.org/abs/2611.14969)|null|
+|**2026-11-11**|**Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces**|Feiyu Zhou et.al.|[2611.14948](https://arxiv.org/abs/2611.14948)|null|
+|**2026-11-10**|**OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design**|Ruiheng Yu et.al.|[2611.14808](https://arxiv.org/abs/2611.14808)|null|
 |**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383](https://arxiv.org/abs/2611.14383)|null|
 |**2026-11-10**|**TaoMate-R1: Temporal Role Specialization for Streaming Multi-Reference Video Generation**|Qijun Gan et.al.|[2611.14307](https://arxiv.org/abs/2611.14307)|null|
 |**2026-11-09**|**A relative trace formula for the orthogonal Gan-Gross-Prasad model and the proof of its fundamental lemma**|Zhengyu Mao et.al.|[2611.12724](https://arxiv.org/abs/2611.12724)|null|
