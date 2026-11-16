@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Causally Constrained and Uncertainty-Aware Cardiopulmonary Risk Prediction**|Yuxiang Lai et.al.|[2611.17819](https://arxiv.org/abs/2611.17819)|null|
 |**2026-11-11**|**Taming Neural Fields with a Frequency-Lipschitz Curriculum for Sparse-View CT Reconstruction**|Songtao Hu et.al.|[2611.15652](https://arxiv.org/abs/2611.15652)|null|
 |**2026-11-11**|**PCLSegNet: Anatomy-Aware Deep Learning Framework for MRI-based Pancreatic Cyst Segmentation and Size Assessment**|Hanyi Zhang et.al.|[2611.15278](https://arxiv.org/abs/2611.15278)|null|
 |**2026-11-09**|**LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation**|Johanna Topalis et.al.|[2611.12817](https://arxiv.org/abs/2611.12817)|null|
@@ -1422,6 +1423,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**TOI-1699A: a sub-Neptune and a super-Jovian in an S-type planetary system**|Angelica Psaridi et.al.|[2611.18481](https://arxiv.org/abs/2611.18481)|null|
+|**2026-11-13**|**Beyond Blossom: Accelerating MWPM Decoding for Surface Codes With Local Predecoding and Architecture-Aware Optimizations**|Jiayu Fu et.al.|[2611.18476](https://arxiv.org/abs/2611.18476)|null|
+|**2026-11-13**|**AI-Based Multi-View Echocardiographic Image Synthesis using Dynamic Shape Control**|João Freitas et.al.|[2611.18375](https://arxiv.org/abs/2611.18375)|null|
+|**2026-11-13**|**SemRAG: Semantic-Guided Sentence-Level Retrieval-Augmented Sign Language Production**|Xiao Liu et.al.|[2611.18189](https://arxiv.org/abs/2611.18189)|null|
+|**2026-11-13**|**Epitaxial integration of GaN  $μ$ -platelets and thin films on metallic TiN using a hybrid approach**|Philipp M. John et.al.|[2611.17986](https://arxiv.org/abs/2611.17986)|null|
+|**2026-11-13**|**nnAEU: a Simple and Efficient CNN-Autoencoder for Hyperspectral Unmixing**|Edgard Dabier et.al.|[2611.17956](https://arxiv.org/abs/2611.17956)|null|
+|**2026-11-13**|**CardioTrace: Motion-Aware Cine Synthesis via Coupled Tracing and Segmentation**|Zhi Chen et.al.|[2611.17909](https://arxiv.org/abs/2611.17909)|null|
+|**2026-11-13**|**Evaluating the Robustness of PRNU Source-Camera Attribution to the Fingerprint-Copy Attack: An Open Toolkit with Triangle-Test Detection**|Zeno J. M. H. Geradts et.al.|[2611.17747](https://arxiv.org/abs/2611.17747)|null|
 |**2026-11-12**|**DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion**|Kamrul Hasan et.al.|[2611.17013](https://arxiv.org/abs/2611.17013)|null|
 |**2026-11-12**|**Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in VLMs on JRDB-Social**|Chengguang Gan et.al.|[2611.16581](https://arxiv.org/abs/2611.16581)|null|
 |**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424](https://arxiv.org/abs/2611.16424)|null|
@@ -1433,7 +1442,7 @@
 |**2026-11-11**|**Learning-Based Interpolation of Detector Gaps in Photon-Counting X-ray Imaging**|Johannes B. Thalhammer et.al.|[2611.15614](https://arxiv.org/abs/2611.15614)|null|
 |**2026-11-11**|**Physics-Informed Generative Augmentation for Open-Set UAV Classification**|Michel Kulhandjian et.al.|[2611.15612](https://arxiv.org/abs/2611.15612)|null|
 |**2026-11-11**|**Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance Throttling**|Chengguang Gan et.al.|[2611.15568](https://arxiv.org/abs/2611.15568)|null|
-|**2026-11-11**|**Stealthy, High-Impact False Data Injection Attacks in Smart Grid Using Physics-Constrained GAN**|Md. Mainul Islam et.al.|[2611.15162](https://arxiv.org/abs/2611.15162)|null|
+|**2026-11-13**|**Stealthy, High-Impact False Data Injection Attacks in Smart Grid Using Physics-Constrained GAN with Limited System Knowledge**|Md. Mainul Islam et.al.|[2611.15162](https://arxiv.org/abs/2611.15162)|null|
 |**2026-11-11**|**High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors**|Gustavo Madrigal et.al.|[2611.15138](https://arxiv.org/abs/2611.15138)|null|
 |**2026-11-11**|**Federated Class Incremental Learning: A Pseudo Feature Based Approach Without Exemplars**|Min Kyoon Yoo et.al.|[2611.15025](https://arxiv.org/abs/2611.15025)|null|
 |**2026-11-11**|**Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving**|Wentao Zhang et.al.|[2611.14997](https://arxiv.org/abs/2611.14997)|null|
