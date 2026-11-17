@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Fix, Don't Retake: Physics-Simulated Training for Correcting Patient Positioning Errors in Dental Panoramic Radiographs**|Sema Helali et.al.|[2611.21304](https://arxiv.org/abs/2611.21304)|null|
+|**2026-11-16**|**Fluid exchange and renewal in the left atrial appendage**|Y. Stöcker et.al.|[2611.21221](https://arxiv.org/abs/2611.21221)|null|
+|**2026-11-16**|**Dynamic infrared thermography and computed tomography angiography fusion for DIEP flap perforator selection: a novel measurement system**|Warre Clarys et.al.|[2611.20545](https://arxiv.org/abs/2611.20545)|null|
+|**2026-11-15**|**What Matters for Cross-Modal Alignment**|Yipeng Sun et.al.|[2611.20000](https://arxiv.org/abs/2611.20000)|null|
+|**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](https://arxiv.org/abs/2611.18936)|null|
+|**2026-11-13**|**Accelerating Variational Cone-Beam CT Reconstruction with Learned Warm Starts**|Héloïse Dudoignon et.al.|[2611.18801](https://arxiv.org/abs/2611.18801)|null|
+|**2026-11-12**|**RouteDiff: Low-Dose CT Denoising via Fidelity-Refinement Routing and Hypergraph State Regulation**|Xinyuan Wang et.al.|[2611.18786](https://arxiv.org/abs/2611.18786)|null|
 |**2026-11-13**|**Causally Constrained and Uncertainty-Aware Cardiopulmonary Risk Prediction**|Yuxiang Lai et.al.|[2611.17819](https://arxiv.org/abs/2611.17819)|null|
 |**2026-11-11**|**Taming Neural Fields with a Frequency-Lipschitz Curriculum for Sparse-View CT Reconstruction**|Songtao Hu et.al.|[2611.15652](https://arxiv.org/abs/2611.15652)|null|
 |**2026-11-11**|**PCLSegNet: Anatomy-Aware Deep Learning Framework for MRI-based Pancreatic Cyst Segmentation and Size Assessment**|Hanyi Zhang et.al.|[2611.15278](https://arxiv.org/abs/2611.15278)|null|
@@ -929,6 +936,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**A High-Resolution TOA Estimation Algorithm Based on Compressed Sensing for Coherent Multi-Band Signals**|Jialun Kou et.al.|[2611.21089](https://arxiv.org/abs/2611.21089)|null|
+|**2026-11-16**|**Reconstruction and Forecast of Extreme Waves from a Single Observation**|Zachary T. Hilliard et.al.|[2611.21068](https://arxiv.org/abs/2611.21068)|null|
+|**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](https://arxiv.org/abs/2611.18936)|null|
+|**2026-11-13**|**Accelerating Variational Cone-Beam CT Reconstruction with Learned Warm Starts**|Héloïse Dudoignon et.al.|[2611.18801](https://arxiv.org/abs/2611.18801)|null|
 |**2026-11-11**|**Taming Neural Fields with a Frequency-Lipschitz Curriculum for Sparse-View CT Reconstruction**|Songtao Hu et.al.|[2611.15652](https://arxiv.org/abs/2611.15652)|null|
 |**2026-11-09**|**Learning inexact alternating minimization for convex problems with quadratic coupling**|Paul Häusner et.al.|[2611.12544](https://arxiv.org/abs/2611.12544)|null|
 |**2026-11-09**|**Near-Field Channel Estimation via Deep Unfolding for Extremely Large-Scale Antenna Arrays**|Nguyen The Khang et.al.|[2611.12021](https://arxiv.org/abs/2611.12021)|null|
@@ -1413,6 +1424,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Subprocess-Constrained Markov Decision Processes**|Jiarui Gan et.al.|[2611.21471](https://arxiv.org/abs/2611.21471)|null|
+|**2026-11-16**|**Think2Listen: Evidence-Centric Learning For Agentic Audio Understanding With LALMS**|Jin Wang et.al.|[2611.21083](https://arxiv.org/abs/2611.21083)|null|
+|**2026-11-16**|**Room for Supervision: Training-Free Dataset Distillation for Object Detection**|Ziang Gan et.al.|[2611.20680](https://arxiv.org/abs/2611.20680)|null|
+|**2026-11-16**|**From Joint Risk to Decision Invariance: Decision-Preserving Regularization for Exemplar-Free Class-Incremental Learning**|Qi Zhu et.al.|[2611.20619](https://arxiv.org/abs/2611.20619)|null|
+|**2026-11-16**|**Quantum Sensor of Mechanical Vibrations**|Mu Young Kim et.al.|[2611.20610](https://arxiv.org/abs/2611.20610)|null|
+|**2026-11-16**|**Quantum Computing-Based Wasserstein Generative Adversarial Networks for Airfoil Parameterization**|Abdur Rahman Ovy et.al.|[2611.20602](https://arxiv.org/abs/2611.20602)|null|
+|**2026-11-16**|**Non-tempered GGP conjecture for classical groups: the Bessel case**|Rui Chen et.al.|[2611.20494](https://arxiv.org/abs/2611.20494)|null|
+|**2026-11-14**|**SAR-TopoGuard: Training-Free, Speckle-Aware Topological Verification for Structure-Preserving SAR-to-Optical Translation**|Satabarto Sarkar et.al.|[2611.19316](https://arxiv.org/abs/2611.19316)|null|
 |**2026-11-13**|**TOI-1699A: a sub-Neptune and a super-Jovian in an S-type planetary system**|Angelica Psaridi et.al.|[2611.18481](https://arxiv.org/abs/2611.18481)|null|
 |**2026-11-13**|**Beyond Blossom: Accelerating MWPM Decoding for Surface Codes With Local Predecoding and Architecture-Aware Optimizations**|Jiayu Fu et.al.|[2611.18476](https://arxiv.org/abs/2611.18476)|null|
 |**2026-11-13**|**AI-Based Multi-View Echocardiographic Image Synthesis using Dynamic Shape Control**|João Freitas et.al.|[2611.18375](https://arxiv.org/abs/2611.18375)|null|
@@ -1423,7 +1442,7 @@ layout: default
 |**2026-11-13**|**Evaluating the Robustness of PRNU Source-Camera Attribution to the Fingerprint-Copy Attack: An Open Toolkit with Triangle-Test Detection**|Zeno J. M. H. Geradts et.al.|[2611.17747](https://arxiv.org/abs/2611.17747)|null|
 |**2026-11-12**|**DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion**|Kamrul Hasan et.al.|[2611.17013](https://arxiv.org/abs/2611.17013)|null|
 |**2026-11-12**|**Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in VLMs on JRDB-Social**|Chengguang Gan et.al.|[2611.16581](https://arxiv.org/abs/2611.16581)|null|
-|**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424](https://arxiv.org/abs/2611.16424)|null|
+|**2026-11-16**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424](https://arxiv.org/abs/2611.16424)|null|
 |**2026-11-12**|**Flexible Intelligent Metasurfaces for Enhancing Secure MISO Communications**|Zihao Teng et.al.|[2611.16411](https://arxiv.org/abs/2611.16411)|null|
 |**2026-11-12**|**Beyond Compressing Everything: Contrastive Memory Learning for Selective Context Compression**|Sikui Zhang et.al.|[2611.16384](https://arxiv.org/abs/2611.16384)|null|
 |**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](https://arxiv.org/abs/2611.16257)|null|
