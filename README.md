@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,10 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning**|Evgeny Alves Limarenko et.al.|[2611.23042](https://arxiv.org/abs/2611.23042)|null|
 |**2026-11-16**|**Fix, Don't Retake: Physics-Simulated Training for Correcting Patient Positioning Errors in Dental Panoramic Radiographs**|Sema Helali et.al.|[2611.21304](https://arxiv.org/abs/2611.21304)|null|
 |**2026-11-16**|**Fluid exchange and renewal in the left atrial appendage**|Y. Stöcker et.al.|[2611.21221](https://arxiv.org/abs/2611.21221)|null|
 |**2026-11-16**|**Dynamic infrared thermography and computed tomography angiography fusion for DIEP flap perforator selection: a novel measurement system**|Warre Clarys et.al.|[2611.20545](https://arxiv.org/abs/2611.20545)|null|
-|**2026-11-15**|**What Matters for Cross-Modal Alignment**|Yipeng Sun et.al.|[2611.20000](https://arxiv.org/abs/2611.20000)|null|
+|**2026-11-17**|**What Matters for Cross-Modal Alignment**|Yipeng Sun et.al.|[2611.20000](https://arxiv.org/abs/2611.20000)|null|
 |**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](https://arxiv.org/abs/2611.18936)|null|
 |**2026-11-13**|**Accelerating Variational Cone-Beam CT Reconstruction with Learned Warm Starts**|Héloïse Dudoignon et.al.|[2611.18801](https://arxiv.org/abs/2611.18801)|null|
 |**2026-11-12**|**RouteDiff: Low-Dose CT Denoising via Fidelity-Refinement Routing and Hypergraph State Regulation**|Xinyuan Wang et.al.|[2611.18786](https://arxiv.org/abs/2611.18786)|null|
@@ -938,12 +939,14 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor**|Davide Castaldo et.al.|[2611.22834](https://arxiv.org/abs/2611.22834)|null|
+|**2026-11-17**|**Inapproximability of L1->L2 Subspace Distortion**|Vijay Bhattiprolu et.al.|[2611.22531](https://arxiv.org/abs/2611.22531)|null|
 |**2026-11-16**|**A High-Resolution TOA Estimation Algorithm Based on Compressed Sensing for Coherent Multi-Band Signals**|Jialun Kou et.al.|[2611.21089](https://arxiv.org/abs/2611.21089)|null|
 |**2026-11-16**|**Reconstruction and Forecast of Extreme Waves from a Single Observation**|Zachary T. Hilliard et.al.|[2611.21068](https://arxiv.org/abs/2611.21068)|null|
 |**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](https://arxiv.org/abs/2611.18936)|null|
@@ -1428,12 +1431,24 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**TextSphere: Efficient Text-to-Image Generation via Shared Hyperspherical Alignment and Uniformity**|Yixia Zhang et.al.|[2611.23155](https://arxiv.org/abs/2611.23155)|null|
+|**2026-11-17**|**A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design**|Samuel Sisk et.al.|[2611.23130](https://arxiv.org/abs/2611.23130)|null|
+|**2026-11-17**|**Automated Annotation-Free Synthetic Data Generation for Underwater Litter Detection: A Comparison of Generative Approaches**|Amala Mary Vincent et.al.|[2611.23037](https://arxiv.org/abs/2611.23037)|null|
+|**2026-11-17**|**The Rhythm of Generated Video: Latent Chunking Leaves Periodic Traces in Compressed Bitstreams**|Chen Ye Gan et.al.|[2611.22996](https://arxiv.org/abs/2611.22996)|null|
+|**2026-11-17**|**SWIR-cGAN: Synthesizing SWIR Bands Using VNIR Imagery from CBERS and AMAZONIA-1**|Alisson Cleiton de Oliveira et.al.|[2611.22922](https://arxiv.org/abs/2611.22922)|null|
+|**2026-11-17**|**An extremal question of Erdős et al. on cycles**|Zhiyong Gan et.al.|[2611.22824](https://arxiv.org/abs/2611.22824)|null|
+|**2026-11-17**|**The minimum degree of minimally k-extendable graphs for some k**|Zhiyong Gan et.al.|[2611.22690](https://arxiv.org/abs/2611.22690)|null|
+|**2026-11-17**|**The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory**|Caoxin Wang et.al.|[2611.22661](https://arxiv.org/abs/2611.22661)|null|
+|**2026-11-17**|**Personalized Causal Low-Bitrate Coded Speech Restoration with Speaker Embeddings**|Eray Özgünay et.al.|[2611.22620](https://arxiv.org/abs/2611.22620)|null|
+|**2026-11-17**|**EviDARL: Evidence-Centric Dual-Agent Reasoning via Alternating Reinforcement Learning for Multi-Table Question Answering**|Dunhan Li et.al.|[2611.22310](https://arxiv.org/abs/2611.22310)|null|
+|**2026-11-16**|**Domain-Tuned Diffusion Super-Resolution for 4K Facial Asset Maps**|Elly Akhoundi et.al.|[2611.21890](https://arxiv.org/abs/2611.21890)|null|
+|**2026-11-16**|**Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**|Keshav Shenoy et.al.|[2611.21832](https://arxiv.org/abs/2611.21832)|null|
 |**2026-11-16**|**Subprocess-Constrained Markov Decision Processes**|Jiarui Gan et.al.|[2611.21471](https://arxiv.org/abs/2611.21471)|null|
 |**2026-11-16**|**Think2Listen: Evidence-Centric Learning For Agentic Audio Understanding With LALMS**|Jin Wang et.al.|[2611.21083](https://arxiv.org/abs/2611.21083)|null|
 |**2026-11-16**|**Room for Supervision: Training-Free Dataset Distillation for Object Detection**|Ziang Gan et.al.|[2611.20680](https://arxiv.org/abs/2611.20680)|null|
@@ -3593,7 +3608,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3641,5 +3656,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
