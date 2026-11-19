@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers**|Ramani Duraiswami et.al.|[2611.24776](https://arxiv.org/abs/2611.24776)|null|
+|**2026-11-18**|**NativeSeg: Native Vision Language Segmentation of 3D Computed Tomography via Spatial Visual Tokens and Verified Local Zoom**|Chengqian Ma et.al.|[2611.24443](https://arxiv.org/abs/2611.24443)|null|
+|**2026-11-18**|**Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction**|Maria Thoma et.al.|[2611.24018](https://arxiv.org/abs/2611.24018)|null|
+|**2026-11-18**|**ACUS: An Angular Calibrated Uncertainty Score for Incomplete-View CT**|Zihan Deng et.al.|[2611.23752](https://arxiv.org/abs/2611.23752)|null|
+|**2026-11-18**|**Image-Condition-Controlled Diffusion Network with Large-Scale CT Pretraining for CT-Free Attenuation Correction in Dynamic Cardiac PET**|Zhejia Zhang et.al.|[2611.23672](https://arxiv.org/abs/2611.23672)|null|
+|**2026-11-17**|**Deep-Learning-Assisted Full Waveform Inversion for Attenuation Reconstruction in Ultrasound Computed Tomography**|Mingrui Liu et.al.|[2611.23553](https://arxiv.org/abs/2611.23553)|null|
+|**2026-11-17**|**ORGANIC3D: Grounding 3D CT Vision Language Models in Organ Level Image Text Coupling**|Zelong Liu et.al.|[2611.23529](https://arxiv.org/abs/2611.23529)|null|
 |**2026-11-17**|**Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning**|Evgeny Alves Limarenko et.al.|[2611.23042](https://arxiv.org/abs/2611.23042)|null|
 |**2026-11-16**|**Fix, Don't Retake: Physics-Simulated Training for Correcting Patient Positioning Errors in Dental Panoramic Radiographs**|Sema Helali et.al.|[2611.21304](https://arxiv.org/abs/2611.21304)|null|
 |**2026-11-16**|**Fluid exchange and renewal in the left atrial appendage**|Y. Stöcker et.al.|[2611.21221](https://arxiv.org/abs/2611.21221)|null|
@@ -937,6 +944,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Diffusion Models are Provably Efficient Priors for Sparse Recovery**|Ivan Lee et.al.|[2611.24602](https://arxiv.org/abs/2611.24602)|null|
 |**2026-11-17**|**Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor**|Davide Castaldo et.al.|[2611.22834](https://arxiv.org/abs/2611.22834)|null|
 |**2026-11-17**|**Inapproximability of L1->L2 Subspace Distortion**|Vijay Bhattiprolu et.al.|[2611.22531](https://arxiv.org/abs/2611.22531)|null|
 |**2026-11-16**|**A High-Resolution TOA Estimation Algorithm Based on Compressed Sensing for Coherent Multi-Band Signals**|Jialun Kou et.al.|[2611.21089](https://arxiv.org/abs/2611.21089)|null|
@@ -1427,6 +1435,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Design and Modeling of Graded Base III-Nitride HBTs for High-Frequency Applications**|Md Saklain Morshed et.al.|[2611.24790](https://arxiv.org/abs/2611.24790)|null|
+|**2026-11-18**|**From real to synthetic: PSG-GAN learns sleep apnea signal dynamics for AI training**|Riku Huttunen et.al.|[2611.24436](https://arxiv.org/abs/2611.24436)|null|
+|**2026-11-18**|**Fast Bayesian Methods for Uncertainty Quantification in Sparse AI Evaluation**|Dario Deniz Ergun et.al.|[2611.24159](https://arxiv.org/abs/2611.24159)|null|
+|**2026-11-18**|**PIVOT: Distribution-Preserving Multi-BitWatermarking with Minimax-Optimal Scoring**|Wen Zhang et.al.|[2611.24109](https://arxiv.org/abs/2611.24109)|null|
+|**2026-11-18**|**Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction**|Maria Thoma et.al.|[2611.24018](https://arxiv.org/abs/2611.24018)|null|
+|**2026-11-18**|**Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating**|Daosheng Tang et.al.|[2611.23866](https://arxiv.org/abs/2611.23866)|null|
 |**2026-11-17**|**TextSphere: Efficient Text-to-Image Generation via Shared Hyperspherical Alignment and Uniformity**|Yixia Zhang et.al.|[2611.23155](https://arxiv.org/abs/2611.23155)|null|
 |**2026-11-17**|**A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design**|Samuel Sisk et.al.|[2611.23130](https://arxiv.org/abs/2611.23130)|null|
 |**2026-11-17**|**Automated Annotation-Free Synthetic Data Generation for Underwater Litter Detection: A Comparison of Generative Approaches**|Amala Mary Vincent et.al.|[2611.23037](https://arxiv.org/abs/2611.23037)|null|
