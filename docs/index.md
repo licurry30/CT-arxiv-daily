@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Fast Self-Supervised Generative CT Denoising via Few-Step Sampling**|Xingyi Yao et.al.|[2611.26370](https://arxiv.org/abs/2611.26370)|null|
+|**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](https://arxiv.org/abs/2611.25548)|null|
 |**2026-11-18**|**4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers**|Ramani Duraiswami et.al.|[2611.24776](https://arxiv.org/abs/2611.24776)|null|
 |**2026-11-18**|**NativeSeg: Native Vision Language Segmentation of 3D Computed Tomography via Spatial Visual Tokens and Verified Local Zoom**|Chengqian Ma et.al.|[2611.24443](https://arxiv.org/abs/2611.24443)|null|
 |**2026-11-18**|**Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction**|Maria Thoma et.al.|[2611.24018](https://arxiv.org/abs/2611.24018)|null|
@@ -20,7 +22,7 @@ layout: default
 |**2026-11-16**|**Fix, Don't Retake: Physics-Simulated Training for Correcting Patient Positioning Errors in Dental Panoramic Radiographs**|Sema Helali et.al.|[2611.21304](https://arxiv.org/abs/2611.21304)|null|
 |**2026-11-16**|**Fluid exchange and renewal in the left atrial appendage**|Y. Stöcker et.al.|[2611.21221](https://arxiv.org/abs/2611.21221)|null|
 |**2026-11-16**|**Dynamic infrared thermography and computed tomography angiography fusion for DIEP flap perforator selection: a novel measurement system**|Warre Clarys et.al.|[2611.20545](https://arxiv.org/abs/2611.20545)|null|
-|**2026-11-17**|**What Matters for Cross-Modal Alignment**|Yipeng Sun et.al.|[2611.20000](https://arxiv.org/abs/2611.20000)|null|
+|**2026-11-19**|**What Matters for Cross-Modal Alignment**|Yipeng Sun et.al.|[2611.20000](https://arxiv.org/abs/2611.20000)|null|
 |**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](https://arxiv.org/abs/2611.18936)|null|
 |**2026-11-13**|**Accelerating Variational Cone-Beam CT Reconstruction with Learned Warm Starts**|Héloïse Dudoignon et.al.|[2611.18801](https://arxiv.org/abs/2611.18801)|null|
 |**2026-11-12**|**RouteDiff: Low-Dose CT Denoising via Fidelity-Refinement Routing and Hypergraph State Regulation**|Xinyuan Wang et.al.|[2611.18786](https://arxiv.org/abs/2611.18786)|null|
@@ -944,6 +946,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**A generic construction of complex codebooks from functions over Abelian groups**|Ziling Heng et.al.|[2611.25729](https://arxiv.org/abs/2611.25729)|null|
+|**2026-11-19**|**Real-Time Single-Pixel Imaging via Exploiting Temporal Mixing: A Unified Calibration and Composite Readout Framework**|Jing-Sen Li et.al.|[2611.25700](https://arxiv.org/abs/2611.25700)|null|
 |**2026-11-18**|**Diffusion Models are Provably Efficient Priors for Sparse Recovery**|Ivan Lee et.al.|[2611.24602](https://arxiv.org/abs/2611.24602)|null|
 |**2026-11-17**|**Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor**|Davide Castaldo et.al.|[2611.22834](https://arxiv.org/abs/2611.22834)|null|
 |**2026-11-17**|**Inapproximability of L1->L2 Subspace Distortion**|Vijay Bhattiprolu et.al.|[2611.22531](https://arxiv.org/abs/2611.22531)|null|
@@ -1435,7 +1439,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-18**|**Design and Modeling of Graded Base III-Nitride HBTs for High-Frequency Applications**|Md Saklain Morshed et.al.|[2611.24790](https://arxiv.org/abs/2611.24790)|null|
+|**2026-11-19**|**Thermodynamically Consistent Neural Networks for a Universal Fluid Gibbs Free Energy Equation of State**|Xurui Li et.al.|[2611.26183](https://arxiv.org/abs/2611.26183)|null|
+|**2026-11-19**|**SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents**|Yuxiang Wang et.al.|[2611.26069](https://arxiv.org/abs/2611.26069)|null|
+|**2026-11-19**|**Critical nonlocal GJMS operator on odd dimensional spheres and mean field equation**|Xuezhang Chen et.al.|[2611.26002](https://arxiv.org/abs/2611.26002)|null|
+|**2026-11-19**|**TableRoute: Capability-Aware Routing for Scalable Table Question Answering**|Yuxiang Wang et.al.|[2611.25853](https://arxiv.org/abs/2611.25853)|null|
+|**2026-11-19**|**PSM-WSM: Predictively Sufficient Multimodal World Social Modeling**|Chunlei Meng et.al.|[2611.25835](https://arxiv.org/abs/2611.25835)|null|
+|**2026-11-19**|**Scattering by Small Ice Crystals in Turbulence: From Orientation Statistics to Retrieval Biases**|Himanshu Mishra et.al.|[2611.25750](https://arxiv.org/abs/2611.25750)|null|
+|**2026-11-18**|**Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research**|Yiqing Pan et.al.|[2611.25219](https://arxiv.org/abs/2611.25219)|null|
+|**2026-11-19**|**Design and Modeling of Graded Base III-Nitride HBTs for High-Frequency Applications**|Md Saklain Morshed et.al.|[2611.24790](https://arxiv.org/abs/2611.24790)|null|
 |**2026-11-18**|**From real to synthetic: PSG-GAN learns sleep apnea signal dynamics for AI training**|Riku Huttunen et.al.|[2611.24436](https://arxiv.org/abs/2611.24436)|null|
 |**2026-11-18**|**Fast Bayesian Methods for Uncertainty Quantification in Sparse AI Evaluation**|Dario Deniz Ergun et.al.|[2611.24159](https://arxiv.org/abs/2611.24159)|null|
 |**2026-11-18**|**PIVOT: Distribution-Preserving Multi-BitWatermarking with Minimax-Optimal Scoring**|Wen Zhang et.al.|[2611.24109](https://arxiv.org/abs/2611.24109)|null|
