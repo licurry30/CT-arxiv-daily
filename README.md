@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate**|Layatmika Sahoo et.al.|[2611.27583](https://arxiv.org/abs/2611.27583)|null|
+|**2026-11-19**|**SonoAtlasWorld: Anatomy-Grounded Ultrasound World Models for Wide-Range Scanning**|Zheyuan Zhang et.al.|[2611.26867](https://arxiv.org/abs/2611.26867)|null|
+|**2026-11-19**|**ConRef: Auditing Reference Reliability in 2D/3D Registration Benchmarks**|Jianfeng Yue et.al.|[2611.26758](https://arxiv.org/abs/2611.26758)|null|
 |**2026-11-19**|**Fast Self-Supervised Generative CT Denoising via Few-Step Sampling**|Xingyi Yao et.al.|[2611.26370](https://arxiv.org/abs/2611.26370)|null|
 |**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](https://arxiv.org/abs/2611.25548)|null|
 |**2026-11-18**|**4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers**|Ramani Duraiswami et.al.|[2611.24776](https://arxiv.org/abs/2611.24776)|null|
@@ -1449,6 +1452,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Beyond Sample Hardness: Adaptive Data Selection through Learning Dynamics**|Hai Gan et.al.|[2611.27656](https://arxiv.org/abs/2611.27656)|null|
+|**2026-11-20**|**The First Adolescent Super-Earth-Sized Multi-Planet System Around an M Dwarf: TOI-2079**|A. Peláez-Torres et.al.|[2611.27522](https://arxiv.org/abs/2611.27522)|null|
+|**2026-11-20**|**Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training**|Zhen Zhang et.al.|[2611.27376](https://arxiv.org/abs/2611.27376)|null|
+|**2026-11-20**|**GAAFormer: Geometry-Anchored Attention Transformer for Joint Point Cloud Denoising and Upsampling**|Haoxi Tian et.al.|[2611.27281](https://arxiv.org/abs/2611.27281)|null|
+|**2026-11-20**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Sunli Chen et.al.|[2611.27182](https://arxiv.org/abs/2611.27182)|null|
+|**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](https://arxiv.org/abs/2611.27181)|null|
+|**2026-11-20**|**Learning 3D MRI Representations with Generative Adversarial Networks**|Sujeet Lahane et.al.|[2611.27057](https://arxiv.org/abs/2611.27057)|null|
 |**2026-11-19**|**Thermodynamically Consistent Neural Networks for a Universal Fluid Gibbs Free Energy Equation of State**|Xurui Li et.al.|[2611.26183](https://arxiv.org/abs/2611.26183)|null|
 |**2026-11-19**|**SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents**|Yuxiang Wang et.al.|[2611.26069](https://arxiv.org/abs/2611.26069)|null|
 |**2026-11-19**|**Critical nonlocal GJMS operator on odd dimensional spheres and mean field equation**|Xuezhang Chen et.al.|[2611.26002](https://arxiv.org/abs/2611.26002)|null|
