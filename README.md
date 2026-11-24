@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Leakage-Safe Auditing of Attribution-Driven Data Curation in Medical Imaging**|Malay Phadke et.al.|[2611.31096](https://arxiv.org/abs/2611.31096)|null|
+|**2026-11-23**|**Comparison of 3D-DXA Measurements with QCT Software Solutions for Proximal Femur Bone Density Assessment**|Asier Muñoz et.al.|[2611.30743](https://arxiv.org/abs/2611.30743)|null|
+|**2026-11-23**|**ReplaySAM: Zero-Shot 3D Particle-Pack Segmentation with SAM 2**|Bogong Wang et.al.|[2611.30016](https://arxiv.org/abs/2611.30016)|null|
+|**2026-11-22**|**CT-Navigator: Towards Interpretable and Generalizable CT Understanding through Agentic Perception and Tool-Invocation**|Yibing Fu et.al.|[2611.29305](https://arxiv.org/abs/2611.29305)|null|
+|**2026-11-20**|**MRI-Driven Dual-Energy CT Synthesis via Conditional Denoising Diffusion Probabilistic Models for MRI-only Radiotherapy and Protontherapy**|Juan Manuel Molina-Maza Chih-Wei Chang et.al.|[2611.28294](https://arxiv.org/abs/2611.28294)|null|
+|**2026-11-19**|**Dynamics-Guided Conditional MeanFlow from Regional Interaction to Internal Revision and Its Application to CT Imaging**|Md Shifatul Ahsan Apurba et.al.|[2611.28139](https://arxiv.org/abs/2611.28139)|null|
 |**2026-11-20**|**Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate**|Layatmika Sahoo et.al.|[2611.27583](https://arxiv.org/abs/2611.27583)|null|
 |**2026-11-19**|**SonoAtlasWorld: Anatomy-Grounded Ultrasound World Models for Wide-Range Scanning**|Zheyuan Zhang et.al.|[2611.26867](https://arxiv.org/abs/2611.26867)|null|
 |**2026-11-19**|**ConRef: Auditing Reference Reliability in 2D/3D Registration Benchmarks**|Jianfeng Yue et.al.|[2611.26758](https://arxiv.org/abs/2611.26758)|null|
@@ -951,15 +957,16 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-22**|**Shadow economy as a null set. Measure-theoretic approach to shadow economy**|Radosław A. Kycia et.al.|[2611.29797](https://arxiv.org/abs/2611.29797)|null|
 |**2026-11-19**|**A generic construction of complex codebooks from functions over Abelian groups**|Ziling Heng et.al.|[2611.25729](https://arxiv.org/abs/2611.25729)|null|
 |**2026-11-19**|**Real-Time Single-Pixel Imaging via Exploiting Temporal Mixing: A Unified Calibration and Composite Readout Framework**|Jing-Sen Li et.al.|[2611.25700](https://arxiv.org/abs/2611.25700)|null|
-|**2026-11-18**|**Diffusion Models are Provably Efficient Priors for Sparse Recovery**|Ivan Lee et.al.|[2611.24602](https://arxiv.org/abs/2611.24602)|null|
+|**2026-11-23**|**Diffusion Models are Provably Efficient Priors for Sparse Recovery**|Ivan Lee et.al.|[2611.24602](https://arxiv.org/abs/2611.24602)|null|
 |**2026-11-17**|**Molecular energies from sparse quantum prolate diagonalization on a trapped-ion quantum processor**|Davide Castaldo et.al.|[2611.22834](https://arxiv.org/abs/2611.22834)|null|
 |**2026-11-17**|**Inapproximability of L1->L2 Subspace Distortion**|Vijay Bhattiprolu et.al.|[2611.22531](https://arxiv.org/abs/2611.22531)|null|
 |**2026-11-16**|**A High-Resolution TOA Estimation Algorithm Based on Compressed Sensing for Coherent Multi-Band Signals**|Jialun Kou et.al.|[2611.21089](https://arxiv.org/abs/2611.21089)|null|
@@ -1446,17 +1453,30 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences**|Son T. Huynh et.al.|[2611.31132](https://arxiv.org/abs/2611.31132)|null|
+|**2026-11-23**|**Dawn of the Gaia Era: Revisiting Cold Jupiters Orbiting M Dwarfs with Astrometry+Doppler Data Joint Analysis**|Yifan Xuan et.al.|[2611.31057](https://arxiv.org/abs/2611.31057)|null|
+|**2026-11-23**|**AirVT-15k: A Query-Diverse UAV Video-Text Dataset and Query-Adaptive Evidence Alignment Network for Retrieval**|Xi Chen et.al.|[2611.30339](https://arxiv.org/abs/2611.30339)|null|
+|**2026-11-23**|**Resource-Aware VLA-MPC Co-Location for Efficient Embodied AI**|Zeyu Guo et.al.|[2611.30177](https://arxiv.org/abs/2611.30177)|null|
+|**2026-11-22**|**Neutron Imaging Enhancement for Lithium Batteries Based on Swin-Transformer and Image Fusion**|Hansheng Ding et.al.|[2611.29479](https://arxiv.org/abs/2611.29479)|null|
+|**2026-11-22**|**Optimal Bandits with Switching Costs:  $(T/\log(T))^{2/3}$  Regret**|Chenyu Gan et.al.|[2611.29438](https://arxiv.org/abs/2611.29438)|null|
+|**2026-11-21**|**Optical Motion Sensing for Piezoelectric-Resonator-Based Power Converters**|Liyang Jin et.al.|[2611.29035](https://arxiv.org/abs/2611.29035)|null|
+|**2026-11-21**|**Global Stability and Loss Convergence in Matrix Factorization**|Eric Gan et.al.|[2611.28975](https://arxiv.org/abs/2611.28975)|null|
+|**2026-11-21**|**Fast World Planner: Advantage-Aware Action-Chunk Policy for Online Planning**|Jiangtao Kong et.al.|[2611.28616](https://arxiv.org/abs/2611.28616)|null|
+|**2026-11-21**|**Centerline-Guided Multi-Class Road Surface Segmentation**|Xu Ouyang et.al.|[2611.28544](https://arxiv.org/abs/2611.28544)|null|
+|**2026-11-21**|**Radial stability of nonlinearly scalarized black holes in Einstein-phantom scalar-Gauss-Bonnet theory**|De-Cheng Zou et.al.|[2611.28523](https://arxiv.org/abs/2611.28523)|null|
+|**2026-11-20**|**A scalar arterial input function does not uniquely determine the perfusion residue: Theory and phantom MRI**|Yuyang Gan et.al.|[2611.28378](https://arxiv.org/abs/2611.28378)|null|
+|**2026-11-20**|**MRI-Driven Dual-Energy CT Synthesis via Conditional Denoising Diffusion Probabilistic Models for MRI-only Radiotherapy and Protontherapy**|Juan Manuel Molina-Maza Chih-Wei Chang et.al.|[2611.28294](https://arxiv.org/abs/2611.28294)|null|
 |**2026-11-20**|**Beyond Sample Hardness: Adaptive Data Selection through Learning Dynamics**|Hai Gan et.al.|[2611.27656](https://arxiv.org/abs/2611.27656)|null|
 |**2026-11-20**|**The First Adolescent Super-Earth-Sized Multi-Planet System Around an M Dwarf: TOI-2079**|A. Peláez-Torres et.al.|[2611.27522](https://arxiv.org/abs/2611.27522)|null|
 |**2026-11-20**|**Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training**|Zhen Zhang et.al.|[2611.27376](https://arxiv.org/abs/2611.27376)|null|
 |**2026-11-20**|**GAAFormer: Geometry-Anchored Attention Transformer for Joint Point Cloud Denoising and Upsampling**|Haoxi Tian et.al.|[2611.27281](https://arxiv.org/abs/2611.27281)|null|
-|**2026-11-20**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Sunli Chen et.al.|[2611.27182](https://arxiv.org/abs/2611.27182)|null|
+|**2026-11-23**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Sunli Chen et.al.|[2611.27182](https://arxiv.org/abs/2611.27182)|null|
 |**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](https://arxiv.org/abs/2611.27181)|null|
 |**2026-11-20**|**Learning 3D MRI Representations with Generative Adversarial Networks**|Sujeet Lahane et.al.|[2611.27057](https://arxiv.org/abs/2611.27057)|null|
 |**2026-11-19**|**Thermodynamically Consistent Neural Networks for a Universal Fluid Gibbs Free Energy Equation of State**|Xurui Li et.al.|[2611.26183](https://arxiv.org/abs/2611.26183)|null|
@@ -3643,7 +3663,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3691,5 +3711,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
