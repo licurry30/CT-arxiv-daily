@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 ## LDCT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**One, No One and One Hundred Thousand CTs: Testing Anatomical Control in Text-to-CT Generation**|Francesca Pia Panaccione et.al.|[2611.33003](https://arxiv.org/abs/2611.33003)|null|
+|**2026-11-24**|**Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration**|Juntao Jiang et.al.|[2611.32993](https://arxiv.org/abs/2611.32993)|null|
+|**2026-11-24**|**IMPACT-Seg: Consistent Anatomical Segmentation and Representation Learning Across CT, CBCT, and MRI**|Cédric Hémon et.al.|[2611.32903](https://arxiv.org/abs/2611.32903)|null|
+|**2026-11-24**|**Reliable and grounded reporting of any computed tomography scan with FORA**|Sezgin Er et.al.|[2611.32823](https://arxiv.org/abs/2611.32823)|null|
+|**2026-11-24**|**An Automated Framework Integrating Deep Learning and Anatomical Reasoning for Cardiac Phenotyping From CCTA**|Hien Minh Tran et.al.|[2611.32114](https://arxiv.org/abs/2611.32114)|null|
+|**2026-11-24**|**JECT: Addressing the Context Shortcut in Joint-Embedding Predictive Learning for Chest CT**|Hanbin Ko et.al.|[2611.31849](https://arxiv.org/abs/2611.31849)|null|
 |**2026-11-23**|**Leakage-Safe Auditing of Attribution-Driven Data Curation in Medical Imaging**|Malay Phadke et.al.|[2611.31096](https://arxiv.org/abs/2611.31096)|null|
 |**2026-11-23**|**Comparison of 3D-DXA Measurements with QCT Software Solutions for Proximal Femur Bone Density Assessment**|Asier Muñoz et.al.|[2611.30743](https://arxiv.org/abs/2611.30743)|null|
 |**2026-11-23**|**ReplaySAM: Zero-Shot 3D Particle-Pack Segmentation with SAM 2**|Bogong Wang et.al.|[2611.30016](https://arxiv.org/abs/2611.30016)|null|
@@ -955,6 +961,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**DiCT: Teaching X-ray Vision-Language Models to Reason via Imagining CT**|Zhenghao Lu et.al.|[2611.32344](https://arxiv.org/abs/2611.32344)|null|
 |**2026-11-22**|**Shadow economy as a null set. Measure-theoretic approach to shadow economy**|Radosław A. Kycia et.al.|[2611.29797](https://arxiv.org/abs/2611.29797)|null|
 |**2026-11-19**|**A generic construction of complex codebooks from functions over Abelian groups**|Ziling Heng et.al.|[2611.25729](https://arxiv.org/abs/2611.25729)|null|
 |**2026-11-19**|**Real-Time Single-Pixel Imaging via Exploiting Temporal Mixing: A Unified Calibration and Composite Readout Framework**|Jing-Sen Li et.al.|[2611.25700](https://arxiv.org/abs/2611.25700)|null|
@@ -1449,6 +1456,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Advanced Synthetic Image Detection Using Hybrid Feature Extraction**|Ameya Uppina et.al.|[2611.32538](https://arxiv.org/abs/2611.32538)|null|
+|**2026-11-24**|**QuOptLab: Advancing Quantum Optics Experiments with an AI Agent**|Yuqing Li et.al.|[2611.32000](https://arxiv.org/abs/2611.32000)|null|
+|**2026-11-23**|**N-Polar AlGaN/GaN Heterojunction Bipolar Transistor**|Md Saklain Morshed et.al.|[2611.31646](https://arxiv.org/abs/2611.31646)|null|
 |**2026-11-23**|**Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences**|Son T. Huynh et.al.|[2611.31132](https://arxiv.org/abs/2611.31132)|null|
 |**2026-11-23**|**Dawn of the Gaia Era: Revisiting Cold Jupiters Orbiting M Dwarfs with Astrometry+Doppler Data Joint Analysis**|Yifan Xuan et.al.|[2611.31057](https://arxiv.org/abs/2611.31057)|null|
 |**2026-11-23**|**AirVT-15k: A Query-Diverse UAV Video-Text Dataset and Query-Adaptive Evidence Alignment Network for Retrieval**|Xi Chen et.al.|[2611.30339](https://arxiv.org/abs/2611.30339)|null|
@@ -1464,7 +1474,7 @@ layout: default
 |**2026-11-20**|**MRI-Driven Dual-Energy CT Synthesis via Conditional Denoising Diffusion Probabilistic Models for MRI-only Radiotherapy and Protontherapy**|Juan Manuel Molina-Maza Chih-Wei Chang et.al.|[2611.28294](https://arxiv.org/abs/2611.28294)|null|
 |**2026-11-20**|**Beyond Sample Hardness: Adaptive Data Selection through Learning Dynamics**|Hai Gan et.al.|[2611.27656](https://arxiv.org/abs/2611.27656)|null|
 |**2026-11-20**|**The First Adolescent Super-Earth-Sized Multi-Planet System Around an M Dwarf: TOI-2079**|A. Peláez-Torres et.al.|[2611.27522](https://arxiv.org/abs/2611.27522)|null|
-|**2026-11-20**|**Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training**|Zhen Zhang et.al.|[2611.27376](https://arxiv.org/abs/2611.27376)|null|
+|**2026-11-24**|**Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training**|Zhen Zhang et.al.|[2611.27376](https://arxiv.org/abs/2611.27376)|null|
 |**2026-11-20**|**GAAFormer: Geometry-Anchored Attention Transformer for Joint Point Cloud Denoising and Upsampling**|Haoxi Tian et.al.|[2611.27281](https://arxiv.org/abs/2611.27281)|null|
 |**2026-11-23**|**Tripwire: Robot Agents that Program Their Own Interrupts under Human Disturbance**|Sunli Chen et.al.|[2611.27182](https://arxiv.org/abs/2611.27182)|null|
 |**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](https://arxiv.org/abs/2611.27181)|null|
