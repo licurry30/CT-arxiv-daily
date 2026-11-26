@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > This page is forked from [here](https://github.com/liutaocode/TTS-arxiv-daily)
 
 <details>
@@ -15,8 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling**|Yitian Tang et.al.|[2611.34508](https://arxiv.org/abs/2611.34508)|null|
+|**2026-11-24**|**BreathSplat: Grounding One Smooth Motion in the Breathing Phase for 4D Cone-Beam CT**|Sujong Shin et.al.|[2611.33392](https://arxiv.org/abs/2611.33392)|null|
 |**2026-11-24**|**One, No One and One Hundred Thousand CTs: Testing Anatomical Control in Text-to-CT Generation**|Francesca Pia Panaccione et.al.|[2611.33003](https://arxiv.org/abs/2611.33003)|null|
-|**2026-11-24**|**Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration**|Juntao Jiang et.al.|[2611.32993](https://arxiv.org/abs/2611.32993)|null|
+|**2026-11-25**|**Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration**|Juntao Jiang et.al.|[2611.32993](https://arxiv.org/abs/2611.32993)|null|
 |**2026-11-24**|**IMPACT-Seg: Consistent Anatomical Segmentation and Representation Learning Across CT, CBCT, and MRI**|Cédric Hémon et.al.|[2611.32903](https://arxiv.org/abs/2611.32903)|null|
 |**2026-11-24**|**Reliable and grounded reporting of any computed tomography scan with FORA**|Sezgin Er et.al.|[2611.32823](https://arxiv.org/abs/2611.32823)|null|
 |**2026-11-24**|**An Automated Framework Integrating Deep Learning and Anatomical Reasoning for Cardiac Phenotyping From CCTA**|Hien Minh Tran et.al.|[2611.32114](https://arxiv.org/abs/2611.32114)|null|
@@ -963,12 +965,15 @@
 |**2017-02-23**|**Characterization of the previous normal-dose CT scan induced nonlocal means regularization method for low-dose CT image reconstruction**|Hao Zhang et.al.|[1702.06668](https://arxiv.org/abs/1702.06668)|null|
 |**2018-02-07**|**A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction**|Eunhee Kang et.al.|[1610.09736](https://arxiv.org/abs/1610.09736)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## SVCT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Angular Interpolation in Sparse-View Low-Dose CT Reconstruction: Placement Effects and Data-Consistency Step-Size Scaling**|Yitian Tang et.al.|[2611.34508](https://arxiv.org/abs/2611.34508)|null|
+|**2026-11-25**|**BGPNP: A Non-Euclidean Gradient Projection Newton Pursuit Method for Sparsity-Constrained Optimization**|Jiawei Chen et.al.|[2611.33802](https://arxiv.org/abs/2611.33802)|null|
+|**2026-11-24**|**Do Not Let the Prior Heal the Anomaly: Selective Anchoring for Detection from Incomplete Measurements**|Nicolas Tricard et.al.|[2611.33331](https://arxiv.org/abs/2611.33331)|null|
 |**2026-11-24**|**DiCT: Teaching X-ray Vision-Language Models to Reason via Imagining CT**|Zhenghao Lu et.al.|[2611.32344](https://arxiv.org/abs/2611.32344)|null|
 |**2026-11-22**|**Shadow economy as a null set. Measure-theoretic approach to shadow economy**|Radosław A. Kycia et.al.|[2611.29797](https://arxiv.org/abs/2611.29797)|null|
 |**2026-11-19**|**A generic construction of complex codebooks from functions over Abelian groups**|Ziling Heng et.al.|[2611.25729](https://arxiv.org/abs/2611.25729)|null|
@@ -1460,12 +1465,20 @@
 |**2019-09-17**|**Sparse-View X-Ray CT Reconstruction Using  $\ell_1$  Prior with Learned Transform**|Xuehang Zheng et.al.|[1711.00905](https://arxiv.org/abs/1711.00905)|null|
 |**2018-03-29**|**Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT**|Yoseob Han et.al.|[1708.08333](https://arxiv.org/abs/1708.08333)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## GAN in CT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Physics-Guided Generative Modelling of Oxy-Combustion Flame Images: From Conditional LSGANs to Denoising Diffusion Models**|Imane Er-rabhi et.al.|[2611.34568](https://arxiv.org/abs/2611.34568)|null|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Liufan Tan et.al.|[2611.34560](https://arxiv.org/abs/2611.34560)|null|
+|**2026-11-25**|**Hierarchical Semantic Learning for Multimodal Sentiment Analysis with Missing Modalities**|Chunlei Meng et.al.|[2611.34184](https://arxiv.org/abs/2611.34184)|null|
+|**2026-11-25**|**Proceedings of "Accelerating ALICE background simulations: A WGAN Approach to slow-neutron induced TPC loopers" CHEP 2026, 26/05/2026**|Marco Giacalone et.al.|[2611.34102](https://arxiv.org/abs/2611.34102)|null|
+|**2026-11-25**|**Cascading LO-phonon-mediated resonant energy transfer from excitons to Eu3+ for ultrahigh color purity red luminescence in europium-doped GaN**|Shizhao Fan et.al.|[2611.33891](https://arxiv.org/abs/2611.33891)|null|
+|**2026-11-25**|**Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN/GaN Heterostructures**|Yuhao Yin et.al.|[2611.33868](https://arxiv.org/abs/2611.33868)|null|
+|**2026-11-25**|**Tells of a Lying Machine: Analyzing LLM-Generated Strategic Dialogue in Chinese Werewolf**|Xian Cui et.al.|[2611.33747](https://arxiv.org/abs/2611.33747)|null|
+|**2026-11-25**|**Crystal-Symmetry-Dependent Field-Free Superconducting Diode Effect in CoPt/Nb Heterostructures**|He Yu et.al.|[2611.33717](https://arxiv.org/abs/2611.33717)|null|
 |**2026-11-24**|**Advanced Synthetic Image Detection Using Hybrid Feature Extraction**|Ameya Uppina et.al.|[2611.32538](https://arxiv.org/abs/2611.32538)|null|
 |**2026-11-24**|**QuOptLab: Advancing Quantum Optics Experiments with an AI Agent**|Yuqing Li et.al.|[2611.32000](https://arxiv.org/abs/2611.32000)|null|
 |**2026-11-23**|**N-Polar AlGaN/GaN Heterojunction Bipolar Transistor**|Md Saklain Morshed et.al.|[2611.31646](https://arxiv.org/abs/2611.31646)|null|
@@ -3673,7 +3686,7 @@
 |**2017-03-27**|**Recurrent Topic-Transition GAN for Visual Paragraph Generation**|Xiaodan Liang et.al.|[1703.07022](https://arxiv.org/abs/1703.07022)|null|
 |**2017-05-09**|**Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently**|Muthuraman Chidambaram et.al.|[1702.06762](https://arxiv.org/abs/1702.06762)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Diffusion in CT
 
@@ -3721,5 +3734,5 @@
 |**2024-01-30**|**Parallel Diffusion Model-based Sparse-view Cone-beam Breast CT**|Wenjun Xia et.al.|[2303.12861](https://arxiv.org/abs/2303.12861)|null|
 |**2022-11-21**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388](https://arxiv.org/abs/2211.10388)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
